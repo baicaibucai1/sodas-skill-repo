@@ -1,4 +1,4 @@
-# 苏打的 skill 仓库
+# Soda's skill repo
 
 My personal agent skill library. Nothing here is Qoder-specific.
 Each skill lives in its own directory as a `SKILL.md` plus optional `scripts/`, which is
