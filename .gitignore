@@ -1,0 +1,10 @@
+node_modules/
+.fbd/
+
+# rendered output is a build artifact; regenerate with render.cjs
+*.png
+*.svg
+
+.DS_Store
+Thumbs.db
+*.log

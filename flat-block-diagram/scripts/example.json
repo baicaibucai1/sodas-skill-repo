@@ -1,0 +1,105 @@
+{
+  "title": "xiuper-arch",
+  "allowOverlap": true,
+  "width": 894,
+  "height": 357,
+  "style": { "gap": 12, "pad": 8, "size": 15 },
+  "root": {
+    "kind": "stack", "gap": 10, "pad": 0,
+    "children": [
+      {
+        "kind": "row", "gap": 12, "pad": 0, "h": 185, "stretch": false,
+        "children": [
+          {
+            "kind": "stack", "gap": 16, "pad": 0, "w": 143,
+            "children": [
+              { "label": "IDE Plugin\n(OLD, 231~252)", "tone": "amber", "size": 18, "h": 74 },
+              { "label": "Swing", "tone": "amber", "size": 18, "h": 41 },
+              { "label": "Core\n(Legacy)", "tone": "amber", "size": 18, "h": 48 }
+            ]
+          },
+          {
+            "kind": "stack", "gap": 9, "pad": 0, "grow": 1,
+            "children": [
+              {
+                "kind": "zone", "title": "MPP-UI", "titleSize": 22, "dir": "row",
+                "gap": 14, "pad": 6, "h": 86,
+                "children": [
+                  { "label": "IDE Plugin\n(2025.2~)", "tone": "green", "size": 15, "grow": 1 },
+                  { "label": "Desktop", "tone": "green", "size": 18, "grow": 1 },
+                  { "label": "Android", "tone": "green", "size": 18, "grow": 1 },
+                  { "label": "iOS", "tone": "green", "size": 18, "grow": 1 },
+                  { "label": "Web", "tone": "green", "size": 18, "grow": 1 },
+                  { "label": "CLI/TUI", "tone": "green", "size": 18, "grow": 1 }
+                ]
+              },
+              {
+                "kind": "row", "gap": 12, "pad": 0, "h": 56, "stretch": false,
+                "children": [
+                  { "label": "Compose UI", "tone": "dark", "size": 26, "bold": true, "grow": 1, "h": 56 },
+                  { "id": "react", "label": "React + Ink", "sub": "(Inspired by Gemini CLI)", "tone": "dark", "size": 16, "w": 266, "h": 41 }
+                ]
+              },
+              { "id": "band", "color": "#003D4F", "h": 45, "shift": [0, -12] }
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "row", "gap": 12, "pad": 0, "grow": 1,
+        "children": [
+          {
+            "kind": "zone", "title": "MPP-CORE (Kotlin Multiplatform)", "titleSize": 22, "titleH": 34,
+            "dir": "row", "gap": 12, "pad": 6, "grow": 5,
+            "children": [
+              {
+                "kind": "grid", "cols": 2, "gap": 6, "w": 220,
+                "children": [
+                  { "label": "DevIns Lang", "tone": "teal", "size": 14, "h": 27 },
+                  { "label": "SketchRenderer", "tone": "teal", "size": 13, "h": 27 },
+                  { "label": "LLM Services", "tone": "teal", "size": 14, "h": 27 },
+                  { "label": "Context Engine", "tone": "teal", "size": 14, "h": 27 }
+                ]
+              },
+              {
+                "kind": "zone", "title": "Tool Call", "tone": "dark", "opacity": 0.78,
+                "titleSize": 16, "titleH": 30, "dir": "row", "gap": 8, "pad": 10, "grow": 1,
+                "children": [
+                  { "label": "Tools", "tone": "white", "size": 13, "padX": 6, "grow": 1, "h": 25 },
+                  { "label": "SubAgents", "tone": "white", "size": 13, "padX": 6, "grow": 1, "h": 25 }
+                ]
+              },
+              {
+                "kind": "zone", "title": "Agents", "tone": "lavender", "opacity": 0.8,
+                "titleSize": 16, "titleH": 30, "dir": "stack", "gap": 8, "pad": 10, "grow": 1,
+                "shift": [-38, 0],
+                "children": [
+                  { "label": "A2A", "tone": "slate", "size": 14, "h": 25 }
+                ]
+              }
+            ]
+          },
+          {
+            "kind": "zone", "title": "Modules", "titleSize": 22, "titleH": 34, "dir": "row",
+            "gap": 12, "pad": 6, "w": 326,
+            "children": [
+              { "label": "mpp-codegraph", "sub": "TreeSitter", "subFg": "#000000", "subBold": true, "tone": "teal", "size": 25, "grow": 1 },
+              {
+                "kind": "stack", "gap": 6, "pad": 0, "w": 127,
+                "children": [
+                  { "label": "Xiuper UI", "sub": "(Nano DSL)", "subSize": 8, "tone": "teal", "size": 15, "grow": 1 },
+                  { "label": "Xiuper VFS", "tone": "teal", "size": 17, "grow": 1 },
+                  { "label": "WebView", "tone": "teal", "size": 17, "grow": 1 }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "floats": [
+    { "kind": "box", "shape": "tab", "label": "MCP", "tone": "purple", "size": 18, "bold": true, "w": 82, "h": 30, "anchor": "band", "side": "left", "dy": 22, "overlap": 1 },
+    { "kind": "box", "shape": "tab", "label": "@JSExports", "tone": "purple", "size": 13, "bold": true, "w": 89, "h": 25, "anchor": "react", "side": "bottom", "dx": 50, "overlap": 0 }
+  ]
+}
