@@ -1,21 +1,30 @@
 # qoder-skills
 
-Agent skills I maintain for real work. Each skill lives in its own directory and is
-drop-in installable; every skill's `SKILL.md` is written to be self-contained enough
-to carry alone.
+My personal agent skill library. The name is historical — nothing here is Qoder-specific.
+Each skill lives in its own directory as a `SKILL.md` plus optional `scripts/`, which is
+the layout any agent that reads the `SKILL.md` convention expects, and every `SKILL.md`
+is written to be self-contained enough to carry alone.
 
 ## Install
 
-Copy a skill directory into one of:
+Copy a skill directory into whichever path your agent reads:
 
-| location | scope |
-|---|---|
-| `~/.qoder/skills/<skill>/` | all projects for this user |
-| `<project>/.qoder/skills/<skill>/` | that project only |
+| agent | user-wide | per-project |
+|---|---|---|
+| Qoder | `~/.qoder/skills/<skill>/` | `<project>/.qoder/skills/<skill>/` |
+| Claude Code | `~/.claude/skills/<skill>/` | `<project>/.claude/skills/<skill>/` |
+| anything else | wherever it looks for a `SKILL.md` | — |
 
-Then restart the session or run `/skills reload`, and invoke it with `/<skill-name>`.
+Restart the session (in Qoder, `/skills reload` also works) and invoke the skill by name.
+
+The directory is the whole install: `SKILL.md` is the instruction, `scripts/` are the
+tools it tells the agent to run. No package manager, no build step.
 
 ## Skills
+
+| skill | what it does | version |
+|---|---|---|
+| [flat-block-diagram](flat-block-diagram/SKILL.md) | layered software-architecture diagrams as editable SVG from a JSON spec | 1.0 |
 
 ### [flat-block-diagram](flat-block-diagram/SKILL.md)
 
