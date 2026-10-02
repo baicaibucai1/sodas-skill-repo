@@ -1,6 +1,6 @@
-# qoder-skills
+# 苏打的 skill 仓库
 
-My personal agent skill library. The name is historical — nothing here is Qoder-specific.
+My personal agent skill library. Nothing here is Qoder-specific.
 Each skill lives in its own directory as a `SKILL.md` plus optional `scripts/`, which is
 the layout any agent that reads the `SKILL.md` convention expects, and every `SKILL.md`
 is written to be self-contained enough to carry alone.
