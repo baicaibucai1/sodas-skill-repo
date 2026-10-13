@@ -25,6 +25,7 @@ tools it tells the agent to run. No package manager, no build step.
 | skill | what it does | version |
 |---|---|---|
 | [flat-block-diagram](flat-block-diagram/SKILL.md) | layered software-architecture diagrams as editable SVG from a JSON spec | 1.0 |
+| [threejs-pixel-3d](threejs-pixel-3d/SKILL.md) | pixel-art-style 3D with three.js: low-res render target + NearestFilter upscale, verified by block uniformity | 1.0 |
 
 ### [flat-block-diagram](flat-block-diagram/SKILL.md)
 
@@ -73,8 +74,46 @@ genuinely overlaps — hence the waiver. It is the only sanctioned use of
 `allowOverlap`. Raster preview needs an optional dep: `npm i @resvg/resvg-js`, then
 add `--png out.png`.
 
+### [threejs-pixel-3d](threejs-pixel-3d/SKILL.md)
+
+Pixel-art-style 3D with three.js: draw the scene into a low-resolution
+`WebGLRenderTarget`, then upscale to the screen with `NearestFilter` — every target
+texel becomes one solid screen block. Two render passes, no shaders, no plugins.
+
+The part worth stealing is the verification: **block uniformity**. Group the
+full-screen framebuffer into aligned blocks and count the solid ones — a correctly
+nearest-upscaled frame is ~100% solid blocks (measured: 68800/68800), while the same
+scene rendered full-resolution breaks ~16% of them (84.2% solid). Scanline color-run
+counts do *not* work as the control group: a flat-shaded low-poly scene has huge
+solid areas at full resolution too, so runs stay low and the control lies. That
+mistake was made once so the skill can warn about it.
+
+```
+threejs-pixel-3d/
+├── SKILL.md                 # recipe, settings table, verification method, version strategy
+└── scripts/
+    ├── pixel-template.html  # pipeline + diorama scene + scale keys (1/2/3, 0 = off)
+    └── verify-pixel.mjs     # block-uniformity A/B regression (playwright)
+```
+
+Setup and verify an install:
+
+```bash
+curl -O https://unpkg.com/three@0.159.0/build/three.min.js   # into scripts/, beside the template
+node scripts/verify-pixel.mjs scripts/pixel-template.html
+# 通过 14 项，失败 0 项   (uniformity 100% vs 84.2% control)
+```
+
+`three.min.js` is deliberately not vendored — one curl away, MIT. The template's
+`assetBase()` string trick loads it under `file://`, `http(s)://` **and** Tauri's
+`asset://` (where every slash in the path is percent-encoded, so relative references
+silently resolve to the site root). Version strategy: <= r159 UMD works everywhere;
+r160-r166 ESM single-file works everywhere except `file://`; >= r167 splits into two
+files with a relative import that breaks under `asset://`.
+
 ## Status
 
 | skill | version | working |
 |---|---|---|
 | flat-block-diagram | 1.0 | yes — used on real repos, 3 latent layout bugs found and fixed in the process |
+| threejs-pixel-3d | 1.0 | yes — verified on this machine, 14/14 assertions, block-uniformity A/B |

@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>像素风 3D · three.js 模板</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%232b2d42'/%3E%3Cpath d='M16 5l9 6-9 6-9-6z' fill='%23ffd166'/%3E%3Cpath d='M7 12l9 6 9-6v3l-9 6-9-6z' fill='%23ef8354'/%3E%3C/svg%3E" />
+
+<!--
+  像素风 3D 模板（three.js）—— 用法见同仓库 SKILL.md
+
+  管线：场景 → 低分辨率 WebGLRenderTarget → NearestFilter 全屏四边形放大。
+  把 three@0.159.0 的 build/three.min.js 放在本文件同目录即可运行
+  （file:// 双击、静态服务器、Tauri asset:// 三种打开方式都通）。
+
+  定制点（都标了 TODO）：
+    · PALETTE / geos / props   —— 换成你的场景或游戏对象
+    · camera                   —— 视角
+    · applyScale 的默认值      —— 默认块大小
+  嵌进宿主（如工作台工具）时：补 bindState 四态桥 + data-host-only，
+  localStorage key 带工具 id —— SKILL.md §4 有说明。
+-->
+
+<style>
+  :root {
+    color-scheme: light;
+    --fg: #2c2a26;
+    --dim: #8a8578;
+    --card: rgba(255, 255, 255, .88);
+    --line: #e3ded2;
+    --scene-bg: #dfe3ea;
+    --scene-fog: #dfe3ea;
+    --scene-grid-a: #aab4c4;
+  }
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --fg: #e8e4da;
+    --dim: #9a947f;
+    --card: rgba(30, 33, 42, .86);
+    --line: #414654;
+    --scene-bg: #1b1e27;
+    --scene-fog: #1b1e27;
+    --scene-grid-a: #3d4657;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; height: 100vh; overflow: hidden;
+    background: var(--scene-bg); color: var(--fg);
+    font: 13px/1.6 -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
+  }
+  #stage { position: absolute; inset: 0; }
+  #stage canvas { display: block; width: 100%; height: 100%; }
+
+  #info {
+    position: absolute; top: 12px; left: 12px; max-width: 360px;
+    padding: 12px 14px;
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; backdrop-filter: blur(3px);
+  }
+  #info h1 { margin: 0 0 4px; font-size: 15px; }
+  #info p { margin: 3px 0; color: var(--dim); font-size: 12px; }
+  #info .kv { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+  #info .kv span {
+    padding: 1px 7px; font: 11px/1.7 ui-monospace, monospace;
+    background: var(--scene-bg); border: 1px solid var(--line); border-radius: 5px;
+  }
+  #info[hidden] { display: none; }
+  #infoToggle {
+    position: absolute; top: 12px; right: 12px;
+    padding: 4px 12px; font-size: 12px; color: var(--fg);
+    background: var(--card); border: 1px solid var(--line); border-radius: 7px; cursor: pointer;
+  }
+  #fatal {
+    position: absolute; inset: 0; display: none;
+    place-content: center; text-align: center; padding: 24px;
+    background: var(--scene-bg);
+  }
+  #fatal[data-show="1"] { display: grid; }
+  #fatal .why { color: #b3261e; font-size: 13px; margin-top: 8px; word-break: break-all; }
+</style>
+</head>
+
+<body>
+  <div id="stage"></div>
+
+  <div id="info">
+    <h1>像素风 3D · three.js</h1>
+    <p>低分辨率渲染目标 + 最近邻过滤放大 = 3D 画面的像素感。<br />
+       按 <b>1/2/3</b> 切换像素块大小（4×/6×/8×），按 <b>0</b> 关掉像素化对比，<b>H</b> 收起说明。</p>
+    <div class="kv">
+      <span id="kvRt">rt —</span>
+      <span id="kvScale">块 —</span>
+      <span id="kvFilter">过滤 —</span>
+    </div>
+  </div>
+  <button id="infoToggle">收起说明</button>
+
+  <div id="fatal">
+    <div>
+      <b>没能跑起来</b>
+      <div class="why" id="fatalWhy"></div>
+    </div>
+  </div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ================= three.js 加载：file:// / http:// / asset:// 三通 ================= */
+
+  function assetBase() {
+    var h = location.href;
+    var i = Math.max(h.lastIndexOf("/"), h.lastIndexOf("%5C"), h.lastIndexOf("%5c"));
+    if (i < 0) return "";
+    return h.slice(0, i + (h.charAt(i) === "/" ? 1 : 3));
+  }
+
+  function loadScript(src) {
+    return new Promise(function (resolve, reject) {
+      var s = document.createElement("script");
+      s.src = src;
+      s.onload = function () { resolve(); };
+      s.onerror = function () { reject(new Error("加载失败：" + src + "（把 three.min.js 放到本文件同目录）")); };
+      document.head.appendChild(s);
+    });
+  }
+
+  function fatal(why) {
+    document.getElementById("fatal").dataset.show = "1";
+    document.getElementById("fatalWhy").textContent = String((why && why.message) || why);
+  }
+
+  if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    document.documentElement.dataset.theme = "dark";
+  }
+
+  loadScript(assetBase() + "three.min.js")
+    .then(function () {
+      if (!window.THREE) throw new Error("three.min.js 没有交出全局 THREE");
+      boot();
+    })
+    .catch(fatal);
+
+  /* ================= 像素风管线 ================= */
+
+  function boot() {
+
+    var stage = document.getElementById("stage");
+    var renderer;
+    try {
+      // antialias:false 是刻意的：抗锯齿会把像素块的硬边抹糊
+      renderer = new THREE.WebGLRenderer({ antialias: false, powerPreference: "high-performance" });
+    } catch (err) {
+      fatal("WebGL 不可用：" + err.message);
+      return;
+    }
+    renderer.setPixelRatio(1);   // 像素风要 1:1，高清屏放大交给块，不给渲染器
+    renderer.setSize(stage.clientWidth || 960, stage.clientHeight || 600);
+    stage.appendChild(renderer.domElement);
+
+    /* ---- TODO: 换成你的调色板（收紧的复古色更出味） ---- */
+    var PALETTE = [0xef8354, 0xffd166, 0x06d6a0, 0x118ab2, 0xd6495f, 0x9b5de5, 0xf15bb5];
+
+    var scene = new THREE.Scene();
+    var camera = new THREE.PerspectiveCamera(50, 16 / 10, 0.1, 120);
+    camera.position.set(9.5, 7.5, 9.5);   // TODO: 视角
+    camera.lookAt(0, 1.1, 0);
+
+    function cssColor(name) {
+      return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+    }
+    function syncTheme() {
+      scene.background = new THREE.Color(cssColor("--scene-bg") || "#dfe3ea");
+      scene.fog = new THREE.Fog(new THREE.Color(cssColor("--scene-fog") || "#dfe3ea"), 18, 46);
+      grid.material.color = new THREE.Color(cssColor("--scene-grid-a") || "#aab4c4");
+    }
+
+    scene.add(new THREE.HemisphereLight(0xffffff, 0x30303c, 1.15));
+    var dir = new THREE.DirectionalLight(0xfff3e0, 1.25);
+    dir.position.set(6, 12, 4);
+    scene.add(dir);
+
+    var grid = new THREE.GridHelper(26, 26);
+    grid.material.transparent = true;
+    grid.material.opacity = 0.55;
+    scene.add(grid);
+
+    /* ---- TODO: 换成你的场景/游戏对象（示例是一个缓慢自转的小岛） ---- */
+    var diorama = new THREE.Group();
+    scene.add(diorama);
+    var props = [];
+    var geos = [
+      new THREE.BoxGeometry(1, 1, 1),
+      new THREE.ConeGeometry(0.6, 1.2, 5),
+      new THREE.OctahedronGeometry(0.7),
+      new THREE.CylinderGeometry(0.45, 0.55, 1.1, 6),
+      new THREE.TetrahedronGeometry(0.8),
+    ];
+    var seed = 7;
+    function rnd() { seed = (seed * 1103515245 + 12345) & 0x7fffffff; return seed / 0x7fffffff; }
+    for (var i = 0; i < 26; i++) {
+      var a = (i / 26) * Math.PI * 2 + rnd() * 0.4;
+      var r = 3.2 + rnd() * 5.2;
+      var geo = geos[(rnd() * geos.length) | 0];
+      var color = PALETTE[(rnd() * PALETTE.length) | 0];
+      var mesh = new THREE.Mesh(geo, new THREE.MeshStandardMaterial({
+        color: color, roughness: 0.55, metalness: 0, flatShading: true   // 低面数 + 平面着色，更像素味
+      }));
+      var s = 0.55 + rnd() * 0.75;
+      mesh.scale.setScalar(s);
+      var baseY = 0.55 * s;
+      mesh.position.set(Math.cos(a) * r, baseY, Math.sin(a) * r);
+      mesh.rotation.y = rnd() * Math.PI;
+      diorama.add(mesh);
+      props.push({ mesh: mesh, baseY: baseY, phase: rnd() * Math.PI * 2, spin: 0.2 + rnd() * 0.5 });
+    }
+    var core = new THREE.Mesh(
+      new THREE.OctahedronGeometry(1.15),
+      new THREE.MeshStandardMaterial({ color: 0xffd166, emissive: 0xef8354, emissiveIntensity: 0.35, roughness: 0.3, flatShading: true })
+    );
+    core.position.y = 1.5;
+    diorama.add(core);
+
+    /* ---- 低分辨率渲染目标 + 最近邻放大（像素感的核心） ---- */
+    var rt = new THREE.WebGLRenderTarget(240, 150, {
+      minFilter: THREE.NearestFilter,
+      magFilter: THREE.NearestFilter,
+      format: THREE.RGBAFormat,
+      depthBuffer: true,
+    });
+    rt.texture.generateMipmaps = false;
+
+    var quadScene = new THREE.Scene();
+    var quadCam = new THREE.OrthographicCamera(-1, 1, 1, -1, 0, 1);
+    var quad = new THREE.Mesh(
+      new THREE.PlaneGeometry(2, 2),
+      new THREE.MeshBasicMaterial({ map: rt.texture })
+    );
+    quadScene.add(quad);
+
+    var scale = 4;          // 一个低分辨率纹素 = scale 个屏幕像素；1 = 关掉像素化
+    var rtW = 240, rtH = 150;
+    var frames = 0, lastT = 0;
+
+    function applyScale(n) {
+      scale = n;
+      var w = renderer.domElement.width, h = renderer.domElement.height;
+      rtW = Math.max(60, Math.round(w / n));
+      rtH = Math.max(40, Math.round(h / n));
+      rt.setSize(rtW, rtH);
+      document.getElementById("kvRt").textContent = "rt " + rtW + "×" + rtH;
+      document.getElementById("kvScale").textContent = n <= 1 ? "块 关（全分辨率）" : "块 " + n + "×";
+      document.getElementById("kvFilter").textContent = "过滤 " + (n <= 1 ? "—" : "Nearest");
+    }
+
+    function renderFrame(t) {
+      var dt = lastT ? Math.min((t - lastT) / 1000, 0.05) : 0.016;
+      lastT = t;
+      frames++;
+
+      diorama.rotation.y += dt * 0.14;
+      core.rotation.y += dt * 0.6;
+      core.position.y = 1.5 + Math.sin(t / 700) * 0.12;
+      for (var i = 0; i < props.length; i++) {
+        var p = props[i];
+        p.mesh.position.y = p.baseY + Math.sin(t / 600 + p.phase) * 0.14;
+        p.mesh.rotation.y += dt * p.spin * 0.3;
+      }
+
+      if (scale > 1) {
+        renderer.setRenderTarget(rt);
+        renderer.render(scene, camera);        // pass 1：低分辨率
+        renderer.setRenderTarget(null);
+        renderer.render(quadScene, quadCam);   // pass 2：最近邻放大
+      } else {
+        renderer.setRenderTarget(null);
+        renderer.render(scene, camera);
+      }
+    }
+
+    function tick(t) { requestAnimationFrame(tick); renderFrame(t); }
+
+    function resize() {
+      var w = stage.clientWidth || 960, h = stage.clientHeight || 600;
+      renderer.setSize(w, h);
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+      applyScale(scale);
+    }
+    window.addEventListener("resize", resize);
+
+    window.addEventListener("keydown", function (e) {
+      if (e.key === "1") applyScale(4);
+      else if (e.key === "2") applyScale(6);
+      else if (e.key === "3") applyScale(8);
+      else if (e.key === "0") applyScale(1);
+      else if (e.key.toLowerCase() === "h") {
+        var info = document.getElementById("info");
+        info.hidden = !info.hidden;
+        document.getElementById("infoToggle").textContent = info.hidden ? "展开说明" : "收起说明";
+      }
+    });
+    document.getElementById("infoToggle").addEventListener("click", function () {
+      var info = document.getElementById("info");
+      info.hidden = !info.hidden;
+      this.textContent = info.hidden ? "展开说明" : "收起说明";
+    });
+
+    syncTheme();
+    resize();
+    requestAnimationFrame(tick);
+
+    /* ---- 验证钩子（verify-pixel.mjs 驱动；不留也能跑，只是没法自动验证） ---- */
+    window.__pixel3d = {
+      get frames() { return frames; },
+      get rtW() { return rtW; },
+      get rtH() { return rtH; },
+      get scale() { return scale; },
+      get canvasW() { return renderer.domElement.width; },
+      get canvasH() { return renderer.domElement.height; },
+      get nearestOK() { return rt.texture.magFilter === THREE.NearestFilter && rt.texture.minFilter === THREE.NearestFilter; },
+      get webgl() { try { return !!renderer.getContext(); } catch (e) { return false; } },
+      syncTheme: syncTheme,
+      setScale: applyScale,
+      rtContent: function () {
+        var buf = new Uint8Array(rtW * rtH * 4);
+        renderer.readRenderTargetPixels(rt, 0, 0, rtW, rtH, buf);
+        var seen = Object.create(null), n = 0;
+        for (var i = 0; i < buf.length; i += 4) {
+          var c = (buf[i] << 16) | (buf[i + 1] << 8) | buf[i + 2];
+          if (!seen[c]) { seen[c] = 1; n++; }
+        }
+        return { colors: n, pixels: rtW * rtH };
+      },
+      probe: function () {
+        renderFrame(performance.now());
+        var gl = renderer.getContext();
+        var w = renderer.domElement.width, h = renderer.domElement.height;
+        var px = new Uint8Array(w * h * 4);
+        gl.readPixels(0, 0, w, h, gl.RGBA, gl.UNSIGNED_BYTE, px);
+        var maxRuns = 0;
+        for (var r = 0; r < 5; r++) {
+          var y = Math.floor(h * (0.25 + 0.12 * r));
+          var prev = -1, runs = 0;
+          for (var x = 0; x < w; x++) {
+            var i = (y * w + x) * 4;
+            var c = (px[i] << 16) | (px[i + 1] << 8) | px[i + 2];
+            if (c !== prev) { runs++; prev = c; }
+          }
+          if (runs > maxRuns) maxRuns = runs;
+        }
+        return { width: w, height: h, maxRuns: maxRuns, rtW: rtW, scale: scale };
+      },
+      blockUniformity: function (block) {
+        block = block || 4;
+        renderFrame(performance.now());
+        var gl = renderer.getContext();
+        var w = renderer.domElement.width, h = renderer.domElement.height;
+        var px = new Uint8Array(w * h * 4);
+        gl.readPixels(0, 0, w, h, gl.RGBA, gl.UNSIGNED_BYTE, px);
+        var blocks = 0, solid = 0;
+        for (var by = 0; by + block <= h; by += block) {
+          for (var bx = 0; bx + block <= w; bx += block) {
+            var i0 = (by * w + bx) * 4;
+            var c0 = (px[i0] << 16) | (px[i0 + 1] << 8) | px[i0 + 2];
+            var uniform = true;
+            for (var y = 0; y < block && uniform; y++) {
+              for (var x = 0; x < block; x++) {
+                var i = ((by + y) * w + bx + x) * 4;
+                var c = (px[i] << 16) | (px[i + 1] << 8) | px[i + 2];
+                if (c !== c0) { uniform = false; break; }
+              }
+            }
+            blocks++;
+            if (uniform) solid++;
+          }
+        }
+        return { block: block, blocks: blocks, solid: solid, ratio: blocks ? solid / blocks : 0 };
+      }
+    };
+  }
+})();
+</script>
+</body>
+</html>
