@@ -8,9 +8,9 @@
 
 | 风格 | 适用场景 | 资源 |
 | --- | --- | --- |
-| 极简主义 `minimalism@1.0.0` | 监控、仪表盘、管理后台 | [离线交互样本](styles/minimalism/1.0.0/demo.html)、[风格指南](styles/minimalism/1.0.0/guide.md)、[CSS](styles/minimalism/1.0.0/style.css) |
+| 极简主义 `minimalism@1.0.0` | 监控、仪表盘、管理后台 | [风格速览](styles/minimalism/1.0.0/preview.html)、[完整交互样本](styles/minimalism/1.0.0/demo.html)、[风格指南](styles/minimalism/1.0.0/guide.md)、[CSS](styles/minimalism/1.0.0/style.css) |
 
-下载交互样本，在浏览器里直接打开即可。可以试三级菜单、区域对比、事件表格和编辑抽屉。
+**快速看样式**：从 GitHub 下载「风格速览」HTML 后直接用浏览器打开。单文件离线使用，可以对照浅色与深色配色，并试按钮、菜单、开关和表格筛选。需要看完整的页面布局、区域图表和编辑抽屉时，再打开完整交互样本。
 
 ## 添加风格
 
