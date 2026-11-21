@@ -1,11 +1,15 @@
-# Soda's skill repo
+# Soda 的智能体技能库
 
-Independent Agent Skills. Each skill lives in its own directory. This README is the repository index; use each directory's documentation for setup and maintenance.
+这里收录可独立安装的智能体技能。每项技能都有自己的目录；本页是总目录，具体用法和维护说明请查阅各技能的文档。
 
-| Skill | What it does | Documentation |
+## 技能目录
+
+| 技能 | 用途 | 文档 |
 | --- | --- | --- |
-| [flat-block-diagram](flat-block-diagram/) | Generates layered software architecture diagrams as editable SVG. | [Skill instructions](flat-block-diagram/SKILL.md) |
-| [threejs-pixel-3d](threejs-pixel-3d/) | Renders pixel-art-style 3D scenes with Three.js. | [Skill instructions](threejs-pixel-3d/SKILL.md) |
-| [ui-style-library](ui-style-library/) | Helps users select, reproduce, and add UI styles. | [README](ui-style-library/README.md) · [Agent handoff](ui-style-library/agent.md) · [Skill instructions](ui-style-library/SKILL.md) |
+| [flat-block-diagram](flat-block-diagram/) | 生成可编辑的 SVG 分层软件架构图。 | [技能说明](flat-block-diagram/SKILL.md) |
+| [threejs-pixel-3d](threejs-pixel-3d/) | 用 Three.js 渲染像素风三维场景。 | [技能说明](threejs-pixel-3d/SKILL.md) |
+| [ui-style-library](ui-style-library/) | 帮助用户选择、复现和添加界面风格。 | [使用说明](ui-style-library/README.md) · [智能体交接说明](ui-style-library/agent.md) · [技能说明](ui-style-library/SKILL.md) |
 
-To install a skill, place its full directory in the host's skill search path and reload or restart the session. `SKILL.md` is the host-facing entry point; `agent.md`, where provided, is a maintenance handoff for other agents.
+## 安装方式
+
+将所需技能的整个目录放入智能体工具的技能搜索路径，然后重新加载技能或开启新会话。`SKILL.md` 是工具加载技能的入口；如目录内有 `agent.md`，它是给接手维护的智能体看的交接说明。
