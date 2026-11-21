@@ -1,0 +1,582 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>经线同步 · 信号图谱</title>
+<style>
+:root{color-scheme:light;--bg:#fff;--ink:#090b0d;--muted:#575b5e;--faint:#696d70;--line:#e6e7e8;--soft:#f7f7f8;--accent:#7624f4;--accent-bg:#f6f0ff;--positive:#00bf6f;--good:#007544;--warn:#e5a000;--bad:#ff2d55;--button:#101214;--button-text:#fff}
+html[data-theme=dark]{color-scheme:dark;--bg:#101112;--ink:#f6f7f8;--muted:#b1b4b7;--faint:#969a9e;--line:#303236;--soft:#1b1d20;--accent:#bf9cff;--accent-bg:#251c34;--good:#54dd9c;--button:#f1f1f2;--button-text:#101214}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.55 'Segoe UI','Microsoft YaHei',system-ui,sans-serif}h1,h2,h3,p{margin:0}a{color:inherit;text-decoration:none}button{font:inherit;color:inherit;cursor:pointer}svg.icon{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:1.65;stroke-linecap:round;stroke-linejoin:round}button:focus-visible,a:focus-visible,summary:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.topbar{height:60px;display:flex;align-items:center;justify-content:space-between;padding:0 26px;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:3;background:var(--bg)}.brand,.top-actions,.title-row,.slug,.heading,.tile-label,.button,.side a{display:flex;align-items:center;gap:8px}.brand{font-size:16px;font-weight:700;gap:10px}.brand .icon{width:25px;height:25px}.top-actions{gap:15px}.top-actions a{font-size:13px;color:var(--muted)}.top-actions a:hover{color:var(--accent)}
+.shell{max-width:1280px;margin:auto;padding:26px 22px 64px}.profile{display:flex;justify-content:space-between;align-items:flex-start;gap:14px}.title-row{gap:10px}.product-mark{width:28px;height:28px;display:grid;place-items:center;border:1px solid var(--line);border-radius:50%}.title-row h1{font-size:24px;line-height:1.25;font-weight:650}.slug{font-size:12px;color:var(--muted);margin-top:7px}.slug span span{color:var(--ink);text-decoration:underline;text-underline-offset:2px}.description{font-size:13px;color:var(--muted);max-width:680px;margin:12px 0 15px}.specs{display:flex;flex-wrap:wrap;gap:12px 29px;margin:0 0 24px}.specs dt{color:var(--muted);font-size:11px}.specs dd{margin:1px 0 0;font-weight:600;font-size:12px}.controls{display:flex;gap:7px;align-items:center;white-space:nowrap}.button{justify-content:center;min-height:32px;padding:0 10px;background:var(--bg);border:1px solid var(--line);border-radius:6px;font-size:12px;font-weight:600}.button:hover{background:var(--soft)}.button.primary{background:var(--button);color:var(--button-text);border-color:var(--button)}.button.primary:hover{opacity:.85}.square{width:30px;padding:0}.slug .square{width:25px;min-height:25px}.slug .icon{width:13px;height:13px}
+.layout{display:grid;grid-template-columns:200px minmax(0,1fr);gap:24px;border-top:1px solid var(--line);padding-top:23px}.side{position:sticky;top:81px;align-self:start}.side a{padding:7px 9px;margin-bottom:2px;border-radius:6px;color:var(--muted);font-size:13px;font-weight:550}.side a:hover{background:var(--soft)}.side a[aria-current=location]{color:var(--accent);background:var(--accent-bg)}.content{min-width:0}section{scroll-margin-top:130px;margin-bottom:36px}.heading{gap:8px;margin-bottom:5px}.heading .icon{color:var(--muted)}h2{font-size:16px;font-weight:650}section>p{max-width:690px;color:var(--muted);font-size:12px;margin-bottom:15px}
+.metrics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-bottom:14px}.tile,.chart,.table-wrap{border:1px solid var(--line);border-radius:8px}.tile{padding:10px 12px}.tile-label{gap:4px;font-size:12px;color:var(--muted)}.info{position:relative;display:inline-flex}.info summary{display:grid;place-items:center;cursor:pointer;list-style:none;width:20px;height:20px}.info summary::-webkit-details-marker{display:none}.info .icon{width:14px;height:14px}.info span,.tooltip{position:absolute;z-index:2;padding:6px 9px;background:var(--button);color:var(--button-text);border-radius:5px;font-size:11px;white-space:nowrap}.info span{top:24px;left:-16px}.value{margin-top:3px;font-weight:650;font-variant-numeric:tabular-nums;font-size:16px;color:var(--good)}
+.chart{padding:12px;margin-bottom:14px;position:relative}.chart-head{display:flex;justify-content:space-between;align-items:baseline;gap:3px 12px;flex-wrap:wrap;margin-bottom:14px}.chart-head>div{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}.chart-head h3{font-size:14px;font-weight:600}.caption,.axis,.legend{font-size:11px;color:var(--faint)}.chart-result{color:var(--good);font-size:13px;font-weight:600;font-variant-numeric:tabular-nums}.timeline-wrap{position:relative}.timeline{display:grid;grid-template-columns:repeat(72,minmax(0,1fr));gap:2px;height:32px}.bar{min-width:0;border:0;padding:0;background:var(--positive);border-radius:1px}.bar[data-state=degraded]{background:var(--warn)}.bar[data-state=incident]{background:var(--bad)}.bar:hover,.bar:focus-visible,.bar[aria-pressed=true]{filter:brightness(.84)}.tooltip{bottom:calc(100% + 6px);transform:translateX(-50%);pointer-events:none}.axis{display:flex;justify-content:space-between;margin-top:6px}.plot{display:grid;grid-template-columns:36px minmax(0,1fr);gap:6px}.y-axis{display:flex;flex-direction:column;justify-content:space-between;text-align:right;font-size:10px;color:var(--faint);line-height:1;padding:0 1px}.plot svg{display:block;width:100%;height:140px;overflow:visible}.plot line{stroke:var(--line);vector-effect:non-scaling-stroke}.plot polyline{stroke:var(--positive);stroke-width:1.65;fill:none;vector-effect:non-scaling-stroke;stroke-linejoin:round}.plot .axis{grid-column:2}.legend{display:flex;justify-content:flex-end;align-items:center;gap:6px;margin-top:9px}.legend i,.status i{width:7px;height:7px;background:var(--positive);border-radius:50%;display:inline-block}.legend strong{font-weight:600;color:var(--ink);margin-left:4px}
+.table-wrap{overflow:auto}table{border-collapse:collapse;width:100%;min-width:390px;text-align:left;font-size:12px}th,td{padding:9px 12px;border-bottom:1px solid var(--line)}th{font-weight:550;color:var(--muted);background:var(--soft)}tr:last-child td{border:0}.status{color:var(--good);white-space:nowrap}.status i{margin-right:5px}.incident{color:var(--muted)}footer{color:var(--faint);font-size:11px;border-top:1px solid var(--line);padding-top:14px}
+@media(max-width:900px){.layout{grid-template-columns:150px minmax(0,1fr);gap:16px}}
+@media(max-width:700px){.topbar{height:54px;padding:0 16px}.shell{padding:20px 16px 40px}.profile{flex-wrap:wrap}.title-row h1{font-size:21px}.description{margin-top:13px}.layout{display:block;padding-top:0;border-top:0}.side{top:54px;z-index:2;display:flex;gap:3px;overflow:auto;background:var(--bg);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:6px 0;margin-bottom:18px}.side a{white-space:nowrap;margin:0;padding:7px;font-size:12px}.side .icon{width:13px;height:13px}.timeline{gap:1px}.metrics{gap:8px;margin-bottom:10px}.chart{padding:10px}.plot svg{height:115px}.top-actions{gap:10px}.axis span:nth-child(2n):not(:last-child){display:none}}
+@media(max-width:375px){.info span{white-space:normal;width:132px}.side .icon{display:none}}
+.chevron{width:13px!important;height:13px!important;transition:transform .15s}details[open]>summary>.chevron:last-child{transform:rotate(90deg)}summary{cursor:pointer}summary::-webkit-details-marker{display:none}.menu-label,.nav-branch>summary{display:flex;align-items:center;gap:7px;list-style:none}.nav-branch>summary{padding:7px 9px;border-radius:6px;color:var(--muted);font-size:13px;font-weight:600}.nav-branch>summary:hover,.menu-label:hover{background:var(--soft)}.nav-branch>summary .chevron{margin-left:auto}.nav-children{margin:0 0 4px 15px;padding-left:7px;border-left:1px solid var(--line)}.nav-children .nav-children{margin-left:7px}.nav-children a{font-weight:500}.global-menu{position:relative}.top-actions .global-menu a{padding:6px 8px;display:block;border-radius:5px}.top-actions .global-menu a:hover{background:var(--soft)}.menu-label{padding:5px 8px;border-radius:6px;font-size:13px;color:var(--muted)}.menu-panel{position:absolute;right:0;top:calc(100% + 12px);width:205px;border:1px solid var(--line);padding:6px;background:var(--bg);border-radius:8px;box-shadow:0 6px 20px #0002}.menu-panel .nav-branch>summary{font-weight:500}.top-shortcut{white-space:nowrap}
+.monitor-tools,.filters,.legend-buttons,.action-strip{display:flex;align-items:center;flex-wrap:wrap;gap:8px}.monitor-tools{justify-content:space-between;margin-bottom:12px}.filters label{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:12px}.filters select{width:116px;min-height:30px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font:inherit;padding:0 6px}.segmented{display:inline-flex;border:1px solid var(--line);background:var(--soft);border-radius:7px;padding:2px;gap:2px}.segment{border:1px solid transparent;background:transparent;border-radius:5px;padding:2px 8px;font-size:12px;min-width:34px;color:var(--muted);white-space:nowrap}.segment:hover{color:var(--ink)}.segment[aria-pressed=true]{border-color:var(--line);background:var(--bg);color:var(--ink);font-weight:600}.button:disabled{cursor:wait;opacity:.56}.button[aria-pressed=true]{color:var(--accent);background:var(--accent-bg)}.button.ghost{background:transparent;border-color:transparent;color:var(--muted)}.button.ghost:hover{background:var(--soft);color:var(--ink)}.action-strip{margin-top:3px}.run-label{min-width:98px}.control-note{font-size:12px;color:var(--muted);min-height:19px;margin:8px 0 0}.point-label{margin-top:8px;min-height:17px;font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}.plot svg{touch-action:pan-y}.plot svg .cursor{stroke:var(--faint);stroke-dasharray:3 3}.plot svg .focus-dot{fill:var(--bg);stroke:var(--series-color,var(--positive));stroke-width:2;vector-effect:non-scaling-stroke}.plot svg .requests-bar{fill:var(--series-color,var(--accent));opacity:.73}.plot svg .requests-bar.is-active{opacity:1}.plot svg polyline{stroke:var(--series-color,var(--positive))}.legend-buttons{justify-content:flex-end;margin-top:8px}.legend-toggle{display:inline-flex;align-items:center;gap:5px;border:0;background:transparent;border-radius:4px;padding:2px 5px;color:var(--muted);font-size:11px}.legend-toggle:hover{background:var(--soft)}.legend-toggle[aria-pressed=false]{text-decoration:line-through;opacity:.65}.legend-dot{display:inline-block;height:7px;width:7px;border-radius:50%;background:var(--series-color)}.deep-link{scroll-margin-top:135px}.availability-tools{margin:0 0 12px}.submetric{color:var(--faint);font-size:11px}.chart-head strong{font-variant-numeric:tabular-nums}.plot-output{font-size:11px;color:var(--muted);display:block;min-height:17px;margin:3px 0 0 42px;font-variant-numeric:tabular-nums}.chart-pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}
+.dialog{width:min(410px,calc(100% - 32px));border:1px solid var(--line);border-radius:8px;color:var(--ink);background:var(--bg);padding:16px}.dialog::backdrop{background:#10121465}.dialog header{display:flex;align-items:center;justify-content:space-between;gap:8px}.dialog header h2{font-size:15px}.dialog p{font-size:12px;color:var(--muted);margin:8px 0 12px}.dialog footer{display:flex;justify-content:flex-end;gap:8px;margin-top:14px}.dialog label{display:flex;gap:7px;align-items:center;margin:8px 0;font-size:13px}.dialog input{accent-color:var(--accent)}.toast{position:fixed;bottom:18px;right:18px;z-index:4;padding:8px 12px;max-width:calc(100% - 36px);border:1px solid var(--line);border-radius:7px;background:var(--bg);color:var(--ink);font-size:12px;box-shadow:0 3px 15px #0002}
+@media(max-width:900px){.chart-pair{grid-template-columns:1fr;gap:0}}
+@media(max-width:700px){.top-shortcut{display:none}.side{position:static;display:grid;grid-template-columns:1fr 1fr;gap:2px 8px;overflow:visible;padding:6px 0}.side details{min-width:0}.side a{white-space:normal}.side .nav-branch>summary{font-size:12px;padding:6px 5px}.side .nav-children{margin-left:6px}.side .nav-children .nav-children{margin-left:3px}.side .chevron{display:block}.deep-link,section{scroll-margin-top:68px}}
+@media(prefers-reduced-motion:reduce){.chevron{transition:none}}
+.event-tabs,.event-tools,.bulk-bar,.pager,.drawer-heading,.field-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.event-tabs{border-bottom:1px solid var(--line);gap:15px;margin-bottom:12px}.event-tab{border:0;border-bottom:2px solid transparent;background:none;color:var(--muted);padding:6px 2px;font-size:13px}.event-tab[aria-pressed=true]{color:var(--accent);border-color:var(--accent);font-weight:650}.event-tools{margin-bottom:10px}.event-tools>.primary{margin-left:auto}.field{min-height:33px;border:1px solid var(--line);border-radius:6px;padding:5px 8px;background:var(--bg);color:var(--ink);font:inherit;font-size:13px;min-width:0}.search-field{width:min(220px,100%)}.field:focus-visible{outline:2px solid var(--accent);outline-offset:1px}.bulk-bar{padding:7px 9px;margin-bottom:9px;background:var(--accent-bg);border:1px solid var(--line);border-radius:6px;font-size:12px}.bulk-bar[hidden]{display:none}.bulk-bar button:last-child{margin-left:auto}.event-table{min-width:530px}.event-table input,.drawer input[type=checkbox]{accent-color:var(--accent)}.event-table td:first-child,.event-table th:first-child{width:36px;padding-inline:10px}.event-table tr:has(input:checked){background:var(--accent-bg)}.event-link,.sort-button{border:0;background:none;text-align:left;padding:2px 0}.event-link{font-weight:600;color:var(--ink)}.event-link:hover,.sort-button:hover{color:var(--accent)}.sort-button{white-space:nowrap}.event-id{display:block;font-size:10px;color:var(--faint);font-variant-numeric:tabular-nums}.badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:2px 7px;border-radius:5px;white-space:nowrap;background:var(--soft);color:var(--muted)}.badge:before{content:'';width:6px;height:6px;border-radius:50%;background:currentColor}.badge.open{color:#9b5200;background:#e5a0001c}.badge.done{color:var(--good);background:#00bf6f17}[data-theme=dark] .badge.open{color:#ffbe66}.empty-row{text-align:center;color:var(--muted);height:104px}.pager{justify-content:space-between;color:var(--muted);font-size:12px;margin-top:9px}.pager>div{display:flex;align-items:center;gap:6px}.pager button:disabled{cursor:default}.drawer.dialog{position:fixed;inset:0 0 0 auto;margin:0;width:min(435px,100%);height:100%;max-height:none;max-width:none;border-radius:0;border-width:0 0 0 1px;padding:0}.drawer form{min-height:100%;display:flex;flex-direction:column}.drawer-heading{justify-content:space-between;padding:16px;border-bottom:1px solid var(--line)}.drawer-body{padding:16px;flex:1}.drawer label{align-items:flex-start;flex-direction:column;margin:0 0 13px}.drawer label>.field{width:100%}.drawer textarea{resize:vertical;min-height:82px}.field-row{align-items:flex-start;gap:12px}.field-row>label{flex:1;min-width:120px}.drawer footer{margin:0;padding:12px 16px;position:sticky;bottom:0;background:var(--bg)}.drawer-meta{font-size:11px;color:var(--muted)}.dialog .switch-row{flex-direction:row;align-items:center;justify-content:space-between}.switch{appearance:none;width:33px;height:18px;margin:0;border:1px solid var(--line);border-radius:10px;background:var(--soft);cursor:pointer;flex:none}.switch:before{content:'';display:block;width:12px;height:12px;margin:2px;border-radius:50%;background:var(--muted)}.switch:checked{background:var(--accent);border-color:var(--accent)}.switch:checked:before{transform:translateX(15px);background:var(--bg)}.switch:focus-visible{outline:2px solid var(--accent);outline-offset:2px}.alert-options{border:0;margin:0;padding:0;min-width:0}.alert-options legend{padding:0;font-weight:600;font-size:12px}.event-table-wrap{max-width:100%}.event-table-wrap:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media(max-width:560px){.event-tools>.primary{margin-left:0}.event-tools .search-field{width:100%}.drawer.dialog{width:min(435px,100%)}}
+</style>
+</head>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="logo" viewBox="0 0 24 24"><path d="M3 12h4l3-7 4 14 3-7h4"/><path d="M4 4h16v16H4z" opacity=".25"/></symbol>
+  <symbol id="layers" viewBox="0 0 24 24"><path d="m12 2 9 5-9 5-9-5 9-5Zm-9 10 9 5 9-5M3 17l9 5 9-5"/></symbol>
+  <symbol id="pulse" viewBox="0 0 24 24"><path d="M2 12h5l3-8 4 16 3-8h5"/></symbol>
+  <symbol id="server" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="7" rx="2"/><rect x="3" y="14" width="18" height="7" rx="2"/><path d="M7 6.5h.1M7 17.5h.1"/></symbol>
+  <symbol id="list" viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13M3 6h.1M3 12h.1M3 18h.1"/></symbol>
+  <symbol id="info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5m0-8h.01"/></symbol>
+  <symbol id="theme-icon" viewBox="0 0 24 24"><path d="M20.8 13.6A9 9 0 0 1 10.4 3.2 9 9 0 1 0 20.8 13.6Z"/></symbol>
+  <symbol id="copy-icon" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></symbol>
+  <symbol id="chevron" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+  <symbol id="download" viewBox="0 0 24 24"><path d="M12 3v12m-4-4 4 4 4-4M5 16v4h14v-4"/></symbol>
+  <symbol id="bell" viewBox="0 0 24 24"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9m-8 12a2 2 0 0 0 4 0"/></symbol>
+</svg>
+<header class="topbar"><a class="brand" href="#top"><svg class="icon" aria-hidden="true"><use href="#logo"/></svg>信号图谱</a><div class="top-actions"><a class="top-shortcut" href="#incidents">事件</a><details class="global-menu"><summary class="menu-label">浏览 <svg class="icon chevron" aria-hidden="true"><use href="#chevron"/></svg></summary><nav class="menu-panel" aria-label="浏览导航"><details class="nav-branch"><summary>监控 <svg class="icon chevron" aria-hidden="true"><use href="#chevron"/></svg></summary><div class="nav-children"><a href="#uptime">在线率</a><details class="nav-branch"><summary>性能 <svg class="icon chevron" aria-hidden="true"><use href="#chevron"/></svg></summary><div class="nav-children"><a href="#latency">延迟</a><a href="#traffic">流量</a></div></details></div></details><a href="#regions">区域状态</a><a href="#incidents">事件管理</a></nav></details><button class="button square" id="theme" type="button" title="切换深浅主题" aria-label="深色模式" aria-pressed="false"><svg class="icon" aria-hidden="true"><use href="#theme-icon"/></svg></button></div></header>
+<main class="shell" id="top">
+  <div class="profile">
+    <div><div class="title-row"><span class="product-mark"><svg class="icon" aria-hidden="true"><use href="#layers"/></svg></span><h1>信号图谱：经线同步</h1></div>
+    <div class="slug"><span><span>signal-atlas</span>/meridian-sync</span><button class="button square" id="copy" type="button" title="复制服务标识" aria-label="复制服务标识"><svg class="icon" aria-hidden="true"><use href="#copy-icon"/></svg></button><span id="copy-status" role="status"></span></div></div>
+    <div class="controls"><button class="button" id="alerts" type="button" aria-haspopup="dialog"><svg class="icon" aria-hidden="true"><use href="#bell"/></svg>告警设置</button><button class="button primary run-label" id="run-check" type="button">运行检测</button></div>
+  </div>
+  <p class="description">经线同步将工作区变更复制到多个区域。发生故障切换时，待处理的更新仍会保留在队列中。</p>
+  <dl class="specs"><div><dt>环境</dt><dd>生产环境</dd></div><div><dt>覆盖范围</dt><dd>3 个区域</dd></div><div><dt>探测间隔</dt><dd>60 秒</dd></div><div><dt>数据快照</dt><dd>11 月 21 日 08:00 UTC</dd></div></dl>
+  <div class="layout">
+    <nav class="side" aria-label="服务导航">
+      <details class="nav-branch" open><summary><svg class="icon" aria-hidden="true"><use href="#pulse"/></svg>监控 <svg class="icon chevron" aria-hidden="true"><use href="#chevron"/></svg></summary><div class="nav-children">
+        <a href="#uptime" aria-current="location">在线率</a>
+        <details class="nav-branch" open><summary>性能 <svg class="icon chevron" aria-hidden="true"><use href="#chevron"/></svg></summary><div class="nav-children"><a href="#latency">延迟</a><a href="#traffic">流量</a></div></details>
+      </div></details>
+      <details class="nav-branch" open><summary><svg class="icon" aria-hidden="true"><use href="#server"/></svg>运维 <svg class="icon chevron" aria-hidden="true"><use href="#chevron"/></svg></summary><div class="nav-children"><a href="#regions">区域状态</a><a href="#incidents">事件管理</a></div></details>
+    </nav>
+    <div class="content">
+      <section id="uptime">
+        <div class="heading"><svg class="icon" aria-hidden="true"><use href="#pulse"/></svg><h2>在线率</h2></div>
+        <p>在线率衡量服务是否可访问，可用率衡量同步请求是否成功完成。</p>
+        <div class="monitor-tools"><div class="filters"><label>区域 <select id="region-filter"><option value="all">全部区域</option><option value="virginia">弗吉尼亚</option><option value="frankfurt">法兰克福</option><option value="singapore">新加坡</option></select></label><div class="segmented" id="range" role="group" aria-label="图表时间范围"><button class="segment" data-hours="24" aria-pressed="true">24 小时</button><button class="segment" data-hours="72" aria-pressed="false">3 天</button><button class="segment" data-hours="168" aria-pressed="false">7 天</button></div></div><div class="action-strip"><button class="button ghost" id="compare" aria-pressed="false">对比区域</button><button class="button square" id="export" title="下载图表数据（CSV）" aria-label="下载图表数据（CSV）"><svg class="icon" aria-hidden="true"><use href="#download"/></svg></button></div></div>
+        <div class="metrics">
+          <div class="tile"><div class="tile-label">在线率（3 天）<details class="info"><summary aria-label="关于在线率"><svg class="icon" aria-hidden="true"><use href="#info"/></svg></summary><span>可访问性探测成功的比例。</span></details></div><div class="value">100.00%</div></div>
+          <div class="tile"><div class="tile-label">可用率（3 天）<details class="info"><summary aria-label="关于可用率"><svg class="icon" aria-hidden="true"><use href="#info"/></svg></summary><span>同步请求成功的比例。</span></details></div><div class="value" data-average></div></div>
+        </div>
+        <div class="chart">
+          <div class="chart-head"><div><h3>最近 3 天可用率</h3><span class="caption">最近 72 小时</span></div><span class="chart-result">可用率 <span data-average></span></span></div>
+          <div class="timeline-wrap"><div class="timeline" id="timeline" aria-label="逐小时可用率；用左右方向键切换小时"></div><output class="tooltip" id="tooltip" hidden></output></div>
+          <div class="axis"><span>周三</span><span>周四</span><span>周五</span><span>现在</span></div>
+        </div>
+        <div class="chart">
+          <div class="chart-head"><div><h3>可用率趋势</h3><span class="caption" data-window></span></div><strong class="chart-result" data-stat="availability"></strong></div>
+          <div data-chart="availability"></div>
+        </div>
+        <p>时间均为 UTC。区域故障切换期间，服务仍可访问，但部分同步请求可能失败。</p>
+      </section>
+      <section id="performance"><div class="heading"><svg class="icon" aria-hidden="true"><use href="#pulse"/></svg><h2>性能</h2></div><p>所选区域与时段内的同步延迟和请求量。</p><div class="chart-pair">
+        <div class="chart deep-link" id="latency"><div class="chart-head"><div><h3>响应延迟</h3><span class="caption" id="percentile-label">p95</span></div><div class="segmented" id="percentile" role="group" aria-label="延迟百分位"><button class="segment" data-percentile="50" aria-pressed="false">P50</button><button class="segment" data-percentile="95" aria-pressed="true">P95</button><button class="segment" data-percentile="99" aria-pressed="false">P99</button></div></div><div data-chart="latency"></div></div>
+        <div class="chart deep-link" id="traffic"><div class="chart-head"><div><h3>请求量</h3><span class="caption" data-window></span></div><strong data-stat="requests"></strong></div><div data-chart="requests"></div></div>
+      </div></section>
+      <section id="regions"><div class="heading"><svg class="icon" aria-hidden="true"><use href="#server"/></svg><h2>区域状态</h2></div><p>各监控区域的当前状态与响应时间中位数。</p><div class="table-wrap"><table aria-label="区域状态"><thead><tr><th scope="col">区域</th><th scope="col">延迟中位数</th><th scope="col">状态</th></tr></thead><tbody><tr><td>弗吉尼亚</td><td>86 ms</td><td class="status"><i></i>运行正常</td></tr><tr><td>法兰克福</td><td>103 ms</td><td class="status"><i></i>运行正常</td></tr><tr><td>新加坡</td><td>124 ms</td><td class="status"><i></i>运行正常</td></tr></tbody></table></div></section>
+      <section id="incidents"><div class="heading"><svg class="icon" aria-hidden="true"><use href="#list"/></svg><h2>事件管理</h2></div><p>近期故障与维护记录。</p>
+        <div class="event-tabs" id="event-tabs" role="group" aria-label="事件视图"><button class="event-tab" data-filter="all" aria-pressed="true">全部</button><button class="event-tab" data-filter="open" aria-pressed="false">待处理</button><button class="event-tab" data-filter="done" aria-pressed="false">已处理</button></div>
+        <div class="event-tools"><input type="search" class="field search-field" id="event-search" aria-label="搜索事件" placeholder="搜索标题或编号"><select class="field" id="event-region" aria-label="筛选区域"><option value="all">全部区域</option><option value="virginia">弗吉尼亚</option><option value="frankfurt">法兰克福</option><option value="singapore">新加坡</option></select><button type="button" class="button primary" id="new-event">新建事件</button></div>
+        <div class="bulk-bar" id="bulk" hidden><span id="selection-count" role="status"></span><button class="button" id="resolve-selected">标为已处理</button><button class="button ghost" id="clear-selection">清除选择</button></div>
+        <div class="table-wrap event-table-wrap" tabindex="0" role="region" aria-label="事件列表"><table class="event-table"><thead><tr><th scope="col"><input type="checkbox" id="select-page" aria-label="选择本页事件"></th><th scope="col">事件</th><th scope="col">区域</th><th scope="col" aria-sort="descending"><button class="sort-button" id="sort-events">时间（UTC） ↓</button></th><th scope="col">状态</th></tr></thead><tbody id="event-rows"></tbody></table></div>
+        <div class="pager"><span id="event-count" role="status"></span><div><button type="button" class="button square" id="prev-events" title="上一页" aria-label="上一页">‹</button><span id="event-page"></span><button type="button" class="button square" id="next-events" title="下一页" aria-label="下一页">›</button></div></div>
+      </section>
+      <footer>信号图谱 · 虚构服务 · 演示数据</footer>
+    </div>
+  </div>
+</main>
+<dialog class="dialog" id="alert-dialog" aria-labelledby="alert-title">
+  <form method="dialog"><header><h2 id="alert-title">告警偏好</h2><button class="button square ghost" value="cancel" aria-label="关闭告警设置" formnovalidate>&#215;</button></header>
+  <p>仅保存本地偏好，不发送真实告警。</p>
+  <label><input type="checkbox" name="outage" checked> 服务不可用</label><label><input type="checkbox" name="latency"> 延迟过高</label><label><input type="checkbox" name="maintenance"> 计划维护</label>
+  <footer><button class="button" value="cancel">取消</button><button class="button primary" value="save">保存偏好</button></footer></form>
+</dialog>
+<dialog class="dialog drawer" id="event-drawer" aria-labelledby="drawer-title">
+  <form id="event-form"><div class="drawer-heading"><h2 id="drawer-title">新建事件</h2><button type="button" class="button square ghost" id="close-drawer" aria-label="关闭事件抽屉">×</button></div>
+    <div class="drawer-body"><p class="drawer-meta" id="drawer-meta"></p><label>事件标题 <input class="field" name="title" required maxlength="60" autofocus></label>
+    <div class="field-row"><label>区域 <select class="field" name="region"><option value="virginia">弗吉尼亚</option><option value="frankfurt">法兰克福</option><option value="singapore">新加坡</option></select></label>
+    <label>优先级 <select class="field" name="priority"><option value="normal">普通</option><option value="high">高优先级</option><option value="low">低优先级</option></select></label></div>
+    <label>处理备注 <textarea class="field" name="notes" maxlength="360" rows="4"></textarea></label>
+    <label class="switch-row">标记为已处理 <input class="switch" type="checkbox" role="switch" name="done"></label></div>
+    <footer><button class="button" type="button" id="cancel-event">取消</button><button class="button primary" type="submit">保存事件</button></footer></form>
+</dialog>
+<dialog class="dialog" id="bulk-confirm" aria-labelledby="bulk-title"><form method="dialog"><header><h2 id="bulk-title">确认批量处理</h2></header><p id="bulk-summary"></p><footer><button class="button" value="cancel" autofocus>取消</button><button class="button primary" value="resolve">确认处理</button></footer></form></dialog>
+<div class="toast" id="toast" role="status" hidden></div>
+<script>
+const root = document.documentElement;
+const theme = document.querySelector('#theme');
+function setTheme(dark) {
+  root.dataset.theme = dark ? 'dark' : 'light';
+  theme.setAttribute('aria-pressed', dark);
+  theme.title = dark ? '切换浅色模式' : '切换深色模式';
+}
+setTheme(matchMedia('(prefers-color-scheme: dark)').matches);
+theme.addEventListener('click', () => setTheme(root.dataset.theme !== 'dark'));
+
+const copyStatus = document.querySelector('#copy-status');
+document.querySelector('#copy').addEventListener('click', async () => {
+  try {
+    await navigator.clipboard.writeText('signal-atlas/meridian-sync');
+    copyStatus.textContent = '已复制';
+  } catch {
+    const range = document.createRange();
+    range.selectNodeContents(document.querySelector('.slug > span'));
+    const selection = getSelection();
+    selection.removeAllRanges();
+    selection.addRange(range);
+    copyStatus.textContent = '已选中，可手动复制';
+  }
+});
+
+function updateNavigation() {
+  const hash = location.hash || '#uptime';
+  document.querySelectorAll('.side a').forEach(link => {
+    if (link.hash === hash) link.setAttribute('aria-current', 'location');
+    else link.removeAttribute('aria-current');
+  });
+}
+window.addEventListener('hashchange', updateNavigation);
+updateNavigation();
+
+const values = Array.from({length:72}, (_, i) => ({20:98.4,21:98.8,44:97.4,58:98.7,59:95.3,60:85.0,61:98.3,69:98.8}[i] ?? (i % 9 === 0 ? 99.7 : 100)));
+const average = values.reduce((sum, value) => sum + value, 0) / values.length;
+document.querySelectorAll('[data-average]').forEach(el => el.textContent = average.toFixed(2) + '%');
+const timeline = document.querySelector('#timeline');
+const tip = document.querySelector('#tooltip');
+let pinned = null;
+function showTip(bar) {
+  tip.textContent = bar.getAttribute('aria-label');
+  tip.hidden = false;
+  const half = tip.offsetWidth / 2;
+  const center = bar.offsetLeft + bar.offsetWidth / 2;
+  tip.style.left = `${Math.max(half, Math.min(timeline.clientWidth - half, center))}px`;
+}
+function resetTip() {
+  if (pinned) showTip(pinned);
+  else tip.hidden = true;
+}
+const bars = values.map((value, i) => {
+  const date = new Date(Date.UTC(2026, 10, 18, 8 + i));
+  const time = new Intl.DateTimeFormat('zh-CN', {month:'short',day:'numeric',hour:'2-digit',minute:'2-digit',hourCycle:'h23',timeZone:'UTC'}).format(date);
+  const bar = document.createElement('button');
+  bar.type = 'button';
+  bar.className = 'bar';
+  bar.dataset.state = value < 90 ? 'incident' : value < 99 ? 'degraded' : 'healthy';
+  bar.tabIndex = i === 0 ? 0 : -1;
+  bar.setAttribute('aria-label', `${time} UTC · ${value.toFixed(2)}%`);
+  bar.setAttribute('aria-pressed', 'false');
+  bar.addEventListener('pointerenter', () => showTip(bar));
+  bar.addEventListener('pointerleave', resetTip);
+  bar.addEventListener('focus', () => showTip(bar));
+  bar.addEventListener('blur', resetTip);
+  bar.addEventListener('click', () => {
+    const next = pinned === bar ? null : bar;
+    if (pinned) pinned.setAttribute('aria-pressed', 'false');
+    pinned = next;
+    if (pinned) pinned.setAttribute('aria-pressed', 'true');
+    resetTip();
+  });
+  timeline.append(bar);
+  return bar;
+});
+timeline.addEventListener('keydown', event => {
+  const index = bars.indexOf(document.activeElement);
+  if (event.key === 'Escape') {
+    if (pinned) pinned.setAttribute('aria-pressed', 'false');
+    pinned = null;
+    resetTip();
+    return;
+  }
+  const next = {ArrowLeft:index-1,ArrowRight:index+1,Home:0,End:bars.length-1}[event.key];
+  if (index < 0 || next == null) return;
+  event.preventDefault();
+  bars[index].tabIndex = -1;
+  const target = bars[Math.max(0, Math.min(bars.length - 1, next))];
+  target.tabIndex = 0;
+  target.focus();
+});
+
+const $ = selector => document.querySelector(selector);
+const all = selector => [...document.querySelectorAll(selector)];
+const globalMenu = $('.global-menu');
+document.addEventListener('click', event => {
+  if (!globalMenu.contains(event.target) || event.target.closest('.menu-panel a')) globalMenu.open = false;
+});
+globalMenu.addEventListener('keydown', event => {
+  if (event.key !== 'Escape') return;
+  const branch = event.target.closest('details[open]');
+  if (branch) { branch.open = false; branch.querySelector(':scope > summary').focus(); }
+});
+function exposeLink() {
+  const link = all('.side a').find(item => item.hash === location.hash);
+  for (let ancestor = link?.parentElement; ancestor && !ancestor.matches('.side'); ancestor = ancestor.parentElement) {
+    if (ancestor.matches('details')) ancestor.open = true;
+  }
+}
+addEventListener('hashchange', exposeLink);
+exposeLink();
+
+let toastTimer;
+function notify(message) {
+  const toast = $('#toast');
+  toast.hidden = false;
+  toast.textContent = message;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { toast.hidden = true; }, 3300);
+}
+const alertDialog = $('#alert-dialog');
+const alertInputs = all('#alert-dialog input');
+let preferences = [true, false, false];
+try {
+  const stored = JSON.parse(localStorage.getItem('signal-atlas-alerts'));
+  if (Array.isArray(stored) && stored.length === 3) preferences = stored;
+} catch {}
+function paintAlerts() {
+  const count = preferences.filter(Boolean).length;
+  $('#alerts').lastChild.textContent = count ? `告警设置（${count}）` : '告警设置';
+}
+paintAlerts();
+$('#alerts').addEventListener('click', () => {
+  alertInputs.forEach((input, i) => { input.checked = preferences[i]; });
+  alertDialog.returnValue = '';
+  alertDialog.showModal();
+});
+alertDialog.addEventListener('close', () => {
+  if (alertDialog.returnValue !== 'save') return;
+  preferences = alertInputs.map(input => input.checked);
+  let saved = false;
+  try { localStorage.setItem('signal-atlas-alerts', JSON.stringify(preferences)); saved = true; } catch {}
+  paintAlerts();
+  notify(saved ? '告警偏好已保存。' : '本次会话的告警偏好已更新。');
+});
+$('#run-check').addEventListener('click', async event => {
+  const button = event.currentTarget;
+  button.disabled = true;
+  button.textContent = '检测中…';
+  await new Promise(resolve => setTimeout(resolve, 650));
+  button.disabled = false;
+  button.textContent = '运行检测';
+  notify('模拟检测完成：3 个区域均可访问。');
+  button.focus({preventScroll:true});
+});
+
+const regions = [
+  {id:'virginia', label:'弗吉尼亚', color:'#3276db'},
+  {id:'frankfurt', label:'法兰克福', color:'#8257c7'},
+  {id:'singapore', label:'新加坡', color:'#b66c14'}
+];
+const aggregate = {id:'all', label:'全部区域', color:'var(--positive)'};
+const metrics = {
+  availability:{ label:'可用率', format:v => v.toFixed(2) + '%', tick:v => v + '%', floor:80, ceiling:100 },
+  latency:{ label:'延迟', format:v => Math.round(v) + ' ms', tick:v => v + ' ms', floor:0, ceiling:400 },
+  requests:{ label:'请求量', format:v => Math.round(v).toLocaleString('zh-CN'), tick:v => (v / 1000) + 'k', floor:0, ceiling:24000 }
+};
+const view = {hours:24, percentile:95, compare:false, cursor:null};
+const hiddenSeries = new Set();
+const windowEnd = Date.UTC(2026, 10, 21, 8);
+const hourMs = 3600000;
+const dateLabel = new Intl.DateTimeFormat('zh-CN', {month:'short',day:'numeric',timeZone:'UTC'});
+const timeLabel = new Intl.DateTimeFormat('zh-CN', {hour:'2-digit',minute:'2-digit',timeZone:'UTC'});
+function mean(list) { return list.reduce((sum, v) => sum + v, 0) / list.length; }
+function chartSeries() {
+  const region = $('#region-filter').value;
+  return view.compare ? regions : [regions.find(item => item.id === region) || aggregate];
+}
+function buildData() {
+  const step = view.hours === 24 ? 1 : view.hours === 72 ? 3 : 7;
+  return Array.from({length:view.hours / step}, (_, index) => {
+    const hour = 168 - view.hours + index * step;
+    const time = windowEnd - (168 - hour) * hourMs;
+    const byRegion = {};
+    regions.forEach(({id}, i) => {
+      const samples = Array.from({length:step}, (_, h) => {
+        const k = hour + h;
+        const health = values[k - 96] ?? (k % 16 === 0 ? 98.8 : 99.9);
+        const availability = Math.min(100, 100 - (100 - health) * [.65,1.22,1.13][i]);
+        const latency = (66 + i * 17 + 11 * Math.sin(k * .74 + i) + (100 - availability) * 4) * ({50:1,95:1.78,99:2.55}[view.percentile]);
+        const requests = Math.round(3850 + i * 270 + 1050 * Math.cos(k * Math.PI / 12 + i) + 260 * Math.sin(k * 2));
+        return {availability, latency, requests};
+      });
+      byRegion[id] = Object.fromEntries(Object.keys(metrics).map(key => [key, mean(samples.map(item => item[key]))]));
+    });
+    byRegion.all = Object.fromEntries(Object.keys(metrics).map(key => {
+      const row = regions.map(({id}) => byRegion[id][key]);
+      return [key, key === 'requests' ? row.reduce((a,b) => a+b,0) : mean(row)];
+    }));
+    return {time, byRegion};
+  });
+}
+const chartViews = new Map();
+let chartData = [];
+function timestamp(time) { return `${dateLabel.format(time)} ${timeLabel.format(time)} UTC`; }
+function setCursor(index) {
+  view.cursor = index;
+  chartViews.forEach(({key, svg, output, series, x, y}) => {
+    svg.querySelectorAll('.chart-focus').forEach(el => el.remove());
+    svg.querySelectorAll('.requests-bar').forEach(el => el.classList.toggle('is-active', Number(el.dataset.index) === index));
+    const sample = chartData[index];
+    if (!sample || !series.length) { output.textContent = series.length ? '' : '暂无可见的数据系列'; return; }
+    output.textContent = `${timestamp(sample.time)} | ` + series.map(item => `${item.label}: ${metrics[key].format(sample.byRegion[item.id][key])}`).join(' · ');
+    const marker = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    marker.classList.add('chart-focus');
+    marker.innerHTML = `<line class="cursor" x1="${x(index)}" x2="${x(index)}" y1="0" y2="140"/>` + (key === 'requests' ? '' : series.map(item => `<ellipse class="focus-dot" style="--series-color:${item.color}" cx="${x(index)}" cy="${y(sample.byRegion[item.id][key])}" rx="${3 * 600 / Math.max(svg.clientWidth, 1)}" ry="${3 * 140 / Math.max(svg.clientHeight, 1)}"/>`).join(''));
+    svg.append(marker);
+  });
+}
+function renderCharts() {
+  chartData = buildData();
+  const series = chartSeries();
+  const visible = series.filter(item => !hiddenSeries.has(item.id));
+  const rangeName = {24:'最近 24 小时',72:'最近 3 天',168:'最近 7 天'}[view.hours];
+  all('[data-window]').forEach(el => { el.textContent = rangeName; });
+  $('#percentile-label').textContent = 'p' + view.percentile + ' · ' + rangeName;
+  $('#region-filter').disabled = view.compare;
+  for (const key of ['availability','requests']) {
+    const samples = chartData.flatMap(row => visible.map(item => row.byRegion[item.id][key]));
+    const figure = key === 'availability' ? mean(samples) : mean(samples) * Math.max(1, visible.length);
+    const stat = $(`[data-stat=${key}]`);
+    stat.textContent = samples.length ? metrics[key].format(figure) + (key === 'requests' ? ' 次/小时（平均）' : '（平均）') : '--';
+    stat.classList.toggle('chart-result', key === 'availability' && figure >= 99);
+  }
+  all('[data-chart]').forEach(container => {
+    const key = container.dataset.chart;
+    const metric = metrics[key];
+    const n = chartData.length;
+    const x = index => (index + .5) * 600 / n;
+    const y = value => Math.min(140, Math.max(0, 140 * (metric.ceiling - value) / (metric.ceiling - metric.floor)));
+    const ticks = Array.from({length:5}, (_, i) => metric.ceiling - i * (metric.ceiling - metric.floor) / 4);
+    const grid = ticks.map((_,i) => `<line x1="0" x2="600" y1="${i * 35}" y2="${i * 35}"/>`).join('');
+    const drawings = visible.map((item, seriesIndex) => {
+      if (key === 'requests') {
+        const width = 600 / n * .8 / visible.length;
+        return chartData.map((row, index) => `<rect class="requests-bar" data-index="${index}" style="--series-color:${item.id === 'all' ? '#3276db' : item.color}" x="${x(index) - width * visible.length / 2 + width * seriesIndex}" y="${y(row.byRegion[item.id][key])}" width="${width - .6}" height="${140-y(row.byRegion[item.id][key])}"/>`).join('');
+      }
+      return `<polyline style="--series-color:${item.id === 'all' && key === 'latency' ? '#8257c7' : item.color}" points="${chartData.map((row,index) => `${x(index)},${y(row.byRegion[item.id][key])}`).join(' ')}"/>`;
+    }).join('');
+    const axis = [0,Math.floor(n/3),Math.floor(n*2/3),n-1].map(index => `<span>${(view.hours === 24 ? timeLabel : dateLabel).format(chartData[index].time)}</span>`).join('');
+    const legend = series.map(item => `<button class="legend-toggle" type="button" data-series="${item.id}" aria-pressed="${!hiddenSeries.has(item.id)}"><i class="legend-dot" style="--series-color:${item.id === 'all' ? {availability:item.color, latency:'#8257c7',requests:'#3276db'}[key] : item.color}"></i>${item.label}</button>`).join('');
+    container.innerHTML = `<div class="plot"><div class="y-axis" aria-hidden="true">${ticks.map(tick => `<span>${metric.tick(tick)}</span>`).join('')}</div><svg viewBox="0 0 600 140" preserveAspectRatio="none" role="img" tabindex="0" aria-label="${metric.label}图表；用左右方向键切换数据点" aria-describedby="readout-${key}">${grid}${drawings}</svg><div class="axis">${axis}</div></div><output class="plot-output" id="readout-${key}"></output><div class="legend-buttons" role="group" aria-label="${metric.label}数据系列">${legend}</div>`;
+    const svg = container.querySelector('svg');
+    chartViews.set(key, {key, svg, output:container.querySelector('output'), series:visible, x, y});
+    function point(event) {
+      const bounds = svg.getBoundingClientRect();
+      setCursor(Math.min(n-1, Math.max(0, Math.floor((event.clientX - bounds.left) / bounds.width * n))));
+    }
+    svg.addEventListener('pointermove', point);
+    svg.addEventListener('click', point);
+    svg.addEventListener('pointerleave', () => { if (document.activeElement !== svg) setCursor(null); });
+    svg.addEventListener('focus', () => { if (view.cursor === null) setCursor(n - 1); });
+    svg.addEventListener('blur', () => setCursor(null));
+    svg.addEventListener('keydown', event => {
+      if (!['ArrowLeft','ArrowRight','Home','End','Escape'].includes(event.key)) return;
+      event.preventDefault();
+      const index = view.cursor ?? n - 1;
+      const next = {ArrowLeft:Math.max(0,index-1),ArrowRight:Math.min(n-1,index+1),Home:0,End:n-1,Escape:null}[event.key];
+      setCursor(next);
+    });
+  });
+  setCursor(null);
+}
+function segmented(id, attribute, update) {
+  $(id).addEventListener('click', event => {
+    const button = event.target.closest(`button[data-${attribute}]`);
+    if (!button) return;
+    $(id).querySelectorAll('button').forEach(item => item.setAttribute('aria-pressed', item === button));
+    update(Number(button.dataset[attribute]));
+    renderCharts();
+  });
+}
+segmented('#range','hours', value => { view.hours = value; });
+segmented('#percentile','percentile', value => { view.percentile = value; });
+$('#region-filter').addEventListener('change', () => { hiddenSeries.clear(); renderCharts(); });
+$('#compare').addEventListener('click', event => {
+  view.compare = !view.compare;
+  event.currentTarget.setAttribute('aria-pressed', view.compare);
+  hiddenSeries.clear();
+  renderCharts();
+});
+all('[data-chart]').forEach(container => container.addEventListener('click', event => {
+  const id = event.target.closest('[data-series]')?.dataset.series;
+  if (!id) return;
+  if (hiddenSeries.has(id)) hiddenSeries.delete(id); else hiddenSeries.add(id);
+  renderCharts();
+  container.querySelector(`[data-series=${id}]`).focus({preventScroll:true});
+}));
+$('#export').addEventListener('click', () => {
+  const series = chartSeries().filter(item => !hiddenSeries.has(item.id));
+  if (!series.length) { notify('请先显示至少一个数据系列。'); return; }
+  const keys = Object.keys(metrics);
+  const rows = [['时间（UTC）','区域','可用率（%）',`延迟 P${view.percentile}（毫秒）`,'每小时请求量']];
+  chartData.forEach(({time, byRegion}) => series.forEach(({id, label}) => rows.push([new Date(time).toISOString(),label,...keys.map(key => byRegion[id][key].toFixed(2))])));
+  const url = URL.createObjectURL(new Blob([rows.map(row => row.join(',')).join('\r\n')], {type:'text/csv;charset=utf-8'}));
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = `meridian-sync-${view.hours}h.csv`;
+  link.click();
+  setTimeout(() => URL.revokeObjectURL(url), 5000);
+  notify('已生成图表 CSV。');
+});
+renderCharts();
+
+const seedEvents = [
+  ['法兰克福同步错误率升高','frankfurt','high',false,'11-20T20:00','上游连接偶发超时，正在核对重试队列。'],
+  ['新加坡同步延迟波动','singapore','normal',false,'11-20T16:10','延迟超过日常基线。'],
+  ['弗吉尼亚队列积压','virginia','high',true,'11-20T09:30','扩容后积压已清空。'],
+  ['同步队列计划维护','frankfurt','low',true,'11-19T05:00','维护已完成，无数据丢失。'],
+  ['传输网关证书轮换','singapore','normal',true,'11-18T12:15','证书已更新。'],
+  ['探测告警阈值待复核','virginia','low',false,'11-18T08:40','等待当班人员复核。'],
+  ['法兰克福复制节点重启','frankfurt','normal',true,'11-17T21:25','节点已重新加入集群。'],
+  ['新加坡节点维护窗口','singapore','low',true,'11-16T07:15','计划任务已完成。'],
+  ['弗吉尼亚出口链路短暂抖动','virginia','normal',true,'11-15T17:45','备用链路接管。']
+].map(([title,region,priority,done,date,notes],i) => ({id:`EVT-${101+i}`,title,region,priority,done,time:Date.parse(`2026-${date}:00Z`),notes}));
+const eventKey = 'signal-atlas-zh-events-v1';
+let events = seedEvents;
+try {
+  const saved = JSON.parse(localStorage.getItem(eventKey));
+  if (Array.isArray(saved) && saved.every(item => item && typeof item.title === 'string' && /^EVT-\d+$/.test(item.id) && Number.isFinite(item.time) && regions.some(region => region.id === item.region) && ['high','normal','low'].includes(item.priority))) events = saved;
+} catch {}
+function persistEvents(message) {
+  try { localStorage.setItem(eventKey, JSON.stringify(events)); }
+  catch { message += ' 当前浏览器仅保留本次会话的更改。'; }
+  notify(message);
+}
+const tableState = {filter:'all',page:0,descending:true,visible:[],selected:new Set()};
+const pageSize = 5;
+const eventRows = $('#event-rows');
+const selectPage = $('#select-page');
+const esc = text => String(text).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+function updateSelection() {
+  const count = tableState.selected.size;
+  const checked = tableState.visible.filter(item => tableState.selected.has(item.id)).length;
+  selectPage.checked = checked > 0 && checked === tableState.visible.length;
+  selectPage.indeterminate = checked > 0 && !selectPage.checked;
+  selectPage.disabled = !tableState.visible.length;
+  $('#bulk').hidden = count === 0;
+  $('#selection-count').textContent = `已选 ${count} 条`;
+  $('#resolve-selected').disabled = !events.some(item => tableState.selected.has(item.id) && !item.done);
+}
+function renderEvents() {
+  const query = $('#event-search').value.toLowerCase().trim();
+  const regionFilter = $('#event-region').value;
+  const filtered = events.filter(item => (tableState.filter === 'all' || item.done === (tableState.filter === 'done')) && (regionFilter === 'all' || item.region === regionFilter) && `${item.title} ${item.id}`.toLowerCase().includes(query)).sort((a,b) => tableState.descending ? b.time - a.time : a.time - b.time);
+  const pages = Math.max(1, Math.ceil(filtered.length / pageSize));
+  tableState.page = Math.min(tableState.page, pages - 1);
+  const start = tableState.page * pageSize;
+  tableState.visible = filtered.slice(start,start + pageSize);
+  eventRows.innerHTML = tableState.visible.map(item => {
+    const region = regions.find(entry => entry.id === item.region).label;
+    return `<tr><td><input type="checkbox" data-select="${item.id}" aria-label="选择 ${item.id}" ${tableState.selected.has(item.id) ? 'checked' : ''}></td><td><button type="button" class="event-link" data-edit="${item.id}">${esc(item.title)}</button><span class="event-id">${item.id}${item.priority === 'high' ? ' · 高优先级' : ''}</span></td><td>${region}</td><td>${timestamp(item.time).replace(' UTC','')}</td><td><span class="badge ${item.done ? 'done' : 'open'}">${item.done ? '已处理' : '待处理'}</span></td></tr>`;
+  }).join('') || '<tr><td colspan="5" class="empty-row">没有符合条件的事件</td></tr>';
+  $('#event-count').textContent = filtered.length ? `第 ${start+1}–${start+tableState.visible.length} 条，共 ${filtered.length} 条` : '共 0 条';
+  $('#event-page').textContent = `${tableState.page + 1} / ${pages}`;
+  $('#prev-events').disabled = tableState.page === 0;
+  $('#next-events').disabled = tableState.page + 1 >= pages;
+  updateSelection();
+}
+function resetTableView() {
+  tableState.page = 0;
+  tableState.selected.clear();
+  renderEvents();
+}
+$('#event-search').addEventListener('input',resetTableView);
+$('#event-region').addEventListener('change',resetTableView);
+function setEventFilter(filter) {
+  tableState.filter = filter;
+  all('.event-tab').forEach(button => button.setAttribute('aria-pressed',button.dataset.filter === filter));
+  resetTableView();
+}
+$('#event-tabs').addEventListener('click',event => {
+  const tab = event.target.closest('[data-filter]');
+  if (tab) setEventFilter(tab.dataset.filter);
+});
+$('#sort-events').addEventListener('click',event => {
+  tableState.descending = !tableState.descending;
+  event.currentTarget.textContent = `时间（UTC） ${tableState.descending ? '↓' : '↑'}`;
+  event.currentTarget.parentElement.setAttribute('aria-sort',tableState.descending ? 'descending' : 'ascending');
+  renderEvents();
+});
+$('#prev-events').addEventListener('click', () => { tableState.page--; renderEvents(); });
+$('#next-events').addEventListener('click', () => { tableState.page++; renderEvents(); });
+selectPage.addEventListener('change', () => {
+  tableState.visible.forEach(({id}) => selectPage.checked ? tableState.selected.add(id) : tableState.selected.delete(id));
+  renderEvents();
+});
+eventRows.addEventListener('change',event => {
+  const id = event.target.dataset.select;
+  if (!id) return;
+  if (event.target.checked) tableState.selected.add(id); else tableState.selected.delete(id);
+  updateSelection();
+});
+$('#clear-selection').addEventListener('click', () => { tableState.selected.clear(); renderEvents(); selectPage.focus(); });
+const confirmation = $('#bulk-confirm');
+$('#resolve-selected').addEventListener('click', () => {
+  const count = events.filter(item => tableState.selected.has(item.id) && !item.done).length;
+  $('#bulk-summary').textContent = `将 ${count} 条待处理事件标为已处理。`;
+  confirmation.returnValue = '';
+  confirmation.showModal();
+});
+confirmation.addEventListener('close', () => {
+  if (confirmation.returnValue !== 'resolve') return;
+  const selected = events.filter(item => tableState.selected.has(item.id) && !item.done);
+  selected.forEach(item => { item.done = true; });
+  tableState.selected.clear();
+  renderEvents();
+  ($('#select-page').disabled ? $('#event-search') : $('#select-page')).focus({preventScroll:true});
+  persistEvents(`已处理 ${selected.length} 条事件。`);
+});
+const drawer = $('#event-drawer');
+const eventForm = $('#event-form');
+const titleField = eventForm.elements.namedItem('title');
+let editing = null;
+function openEditor(item) {
+  editing = item;
+  eventForm.reset();
+  titleField.setCustomValidity('');
+  $('#drawer-title').textContent = item ? '编辑事件' : '新建事件';
+  $('#drawer-meta').textContent = item ? `${item.id} · ${timestamp(item.time)}` : '';
+  $('#drawer-meta').hidden = !item;
+  for (const key of ['title','region','priority','notes']) if (item) eventForm.elements.namedItem(key).value = item[key] || '';
+  eventForm.elements.namedItem('done').checked = item?.done ?? false;
+  drawer.showModal();
+}
+$('#new-event').addEventListener('click', () => openEditor(null));
+eventRows.addEventListener('click', event => {
+  const id = event.target.closest('[data-edit]')?.dataset.edit;
+  if (id) openEditor(events.find(item => item.id === id));
+});
+$('#close-drawer').addEventListener('click', () => drawer.close());
+$('#cancel-event').addEventListener('click', () => drawer.close());
+titleField.addEventListener('input', () => titleField.setCustomValidity(''));
+eventForm.addEventListener('submit',event => {
+  event.preventDefault();
+  const data = new FormData(eventForm);
+  const title = data.get('title').trim();
+  if (!title) { titleField.setCustomValidity('请输入事件标题。'); titleField.reportValidity(); return; }
+  const draft = {title,region:data.get('region'),priority:data.get('priority'),notes:data.get('notes').trim(),done:data.has('done')};
+  const isNew = !editing;
+  const record = editing || {id:`EVT-${1 + Math.max(100,...events.map(item => Number(item.id.slice(4))))}`,time:Math.max(windowEnd,Date.now())};
+  Object.assign(record,draft);
+  if (isNew) events = [...events,record];
+  drawer.close();
+  if (isNew) {
+    $('#event-search').value = '';
+    $('#event-region').value = 'all';
+    setEventFilter('all');
+    if (!tableState.descending) $('#sort-events').click();
+  } else renderEvents();
+  ($(`[data-edit=${record.id}]`) || $('#new-event')).focus({preventScroll:true});
+  persistEvents(isNew ? '事件已创建。' : '事件已更新。');
+});
+renderEvents();
+</script>
+</body>
+</html>

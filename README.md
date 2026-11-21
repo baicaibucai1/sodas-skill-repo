@@ -26,6 +26,17 @@ tools it tells the agent to run. No package manager, no build step.
 |---|---|---|
 | [flat-block-diagram](flat-block-diagram/SKILL.md) | layered software-architecture diagrams as editable SVG from a JSON spec | 1.0 |
 | [threejs-pixel-3d](threejs-pixel-3d/SKILL.md) | pixel-art-style 3D with three.js: low-res render target + NearestFilter upscale, verified by block uniformity | 1.0 |
+| [ui-style-library](ui-style-library/SKILL.md) | UI style selection, reusable samples, and a project-extensible catalog | 1.0 |
+
+### [ui-style-library](ui-style-library/SKILL.md)
+
+A reusable UI style catalog. Once the host loads the skill, it asks for a style
+before implementing a new UI or a visual redesign unless the style has already
+been chosen. It can discover project-specific additions and pin project versions.
+
+- First style: **极简主义** (`minimalism@1.0.0`), compact navigation and flat data surfaces.
+- [Offline interactive demo](ui-style-library/styles/minimalism/1.0.0/demo.html) and [style guide](ui-style-library/styles/minimalism/1.0.0/guide.md).
+- Install the full directory. Node.js 18+ is optional for catalog search and validation.
 
 ### [flat-block-diagram](flat-block-diagram/SKILL.md)
 
@@ -117,3 +128,4 @@ files with a relative import that breaks under `asset://`.
 |---|---|---|
 | flat-block-diagram | 1.0 | yes — used on real repos, 3 latent layout bugs found and fixed in the process |
 | threejs-pixel-3d | 1.0 | yes — verified on this machine, 14/14 assertions, block-uniformity A/B |
+| ui-style-library | 1.0 | catalog and assets verified; skill activation depends on the host |
