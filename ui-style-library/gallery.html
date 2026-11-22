@@ -111,6 +111,13 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
 .toast[hidden]{display:none}
 @media(max-width:820px){.hero{flex-direction:column;align-items:flex-start;padding-top:34px}.hero-meta{display:none}.nav nav{display:none}.wrap{width:calc(100% - 32px)}.toolbar{top:62px}}
 @media(max-width:560px){.grid{grid-template-columns:1fr}.meta-grid{grid-template-columns:1fr}.search kbd{display:none}}
+
+.thumb-css{display:block;position:absolute;inset:0;background:var(--c2,#fff);overflow:hidden;isolation:isolate}
+.thumb-css .band{position:absolute;left:0;bottom:0;width:84%;height:64%;background:var(--c1,#16181c);clip-path:polygon(0 22%,100% 0,100% 100%,0 100%)}
+.thumb-css .blob{position:absolute;right:-9%;top:-18%;width:56%;aspect-ratio:1;border-radius:50%;background:var(--c3,#888);opacity:.92}
+.thumb-css .glyph{position:absolute;left:15px;bottom:14px;font:800 clamp(22px,3.6vw,34px)/1 system-ui,sans-serif;color:var(--c2,#fff);letter-spacing:-.02em;text-shadow:0 1px 3px rgb(0 0 0 / .3)}
+.thumb-css .tiny{position:absolute;right:12px;top:12px;font:9.5px/1 ui-monospace,monospace;color:var(--c1,#16181c);opacity:.62;max-width:52%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-align:right}
+.sheet-cover{position:relative;aspect-ratio:1200/630;border-radius:10px;overflow:hidden}
 </style>
 </head>
 <body>
@@ -129,7 +136,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
   <div class="grid" id="grid" aria-live="polite">
 <article class="card" data-slug="neo-brutalist">
     <button class="thumb" type="button" data-open="neo-brutalist" aria-label="查看 新野兽派 详情">
-      <img src="data/covers/neo-brutalist.svg" alt="新野兽派 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#000000;--c2:#ffffff;--c3:#ff006e"><span class="band"></span><span class="blob"></span><span class="glyph">NE</span><span class="tiny">neo-brutalist</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="neo-brutalist" aria-pressed="false" aria-label="收藏 新野兽派"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -139,7 +146,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="editorial">
     <button class="thumb" type="button" data-open="editorial" aria-label="查看 编辑杂志风 详情">
-      <img src="data/covers/editorial.svg" alt="编辑杂志风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#1C1C1C;--c2:#F9F8F6;--c3:#1C1C1C"><span class="band"></span><span class="blob"></span><span class="glyph">ED</span><span class="tiny">editorial</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="editorial" aria-pressed="false" aria-label="收藏 编辑杂志风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -149,7 +156,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="neumorphism">
     <button class="thumb" type="button" data-open="neumorphism" aria-label="查看 新拟物派 详情">
-      <img src="data/covers/neumorphism.svg" alt="新拟物派 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#e0e5ec;--c2:#d1d9e6;--c3:#6d5dfc"><span class="band"></span><span class="blob"></span><span class="glyph">NE</span><span class="tiny">neumorphism</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="neumorphism" aria-pressed="false" aria-label="收藏 新拟物派"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -159,7 +166,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="bento-grid">
     <button class="thumb" type="button" data-open="bento-grid" aria-label="查看 便当盒布局 详情">
-      <img src="data/covers/bento-grid.svg" alt="便当盒布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#18181b;--c2:#fafafa;--c3:#3b82f6"><span class="band"></span><span class="blob"></span><span class="glyph">BE</span><span class="tiny">bento-grid</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="bento-grid" aria-pressed="false" aria-label="收藏 便当盒布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -169,7 +176,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="corporate-clean">
     <button class="thumb" type="button" data-open="corporate-clean" aria-label="查看 企业简洁风 详情">
-      <img src="data/covers/corporate-clean.svg" alt="企业简洁风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#1e40af;--c2:#f8fafc;--c3:#3b82f6"><span class="band"></span><span class="blob"></span><span class="glyph">CO</span><span class="tiny">corporate-clean</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="corporate-clean" aria-pressed="false" aria-label="收藏 企业简洁风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -179,7 +186,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="minimalist-flat">
     <button class="thumb" type="button" data-open="minimalist-flat" aria-label="查看 极简扁平风 详情">
-      <img src="data/covers/minimalist-flat.svg" alt="极简扁平风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#000000;--c2:#ffffff;--c3:#ff3366"><span class="band"></span><span class="blob"></span><span class="glyph">MI</span><span class="tiny">minimalist-flat</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="minimalist-flat" aria-pressed="false" aria-label="收藏 极简扁平风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -189,7 +196,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="soft-ui">
     <button class="thumb" type="button" data-open="soft-ui" aria-label="查看 柔和界面风 详情">
-      <img src="data/covers/soft-ui.svg" alt="柔和界面风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#6366f1;--c2:#f1f5f9;--c3:#ec4899"><span class="band"></span><span class="blob"></span><span class="glyph">SO</span><span class="tiny">soft-ui</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="soft-ui" aria-pressed="false" aria-label="收藏 柔和界面风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -199,7 +206,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="natural-organic">
     <button class="thumb" type="button" data-open="natural-organic" aria-label="查看 自然有机风 详情">
-      <img src="data/covers/natural-organic.svg" alt="自然有机风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#5c4033;--c2:#faf6f1;--c3:#8b9d77"><span class="band"></span><span class="blob"></span><span class="glyph">NA</span><span class="tiny">natural-organic</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="natural-organic" aria-pressed="false" aria-label="收藏 自然有机风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -209,7 +216,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="modern-gradient">
     <button class="thumb" type="button" data-open="modern-gradient" aria-label="查看 现代渐变风 详情">
-      <img src="data/covers/modern-gradient.svg" alt="现代渐变风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#8b5cf6;--c2:#1e1b4b;--c3:#06b6d4"><span class="band"></span><span class="blob"></span><span class="glyph">MO</span><span class="tiny">modern-gradient</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="modern-gradient" aria-pressed="false" aria-label="收藏 现代渐变风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -219,7 +226,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="retro-vintage">
     <button class="thumb" type="button" data-open="retro-vintage" aria-label="查看 复古怀旧风 详情">
-      <img src="data/covers/retro-vintage.svg" alt="复古怀旧风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#8b4513;--c2:#f5e6d3;--c3:#c94c4c"><span class="band"></span><span class="blob"></span><span class="glyph">RE</span><span class="tiny">retro-vintage</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="retro-vintage" aria-pressed="false" aria-label="收藏 复古怀旧风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -229,7 +236,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="dark-mode">
     <button class="thumb" type="button" data-open="dark-mode" aria-label="查看 暗黑模式 详情">
-      <img src="data/covers/dark-mode.svg" alt="暗黑模式 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#3b82f6;--c2:#0f172a;--c3:#22c55e"><span class="band"></span><span class="blob"></span><span class="glyph">DA</span><span class="tiny">dark-mode</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="dark-mode" aria-pressed="false" aria-label="收藏 暗黑模式"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -239,7 +246,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="macos-vibrancy">
     <button class="thumb" type="button" data-open="macos-vibrancy" aria-label="查看 macOS 毛玻璃 详情">
-      <img src="data/covers/macos-vibrancy.svg" alt="macOS 毛玻璃 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#3a3a3c;--c2:#1c1c1e;--c3:#0a84ff"><span class="band"></span><span class="blob"></span><span class="glyph">MA</span><span class="tiny">macos-vibrancy</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="macos-vibrancy" aria-pressed="false" aria-label="收藏 macOS 毛玻璃"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -249,7 +256,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="geometric-bold">
     <button class="thumb" type="button" data-open="geometric-bold" aria-label="查看 几何大胆风 详情">
-      <img src="data/covers/geometric-bold.svg" alt="几何大胆风 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#000000;--c2:#ffffff;--c3:#ff0000"><span class="band"></span><span class="blob"></span><span class="glyph">GE</span><span class="tiny">geometric-bold</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="geometric-bold" aria-pressed="false" aria-label="收藏 几何大胆风"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -259,7 +266,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="masonry-flow">
     <button class="thumb" type="button" data-open="masonry-flow" aria-label="查看 瀑布流布局 详情">
-      <img src="data/covers/masonry-flow.svg" alt="瀑布流布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#1a1a2e;--c2:#f5f5f5;--c3:#e94560"><span class="band"></span><span class="blob"></span><span class="glyph">MA</span><span class="tiny">masonry-flow</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="masonry-flow" aria-pressed="false" aria-label="收藏 瀑布流布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -269,7 +276,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="split-screen">
     <button class="thumb" type="button" data-open="split-screen" aria-label="查看 分屏布局 详情">
-      <img src="data/covers/split-screen.svg" alt="分屏布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#0f0f0f;--c2:#ffffff;--c3:#ff4757"><span class="band"></span><span class="blob"></span><span class="glyph">SP</span><span class="tiny">split-screen</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="split-screen" aria-pressed="false" aria-label="收藏 分屏布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -279,7 +286,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="full-page-scroll">
     <button class="thumb" type="button" data-open="full-page-scroll" aria-label="查看 全屏滚动布局 详情">
-      <img src="data/covers/full-page-scroll.svg" alt="全屏滚动布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#000000;--c2:#ffffff;--c3:#6366f1"><span class="band"></span><span class="blob"></span><span class="glyph">FU</span><span class="tiny">full-page-scroll</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="full-page-scroll" aria-pressed="false" aria-label="收藏 全屏滚动布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -289,7 +296,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="timeline-vertical">
     <button class="thumb" type="button" data-open="timeline-vertical" aria-label="查看 垂直时间线布局 详情">
-      <img src="data/covers/timeline-vertical.svg" alt="垂直时间线布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#1e293b;--c2:#f8fafc;--c3:#3b82f6"><span class="band"></span><span class="blob"></span><span class="glyph">VE</span><span class="tiny">timeline-vertical</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="timeline-vertical" aria-pressed="false" aria-label="收藏 垂直时间线布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -299,7 +306,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="card-stack">
     <button class="thumb" type="button" data-open="card-stack" aria-label="查看 卡片堆叠布局 详情">
-      <img src="data/covers/card-stack.svg" alt="卡片堆叠布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#1a1a2e;--c2:#f0f0f5;--c3:#6c5ce7"><span class="band"></span><span class="blob"></span><span class="glyph">CA</span><span class="tiny">card-stack</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="card-stack" aria-pressed="false" aria-label="收藏 卡片堆叠布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -309,7 +316,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="sidebar-fixed">
     <button class="thumb" type="button" data-open="sidebar-fixed" aria-label="查看 固定侧边栏布局 详情">
-      <img src="data/covers/sidebar-fixed.svg" alt="固定侧边栏布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#1e293b;--c2:#f8fafc;--c3:#3b82f6"><span class="band"></span><span class="blob"></span><span class="glyph">FI</span><span class="tiny">sidebar-fixed</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="sidebar-fixed" aria-pressed="false" aria-label="收藏 固定侧边栏布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -319,7 +326,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="magazine-grid">
     <button class="thumb" type="button" data-open="magazine-grid" aria-label="查看 杂志网格布局 详情">
-      <img src="data/covers/magazine-grid.svg" alt="杂志网格布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#1a1a1a;--c2:#fafafa;--c3:#e63946"><span class="band"></span><span class="blob"></span><span class="glyph">MA</span><span class="tiny">magazine-grid</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="magazine-grid" aria-pressed="false" aria-label="收藏 杂志网格布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -329,7 +336,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="hero-fullscreen">
     <button class="thumb" type="button" data-open="hero-fullscreen" aria-label="查看 全屏英雄区布局 详情">
-      <img src="data/covers/hero-fullscreen.svg" alt="全屏英雄区布局 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#ffffff;--c2:#000000;--c3:#ff6b6b"><span class="band"></span><span class="blob"></span><span class="glyph">FU</span><span class="tiny">hero-fullscreen</span></span>
       <span class="type">layout</span>
     </button>
     <button class="fav" type="button" data-fav="hero-fullscreen" aria-pressed="false" aria-label="收藏 全屏英雄区布局"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -339,7 +346,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="claymorphism">
     <button class="thumb" type="button" data-open="claymorphism" aria-label="查看 粘土拟态 详情">
-      <img src="data/covers/claymorphism.svg" alt="粘土拟态 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#f8b4d9;--c2:#fef3c7;--c3:#a7f3d0"><span class="band"></span><span class="blob"></span><span class="glyph">CL</span><span class="tiny">claymorphism</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="claymorphism" aria-pressed="false" aria-label="收藏 粘土拟态"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -349,7 +356,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="notion-style">
     <button class="thumb" type="button" data-open="notion-style" aria-label="查看 Notion 风格 详情">
-      <img src="data/covers/notion-style.svg" alt="Notion 风格 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#37352f;--c2:#ffffff;--c3:#2eaadc"><span class="band"></span><span class="blob"></span><span class="glyph">NO</span><span class="tiny">notion-style</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="notion-style" aria-pressed="false" aria-label="收藏 Notion 风格"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -359,7 +366,7 @@ dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
     </div></article>
 <article class="card" data-slug="stripe-style">
     <button class="thumb" type="button" data-open="stripe-style" aria-label="查看 Stripe 风格 详情">
-      <img src="data/covers/stripe-style.svg" alt="Stripe 风格 风格封面" loading="lazy" width="1200" height="630">
+      <span class="thumb-css" aria-hidden="true" style="--c1:#635bff;--c2:#0a2540;--c3:#00d4ff"><span class="band"></span><span class="blob"></span><span class="glyph">ST</span><span class="tiny">stripe-style</span></span>
       <span class="type">visual</span>
     </button>
     <button class="fav" type="button" data-fav="stripe-style" aria-pressed="false" aria-label="收藏 Stripe 风格"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -400,12 +407,22 @@ function filtered(){
   if (state.sort === 'name') list.sort((a,b) => a.name.localeCompare(b.name,'zh-Hans-CN'));
   return list;
 }
+function thumbMarkup(style) {
+  const c = style.colors || {};
+  const accent = (c.accent || []).filter(Boolean);
+  const safe = value => String(value || '').replace(/["'<>;]/g, '');
+  const vars = [safe(c.primary), safe(c.secondary), safe(accent[0])]
+    .map((value, i) => value || ['#16181c', '#ffffff', '#8a8f96'][i]);
+  const initial = esc(String(style.nameEn || style.name || '?').trim().slice(0, 2).toUpperCase());
+  return `<span class="thumb-css" aria-hidden="true" style="--c1:${vars[0]};--c2:${vars[1]};--c3:${vars[2]}"><span class="band"></span><span class="blob"></span><span class="glyph">${initial}</span><span class="tiny">${esc(style.slug)}</span></span>`;
+}
+
 function card(s){
   const fav = favs.has(s.slug);
   const tags = [...(s.tags||[])].slice(0,3).map(t => `<span>${esc(TAGS[t]||t)}</span>`).join('');
   return `<article class="card" data-slug="${esc(s.slug)}">
     <button class="thumb" type="button" data-open="${esc(s.slug)}" aria-label="查看 ${esc(s.name)} 详情">
-      <img src="data/covers/${esc(s.slug)}.svg" alt="${esc(s.name)} 风格封面" loading="lazy" width="1200" height="630">
+      ${thumbMarkup(s)}
       <span class="type">${s.styleType === 'layout' ? 'layout' : 'visual'}</span>
     </button>
     <button class="fav" type="button" data-fav="${esc(s.slug)}" aria-pressed="${fav}" aria-label="${fav?'取消收藏':'收藏'} ${esc(s.name)}"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
@@ -438,7 +455,7 @@ function openSheet(slug){
   const sw = [['主色', s.colors?.primary], ['底色', s.colors?.secondary], ...accents.map((c,i) => ['强调 ' + (i+1), c])].filter(([,c]) => c);
   $('#sheet-title').textContent = s.name;
   $('#sheet-body').innerHTML = `
-    <div class="sheet-cover"><img src="data/covers/${esc(s.slug)}.svg" alt="${esc(s.name)} 封面"></div>
+    <div class="sheet-cover">${thumbMarkup(s)}</div>
     <div class="sheet-title"><h3>${esc(s.name)}</h3><p class="en">${esc(s.nameEn)}</p></div>
     <p class="desc">${esc(s.description)}</p>
     <dl class="meta-grid"><div><dt>类型</dt><dd>${s.styleType === 'layout' ? '布局模式' : '视觉风格'}</dd></div><div><dt>场景</dt><dd>${esc(CATEGORIES[s.category] || s.category)}</dd></div></dl>

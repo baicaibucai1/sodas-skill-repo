@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>风格样板册 · 12 个真实风格</title>
+<style>
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f6f6f4;color:#16181c;font:14px/1.6 system-ui,-apple-system,'Segoe UI','Microsoft YaHei',sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3,p,figure{margin:0}a{color:inherit}button{font:inherit;color:inherit;cursor:pointer}
+.wrap{width:min(100% - 48px,1200px);margin-inline:auto}
+header.top{border-bottom:1px solid #e2e3df;background:rgba(246,246,244,.92);backdrop-filter:blur(10px);position:sticky;top:0;z-index:10}
+.top-in{display:flex;align-items:center;gap:14px;height:60px}
+.logo{display:flex;align-items:center;gap:9px;font-weight:700;letter-spacing:-.02em;white-space:nowrap}
+.spacer{margin-left:auto}
+.hint{font-size:12px;color:#6d7278;text-align:right}
+.logo i{width:22px;height:22px;border-radius:6px;background:#16181c;color:#fff;display:grid;place-items:center;font-style:normal;font-size:11px}
+.spacer{margin-left:auto}
+.hint{font-size:12px;color:#6d7278}
+.hero{padding:46px 0 8px}
+.eyebrow{font:11px/1 ui-monospace,monospace;letter-spacing:.16em;text-transform:uppercase;color:#8b9096;margin-bottom:12px}
+.hero h1{font-size:clamp(28px,4vw,44px);line-height:1.08;letter-spacing:-.03em;font-weight:700}
+.hero p{color:#5d6268;max-width:44em;margin-top:14px;font-size:14.5px}
+.note{margin-top:18px;padding:12px 14px;border:1px solid #e2e3df;border-left:3px solid #16181c;border-radius:8px;background:#fff;font-size:13px;color:#4c5157}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px;padding:26px 0 70px}
+.card{border:1px solid #e2e3df;border-radius:14px;background:#fff;overflow:hidden;transition:box-shadow .18s,transform .18s}
+.card:hover{box-shadow:0 14px 34px rgb(20 22 26 / .1);transform:translateY(-2px)}
+.stage{position:relative;aspect-ratio:1200/630;overflow:hidden;isolation:isolate}
+.label{padding:13px 15px 4px;display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.label h3{font-size:15px;font-weight:650;letter-spacing:-.01em;white-space:nowrap}
+.label em{font:10.5px/1.4 ui-monospace,monospace;color:#8b9096;font-style:normal;text-align:right;flex:none}
+.desc{padding:0 15px 12px;font-size:12.5px;color:#6d7278;line-height:1.55}
+.card .meta{padding:0 15px 15px;display:flex;gap:6px;flex-wrap:wrap}
+.card .meta span{font:10.5px/1 ui-monospace,monospace;color:#5d6268;background:#f1f2ee;border-radius:5px;padding:4px 6px}
+
+/* ---------- 1 新野兽派 ---------- */
+.nb{background:#fff6d8;display:grid;place-items:center}
+.nb .frame{border:4px solid #000;background:#ff006e;box-shadow:10px 10px 0 #000;padding:16px 20px;text-align:center}
+.nb .frame b{display:block;font:900 30px/1 'Arial Black',system-ui,sans-serif;letter-spacing:-.02em;color:#000}
+.nb .frame small{display:block;font:700 10px/1.6 system-ui;letter-spacing:.22em;color:#000}
+.nb .chips{position:absolute;left:16px;bottom:14px;display:flex;gap:6px}
+.nb .chips i{width:16px;height:16px;border:3px solid #000}
+/* ---------- 2 编辑杂志风 ---------- */
+.ed{background:#fbfaf7;padding:26px 34px;display:flex;flex-direction:column;justify-content:center}
+.ed .kicker{font:10px/1.6 ui-monospace,monospace;letter-spacing:.28em;color:#8a8478;text-transform:uppercase;border-bottom:1px solid #d9d5cb;padding-bottom:7px;display:flex;justify-content:space-between}
+.ed h4{font:400 clamp(26px,4.2vw,42px)/1.02 Georgia,'Songti SC',serif;letter-spacing:-.02em;margin:14px 0 8px;color:#1c1a17}
+.ed .rule{width:52px;height:1px;background:#1c1a17;margin:8px 0 12px}
+.ed .cols{column-count:2;column-gap:18px;font-size:10.5px;line-height:1.75;color:#4a463f;text-align:justify}
+/* ---------- 3 新拟物派 ---------- */
+.nm{background:#e8e9ec;display:grid;place-items:center}
+.nm .pad{border-radius:20px;background:#e8e9ec;box-shadow:9px 9px 20px #c8cace,-9px -9px 20px #ffffff;padding:20px 26px;text-align:center}
+.nm .pad b{font:600 17px/1.3 system-ui;color:#565b63;letter-spacing:-.01em}
+.nm .pad .knob{margin:14px auto 0;width:52px;height:52px;border-radius:50%;background:#e8e9ec;box-shadow:inset 5px 5px 10px #c8cace,inset -5px -5px 10px #fff;display:grid;place-items:center;font:600 9px/1 system-ui;color:#6c727a;letter-spacing:.1em}
+/* ---------- 4 便当盒布局 ---------- */
+.bt{background:#101014;padding:18px;display:grid;grid-template-columns:1.4fr 1fr 1fr;grid-template-rows:1fr 1fr;gap:8px}
+.bt div{border-radius:9px;background:#1d1d24;display:grid;place-items:center;font:10px/1.4 ui-monospace,monospace;color:#8a8a99;overflow:hidden;position:relative}
+.bt div:first-child{grid-row:span 2;background:linear-gradient(140deg,#2b2b39,#15151c)}
+.bt div:nth-child(2){background:#7c5cff}
+.bt div:nth-child(3){background:#22d3a5}
+.bt div:nth-child(4){grid-column:span 2;background:#1d1d24}
+.bt span{font-size:16px;font-weight:700;color:#fff}
+/* ---------- 5 极简扁平风 ---------- */
+.mf{background:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 40px;gap:20px}
+.mf .txt b{display:block;font:700 26px/1.1 system-ui;letter-spacing:-.04em;color:#111}
+.mf .txt small{display:block;margin-top:9px;font-size:11px;color:#777;max-width:16em;line-height:1.6}
+.mf .swatch{display:flex;gap:7px;margin-top:14px}
+.mf .swatch i{width:26px;height:26px}
+.mf .shape{width:104px;height:104px;border-radius:50%;background:#ff4d2e;flex:none}
+/* ---------- 6 柔和界面风 ---------- */
+.sf{background:linear-gradient(160deg,#fdf2f8,#eef4ff);display:grid;place-items:center}
+.sf .panel{background:#fff;border-radius:22px;padding:18px 22px;box-shadow:0 18px 40px rgb(120 110 180 / .16);text-align:center}
+.sf .panel b{font:600 15px/1.3 system-ui;color:#3f3a55}
+.sf .panel small{display:block;font-size:10.5px;color:#8d87a3;margin-top:5px}
+.sf .panel button{margin-top:13px;border:0;border-radius:999px;padding:9px 22px;background:linear-gradient(135deg,#a78bfa,#7dd3fc);color:#fff;font-size:11.5px;font-weight:600}
+/* ---------- 7 企业简洁风 ---------- */
+.cp{background:#f7f9fc;display:flex;flex-direction:column}
+.cp .bar{height:26px;background:#fff;border-bottom:1px solid #e3e8ef;display:flex;align-items:center;gap:6px;padding:0 12px}
+.cp .bar i{width:7px;height:7px;border-radius:2px;background:#2563eb}.cp .bar u{width:42px;height:5px;border-radius:3px;background:#dbe3ee;text-decoration:none}
+.cp .body{flex:1;display:flex;align-items:center;justify-content:space-between;padding:0 22px;gap:14px}
+.cp .body b{display:block;font:650 17px/1.25 system-ui;letter-spacing:-.02em;color:#0f172a}
+.cp .body small{display:block;margin-top:6px;font-size:10.5px;color:#64748b;max-width:15em;line-height:1.55}
+.cp .body button{border:0;border-radius:6px;background:#2563eb;color:#fff;padding:8px 15px;font-size:11px;font-weight:600}
+.cp .stats{display:flex;gap:16px;padding:0 22px 16px}
+.cp .stats div{font:10px/1.4 ui-monospace,monospace;color:#94a3b8}.cp .stats b{display:block;font:650 15px/1.2 system-ui;color:#0f172a;font-family:system-ui}
+/* ---------- 8 暗黑模式 ---------- */
+.dk{background:#0b0f14;padding:22px;display:flex;flex-direction:column;justify-content:space-between}
+.dk .row{display:flex;align-items:center;gap:8px;font:10px/1 ui-monospace,monospace;color:#5b6675}
+.dk .row b{color:#e6edf3;font:600 12px/1.3 system-ui;letter-spacing:-.01em}
+.dk .dot{width:8px;height:8px;border-radius:50%;background:#3fb950;box-shadow:0 0 0 3px #3fb95022}
+.dk .panel{border:1px solid #1f2937;border-radius:10px;padding:12px;background:#111823}
+.dk .panel b{display:block;font:600 16px/1 system-ui;color:#e6edf3;font-variant-numeric:tabular-nums}
+.dk .panel small{font-size:10px;color:#6b7688}
+.dk .bars{display:flex;align-items:flex-end;gap:4px;height:38px;margin-top:10px}
+.dk .bars i{flex:1;background:linear-gradient(#58a6ff,#1f6feb);border-radius:2px 2px 0 0;opacity:.85}
+/* ---------- 9 macOS 毛玻璃 ---------- */
+.mc{background:linear-gradient(140deg,#2b1b52,#0f2b46 55%,#123c3a);display:grid;place-items:center;padding:20px}
+.mc .win{border-radius:12px;background:rgba(28,28,32,.52);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.16);box-shadow:0 22px 50px rgb(0 0 0 / .45);padding:13px 15px;width:76%}
+.mc .win .dots{display:flex;gap:5px;margin-bottom:9px}.mc .win .dots i{width:8px;height:8px;border-radius:50%}
+.mc .win .dots i:nth-child(1){background:#ff5f56}.mc .win .dots i:nth-child(2){background:#ffbd2e}.mc .win .dots i:nth-child(3){background:#27c93f}
+.mc .win b{display:block;font:600 14px/1.3 system-ui;color:#fff}
+.mc .win small{display:block;font-size:10px;color:rgba(255,255,255,.62);margin-top:4px}
+.mc .win .pill{display:inline-block;margin-top:9px;padding:4px 10px;border-radius:999px;background:rgba(255,255,255,.14);font:10px/1 system-ui;color:#fff}
+/* ---------- 10 玻璃拟态 ---------- */
+.gl{background:radial-gradient(circle at 22% 18%,#ff9edb,transparent 46%),radial-gradient(circle at 80% 30%,#7cc4ff,transparent 44%),radial-gradient(circle at 55% 88%,#b89dff,transparent 50%),#141a2e;display:grid;place-items:center}
+.gl .card2{border-radius:18px;background:rgba(255,255,255,.14);backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.42);padding:18px 22px;text-align:center;width:70%}
+.gl .card2 b{font:600 15px/1.3 system-ui;color:#fff}
+.gl .card2 small{display:block;margin-top:5px;font-size:10px;color:rgba(255,255,255,.8)}
+.gl .card2 i{display:block;margin:12px auto 0;width:38px;height:38px;border-radius:50%;background:rgba(255,255,255,.34);border:1px solid rgba(255,255,255,.6)}
+/* ---------- 11 量化线场 ---------- */
+.ql{background:#fafaf8;display:grid;place-items:center}
+.ql .field{width:66%;aspect-ratio:.70;background:#2152e7;border-radius:14px;padding:14px;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden;position:relative}
+.ql .lines{display:flex;gap:2px;justify-content:center;align-items:center;flex:1;padding:8px 0}
+.ql .lines i{width:2px;background:#fafaf8;border-radius:1px}
+.ql .cap{display:flex;justify-content:space-between;font:10px/1 ui-monospace,monospace;color:rgba(255,255,255,.86)}
+.ql .cap b{font:400 13px/1 Georgia,serif}
+/* ---------- 12 瑞士国际风格 ---------- */
+.sw{background:#f4f4f1;padding:24px 30px;display:flex;flex-direction:column;justify-content:space-between}
+.sw .top{display:flex;justify-content:space-between;align-items:baseline;border-bottom:2px solid #111;padding-bottom:6px;font:10px/1 ui-monospace,monospace;letter-spacing:.1em}
+.sw h4{font:700 clamp(22px,3.6vw,34px)/.96 Helvetica,Arial,sans-serif;letter-spacing:-.04em;color:#111;margin:14px 0 0;text-transform:uppercase}
+.sw .blocks{display:flex;gap:6px;margin-top:auto}
+.sw .blocks i{flex:1;height:26px}
+.sw .blocks i:nth-child(1){background:#e4002b}.sw .blocks i:nth-child(2){background:#111}.sw .blocks i:nth-child(3){background:#f4f4f1;border:1px solid #111}
+footer.foot{border-top:1px solid #e2e3df;padding:24px 0 44px;color:#8b9096;font-size:12px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+@media(max-width:700px){.hint{display:none}.wrap{width:calc(100% - 32px)}.hero{padding-top:30px}.grid{grid-template-columns:1fr;gap:16px}.ed{padding:20px 22px}.mf{padding:0 22px}.sw{padding:18px 20px}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap top-in"><span class="logo"><i>S</i>风格样板册</span><span class="spacer"></span><span class="hint">12 个真实样板 · 纯 CSS 绘制 · 不依赖任何图片</span></div></header>
+<main class="wrap">
+  <div class="hero"><p class="eyebrow">Style samples / no images</p><h1>把风格画出来，而不只是描述</h1><p>下面每一个预览都是现场渲染的真实界面片段：同一套布局语言、配色、字体关系与质感。因为全部由 CSS 绘制，断网、禁脚本或预览器屏蔽图片时，这里依然完整可见。</p><div class="note">这一页用于验证「拿风格给别的 Agent 看」是否可行。每张卡片本身就是可复制的实现参照，而不是一张截图。</div></div>
+  <div class="grid">
+    <article class="card"><div class="stage nb"><div class="frame"><b>BRUTAL</b><small>RAW · BOLD · UNAPOLOGETIC</small></div><div class="chips"><i style="background:#ff006e"></i><i style="background:#ccff00"></i><i style="background:#00d9ff"></i><i style="background:#000"></i></div></div><div class="label"><h3>新野兽派</h3><em>Neo-Brutalist</em></div><p class="desc">粗黑边框、硬阴影、无圆角，用冲撞色块制造压迫感。</p><div class="meta"><span>4px 边框</span><span>12px 硬阴影</span><span>零圆角</span></div></article>
+    <article class="card"><div class="stage ed"><div class="kicker"><span>The Quarterly</span><span>No. 14</span></div><h4>On the quiet<br>architecture of type</h4><div class="rule"></div><div class="cols">衬线标题与无衬线正文构成节奏，留白承担分层。栏宽控制在可读区间，行距收紧，让页面像一本摊开的杂志，而不是一个表单。</div></div><div class="label"><h3>编辑杂志风</h3><em>Editorial</em></div><p class="desc">衬线大标题、分栏正文、细分割线，靠留白而不是阴影分层。</p><div class="meta"><span>Georgia 标题</span><span>双栏正文</span><span>纸白 #fbfaf7</span></div></article>
+    <article class="card"><div class="stage nm"><div class="pad"><b>Neumorphism</b><div class="knob">KNOB</div></div></div><div class="label"><h3>新拟物派</h3><em>Neumorphism</em></div><p class="desc">同色系背景，用双重内外阴影模拟光源，只靠凹凸表达层级。</p><div class="meta"><span>双向阴影</span><span>同色背景</span><span>圆润边角</span></div></article>
+    <article class="card"><div class="stage bt"><div><span>Bento</span></div><div><span>1</span></div><div><span>2</span></div><div><span>3</span></div></div><div class="label"><h3>便当盒布局</h3><em>Bento Grid</em></div><p class="desc">不规则网格，大小卡片混排，用尺寸差异建立信息层级。</p><div class="meta"><span>CSS Grid</span><span>8px 间隙</span><span>深色底</span></div></article>
+    <article class="card"><div class="stage mf"><div class="txt"><b>Minimal<br>Flat Design</b><small>无阴影、无渐变，用颜色与留白创造层次。</small><div class="swatch"><i style="background:#ff4d2e"></i><i style="background:#111"></i><i style="background:#0b6bff"></i><i style="background:#ffd400"></i></div></div><div class="shape"></div></div><div class="label"><h3>极简扁平风</h3><em>Minimalist Flat</em></div><p class="desc">纯色块与几何形状，无任何立体效果，版面极度克制。</p><div class="meta"><span>零阴影</span><span>纯色块</span><span>几何图形</span></div></article>
+    <article class="card"><div class="stage sf"><div class="panel"><b>Soft UI</b><small>温和友好的四层阴影</small><button>Get started</button></div></div><div class="label"><h3>柔和界面风</h3><em>Soft UI</em></div><p class="desc">低饱和渐变、大圆角与柔和投影，整体给人轻盈亲切的感觉。</p><div class="meta"><span>22px 圆角</span><span>柔和阴影</span><span>粉蓝渐变</span></div></article>
+    <article class="card"><div class="stage cp"><div class="bar"><i></i><u></u><u></u><u></u></div><div class="body"><div><b>Enterprise clarity</b><small>一致、可读、可信，适合 B2B 与后台系统。</small></div><button>Get Started</button></div><div class="stats"><div><b>99.9%</b>uptime</div><div><b>24k</b>teams</div><div><b>1.2M</b>requests</div></div></div><div class="label"><h3>企业简洁风</h3><em>Corporate Clean</em></div><p class="desc">白底、蓝色主色、规整栅格，强调可读性与专业信任感。</p><div class="meta"><span>#2563eb</span><span>6px 圆角</span><span>9-12 号字</span></div></article>
+    <article class="card"><div class="stage dk"><div class="row"><span class="dot"></span><b>System status</b></div><div class="panel"><small>Requests / min</small><b>1,284</b><div class="bars"><i style="height:34%"></i><i style="height:58%"></i><i style="height:42%"></i><i style="height:76%"></i><i style="height:60%"></i><i style="height:92%"></i><i style="height:70%"></i><i style="height:84%"></i></div></div></div><div class="label"><h3>暗黑模式</h3><em>Dark Mode</em></div><p class="desc">深色分层而非纯黑，用极细边框与一个高亮色维持层次。</p><div class="meta"><span>#0b0f14</span><span>1px 边框</span><span>发光绿状态</span></div></article>
+    <article class="card"><div class="stage mc"><div class="win"><div class="dots"><i></i><i></i><i></i></div><b>Nocturne Glass</b><small>系统级 backdrop-blur，多层深灰面板</small><span class="pill">macOS 质感</span></div></div><div class="label"><h3>macOS 毛玻璃</h3><em>macOS Vibrancy</em></div><p class="desc">半透明深灰面板叠加彩色背景，靠模糊与描边建立空间。</p><div class="meta"><span>backdrop-blur</span><span>12px 圆角</span><span>半透明描边</span></div></article>
+    <article class="card"><div class="stage gl"><div class="card2"><b>Glassmorphism</b><small>玻璃无色，色彩属于夜景</small><i></i></div></div><div class="label"><h3>玻璃拟态</h3><em>Glassmorphism</em></div><p class="desc">彩色光斑背景配磨砂玻璃卡片，边框提亮边缘形成通透感。</p><div class="meta"><span>blur 16px</span><span>白色 14% 填充</span><span>18px 圆角</span></div></article>
+    <article class="card"><div class="stage ql"><div class="field"><div class="lines"><i style="width:1px;height:46%"></i><i style="width:4px;height:52%"></i><i style="width:1px;height:79%"></i><i style="width:2px;height:55%"></i><i style="width:1px;height:73%"></i><i style="width:2px;height:48%"></i><i style="width:2px;height:47%"></i><i style="width:1px;height:50%"></i><i style="width:2px;height:69%"></i><i style="width:2px;height:77%"></i><i style="width:1px;height:55%"></i><i style="width:1px;height:53%"></i><i style="width:3px;height:62%"></i><i style="width:1px;height:71%"></i><i style="width:1px;height:63%"></i><i style="width:2px;height:59%"></i><i style="width:4px;height:79%"></i><i style="width:2px;height:57%"></i><i style="width:2px;height:72%"></i><i style="width:1px;height:50%"></i><i style="width:3px;height:54%"></i><i style="width:2px;height:70%"></i><i style="width:2px;height:69%"></i><i style="width:2px;height:62%"></i><i style="width:4px;height:66%"></i><i style="width:2px;height:56%"></i><i style="width:2px;height:68%"></i><i style="width:4px;height:78%"></i><i style="width:3px;height:57%"></i><i style="width:2px;height:79%"></i><i style="width:4px;height:70%"></i><i style="width:3px;height:68%"></i><i style="width:1px;height:72%"></i><i style="width:1px;height:60%"></i><i style="width:1px;height:67%"></i><i style="width:2px;height:58%"></i><i style="width:4px;height:55%"></i><i style="width:4px;height:53%"></i><i style="width:2px;height:54%"></i><i style="width:1px;height:53%"></i><i style="width:1px;height:67%"></i><i style="width:1px;height:52%"></i><i style="width:2px;height:62%"></i><i style="width:3px;height:61%"></i></div><div class="cap"><b>Quantized</b><span>04 / 72H</span></div></div></div><div class="label"><h3>量化线场</h3><em>Quantized Line Field</em></div><p class="desc">把明暗量化成四档竖线，唯一允许的线宽就是 1/2/3/4 px。</p><div class="meta"><span>四档线宽</span><span>#2152e7</span><span>17px 圆角</span></div></article>
+    <article class="card"><div class="stage sw"><div class="top"><span>SWISS DESIGN</span><span>12 COL · 8PT</span></div><h4>Grid,<br>typography,<br>clarity.</h4><div class="blocks"><i></i><i></i><i></i></div></div><div class="label"><h3>瑞士国际风格</h3><em>Swiss International</em></div><p class="desc">严格网格、无衬线大字、原色块，形式服从信息本身。</p><div class="meta"><span>Helvetica</span><span>12 栅格</span><span>原色块</span></div></article>
+  </div>
+</main>
+<footer class="foot wrap"><span>风格样板册 · 12 个纯 CSS 实录 · 可离线打开</span><span>用途：先看风格，再让 Agent 按图实现</span></footer>
+
+</body>
+</html>
