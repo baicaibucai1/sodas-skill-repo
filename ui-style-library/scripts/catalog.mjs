@@ -122,15 +122,20 @@ function validate(args) {
   const errors = [];
   const catalog = loadCatalog(errors);
   const project = opts.has('--project') ? loadProject(opts.get('--project'), errors) : [];
+  const covers = resolve(skill, 'data/covers');
+  if (!existsSync(covers)) errors.push('缺少 data/covers');
+  else {
+    for (const item of catalog) {
+      const file = resolve(covers, `${item.slug}.svg`);
+      if (!existsSync(file)) { errors.push(`缺少封面：${item.slug}.svg`); continue; }
+      const head = readFileSync(file).subarray(0, 5).toString('utf8');
+      if (head !== '<svg ') errors.push(`封面不是 SVG 文本：${item.slug}.svg`);
+    }
+  }
   if (errors.length) throw Error(errors.join('\n'));
   const duplicate = project.filter(item => catalog.some(entry => entry.slug === item.slug)).map(item => item.slug);
   if (duplicate.length) throw Error(`项目条目与 StyleKit 已有 slug 重复，请直接引用上游：${duplicate.join(', ')}`);
-  if (opts.has('--project')) {
-    const root = resolve(opts.get('--project'), '.ui-styles');
-    const covers = resolve(skill, 'data/covers');
-    if (!existsSync(covers)) throw Error('缺少 data/covers');
-  }
-  console.log(JSON.stringify({valid: true, catalog: catalog.length, project: project.length}, null, 2));
+  console.log(JSON.stringify({valid: true, catalog: catalog.length, project: project.length, covers: catalog.length}, null, 2));
 }
 
 const [command, ...args] = process.argv.slice(2);
