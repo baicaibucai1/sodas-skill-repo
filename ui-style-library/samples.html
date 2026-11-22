@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>风格样板册 · 86 个真实风格</title>
+<title>风格样板册 · 99 个真实风格</title>
 <style>
 *{box-sizing:border-box}body{margin:0;background:#f6f6f4;color:#16181c;font:14px/1.6 system-ui,-apple-system,'Segoe UI','Microsoft YaHei',sans-serif;-webkit-font-smoothing:antialiased}
 h1,h2,h3,p{margin:0}a{color:inherit}button{font:inherit;color:inherit;cursor:pointer}
@@ -654,17 +654,108 @@ h4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;
 .pane{position:relative;width:66%;border-radius:18px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.5);box-shadow:inset 0 1px 0 rgba(255,255,255,.8),0 8px 22px rgb(0 0 0 / .35);backdrop-filter:blur(10px);padding:12px 14px;text-align:center}
 .pane b{font:400 clamp(11px,1.9vw,15px)/1.3 'Songti SC',Georgia,serif;color:#f3f2ed;letter-spacing:.06em}
 .pane small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:rgba(255,255,255,.7)}}
+/* scandinavian — Scandinavian */
+.s-scandinavian{background:#f5f0eb;padding:16px 20px;display:flex;flex-direction:column;justify-content:center;gap:7px;
+small.k{font:7.5px/1 ui-monospace,monospace;letter-spacing:.3em;color:#a89a8a}
+h4{font:400 clamp(13px,2.2vw,18px)/1.2 Georgia,'Songti SC',serif;color:#3d3d3d;letter-spacing:.02em}
+.wood{display:flex;gap:6px;margin-top:2px}
+.wood i{width:28px;height:28px;border-radius:50%}
+.note2{font:8px/1.5 ui-monospace,monospace;color:#8b8075}}
+/* cel-shading — Cel Shading */
+.s-cel-shading{background:#fafaf5;display:grid;place-items:center;position:relative;overflow:hidden;
+.sph{width:88px;height:88px;border-radius:50%;background:#e8b84a;border:4px solid #1a1a2e;position:relative;overflow:hidden}
+.sph:after{content:'';position:absolute;right:-18%;top:-18%;width:70%;height:70%;background:#f5d78a;border-left:4px solid #1a1a2e;border-bottom:4px solid #1a1a2e;border-radius:0 0 0 100%}
+.tag3{position:absolute;bottom:12%;font:900 8px/1 'Arial Black',system-ui;letter-spacing:.3em;color:#1a1a2e}}
+/* wabi-sabi — Wabi-Sabi */
+.s-wabi-sabi{background:#f2ede4;padding:20px 24px;display:flex;flex-direction:column;justify-content:center;gap:10px;position:relative;
+.ink{position:absolute;right:12%;top:20%;width:44%;height:34%;border-radius:50% 40% 55% 45%;background:radial-gradient(circle at 40% 40%,#3a3a3a44,transparent 70%);filter:blur(3px)}
+h4{font:400 clamp(13px,2.2vw,19px)/1.3 Georgia,'Songti SC',serif;color:#3a3a3a;letter-spacing:.08em;position:relative}
+small.k{font:7.5px/1 ui-monospace,monospace;letter-spacing:.34em;color:#9a9488;position:relative}
+.line3{width:22px;height:1px;background:#9a9488;position:relative}}
+/* zen-garden — Zen Garden */
+.s-zen-garden{background:#f5f3ee;position:relative;overflow:hidden;
+.rake{position:absolute;inset:0;background:repeating-radial-gradient(circle at 30% 70%,#e2ddd2 0 1px,transparent 1px 11px);opacity:.85}
+.stone{position:absolute;border-radius:50% 45% 55% 48%;background:linear-gradient(140deg,#8a8a82,#5d5d57)}
+.st1{width:54px;height:40px;right:22%;top:26%}.st2{width:30px;height:24px;left:16%;bottom:22%}
+.moss{position:absolute;left:12%;top:20%;width:30%;height:14%;border-radius:50%;background:#4a554822;filter:blur(6px)}
+.txt17{position:absolute;bottom:12%;left:0;right:0;text-align:center;font:400 clamp(11px,1.8vw,14px)/1 Georgia,serif;letter-spacing:.24em;color:#4a5548}}
+/* sci-fi-hud — Sci-Fi HUD */
+.s-sci-fi-hud{background:radial-gradient(circle at 50% 46%,#0a2530,#020617 72%);position:relative;overflow:hidden;display:grid;place-items:center;
+.radar{position:absolute;width:58%;aspect-ratio:1;border:1px solid #06B6D455;border-radius:50%}
+.radar:before{content:'';position:absolute;inset:14%;border:1px dashed #06B6D444;border-radius:50%}
+.radar:after{content:'';position:absolute;inset:32%;border:1px solid #06B6D466;border-radius:50%}
+.sweep{position:absolute;width:29%;height:1px;background:linear-gradient(90deg,#06B6D4,transparent);left:50%;top:50%;transform-origin:left center;transform:rotate(-24deg);box-shadow:0 0 8px #06B6D4}
+.txt18{position:relative;text-align:center;color:#7fe3f5}
+.txt18 b{font:600 10px/1 ui-monospace,monospace;letter-spacing:.22em}
+.txt18 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#3d8fa5}}
+/* kawaii-minimal — Kawaii Minimal */
+.s-kawaii-minimal{background:#FFF7ED;display:grid;place-items:center;gap:6px;text-align:center;
+.face{width:62px;height:62px;border-radius:50%;background:#F9A8D4;position:relative;box-shadow:0 6px 14px rgb(249 168 212 / .4)}
+.face:before,.face:after{content:'';position:absolute;top:24px;width:7px;height:7px;border-radius:50%;background:#7a3a56}
+.face:before{left:17px}.face:after{right:17px}
+.mouth{position:absolute;bottom:16px;left:50%;transform:translateX(-50%);width:14px;height:7px;border-bottom:2px solid #7a3a56;border-radius:0 0 10px 10px}
+.txt19 b{display:block;font:600 clamp(11px,1.9vw,15px)/1.2 system-ui;color:#7a3a56;letter-spacing:.02em}
+.txt19 small{font:7.5px/1 ui-monospace,monospace;color:#b98aa0;letter-spacing:.16em}}
+/* film-noir — Film Noir */
+.s-film-noir{background:#111;position:relative;overflow:hidden;
+.beam{position:absolute;top:-30%;left:12%;width:26%;height:150%;background:linear-gradient(#f5f5f04d,transparent);transform:rotate(18deg);filter:blur(2px)}
+.beam2{position:absolute;top:-30%;right:20%;width:16%;height:150%;background:linear-gradient(#f5f5f02e,transparent);transform:rotate(18deg)}
+.silh{position:absolute;bottom:0;left:38%;width:22%;height:52%;background:#000;border-radius:50% 50% 0 0}
+.txt20{position:absolute;left:10%;bottom:16%;color:#f5f5f0}
+.txt20 b{font:400 clamp(12px,2vw,17px)/1.2 Georgia,serif;letter-spacing:.1em;text-transform:uppercase}
+.txt20 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.3em;color:#8a8a8a}}
+/* arcade-crt — Arcade CRT */
+.s-arcade-crt{background:#050505;position:relative;overflow:hidden;display:grid;place-items:center;
+.scan2{position:absolute;inset:0;background:repeating-linear-gradient(#ffffff12 0 2px,transparent 2px 5px);z-index:2}
+.vig{position:absolute;inset:0;background:radial-gradient(circle,#0000 42%,#000000cc);z-index:3}
+.txt21{position:relative;text-align:center;color:#39ff14;text-shadow:0 0 10px #39ff14,0 0 24px #39ff1480}
+.txt21 b{font:700 clamp(13px,2.4vw,19px)/1 'Arial Black',system-ui;letter-spacing:.14em}
+.txt21 small{display:block;margin-top:5px;font:7px/1 ui-monospace,monospace;letter-spacing:.26em;color:#39ff14aa}}
+/* frutiger-aero — Frutiger Aero */
+.s-frutiger-aero{background:linear-gradient(#87CEEB 0%,#5FB3CC 46%,#8fd6a8 100%);position:relative;overflow:hidden;display:grid;place-items:center;
+.sheen{position:absolute;inset:0;background:linear-gradient(105deg,#ffffff55 0 26%,transparent 46%)}
+.bub{position:absolute;border-radius:50%;background:radial-gradient(circle at 32% 28%,#ffffffdd,#ffffff22 62%,transparent);border:1px solid #ffffff88}
+.b1{width:46px;height:46px;left:16%;top:22%}.b2{width:24px;height:24px;right:22%;top:34%}.b3{width:14px;height:14px;right:34%;bottom:22%}
+.glass2{position:relative;border-radius:12px;background:rgba(255,255,255,.46);border:1px solid #ffffffcc;box-shadow:0 8px 20px rgb(40 110 140 / .3);padding:11px 16px;text-align:center;backdrop-filter:blur(6px)}
+.glass2 b{font:600 clamp(11px,1.9vw,15px)/1.2 system-ui;color:#12556b}
+.glass2 small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.2em;color:#3f8ba3}}
+/* anti-design — Anti-Design */
+.s-anti-design{background:#e8e8e8;position:relative;overflow:hidden;display:grid;place-items:center;
+.b1x{position:absolute;left:6%;top:12%;width:52px;height:52px;background:#ff0;border:5px solid #000;transform:rotate(-9deg)}
+.b2x{position:absolute;right:8%;bottom:14%;width:70px;height:26px;background:#00f;border:5px solid #000;transform:rotate(6deg)}
+.txt22{position:relative;font:900 clamp(15px,3vw,24px)/.9 'Arial Black',system-ui;color:#000;letter-spacing:-.05em;text-align:center;text-transform:uppercase;transform:rotate(-3deg)}
+.txt22 em{display:block;font-style:normal;font-size:.34em;letter-spacing:.16em;margin-top:4px}}
+/* holographic — Holographic */
+.s-holographic{background:#0a0a1f;position:relative;overflow:hidden;display:grid;place-items:center;
+.iri{position:absolute;width:70%;aspect-ratio:1.4;border-radius:18px;background:conic-gradient(from 210deg,#ff6ec7,#7b81ff,#5ce1e6,#7bffa8,#fff07b,#ff6ec7);filter:blur(14px);opacity:.6}
+.card8{position:relative;border-radius:14px;background:rgba(10 10 31 / .55);border:1px solid #ffffff44;backdrop-filter:blur(8px);padding:12px 18px;text-align:center}
+.card8 b{font:600 clamp(11px,1.9vw,15px)/1.2 system-ui;background:linear-gradient(90deg,#5ce1e6,#ff6ec7,#fff07b);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:.04em}
+.card8 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:#9a9ac8}}
+/* generative-art — Generative Art */
+.s-generative-art{background:#0a0a0a;position:relative;overflow:hidden;
+.wavegrid{position:absolute;inset:0;background-image:linear-gradient(#7c3aed55 1px,transparent 1px),linear-gradient(90deg,#7c3aed55 1px,transparent 1px);background-size:16px 16px;transform:rotate(-8deg) scale(1.3);opacity:.55}
+.wavegrid:after{content:'';position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,#ff5fa222,transparent 60%)}
+.txt23{position:absolute;left:10%;bottom:14%;color:#e8e8f0}
+.txt23 b{font:700 clamp(11px,1.9vw,15px)/1.2 ui-monospace,monospace;letter-spacing:.12em}
+.txt23 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:#8b5cf6}}
+/* particle — Particle System */
+.s-particle{background:radial-gradient(circle at 50% 40%,#0f1a2e,#0a0e1a 70%);position:relative;overflow:hidden;
+.pt{position:absolute;width:5px;height:5px;border-radius:50%;background:#6ea8ff;box-shadow:0 0 8px #6ea8ff}
+.pt1{top:24%;left:22%}.pt2{top:38%;left:52%}.pt3{top:58%;left:30%}.pt4{top:30%;left:70%}.pt5{top:66%;left:66%}.pt6{top:46%;left:16%}
+.ln{position:absolute;height:1px;background:#3b6bb855;transform-origin:left center}
+.n1{top:24%;left:22%;width:33%;transform:rotate(25deg)}.n2{top:38%;left:52%;width:26%;transform:rotate(-22deg)}.n3{top:58%;left:30%;width:34%;transform:rotate(14deg)}
+.txt24{position:absolute;bottom:12%;left:0;right:0;text-align:center;font:7.5px/1 ui-monospace,monospace;letter-spacing:.26em;color:#5a7bb0}}
 @media(max-width:700px){.wrap{width:calc(100% - 32px)}.hint{display:none}.hero{padding-top:30px}.grid{grid-template-columns:1fr;gap:16px}}
 </style>
 </head>
 <body>
-<header class="top"><div class="wrap top-in"><span class="logo"><i>S</i>风格样板册</span><span class="spacer"></span><span class="hint">86 个真实样板 · 纯 CSS 绘制 · 不依赖任何图片</span></div></header>
+<header class="top"><div class="wrap top-in"><span class="logo"><i>S</i>风格样板册</span><span class="spacer"></span><span class="hint">99 个真实样板 · 纯 CSS 绘制 · 不依赖任何图片</span></div></header>
 <main class="wrap">
   <div class="hero"><p class="eyebrow">Style samples / no images</p><h1>把风格画出来，而不只是描述</h1><p>每个预览都是现场渲染的真实界面片段：布局、配色、字体关系与质感。全部由 CSS 绘制，断网、禁脚本或屏蔽图片时依然完整可见。每张卡片本身就是可复制的实现参照。</p>
-  <nav class="toc" aria-label="分类"><a href="#g-expressive">创意表达<b>31</b></a><a href="#g-minimal">极简<b>7</b></a><a href="#g-modern">现代<b>16</b></a><a href="#g-retro">复古<b>17</b></a><a href="#g-layout">布局模式<b>15</b></a></nav>
+  <nav class="toc" aria-label="分类"><a href="#g-expressive">创意表达<b>35</b></a><a href="#g-minimal">极简<b>11</b></a><a href="#g-modern">现代<b>18</b></a><a href="#g-retro">复古<b>20</b></a><a href="#g-layout">布局模式<b>15</b></a></nav>
   </div>
   <section class="group" id="g-expressive">
-    <div class="group-head"><h2>创意表达</h2><span class="mono">31</span></div>
+    <div class="group-head"><h2>创意表达</h2><span class="mono">35</span></div>
     <div class="grid">
 <article class="card" id="s-neo-brutalist" data-slug="neo-brutalist">
       <div class="stage s-neo-brutalist"><div class="frame"><b>BRUTAL</b><small>RAW · BOLD · UNAPOLOGETIC</small></div><div class="chips"><i style="background:#ff006e"></i><i style="background:#ccff00"></i><i style="background:#00d9ff"></i><i style="background:#000"></i></div></div>
@@ -852,10 +943,34 @@ h4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;
       <p class="desc">深色底上的鲜艳渐变卡片与粗彩边，年轻科技感。</p>
       <div class="meta"><span>深色底</span><span>渐变卡片</span><span>粗彩边</span></div>
     </article>
+<article class="card" id="s-cel-shading" data-slug="cel-shading">
+      <div class="stage s-cel-shading"><div class="sph"></div><div class="tag3">CEL · SHADING</div></div>
+      <div class="label"><h3>赛璐璐动画风</h3><em>Cel Shading</em></div>
+      <p class="desc">粗黑轮廓、平面色块填充与高饱和色彩，卡通渲染。</p>
+      <div class="meta"><span>粗黑轮廓</span><span>平面填色</span><span>高饱和</span></div>
+    </article>
+<article class="card" id="s-anti-design" data-slug="anti-design">
+      <div class="stage s-anti-design"><div class="b1x"></div><div class="b2x"></div><div class="txt22">ANTI<br>DESIGN<em>RAW. LOUD.</em></div></div>
+      <div class="label"><h3>反设计</h3><em>Anti-Design</em></div>
+      <p class="desc">超粗边框、高饱和色与刻意错位，拒绝一切装饰规范。</p>
+      <div class="meta"><span>超粗边框</span><span>错位</span><span>高饱和</span></div>
+    </article>
+<article class="card" id="s-holographic" data-slug="holographic">
+      <div class="stage s-holographic"><div class="iri"></div><div class="card8"><b>IRIDESCENT</b><small>SPECTRUM · PRISM</small></div></div>
+      <div class="label"><h3>全息渐变</h3><em>Holographic</em></div>
+      <p class="desc">彩虹光谱虹彩与棱镜折射，超凡脱俗的虹彩体验。</p>
+      <div class="meta"><span>彩虹光谱</span><span>虹彩</span><span>棱镜</span></div>
+    </article>
+<article class="card" id="s-generative-art" data-slug="generative-art">
+      <div class="stage s-generative-art"><div class="wavegrid"></div><div class="txt23"><b>GENERATIVE</b><small>ALGORITHMIC PATTERNS</small></div></div>
+      <div class="label"><h3>生成艺术</h3><em>Generative Art</em></div>
+      <p class="desc">算法驱动的程序化图形，以数学函数与噪声创造独特视觉。</p>
+      <div class="meta"><span>程序化</span><span>网格</span><span>算法</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-minimal">
-    <div class="group-head"><h2>极简</h2><span class="mono">7</span></div>
+    <div class="group-head"><h2>极简</h2><span class="mono">11</span></div>
     <div class="grid">
 <article class="card" id="s-editorial" data-slug="editorial">
       <div class="stage s-editorial"><div class="kicker"><span>The Quarterly</span><span>No. 14</span></div><h4>On the quiet<br>architecture of type</h4><div class="rule"></div><div class="cols">衬线标题与无衬线正文构成节奏，留白承担分层。栏宽控制在可读区间，让页面像一本摊开的杂志。</div></div>
@@ -899,10 +1014,34 @@ h4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;
       <p class="desc">淡雅配色、大留白与纤细线条，轻盈治愈。</p>
       <div class="meta"><span>淡雅配色</span><span>大留白</span><span>细线</span></div>
     </article>
+<article class="card" id="s-scandinavian" data-slug="scandinavian">
+      <div class="stage s-scandinavian"><small class="k">SCANDINAVIAN</small><h4>Warm minimalism,<br>made to last.</h4><div class="wood"><i style="background:#d9c3a5"></i><i style="background:#b9a893"></i><i style="background:#8a8172"></i></div><span class="note2">自然材质 · 舒适留白</span></div>
+      <div class="label"><h3>北欧极简风</h3><em>Scandinavian</em></div>
+      <p class="desc">温暖极简、自然材质与舒适留白，Hygge 的宁静。</p>
+      <div class="meta"><span>温暖极简</span><span>木质色</span><span>大留白</span></div>
+    </article>
+<article class="card" id="s-wabi-sabi" data-slug="wabi-sabi">
+      <div class="stage s-wabi-sabi"><small class="k">WABI · SABI</small><h4>不完美<br>也是一种完整</h4><div class="line3"></div><div class="ink"></div></div>
+      <div class="label"><h3>侘寂风</h3><em>Wabi-Sabi</em></div>
+      <p class="desc">不完美之美、自然衰颓与极致留白，墨色与纸的禅意。</p>
+      <div class="meta"><span>墨色</span><span>纸感</span><span>极致留白</span></div>
+    </article>
+<article class="card" id="s-zen-garden" data-slug="zen-garden">
+      <div class="stage s-zen-garden"><div class="rake"></div><div class="moss"></div><div class="stone st1"></div><div class="stone st2"></div><div class="txt17">枯 山 水</div></div>
+      <div class="label"><h3>枯山水</h3><em>Zen Garden</em></div>
+      <p class="desc">砂纹、石组与苔绿的极静构图，冥想般的秩序。</p>
+      <div class="meta"><span>砂纹</span><span>石组</span><span>苔绿</span></div>
+    </article>
+<article class="card" id="s-kawaii-minimal" data-slug="kawaii-minimal">
+      <div class="stage s-kawaii-minimal"><div class="face"><div class="mouth"></div></div><div class="txt19"><b>Soft &amp; sweet</b><small>KAWAII</small></div></div>
+      <div class="label"><h3>可爱极简</h3><em>Kawaii Minimal</em></div>
+      <p class="desc">粉彩色系、圆润形状与轻盈留白，温柔细腻的可爱感。</p>
+      <div class="meta"><span>粉彩</span><span>圆润</span><span>轻盈</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-modern">
-    <div class="group-head"><h2>现代</h2><span class="mono">16</span></div>
+    <div class="group-head"><h2>现代</h2><span class="mono">18</span></div>
     <div class="grid">
 <article class="card" id="s-neumorphism" data-slug="neumorphism">
       <div class="stage s-neumorphism"><div class="pad"><b>Neumorphism</b><div class="knob">KNOB</div></div></div>
@@ -1000,10 +1139,22 @@ h4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;
       <p class="desc">中心清晰、边缘折光的玻璃质感，浮在内容之上。</p>
       <div class="meta"><span>折光</span><span>白色高光</span><span>浮层</span></div>
     </article>
+<article class="card" id="s-sci-fi-hud" data-slug="sci-fi-hud">
+      <div class="stage s-sci-fi-hud"><div class="radar"></div><div class="sweep"></div><div class="txt18"><b>ALL SYSTEMS NOMINAL</b><small>HUD · ENGAGE</small></div></div>
+      <div class="label"><h3>科幻HUD</h3><em>Sci-Fi HUD</em></div>
+      <p class="desc">深空背景、青色发光边框与雷达扫描，驾驶舱式的沉浸感。</p>
+      <div class="meta"><span>青色边框</span><span>雷达</span><span>深空</span></div>
+    </article>
+<article class="card" id="s-particle" data-slug="particle">
+      <div class="stage s-particle"><div class="ln n1"></div><div class="ln n2"></div><div class="ln n3"></div><div class="pt pt1"></div><div class="pt pt2"></div><div class="pt pt3"></div><div class="pt pt4"></div><div class="pt pt5"></div><div class="pt pt6"></div><div class="txt24">PARTICLE FIELD</div></div>
+      <div class="label"><h3>粒子系统</h3><em>Particle System</em></div>
+      <p class="desc">深色空间中的粒子网络与连线，数据流动的科技感。</p>
+      <div class="meta"><span>粒子</span><span>连线</span><span>深色空间</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-retro">
-    <div class="group-head"><h2>复古</h2><span class="mono">17</span></div>
+    <div class="group-head"><h2>复古</h2><span class="mono">20</span></div>
     <div class="grid">
 <article class="card" id="s-retro-vintage" data-slug="retro-vintage">
       <div class="stage s-retro-vintage"><div class="frame"><b>Vintage</b><small>EST · 1954</small></div><div class="stars">✦ ✦ ✦</div></div>
@@ -1107,6 +1258,24 @@ h4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;
       <p class="desc">黄铜齿轮、皮革质感与精密仪表，维多利亚机械美学。</p>
       <div class="meta"><span>黄铜齿轮</span><span>皮革</span><span>仪表盘</span></div>
     </article>
+<article class="card" id="s-film-noir" data-slug="film-noir">
+      <div class="stage s-film-noir"><div class="beam"></div><div class="beam2"></div><div class="silh"></div><div class="txt20"><b>Shadows<br>and mystery</b><small>FILM NOIR · 1948</small></div></div>
+      <div class="label"><h3>黑色电影</h3><em>Film Noir</em></div>
+      <p class="desc">极致明暗对比、斜切光影与深沉灰阶，戏剧性的神秘。</p>
+      <div class="meta"><span>明暗对比</span><span>斜切光</span><span>灰阶</span></div>
+    </article>
+<article class="card" id="s-arcade-crt" data-slug="arcade-crt">
+      <div class="stage s-arcade-crt"><div class="scan2"></div><div class="vig"></div><div class="txt21"><b>ARCADE</b><small>INSERT COIN</small></div></div>
+      <div class="label"><h3>街机CRT</h3><em>Arcade CRT</em></div>
+      <p class="desc">扫描线、屏幕曲率与霓虹辉光，80 年代街机显示器。</p>
+      <div class="meta"><span>扫描线</span><span>荧光绿</span><span>曲率</span></div>
+    </article>
+<article class="card" id="s-frutiger-aero" data-slug="frutiger-aero">
+      <div class="stage s-frutiger-aero"><div class="sheen"></div><div class="bub b1"></div><div class="bub b2"></div><div class="bub b3"></div><div class="glass2"><b>Glossy, airy, optimistic</b><small>FRUTIGER AERO</small></div></div>
+      <div class="label"><h3>Frutiger Aero</h3><em>Frutiger Aero</em></div>
+      <p class="desc">天空蓝渐变、玻璃光泽与自然元素，Vista 时代的清新。</p>
+      <div class="meta"><span>天空蓝</span><span>玻璃光泽</span><span>自然</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-layout">
@@ -1205,6 +1374,6 @@ h4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;
     </div>
   </section>
 </main>
-<footer class="foot wrap"><span>风格样板册 · 86 / 151 个风格已手写 · 纯 CSS，可离线打开</span><span>剩余 65 个风格待补齐</span></footer>
+<footer class="foot wrap"><span>风格样板册 · 99 / 151 个风格已手写 · 纯 CSS，可离线打开</span><span>剩余 52 个风格待补齐</span></footer>
 </body>
 </html>

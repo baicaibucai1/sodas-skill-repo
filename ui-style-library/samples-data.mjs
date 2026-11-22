@@ -930,5 +930,135 @@ h4{font:700 clamp(22px,3.4vw,32px)/.96 Helvetica,Arial,sans-serif;letter-spacing
     verified: true,
     css: "background:linear-gradient(160deg,#202929,#3a4a4a 50%,#202929);position:relative;overflow:hidden;display:grid;place-items:center;\n.orb{position:absolute;width:56%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle at 34% 30%,#c9e8e0aa,#4a6b66 60%,transparent 72%);filter:blur(2px)}\n.pane{position:relative;width:66%;border-radius:18px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.5);box-shadow:inset 0 1px 0 rgba(255,255,255,.8),0 8px 22px rgb(0 0 0 / .35);backdrop-filter:blur(10px);padding:12px 14px;text-align:center}\n.pane b{font:400 clamp(11px,1.9vw,15px)/1.3 'Songti SC',Georgia,serif;color:#f3f2ed;letter-spacing:.06em}\n.pane small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:rgba(255,255,255,.7)}",
     html: "<div class=\"orb\"></div><div class=\"pane\"><b>液态 玻璃</b><small>0164°02′ N · 03°</small></div>"
+  },
+  {
+    slug: "scandinavian",
+    name: "北欧极简风",
+    nameEn: "Scandinavian",
+    desc: "温暖极简、自然材质与舒适留白，Hygge 的宁静。",
+    meta: ["温暖极简","木质色","大留白"],
+    verified: true,
+    css: "background:#f5f0eb;padding:16px 20px;display:flex;flex-direction:column;justify-content:center;gap:7px;\nsmall.k{font:7.5px/1 ui-monospace,monospace;letter-spacing:.3em;color:#a89a8a}\nh4{font:400 clamp(13px,2.2vw,18px)/1.2 Georgia,'Songti SC',serif;color:#3d3d3d;letter-spacing:.02em}\n.wood{display:flex;gap:6px;margin-top:2px}\n.wood i{width:28px;height:28px;border-radius:50%}\n.note2{font:8px/1.5 ui-monospace,monospace;color:#8b8075}",
+    html: "<small class=\"k\">SCANDINAVIAN</small><h4>Warm minimalism,<br>made to last.</h4><div class=\"wood\"><i style=\"background:#d9c3a5\"></i><i style=\"background:#b9a893\"></i><i style=\"background:#8a8172\"></i></div><span class=\"note2\">自然材质 · 舒适留白</span>"
+  },
+  {
+    slug: "cel-shading",
+    name: "赛璐璐动画风",
+    nameEn: "Cel Shading",
+    desc: "粗黑轮廓、平面色块填充与高饱和色彩，卡通渲染。",
+    meta: ["粗黑轮廓","平面填色","高饱和"],
+    verified: true,
+    css: "background:#fafaf5;display:grid;place-items:center;position:relative;overflow:hidden;\n.sph{width:88px;height:88px;border-radius:50%;background:#e8b84a;border:4px solid #1a1a2e;position:relative;overflow:hidden}\n.sph:after{content:'';position:absolute;right:-18%;top:-18%;width:70%;height:70%;background:#f5d78a;border-left:4px solid #1a1a2e;border-bottom:4px solid #1a1a2e;border-radius:0 0 0 100%}\n.tag3{position:absolute;bottom:12%;font:900 8px/1 'Arial Black',system-ui;letter-spacing:.3em;color:#1a1a2e}",
+    html: "<div class=\"sph\"></div><div class=\"tag3\">CEL · SHADING</div>"
+  },
+  {
+    slug: "wabi-sabi",
+    name: "侘寂风",
+    nameEn: "Wabi-Sabi",
+    desc: "不完美之美、自然衰颓与极致留白，墨色与纸的禅意。",
+    meta: ["墨色","纸感","极致留白"],
+    verified: true,
+    css: "background:#f2ede4;padding:20px 24px;display:flex;flex-direction:column;justify-content:center;gap:10px;position:relative;\n.ink{position:absolute;right:12%;top:20%;width:44%;height:34%;border-radius:50% 40% 55% 45%;background:radial-gradient(circle at 40% 40%,#3a3a3a44,transparent 70%);filter:blur(3px)}\nh4{font:400 clamp(13px,2.2vw,19px)/1.3 Georgia,'Songti SC',serif;color:#3a3a3a;letter-spacing:.08em;position:relative}\nsmall.k{font:7.5px/1 ui-monospace,monospace;letter-spacing:.34em;color:#9a9488;position:relative}\n.line3{width:22px;height:1px;background:#9a9488;position:relative}",
+    html: "<small class=\"k\">WABI · SABI</small><h4>不完美<br>也是一种完整</h4><div class=\"line3\"></div><div class=\"ink\"></div>"
+  },
+  {
+    slug: "zen-garden",
+    name: "枯山水",
+    nameEn: "Zen Garden",
+    desc: "砂纹、石组与苔绿的极静构图，冥想般的秩序。",
+    meta: ["砂纹","石组","苔绿"],
+    verified: true,
+    css: "background:#f5f3ee;position:relative;overflow:hidden;\n.rake{position:absolute;inset:0;background:repeating-radial-gradient(circle at 30% 70%,#e2ddd2 0 1px,transparent 1px 11px);opacity:.85}\n.stone{position:absolute;border-radius:50% 45% 55% 48%;background:linear-gradient(140deg,#8a8a82,#5d5d57)}\n.st1{width:54px;height:40px;right:22%;top:26%}.st2{width:30px;height:24px;left:16%;bottom:22%}\n.moss{position:absolute;left:12%;top:20%;width:30%;height:14%;border-radius:50%;background:#4a554822;filter:blur(6px)}\n.txt17{position:absolute;bottom:12%;left:0;right:0;text-align:center;font:400 clamp(11px,1.8vw,14px)/1 Georgia,serif;letter-spacing:.24em;color:#4a5548}",
+    html: "<div class=\"rake\"></div><div class=\"moss\"></div><div class=\"stone st1\"></div><div class=\"stone st2\"></div><div class=\"txt17\">枯 山 水</div>"
+  },
+  {
+    slug: "sci-fi-hud",
+    name: "科幻HUD",
+    nameEn: "Sci-Fi HUD",
+    desc: "深空背景、青色发光边框与雷达扫描，驾驶舱式的沉浸感。",
+    meta: ["青色边框","雷达","深空"],
+    verified: true,
+    css: "background:radial-gradient(circle at 50% 46%,#0a2530,#020617 72%);position:relative;overflow:hidden;display:grid;place-items:center;\n.radar{position:absolute;width:58%;aspect-ratio:1;border:1px solid #06B6D455;border-radius:50%}\n.radar:before{content:'';position:absolute;inset:14%;border:1px dashed #06B6D444;border-radius:50%}\n.radar:after{content:'';position:absolute;inset:32%;border:1px solid #06B6D466;border-radius:50%}\n.sweep{position:absolute;width:29%;height:1px;background:linear-gradient(90deg,#06B6D4,transparent);left:50%;top:50%;transform-origin:left center;transform:rotate(-24deg);box-shadow:0 0 8px #06B6D4}\n.txt18{position:relative;text-align:center;color:#7fe3f5}\n.txt18 b{font:600 10px/1 ui-monospace,monospace;letter-spacing:.22em}\n.txt18 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#3d8fa5}",
+    html: "<div class=\"radar\"></div><div class=\"sweep\"></div><div class=\"txt18\"><b>ALL SYSTEMS NOMINAL</b><small>HUD · ENGAGE</small></div>"
+  },
+  {
+    slug: "kawaii-minimal",
+    name: "可爱极简",
+    nameEn: "Kawaii Minimal",
+    desc: "粉彩色系、圆润形状与轻盈留白，温柔细腻的可爱感。",
+    meta: ["粉彩","圆润","轻盈"],
+    verified: true,
+    css: "background:#FFF7ED;display:grid;place-items:center;gap:6px;text-align:center;\n.face{width:62px;height:62px;border-radius:50%;background:#F9A8D4;position:relative;box-shadow:0 6px 14px rgb(249 168 212 / .4)}\n.face:before,.face:after{content:'';position:absolute;top:24px;width:7px;height:7px;border-radius:50%;background:#7a3a56}\n.face:before{left:17px}.face:after{right:17px}\n.mouth{position:absolute;bottom:16px;left:50%;transform:translateX(-50%);width:14px;height:7px;border-bottom:2px solid #7a3a56;border-radius:0 0 10px 10px}\n.txt19 b{display:block;font:600 clamp(11px,1.9vw,15px)/1.2 system-ui;color:#7a3a56;letter-spacing:.02em}\n.txt19 small{font:7.5px/1 ui-monospace,monospace;color:#b98aa0;letter-spacing:.16em}",
+    html: "<div class=\"face\"><div class=\"mouth\"></div></div><div class=\"txt19\"><b>Soft &amp; sweet</b><small>KAWAII</small></div>"
+  },
+  {
+    slug: "film-noir",
+    name: "黑色电影",
+    nameEn: "Film Noir",
+    desc: "极致明暗对比、斜切光影与深沉灰阶，戏剧性的神秘。",
+    meta: ["明暗对比","斜切光","灰阶"],
+    verified: true,
+    css: "background:#111;position:relative;overflow:hidden;\n.beam{position:absolute;top:-30%;left:12%;width:26%;height:150%;background:linear-gradient(#f5f5f04d,transparent);transform:rotate(18deg);filter:blur(2px)}\n.beam2{position:absolute;top:-30%;right:20%;width:16%;height:150%;background:linear-gradient(#f5f5f02e,transparent);transform:rotate(18deg)}\n.silh{position:absolute;bottom:0;left:38%;width:22%;height:52%;background:#000;border-radius:50% 50% 0 0}\n.txt20{position:absolute;left:10%;bottom:16%;color:#f5f5f0}\n.txt20 b{font:400 clamp(12px,2vw,17px)/1.2 Georgia,serif;letter-spacing:.1em;text-transform:uppercase}\n.txt20 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.3em;color:#8a8a8a}",
+    html: "<div class=\"beam\"></div><div class=\"beam2\"></div><div class=\"silh\"></div><div class=\"txt20\"><b>Shadows<br>and mystery</b><small>FILM NOIR · 1948</small></div>"
+  },
+  {
+    slug: "arcade-crt",
+    name: "街机CRT",
+    nameEn: "Arcade CRT",
+    desc: "扫描线、屏幕曲率与霓虹辉光，80 年代街机显示器。",
+    meta: ["扫描线","荧光绿","曲率"],
+    verified: true,
+    css: "background:#050505;position:relative;overflow:hidden;display:grid;place-items:center;\n.scan2{position:absolute;inset:0;background:repeating-linear-gradient(#ffffff12 0 2px,transparent 2px 5px);z-index:2}\n.vig{position:absolute;inset:0;background:radial-gradient(circle,#0000 42%,#000000cc);z-index:3}\n.txt21{position:relative;text-align:center;color:#39ff14;text-shadow:0 0 10px #39ff14,0 0 24px #39ff1480}\n.txt21 b{font:700 clamp(13px,2.4vw,19px)/1 'Arial Black',system-ui;letter-spacing:.14em}\n.txt21 small{display:block;margin-top:5px;font:7px/1 ui-monospace,monospace;letter-spacing:.26em;color:#39ff14aa}",
+    html: "<div class=\"scan2\"></div><div class=\"vig\"></div><div class=\"txt21\"><b>ARCADE</b><small>INSERT COIN</small></div>"
+  },
+  {
+    slug: "frutiger-aero",
+    name: "Frutiger Aero",
+    nameEn: "Frutiger Aero",
+    desc: "天空蓝渐变、玻璃光泽与自然元素，Vista 时代的清新。",
+    meta: ["天空蓝","玻璃光泽","自然"],
+    verified: true,
+    css: "background:linear-gradient(#87CEEB 0%,#5FB3CC 46%,#8fd6a8 100%);position:relative;overflow:hidden;display:grid;place-items:center;\n.sheen{position:absolute;inset:0;background:linear-gradient(105deg,#ffffff55 0 26%,transparent 46%)}\n.bub{position:absolute;border-radius:50%;background:radial-gradient(circle at 32% 28%,#ffffffdd,#ffffff22 62%,transparent);border:1px solid #ffffff88}\n.b1{width:46px;height:46px;left:16%;top:22%}.b2{width:24px;height:24px;right:22%;top:34%}.b3{width:14px;height:14px;right:34%;bottom:22%}\n.glass2{position:relative;border-radius:12px;background:rgba(255,255,255,.46);border:1px solid #ffffffcc;box-shadow:0 8px 20px rgb(40 110 140 / .3);padding:11px 16px;text-align:center;backdrop-filter:blur(6px)}\n.glass2 b{font:600 clamp(11px,1.9vw,15px)/1.2 system-ui;color:#12556b}\n.glass2 small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.2em;color:#3f8ba3}",
+    html: "<div class=\"sheen\"></div><div class=\"bub b1\"></div><div class=\"bub b2\"></div><div class=\"bub b3\"></div><div class=\"glass2\"><b>Glossy, airy, optimistic</b><small>FRUTIGER AERO</small></div>"
+  },
+  {
+    slug: "anti-design",
+    name: "反设计",
+    nameEn: "Anti-Design",
+    desc: "超粗边框、高饱和色与刻意错位，拒绝一切装饰规范。",
+    meta: ["超粗边框","错位","高饱和"],
+    verified: true,
+    css: "background:#e8e8e8;position:relative;overflow:hidden;display:grid;place-items:center;\n.b1x{position:absolute;left:6%;top:12%;width:52px;height:52px;background:#ff0;border:5px solid #000;transform:rotate(-9deg)}\n.b2x{position:absolute;right:8%;bottom:14%;width:70px;height:26px;background:#00f;border:5px solid #000;transform:rotate(6deg)}\n.txt22{position:relative;font:900 clamp(15px,3vw,24px)/.9 'Arial Black',system-ui;color:#000;letter-spacing:-.05em;text-align:center;text-transform:uppercase;transform:rotate(-3deg)}\n.txt22 em{display:block;font-style:normal;font-size:.34em;letter-spacing:.16em;margin-top:4px}",
+    html: "<div class=\"b1x\"></div><div class=\"b2x\"></div><div class=\"txt22\">ANTI<br>DESIGN<em>RAW. LOUD.</em></div>"
+  },
+  {
+    slug: "holographic",
+    name: "全息渐变",
+    nameEn: "Holographic",
+    desc: "彩虹光谱虹彩与棱镜折射，超凡脱俗的虹彩体验。",
+    meta: ["彩虹光谱","虹彩","棱镜"],
+    verified: true,
+    css: "background:#0a0a1f;position:relative;overflow:hidden;display:grid;place-items:center;\n.iri{position:absolute;width:70%;aspect-ratio:1.4;border-radius:18px;background:conic-gradient(from 210deg,#ff6ec7,#7b81ff,#5ce1e6,#7bffa8,#fff07b,#ff6ec7);filter:blur(14px);opacity:.6}\n.card8{position:relative;border-radius:14px;background:rgba(10 10 31 / .55);border:1px solid #ffffff44;backdrop-filter:blur(8px);padding:12px 18px;text-align:center}\n.card8 b{font:600 clamp(11px,1.9vw,15px)/1.2 system-ui;background:linear-gradient(90deg,#5ce1e6,#ff6ec7,#fff07b);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:.04em}\n.card8 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:#9a9ac8}",
+    html: "<div class=\"iri\"></div><div class=\"card8\"><b>IRIDESCENT</b><small>SPECTRUM · PRISM</small></div>"
+  },
+  {
+    slug: "generative-art",
+    name: "生成艺术",
+    nameEn: "Generative Art",
+    desc: "算法驱动的程序化图形，以数学函数与噪声创造独特视觉。",
+    meta: ["程序化","网格","算法"],
+    verified: true,
+    css: "background:#0a0a0a;position:relative;overflow:hidden;\n.wavegrid{position:absolute;inset:0;background-image:linear-gradient(#7c3aed55 1px,transparent 1px),linear-gradient(90deg,#7c3aed55 1px,transparent 1px);background-size:16px 16px;transform:rotate(-8deg) scale(1.3);opacity:.55}\n.wavegrid:after{content:'';position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,#ff5fa222,transparent 60%)}\n.txt23{position:absolute;left:10%;bottom:14%;color:#e8e8f0}\n.txt23 b{font:700 clamp(11px,1.9vw,15px)/1.2 ui-monospace,monospace;letter-spacing:.12em}\n.txt23 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:#8b5cf6}",
+    html: "<div class=\"wavegrid\"></div><div class=\"txt23\"><b>GENERATIVE</b><small>ALGORITHMIC PATTERNS</small></div>"
+  },
+  {
+    slug: "particle",
+    name: "粒子系统",
+    nameEn: "Particle System",
+    desc: "深色空间中的粒子网络与连线，数据流动的科技感。",
+    meta: ["粒子","连线","深色空间"],
+    verified: true,
+    css: "background:radial-gradient(circle at 50% 40%,#0f1a2e,#0a0e1a 70%);position:relative;overflow:hidden;\n.pt{position:absolute;width:5px;height:5px;border-radius:50%;background:#6ea8ff;box-shadow:0 0 8px #6ea8ff}\n.pt1{top:24%;left:22%}.pt2{top:38%;left:52%}.pt3{top:58%;left:30%}.pt4{top:30%;left:70%}.pt5{top:66%;left:66%}.pt6{top:46%;left:16%}\n.ln{position:absolute;height:1px;background:#3b6bb855;transform-origin:left center}\n.n1{top:24%;left:22%;width:33%;transform:rotate(25deg)}.n2{top:38%;left:52%;width:26%;transform:rotate(-22deg)}.n3{top:58%;left:30%;width:34%;transform:rotate(14deg)}\n.txt24{position:absolute;bottom:12%;left:0;right:0;text-align:center;font:7.5px/1 ui-monospace,monospace;letter-spacing:.26em;color:#5a7bb0}",
+    html: "<div class=\"ln n1\"></div><div class=\"ln n2\"></div><div class=\"ln n3\"></div><div class=\"pt pt1\"></div><div class=\"pt pt2\"></div><div class=\"pt pt3\"></div><div class=\"pt pt4\"></div><div class=\"pt pt5\"></div><div class=\"pt pt6\"></div><div class=\"txt24\">PARTICLE FIELD</div>"
   }
 ];
