@@ -540,5 +540,265 @@ h4{font:700 clamp(22px,3.4vw,32px)/.96 Helvetica,Arial,sans-serif;letter-spacing
     verified: true,
     css: "background:linear-gradient(#1a0033 0%,#3d0066 45%,#ff00ff 78%,#ffcc00 100%);position:relative;overflow:hidden;\n.sun2{position:absolute;left:50%;top:16%;transform:translateX(-50%);width:34%;aspect-ratio:1;border-radius:50%;background:linear-gradient(#ff006e,#ffcc00);box-shadow:0 0 24px #ff006e99}\n.grid3{position:absolute;bottom:0;left:0;right:0;height:44%;background-image:linear-gradient(#ff00ffaa 1px,transparent 1px),linear-gradient(90deg,#ff00ffaa 1px,transparent 1px);background-size:20px 12px;transform:perspective(90px) rotateX(52deg);transform-origin:bottom}\n.txt2{position:absolute;left:0;right:0;bottom:12%;text-align:center;color:#fff;text-shadow:0 0 8px #ff00ff}\n.txt2 b{font:700 13px/1 'Arial Black',system-ui;letter-spacing:.1em}",
     html: "<div class=\"sun2\"></div><div class=\"grid3\"></div><div class=\"txt2\"><b>SYNTHWAVE</b></div>"
+  },
+  {
+    slug: "neo-brutalist-soft",
+    name: "柔和野兽派",
+    nameEn: "Neo-Brutalist Soft",
+    desc: "保留硬阴影与零圆角，但配色更柔、边框更细。",
+    meta: ["细边框","柔色","硬阴影"],
+    verified: true,
+    css: "background:#eef2ff;display:grid;place-items:center;\n.f{border:2px solid #2b2b3a;background:#c7d2fe;box-shadow:6px 6px 0 #2b2b3a;padding:14px 18px;text-align:center}\n.f b{display:block;font:700 16px/1.1 system-ui;color:#1e1b4b;letter-spacing:-.02em}\n.f small{display:block;margin-top:5px;font:9px/1.4 ui-monospace,monospace;letter-spacing:.16em;color:#4c4a72}",
+    html: "<div class=\"f\"><b>Soft Card</b><small>GENTLE BRUTAL</small></div>"
+  },
+  {
+    slug: "neo-brutalist-playful",
+    name: "俏皮野兽派",
+    nameEn: "Neo-Brutalist Playful",
+    desc: "硬边结构加旋转、撞色与夸张贴纸，活泼又有力。",
+    meta: ["旋转","撞色","贴纸感"],
+    verified: true,
+    css: "background:#fff200;display:grid;place-items:center;position:relative;\n.f2{border:3px solid #111;background:#ff5d8f;padding:12px 18px;box-shadow:7px 7px 0 #111;transform:rotate(-4deg);text-align:center}\n.f2 b{font:900 16px/1 'Arial Black',system-ui;color:#111;letter-spacing:-.02em}\n.star{position:absolute;top:12%;right:12%;width:34px;height:34px;background:#00d9ff;border:3px solid #111;border-radius:50%;display:grid;place-items:center;font:900 10px/1 'Arial Black';transform:rotate(12deg)}",
+    html: "<div class=\"f2\"><b>PLAYFUL!</b></div><div class=\"star\">FUN</div>"
+  },
+  {
+    slug: "art-nouveau",
+    name: "新艺术运动风",
+    nameEn: "Art Nouveau",
+    desc: "有机曲线、藤蔓纹样与自然形态，优雅而富装饰性。",
+    meta: ["有机曲线","藤蔓纹","古典衬线"],
+    verified: true,
+    css: "background:#f5f0e1;position:relative;overflow:hidden;display:grid;place-items:center;\n.vine{position:absolute;inset:0;background:radial-gradient(circle at 15% 20%,#2d501622,transparent 42%),radial-gradient(circle at 85% 80%,#2d501622,transparent 42%)}\n.arc{position:absolute;top:-20%;left:50%;transform:translateX(-50%);width:82%;aspect-ratio:1;border:1px solid #2d5016;border-radius:50%;opacity:.4}\n.arc2{position:absolute;top:-6%;left:50%;transform:translateX(-50%);width:62%;aspect-ratio:1;border:1px solid #2d5016;border-radius:50%;opacity:.5}\n.txt3{position:relative;text-align:center}\n.txt3 b{font:400 clamp(13px,2.2vw,18px)/1.15 Georgia,'Songti SC',serif;color:#2d5016;letter-spacing:.04em}\n.txt3 small{display:block;margin-top:4px;font:8px/1 ui-monospace,monospace;letter-spacing:.24em;color:#6b8347}",
+    html: "<div class=\"vine\"></div><div class=\"arc\"></div><div class=\"arc2\"></div><div class=\"txt3\"><b>Curves drawn<br>from the garden</b><small>MAISON VERTE</small></div>"
+  },
+  {
+    slug: "surrealism",
+    name: "超现实主义风",
+    nameEn: "Surrealism",
+    desc: "梦境般的不合逻辑并置、漂浮物与扭曲空间。",
+    meta: ["漂浮物","梦幻","超现实"],
+    verified: true,
+    css: "background:linear-gradient(#1a1a3e,#3b2f63 60%,#f0ece4);position:relative;overflow:hidden;\n.ball{position:absolute;top:14%;left:18%;width:26%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle at 32% 28%,#ffd9a0,#e8875c);box-shadow:0 16px 28px rgb(0 0 0 / .35)}\n.door{position:absolute;bottom:-4%;right:14%;width:22%;height:46%;background:#0d0b1c;border:1px solid #f0ece4;transform:skewY(-6deg)}\n.eye{position:absolute;bottom:26%;left:16%;font:11px/1 ui-monospace,monospace;color:#f0ece4;letter-spacing:.3em}\n.txt4{position:absolute;left:14%;top:44%;color:#f0ece4}\n.txt4 b{font:400 clamp(12px,2vw,17px)/1.15 Georgia,serif;letter-spacing:.02em}",
+    html: "<div class=\"ball\"></div><div class=\"door\"></div><div class=\"eye\">◉ ◉</div><div class=\"txt4\"><b>Ceci n'est pas<br>un écran</b></div>"
+  },
+  {
+    slug: "ukiyo-e-digital",
+    name: "浮世绘数字风",
+    nameEn: "Ukiyo-e Digital",
+    desc: "扁平色块、精致线描与古典构图，东方美学数字化。",
+    meta: ["扁平色块","线描","海浪纹"],
+    verified: true,
+    css: "background:#f5f0e1;position:relative;overflow:hidden;\n.wave{position:absolute;bottom:0;left:0;right:0;height:52%;background:#1a3055;border-radius:52% 62% 0 0/38% 44% 0 0}\n.wave2{position:absolute;bottom:0;left:0;right:0;height:38%;background:#2d4a7a;border-radius:60% 40% 0 0/30% 36% 0 0}\n.foam{position:absolute;bottom:34%;left:8%;width:26%;height:12%;border-radius:50%;background:#f5f0e1;opacity:.9}\n.txt5{position:absolute;top:14%;left:8%;right:8%;display:flex;justify-content:space-between;align-items:flex-start;color:#1a3055}\n.txt5 b{font:400 clamp(13px,2.2vw,18px)/1.1 Georgia,'Songti SC',serif;letter-spacing:.06em}\n.txt5 small{font:8px/1.6 ui-monospace,monospace;letter-spacing:.2em;writing-mode:vertical-rl;color:#7a4b2a}",
+    html: "<div class=\"wave\"></div><div class=\"wave2\"></div><div class=\"foam\"></div><div class=\"txt5\"><b>浮世 ·<br>PRINTS</b><small>版画</small></div>"
+  },
+  {
+    slug: "gothic",
+    name: "哥特式风",
+    nameEn: "Gothic",
+    desc: "深色尖拱、华丽纹样与古典衬线，庄严肃穆。",
+    meta: ["尖拱","深色","古典衬线"],
+    verified: true,
+    css: "background:#0a0a0a;position:relative;overflow:hidden;display:grid;place-items:center;\n.arch{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:54%;height:78%;border:1px solid #3d2b4e;border-radius:50% 50% 0 0;box-shadow:0 0 40px #3d2b4e55}\n.arch2{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:38%;height:58%;border:1px solid #5b4375;border-radius:50% 50% 0 0}\n.txt6{position:relative;text-align:center;color:#c9b7dd}\n.txt6 b{font:400 clamp(13px,2.2vw,18px)/1.15 Georgia,serif;letter-spacing:.16em;text-transform:uppercase}\n.txt6 small{display:block;margin-top:5px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.3em;color:#6b5a85}",
+    html: "<div class=\"arch\"></div><div class=\"arch2\"></div><div class=\"txt6\"><b>On the<br>Vaulted Arch</b><small>CHAPTER XIV</small></div>"
+  },
+  {
+    slug: "outrun",
+    name: "Outrun 复古未来",
+    nameEn: "Outrun",
+    desc: "霓虹粉紫、透视网格与高速运动感，80 年代赛车游戏。",
+    meta: ["透视线","高速感","霓虹"],
+    verified: true,
+    css: "background:linear-gradient(#0a0a0a 0%,#1a0b2e 42%,#ff006e 100%);position:relative;overflow:hidden;\n.sun3{position:absolute;left:50%;top:12%;transform:translateX(-50%);width:30%;aspect-ratio:1;border-radius:50%;background:linear-gradient(#ff006e,#ffcc00)}\n.grid4{position:absolute;bottom:0;left:-20%;right:-20%;height:52%;background-image:linear-gradient(#00ffffaa 1px,transparent 1px),linear-gradient(90deg,#00ffffaa 1px,transparent 1px);background-size:26px 16px;transform:perspective(80px) rotateX(56deg);transform-origin:bottom}\n.txt7{position:absolute;left:0;right:0;bottom:14%;text-align:center;color:#fff}\n.txt7 b{font:700 12px/1 'Arial Black',system-ui;letter-spacing:.12em;text-shadow:0 0 8px #ff006e}",
+    html: "<div class=\"sun3\"></div><div class=\"grid4\"></div><div class=\"txt7\"><b>OUTRUN</b></div>"
+  },
+  {
+    slug: "dark-academia",
+    name: "暗黑学院风",
+    nameEn: "Dark Academia",
+    desc: "深棕主调、旧书纸张与古典排版，文学与历史的浪漫。",
+    meta: ["深棕","旧纸","经典衬线"],
+    verified: true,
+    css: "background:#3d2b1f;padding:14px 18px;display:flex;flex-direction:column;justify-content:center;gap:6px;position:relative;\n.pdf{position:absolute;inset:7px;border:1px solid #8a6e52;border-radius:2px;opacity:.5}\nsmall.t1{font:7.5px/1 ui-monospace,monospace;letter-spacing:.28em;color:#b5936e}\nh4{font:400 clamp(13px,2.2vw,18px)/1.15 Georgia,'Songti SC',serif;color:#f0e6d0;letter-spacing:.02em}\np.p1{font-size:8.5px;line-height:1.6;color:#c7b191;max-width:90%}\n.by{font:8px/1 ui-monospace,monospace;letter-spacing:.14em;color:#9a7f60}",
+    html: "<div class=\"pdf\"></div><small class=\"t1\">THE QUARTERLY · VOL XIV</small><h4>On Lamplight<br>and Marginalia</h4><p class=\"p1\">“The margin is where reading becomes argument.”</p><span class=\"by\">BY E. ASHCOMBE</span>"
+  },
+  {
+    slug: "cottagecore",
+    name: "田园核风",
+    nameEn: "Cottagecore",
+    desc: "柔和自然色、花卉纹样与手作质感，向往简单生活。",
+    meta: ["花草纹样","柔和自然色","手作感"],
+    verified: true,
+    css: "background:#f5f0e1;position:relative;overflow:hidden;display:grid;place-items:center;\n.fl{position:absolute;width:8px;height:8px;border-radius:50%;background:#e8a0b4}\n.f1{top:16%;left:12%}.f2{top:28%;right:16%;background:#c9a2d4}.f3{bottom:20%;left:20%;background:#a8c9a0}.f4{bottom:30%;right:12%}\n.card5{position:relative;background:#fffdf6;border:1px solid #d8cbb3;border-radius:4px;padding:12px 16px;text-align:center;box-shadow:0 6px 14px rgb(120 100 60 / .12)}\n.card5 b{font:400 clamp(12px,2vw,16px)/1.2 Georgia,'Songti SC',serif;color:#5a8f5a;letter-spacing:.04em}\n.card5 small{display:block;margin-top:4px;font:8px/1.5 ui-monospace,monospace;color:#9a8a6a}\n.rule2{width:26px;height:1px;background:#c9b995;margin:6px auto}",
+    html: "<div class=\"fl f1\"></div><div class=\"fl f2\"></div><div class=\"fl f3\"></div><div class=\"fl f4\"></div><div class=\"card5\"><b>Meadow &amp; Jar</b><div class=\"rule2\"></div><small>ROSE JAM · $8</small></div>"
+  },
+  {
+    slug: "risograph",
+    name: "Risograph 印刷风",
+    nameEn: "Risograph",
+    desc: "专色叠印、半调网点与轻微套印偏移，手工印刷的质感。",
+    meta: ["专色叠印","半调网点","套印偏移"],
+    verified: true,
+    css: "background:#f5f5f0;position:relative;overflow:hidden;display:grid;place-items:center;\n.dots2{position:absolute;inset:0;background-image:radial-gradient(#ff6b9d55 2px,transparent 2px);background-size:10px 10px;opacity:.7}\n.blob2{position:absolute;width:40%;aspect-ratio:1;border-radius:50%;background:#ff6b9d;mix-blend-mode:multiply;left:20%;top:22%}\n.blob3{position:absolute;width:40%;aspect-ratio:1;border-radius:50%;background:#6bc7ff;mix-blend-mode:multiply;left:32%;top:30%}\n.txt8{position:relative;text-align:center;color:#1a1a1a}\n.txt8 b{font:700 clamp(12px,2vw,16px)/1.1 system-ui;letter-spacing:.08em}\n.txt8 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.24em}",
+    html: "<div class=\"dots2\"></div><div class=\"blob2\"></div><div class=\"blob3\"></div><div class=\"txt8\"><b>RISOGRAPH</b><small>DUPLICATOR PRESS</small></div>"
+  },
+  {
+    slug: "mecha",
+    name: "机甲风",
+    nameEn: "Mecha",
+    desc: "钢铁质感、警示条纹与技术参数标注，工业机械感。",
+    meta: ["钢铁质感","警示条纹","参数标注"],
+    verified: true,
+    css: "background:#1a2744;position:relative;overflow:hidden;padding:12px 16px;display:flex;flex-direction:column;justify-content:space-between;\n.hatch{position:absolute;top:0;left:0;right:0;height:8px;background:repeating-linear-gradient(45deg,#f5c518 0 8px,#111 8px 16px)}\n.hd2{display:flex;justify-content:space-between;align-items:flex-start;margin-top:6px}\n.hd2 b{font:700 15px/1 'Arial Black',system-ui;color:#e5e5e5;letter-spacing:.06em}\n.hd2 small{font:8px/1 ui-monospace,monospace;color:#f5c518;letter-spacing:.18em}\n.gauges{display:flex;gap:10px}\n.gauges div{flex:1}\n.gauges small{display:block;font:7px/1 ui-monospace,monospace;color:#7d92b8;letter-spacing:.14em}\n.gauges i{display:block;height:4px;background:#0d1526;margin-top:3px;border-radius:1px}\n.gauges i u{display:block;height:100%;background:#f5c518;text-decoration:none}\n.ok{font:8px/1 ui-monospace,monospace;color:#5ce68a;letter-spacing:.2em}",
+    html: "<div class=\"hatch\"></div><div class=\"hd2\"><b>RX-07</b><small>PILOT ARMORY</small></div><div class=\"gauges\"><div><small>THRUST 88%</small><i><u style=\"width:88%\"></u></i></div><div><small>ARMOR 62%</small><i><u style=\"width:62%\"></u></i></div></div><span class=\"ok\">FRAME OK</span>"
+  },
+  {
+    slug: "gothic-lolita",
+    name: "哥特萝莉风",
+    nameEn: "Gothic Lolita",
+    desc: "深色蕾丝、玫瑰纹样与维多利亚装饰，暗黑浪漫的精致。",
+    meta: ["蕾丝","玫瑰纹","维多利亚"],
+    verified: true,
+    css: "background:#4a1a4a;position:relative;overflow:hidden;display:grid;place-items:center;\n.rose{position:absolute;top:14%;left:14%;width:18%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,#e5e5e5,#8a3a63);opacity:.85}\n.lace{position:absolute;bottom:0;left:0;right:0;height:26%;background-image:radial-gradient(#e5e5e5 3px,transparent 3.4px);background-size:14px 14px;opacity:.4}\n.card6{position:relative;border:1px solid #d9b8d9;border-radius:3px;padding:11px 16px;text-align:center;background:rgba(20 8 20 / .35)}\n.card6 b{font:400 clamp(12px,2vw,17px)/1.2 Georgia,serif;color:#f5e6f5;letter-spacing:.1em}\n.card6 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.24em;color:#d3a8d3}",
+    html: "<div class=\"rose\"></div><div class=\"lace\"></div><div class=\"card6\"><b>Rosenkranz</b><small>CATHEDRAL · ¥28,000</small></div>"
+  },
+  {
+    slug: "cyber-chinese",
+    name: "赛博中华风",
+    nameEn: "Cyber Chinese",
+    desc: "霓虹灯笼、数字山水与电路纹样，东方未来主义。",
+    meta: ["霓虹灯笼","数字山水","电路纹样"],
+    verified: true,
+    css: "background:#0a0a0a;position:relative;overflow:hidden;display:grid;place-items:center;\n.mount{position:absolute;bottom:0;left:0;right:0;height:52%;background:linear-gradient(160deg,#d4553a33,#0a0a0a);clip-path:polygon(0 62%,18% 26%,34% 56%,52% 14%,70% 52%,86% 30%,100% 64%,100% 100%,0 100%)}\n.lantern{position:absolute;top:12%;right:14%;width:26px;height:34px;border-radius:50%;background:radial-gradient(circle,#ff6b4a,#8a1f0f);box-shadow:0 0 18px #d4553acc}\n.circuit{position:absolute;inset:0;background-image:linear-gradient(#d4553a22 1px,transparent 1px),linear-gradient(90deg,#d4553a22 1px,transparent 1px);background-size:18px 18px}\n.txt9{position:relative;text-align:center;color:#f0d0b0}\n.txt9 b{font:400 clamp(14px,2.4vw,19px)/1.1 'Songti SC',Georgia,serif;letter-spacing:.14em}\n.txt9 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.26em;color:#d4553a}",
+    html: "<div class=\"circuit\"></div><div class=\"mount\"></div><div class=\"lantern\"></div><div class=\"txt9\"><b>山海集</b><small>NEO · ORIENT</small></div>"
+  },
+  {
+    slug: "acid-graphics",
+    name: "酸性平面设计",
+    nameEn: "Acid Graphics",
+    desc: "荧光撞色、扭曲字体与液态形态，反叛又实验。",
+    meta: ["荧光绿","扭曲字体","液态形"],
+    verified: true,
+    css: "background:#0a0a0a;position:relative;overflow:hidden;display:grid;place-items:center;\n.blob4{position:absolute;width:60%;aspect-ratio:1;border-radius:44% 56% 62% 38%/52% 40% 60% 48%;background:linear-gradient(#39ff14,#00b3ff);filter:blur(1px);opacity:.85}\n.txt10{position:relative;text-align:center;color:#0a0a0a}\n.txt10 b{font:900 clamp(14px,2.6vw,20px)/1 'Arial Black',system-ui;letter-spacing:-.04em;transform:skew(-6deg);display:block}\n.txt10 small{display:block;margin-top:3px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em}",
+    html: "<div class=\"blob4\"></div><div class=\"txt10\"><b>ACID//LAB</b><small>MELT DOWN</small></div>"
+  },
+  {
+    slug: "hand-drawn-doodle",
+    name: "手绘涂鸦风",
+    nameEn: "Hand-Drawn Doodle",
+    desc: "随手画的线、涂鸦插画与手写字，温暖又有趣。",
+    meta: ["涂鸦线","手写字","不规则"],
+    verified: true,
+    css: "background:#fffef5;padding:14px 16px;display:flex;flex-direction:column;justify-content:center;gap:6px;position:relative;\nh4{font:400 clamp(13px,2.2vw,18px)/1.2 'Segoe Script','Bradley Hand',cursive;color:#2c2c2c;transform:rotate(-1.5deg)}\n.fld{border:2px dashed #2c2c2c;border-radius:8px 14px 10px 16px;padding:7px 9px;font:9px/1.5 'Segoe Script',cursive;color:#666}\n.circ{position:absolute;right:12%;top:18%;width:36px;height:22px;border:2px solid #ff7a59;border-radius:50%;transform:rotate(-14deg)}\n.arr{font:16px/1 cursive;color:#2c2c2c;position:absolute;right:16%;bottom:16%}",
+    html: "<h4>Doodle time!</h4><div class=\"fld\">hello@example.com</div><div class=\"circ\"></div><div class=\"arr\">↝</div>"
+  },
+  {
+    slug: "swiss-poster",
+    name: "瑞士海报风",
+    nameEn: "Swiss Poster",
+    desc: "超大字号、网格对齐与原色块，实验性海报语言。",
+    meta: ["超大字号","网格","原色块"],
+    verified: true,
+    css: "background:#f4f4f1;padding:14px 16px;display:flex;flex-direction:column;justify-content:space-between;\n.num{font:700 clamp(34px,7vw,62px)/.8 Helvetica,Arial;color:#111;letter-spacing:-.06em}\n.mid3{display:flex;justify-content:space-between;align-items:flex-end;border-top:2px solid #111;padding-top:5px;margin-top:4px}\n.mid3 b{font:700 9px/1 Helvetica;letter-spacing:.18em;text-transform:uppercase}\n.mid3 span{font:8px/1 ui-monospace,monospace;color:#666}\n.bars2{display:flex;gap:4px;margin-top:6px}.bars2 i{height:8px;flex:1}\n.bars2 i:nth-child(1){background:#e4002b}.bars2 i:nth-child(2){background:#111}.bars2 i:nth-child(3){background:#1d4ed8}",
+    html: "<div class=\"num\">24</div><div class=\"mid3\"><b>Grid<br>System</b><span>12 COL · 8PT</span></div><div class=\"bars2\"><i></i><i></i><i></i></div>"
+  },
+  {
+    slug: "watercolor-art",
+    name: "水彩艺术风",
+    nameEn: "Watercolor Art",
+    desc: "真实的晕染叠加与笔触，像一幅水彩原作。",
+    meta: ["晕染","透明叠加","笔触"],
+    verified: true,
+    css: "background:#faf8f5;position:relative;overflow:hidden;display:grid;place-items:center;\n.a1{position:absolute;width:52%;aspect-ratio:1;border-radius:45% 55% 60% 40%;background:radial-gradient(circle,#d4a0a0cc,transparent 66%);top:6%;left:8%;filter:blur(5px)}\n.a2{position:absolute;width:46%;aspect-ratio:1;border-radius:55% 45% 40% 60%;background:radial-gradient(circle,#8fa5c8cc,transparent 66%);bottom:4%;right:8%;filter:blur(6px)}\n.a3{position:absolute;width:30%;height:8%;border-radius:50%;background:#c8a0b8aa;bottom:32%;left:28%;filter:blur(4px);transform:rotate(-8deg)}\nh4{position:relative;font:400 clamp(13px,2.2vw,18px)/1.2 Georgia,serif;color:#4a4256;text-align:center}\nh4 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#8b8296}",
+    html: "<div class=\"a1\"></div><div class=\"a2\"></div><div class=\"a3\"></div><h4>Soft art<small>WATERCOLOUR</small></h4>"
+  },
+  {
+    slug: "impressionist-oil",
+    name: "油画印象派风",
+    nameEn: "Impressionist Oil",
+    desc: "厚涂笔触、光影交织与暖调画布，浓郁的油画感。",
+    meta: ["厚涂笔触","暖调","画布质感"],
+    verified: true,
+    css: "background:#f5f0e1;position:relative;overflow:hidden;\n.sky{position:absolute;inset:0;background:linear-gradient(#e8a87c44,#f5f0e1)}\n.stroke{position:absolute;border-radius:40px;opacity:.55}\n.s1{width:60%;height:14%;background:#e8a87c;top:22%;left:-6%;transform:rotate(-6deg);filter:blur(1px)}\n.s2{width:52%;height:12%;background:#8fb3c8;top:38%;left:20%;transform:rotate(4deg);filter:blur(1px)}\n.s3{width:70%;height:16%;background:#c9a86a;bottom:12%;left:-4%;transform:rotate(-3deg);filter:blur(1px)}\n.txt11{position:absolute;inset:0;display:grid;place-items:center;text-align:center}\n.txt11 b{font:400 clamp(13px,2.2vw,18px)/1.15 Georgia,serif;color:#3f3428;letter-spacing:.04em;text-shadow:0 1px 2px #f5f0e1}\n.txt11 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.22em;color:#6b5a44}",
+    html: "<div class=\"sky\"></div><div class=\"stroke s1\"></div><div class=\"stroke s2\"></div><div class=\"stroke s3\"></div><div class=\"txt11\"><b>Galerie Lumière</b><small>MATINÉE · 1874</small></div>"
+  },
+  {
+    slug: "immersive-photo",
+    name: "沉浸摄影",
+    nameEn: "Immersive Photo",
+    desc: "全幅图像铺满视口，文字压在可读性遮罩上浮起。",
+    meta: ["满幅图","可读遮罩","慢推"],
+    verified: true,
+    css: "background:linear-gradient(160deg,#2b3a44 0%,#4a5c63 42%,#8a7a63 72%,#c9b18a 100%);position:relative;overflow:hidden;display:grid;place-items:center;\n.mask{position:absolute;inset:0;background:linear-gradient(transparent 30%,#0c0d10cc)}\n.chap{position:absolute;top:12%;left:10%;font:7.5px/1 ui-monospace,monospace;letter-spacing:.3em;color:#e8dfd2}\n.txt12{position:relative;text-align:center;color:#f4f1ea}\n.txt12 b{font:400 clamp(13px,2.4vw,19px)/1.15 Georgia,serif;letter-spacing:.01em}\n.txt12 small{display:block;margin-top:5px;font:8px/1 ui-monospace,monospace;letter-spacing:.2em;color:#cbbfa9}",
+    html: "<div class=\"mask\"></div><div class=\"chap\">CHAPTER ONE</div><div class=\"txt12\"><b>The light arrives<br>before the sound</b><small>VIEW THE SERIES →</small></div>"
+  },
+  {
+    slug: "collage-art",
+    name: "拼贴艺术风",
+    nameEn: "Collage Art",
+    desc: "纸片剪切、多层叠加与撕边混搭字体，手工拼贴感。",
+    meta: ["纸片剪切","多层叠加","混排字"],
+    verified: true,
+    css: "background:#f5f0e8;position:relative;overflow:hidden;\n.p1{position:absolute;top:12%;left:8%;width:44%;height:34%;background:#2d2d2d;transform:rotate(-4deg)}\n.p2{position:absolute;top:26%;left:30%;width:40%;height:30%;background:#e8d15c;transform:rotate(6deg);mix-blend-mode:multiply}\n.p3{position:absolute;bottom:12%;right:10%;width:36%;height:34%;background:#c94f3d;transform:rotate(-8deg)}\n.txt13{position:absolute;top:14%;right:10%;text-align:right;color:#111}\n.txt13 b{font:900 clamp(13px,2.4vw,19px)/1 'Arial Black',system-ui;letter-spacing:-.03em;transform:rotate(3deg);display:block}\n.txt13 small{font:7.5px/1 ui-monospace,monospace;letter-spacing:.24em}",
+    html: "<div class=\"p1\"></div><div class=\"p2\"></div><div class=\"p3\"></div><div class=\"txt13\"><b>CUT/<br>PASTE</b><small>ISSUE 04</small></div>"
+  },
+  {
+    slug: "cinematic-video-hero",
+    name: "电影视频首屏",
+    nameEn: "Cinematic Video Hero",
+    desc: "海报帧先出、视频静音循环，像电影预告片开场。",
+    meta: ["电影感","暗场调色","播放键"],
+    verified: true,
+    css: "background:linear-gradient(#05060A 0%,#141a24 55%,#05060A 100%);position:relative;overflow:hidden;display:grid;place-items:center;\n.letter{position:absolute;inset:6% 0;background:#000;opacity:.35}\n.play{width:40px;height:40px;border-radius:50%;border:1px solid #f3efe8;display:grid;place-items:center;color:#f3efe8;font-size:13px;position:absolute;top:26%}\n.txt14{position:relative;text-align:center;color:#f3efe8;margin-top:12%}\n.txt14 b{font:400 clamp(12px,2vw,17px)/1.2 Georgia,serif;letter-spacing:.02em}\n.txt14 small{display:block;margin-top:5px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.26em;color:#9a927f}",
+    html: "<div class=\"letter\"></div><div class=\"play\">▶</div><div class=\"txt14\"><b>Some stories only move</b><small>NOW SCREENING</small></div>"
+  },
+  {
+    slug: "glitch-art",
+    name: "故障艺术风",
+    nameEn: "Glitch Art",
+    desc: "RGB 分离、像素错位与扫描线，数字损坏的美学。",
+    meta: ["RGB 分离","错位","扫描线"],
+    verified: true,
+    css: "background:#0a0a0a;position:relative;overflow:hidden;display:grid;place-items:center;\n.scan{position:absolute;inset:0;background:repeating-linear-gradient(#ffffff0a 0 1px,transparent 1px 3px)}\n.g1{position:absolute;font:900 clamp(15px,3vw,24px)/1 'Arial Black',system-ui;color:#00ffff;transform:translate(-2px,-1px);opacity:.85}\n.g2{position:absolute;font:900 clamp(15px,3vw,24px)/1 'Arial Black',system-ui;color:#ff00aa;transform:translate(2px,1px);opacity:.85}\n.g3{position:relative;font:900 clamp(15px,3vw,24px)/1 'Arial Black',system-ui;color:#f0f0f0}\n.gl{position:absolute;left:0;right:0;height:3px;background:#00ffff44}\n.l1{top:34%}.l2{top:62%;background:#ff00aa44}",
+    html: "<div class=\"scan\"></div><div class=\"gl l1\"></div><div class=\"gl l2\"></div><div class=\"g1\">SIGNAL LOST</div><div class=\"g2\">SIGNAL LOST</div><div class=\"g3\">SIGNAL LOST</div>"
+  },
+  {
+    slug: "visual-novel",
+    name: "视觉小说风",
+    nameEn: "Visual Novel",
+    desc: "半透明对话框、角色立绘与选项按钮，沉浸式叙事。",
+    meta: ["对话框","选项按钮","渐变底"],
+    verified: true,
+    css: "background:linear-gradient(160deg,#4a5568,#2d3748 60%,#1a202c);position:relative;overflow:hidden;\n.sil{position:absolute;right:12%;bottom:0;width:34%;height:62%;border-radius:50% 50% 0 0;background:linear-gradient(#7a8a9e,#4a5568);opacity:.7}\n.box2{position:absolute;left:8%;right:8%;bottom:8%;background:rgba(247,250,252,.92);border-radius:8px;padding:8px 10px}\n.box2 small{font:7.5px/1 ui-monospace,monospace;color:#718096;letter-spacing:.16em}\n.box2 b{display:block;margin-top:3px;font:400 9.5px/1.5 system-ui;color:#1a202c}\n.opts{position:absolute;right:8%;top:16%;display:flex;flex-direction:column;gap:5px}\n.opts span{padding:4px 12px;border-radius:999px;border:1px solid #f7fafc;color:#f7fafc;font-size:8px;background:rgba(255,255,255,.1)}",
+    html: "<div class=\"sil\"></div><div class=\"opts\"><span>Choose</span><span>Continue</span></div><div class=\"box2\"><small>YUKI</small><b>「故事从这里开始展开。」</b></div>"
+  },
+  {
+    slug: "shoujo-manga",
+    name: "少女漫画风",
+    nameEn: "Shoujo Manga",
+    desc: "樱花花瓣、闪光与柔和粉色，梦幻浪漫的少女感。",
+    meta: ["花瓣","闪光","粉色"],
+    verified: true,
+    css: "background:linear-gradient(160deg,#fff5f7,#ffe4ec);position:relative;overflow:hidden;display:grid;place-items:center;\n.pet{position:absolute;width:9px;height:9px;border-radius:60% 20% 60% 20%;background:#ffb7c5;opacity:.8}\n.p1{top:16%;left:14%;transform:rotate(24deg)}.p2{top:26%;right:18%;transform:rotate(-30deg)}.p3{bottom:22%;left:22%;transform:rotate(60deg)}.p4{bottom:30%;right:14%;transform:rotate(-12deg)}\n.sp{position:absolute;color:#ff9ab5;font-size:10px}.s1{top:20%;left:34%}.s2{bottom:26%;right:32%}\n.card7{position:relative;border:1px solid #ffc9d8;border-radius:6px;background:rgba(255,255,255,.72);padding:11px 16px;text-align:center}\n.card7 b{font:400 clamp(12px,2vw,17px)/1.2 Georgia,'Songti SC',serif;color:#b3476b;letter-spacing:.1em}\n.card7 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#c9809a}",
+    html: "<div class=\"pet p1\"></div><div class=\"pet p2\"></div><div class=\"pet p3\"></div><div class=\"pet p4\"></div><div class=\"sp s1\">✧</div><div class=\"sp s2\">✦</div><div class=\"card7\"><b>Yumemiru</b><small>ときめき · SHOP</small></div>"
+  },
+  {
+    slug: "cyber-anime",
+    name: "赛博动漫风",
+    nameEn: "Cyber Anime",
+    desc: "深色霓虹、全息投影与锐利几何，未来动漫界面。",
+    meta: ["霓虹光效","全息感","锐利几何"],
+    verified: true,
+    css: "background:#0f0f1a;position:relative;overflow:hidden;display:grid;place-items:center;\n.hud{position:absolute;inset:8%;border:1px solid #7c3aed55}\n.corner{position:absolute;width:14px;height:14px;border:2px solid #7c3aed}\n.c1{top:8%;left:8%;border-right:0;border-bottom:0}.c2{top:8%;right:8%;border-left:0;border-bottom:0}\n.c3{bottom:8%;left:8%;border-right:0;border-top:0}.c4{bottom:8%;right:8%;border-left:0;border-top:0}\n.gauge{position:relative;text-align:center;color:#c4b5fd}\n.gauge b{display:block;font:700 13px/1 ui-monospace,monospace;letter-spacing:.2em;text-shadow:0 0 10px #7c3aed}\n.gauge small{display:block;margin-top:5px;font:7.5px/1.6 ui-monospace,monospace;color:#8b5cf6;letter-spacing:.16em}",
+    html: "<div class=\"hud\"></div><div class=\"corner c1\"></div><div class=\"corner c2\"></div><div class=\"corner c3\"></div><div class=\"corner c4\"></div><div class=\"gauge\"><b>SYNC 82%</b><small>SECTOR 07 // ONLINE</small></div>"
+  },
+  {
+    slug: "pixel-anime",
+    name: "像素动漫风",
+    nameEn: "Pixel Anime",
+    desc: "8-bit 像素角色与游戏 UI，怀旧又可爱。",
+    meta: ["8-bit","游戏 UI","Q 版"],
+    verified: true,
+    css: "background:#2d1b69;display:grid;place-items:center;position:relative;\n.win3{width:74%;border:3px solid #f4f4f4;background:#1a1040;padding:9px;text-align:center}\n.win3 b{display:block;font:700 11px/1.3 ui-monospace,monospace;color:#f4f4f4}\n.hp2{display:flex;justify-content:center;gap:2px;margin:7px 0}\n.hp2 i{width:7px;height:7px;background:#4a90d9}.hp2 i:nth-child(4){background:#1a1040}\n.acts2{display:flex;gap:5px;justify-content:center}\n.acts2 span{border:2px solid #f4f4f4;padding:2px 7px;font:8px/1 ui-monospace,monospace;color:#f4f4f4}\n.lv{position:absolute;top:10%;left:10%;font:8px/1 ui-monospace,monospace;color:#ffd400}",
+    html: "<div class=\"lv\">LV 12</div><div class=\"win3\"><b>A wild pixel appeared!</b><div class=\"hp2\"><i></i><i></i><i></i><i></i></div><div class=\"acts2\"><span>FIGHT</span><span>RUN</span></div></div>"
   }
 ];
