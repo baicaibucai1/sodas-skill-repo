@@ -1190,5 +1190,135 @@ h4{font:700 clamp(22px,3.4vw,32px)/.96 Helvetica,Arial,sans-serif;letter-spacing
     verified: true,
     css: "background:#EFE9DC;position:relative;overflow:hidden;\n.bar4{position:absolute;height:16px;background:#17130E;transform-origin:left center}\n.k1{left:6%;top:24%;width:60%;transform:rotate(-14deg)}\n.k2{left:14%;top:44%;width:52%;background:#c8341f;transform:rotate(-14deg)}\n.k3{left:6%;top:62%;width:44%;transform:rotate(-14deg)}\n.disk{position:absolute;right:14%;top:18%;width:44px;height:44px;border-radius:50%;background:#17130E}\n.txt32{position:absolute;left:8%;bottom:12%;font:700 clamp(10px,1.7vw,13px)/1 ui-monospace,monospace;letter-spacing:.2em;color:#17130E}",
     html: "<div class=\"bar4 k1\"></div><div class=\"bar4 k2\"></div><div class=\"bar4 k3\"></div><div class=\"disk\"></div><div class=\"txt32\">KINETIC 1922</div>"
+  },
+  {
+    slug: "broadcast-glitch",
+    name: "故障广播",
+    nameEn: "Broadcast Glitch",
+    desc: "信号中断、色带错位与测试卡纹理，广播事故的美学。",
+    meta: ["信号中断","色带","测试卡"],
+    verified: true,
+    css: "background:#0B0B0E;position:relative;overflow:hidden;display:grid;place-items:center;\n.bars4{position:absolute;top:0;left:0;right:0;height:26%;display:flex}\n.bars4 i{flex:1}\n.b1c{background:#c0c0c0}.b2c{background:#c0c000}.b3c{background:#00c0c0}.b4c{background:#00c000}.b5c{background:#c000c0}.b6c{background:#c00000}.b7c{background:#0000c0}\n.scan3{position:absolute;inset:0;background:repeating-linear-gradient(#ffffff0c 0 1px,transparent 1px 4px)}\n.txt33{position:relative;text-align:center;color:#EDEDED;margin-top:8%}\n.txt33 b{font:700 clamp(11px,1.9vw,15px)/1.1 ui-monospace,monospace;letter-spacing:.18em;text-shadow:2px 0 #ff2d5566,-2px 0 #00ffff66}\n.txt33 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#8a8a96}",
+    html: "<div class=\"bars4\"><i class=\"b1c\"></i><i class=\"b2c\"></i><i class=\"b3c\"></i><i class=\"b4c\"></i><i class=\"b5c\"></i><i class=\"b6c\"></i><i class=\"b7c\"></i></div><div class=\"scan3\"></div><div class=\"txt33\"><b>ERR 0xE7</b><small>NO SIGNAL</small></div>"
+  },
+  {
+    slug: "korean-minimal",
+    name: "韩式极简",
+    nameEn: "Korean Minimal",
+    desc: "淡雅低饱和、圆润造型与大量留白，温柔而现代。",
+    meta: ["低饱和","圆润","留白"],
+    verified: true,
+    css: "background:#faf9f7;padding:18px 22px;display:flex;flex-direction:column;justify-content:center;gap:8px;\n.dot3{width:30px;height:30px;border-radius:12px;background:#3d4a5c}\nh4{font:400 clamp(13px,2.2vw,18px)/1.25 system-ui;color:#2f3743;letter-spacing:-.02em}\nsmall.k{font:7.5px/1.6 system-ui;color:#8b93a0}\n.chips2{display:flex;gap:5px;margin-top:2px}\n.chips2 span{border:1px solid #e3e5e8;border-radius:999px;padding:3px 9px;font:8px/1 system-ui;color:#6b7480}",
+    html: "<div class=\"dot3\"></div><small class=\"k\">SEOUL · STUDIO</small><h4>단순함 속의<br>따뜻함</h4><div class=\"chips2\"><span>Minimal</span><span>Calm</span></div>"
+  },
+  {
+    slug: "pastel-goth",
+    name: "粉彩哥特",
+    nameEn: "Pastel Goth",
+    desc: "深紫底配粉彩与蕾丝，暗黑中带甜的少女气质。",
+    meta: ["深紫","粉彩","蕾丝"],
+    verified: true,
+    css: "background:linear-gradient(#2d1b3d,#1a1225);position:relative;overflow:hidden;display:grid;place-items:center;\n.lace2{position:absolute;inset:8px;border:1px solid #f9a8d444;border-radius:12px}\n.circ3{position:absolute;width:64px;height:64px;border-radius:50%;border:1px dashed #f9a8d466}\n.txt34{position:relative;text-align:center;color:#f9a8d4}\n.txt34 b{font:400 clamp(12px,2vw,16px)/1.2 Georgia,serif;letter-spacing:.14em}\n.txt34 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#b07ac0}",
+    html: "<div class=\"lace2\"></div><div class=\"circ3\"></div><div class=\"txt34\"><b>Softly Dark</b><small>PASTEL · GOTH</small></div>"
+  },
+  {
+    slug: "maximalism",
+    name: "极繁主义",
+    nameEn: "Maximalism",
+    desc: "满屏色彩、图案叠加与装饰堆砌，拒绝任何克制。",
+    meta: ["密集","图案叠加","高饱和"],
+    verified: true,
+    css: "background:#1a0a2e;position:relative;overflow:hidden;\n.pat{position:absolute;inset:0;background-image:radial-gradient(#d4145a44 3px,transparent 3px),linear-gradient(45deg,#ffd40011 25%,transparent 25%);background-size:16px 16px,12px 12px}\n.blob5{position:absolute;border-radius:50%;filter:blur(8px)}\n.b1d{width:40%;aspect-ratio:1;background:#d4145a;top:10%;left:8%}.b2d{width:36%;aspect-ratio:1;background:#5b2a86;bottom:8%;right:8%}.b3d{width:24%;aspect-ratio:1;background:#ffd400;bottom:22%;left:26%}\n.txt35{position:absolute;inset:0;display:grid;place-items:center;text-align:center;color:#fff;text-shadow:0 2px 8px #000a}\n.txt35 b{font:900 clamp(15px,3vw,22px)/.95 'Arial Black',system-ui;letter-spacing:-.03em}\n.txt35 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em}",
+    html: "<div class=\"pat\"></div><div class=\"blob5 b1d\"></div><div class=\"blob5 b2d\"></div><div class=\"blob5 b3d\"></div><div class=\"txt35\">MORE IS<br>MORE<small>MAXIMALISM</small></div>"
+  },
+  {
+    slug: "medieval-manuscript",
+    name: "中世纪手抄本",
+    nameEn: "Medieval Manuscript",
+    desc: "羊皮纸底、首字母装饰与朱红描边，修道院的抄写感。",
+    meta: ["羊皮纸","首字母","朱红"],
+    verified: true,
+    css: "background:#f0e6d0;padding:14px 16px;display:flex;gap:10px;position:relative;box-shadow:inset 0 0 46px #d9c4a0;\n.drop{width:34px;flex:none;border:1px solid #8b1a1a;background:#8b1a1a;color:#f0e6d0;display:grid;place-items:center;font:400 20px/1 Georgia,serif}\n.txt36{flex:1}\n.txt36 small{font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#8a7550}\n.txt36 h4{font:400 clamp(11px,1.8vw,15px)/1.25 Georgia,serif;color:#4a3a22;margin:4px 0}\n.txt36 p{font:8px/1.6 Georgia,serif;color:#6b5636}\n.illum{position:absolute;right:14px;bottom:12px;width:26px;height:26px;border:1px solid #8b1a1a44;transform:rotate(45deg)}",
+    html: "<div class=\"drop\">A</div><div class=\"txt36\"><small>CAPITULUM XIV</small><h4>On the Vaulted Arch</h4><p>羊皮纸、金箔与朱红，是知识最初的容器。</p></div><div class=\"illum\"></div>"
+  },
+  {
+    slug: "graffiti-street",
+    name: "涂鸦街头",
+    nameEn: "Graffiti Street",
+    desc: "喷漆字体、滴漆与街头贴纸，粗粝的城市表达。",
+    meta: ["喷漆字","滴漆","贴纸"],
+    verified: true,
+    css: "background:#1c1c1e;position:relative;overflow:hidden;display:grid;place-items:center;\n.brick{position:absolute;inset:0;background-image:linear-gradient(#ffffff08 1px,transparent 1px),linear-gradient(90deg,#ffffff08 1px,transparent 1px);background-size:26px 13px}\n.tag4{position:relative;font:900 clamp(16px,3.2vw,24px)/.95 'Comic Sans MS',cursive;color:#ff2d55;text-shadow:3px 3px 0 #fff,6px 6px 0 #00000066;transform:rotate(-6deg);letter-spacing:-.02em}\n.drip{position:absolute;width:4px;background:#ff2d55;border-radius:0 0 3px 3px}\n.d1{height:16px;left:32%;top:56%}.d2{height:26px;left:44%;top:56%}.d3{height:10px;left:56%;top:56%}\n.sticker{position:absolute;right:12%;top:14%;padding:3px 8px;border:2px solid #fff;border-radius:3px;font:8px/1 'Arial Black';color:#fff;transform:rotate(10deg)}",
+    html: "<div class=\"brick\"></div><div class=\"tag4\">WILD<br>STYLE</div><div class=\"drip d1\"></div><div class=\"drip d2\"></div><div class=\"drip d3\"></div><div class=\"sticker\">STREET</div>"
+  },
+  {
+    slug: "marble-luxury",
+    name: "大理石奢华",
+    nameEn: "Marble Luxury",
+    desc: "大理石纹理、金色细线与极致克制，高端奢华的留白。",
+    meta: ["大理石纹","金线","极致留白"],
+    verified: true,
+    css: "background:#f8f6f3;position:relative;overflow:hidden;display:grid;place-items:center;\n.vein{position:absolute;inset:0;background:radial-gradient(ellipse at 20% 30%,#d9d4cc44,transparent 52%),radial-gradient(ellipse at 78% 74%,#cfc8bd55,transparent 48%);filter:blur(2px)}\n.vein2{position:absolute;left:-6%;top:18%;width:112%;height:1px;background:#b8ab9555;transform:rotate(-8deg)}\n.vein3{position:absolute;left:-6%;top:62%;width:112%;height:1px;background:#b8ab9533;transform:rotate(-8deg)}\n.frame3{position:relative;border:1px solid #c9b98a;padding:12px 22px;text-align:center}\n.frame3 b{font:400 clamp(12px,2vw,16px)/1.2 Georgia,serif;color:#2a2620;letter-spacing:.22em;text-transform:uppercase}\n.frame3 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#a8925f}",
+    html: "<div class=\"vein\"></div><div class=\"vein2\"></div><div class=\"vein3\"></div><div class=\"frame3\"><b>Marble</b><small>ATELIER · EST 1902</small></div>"
+  },
+  {
+    slug: "victorian-botanical",
+    name: "维多利亚植物",
+    nameEn: "Victorian Botanical",
+    desc: "植物版画、深绿与装饰边框，维多利亚时代的博物学。",
+    meta: ["植物版画","深绿","装饰边框"],
+    verified: true,
+    css: "background:#faf5ef;position:relative;overflow:hidden;display:grid;place-items:center;\n.border2{position:absolute;inset:9px;border:1px double #2d4a2d;border-radius:2px}\n.leaf2{position:absolute;width:44px;height:20px;border-radius:50% 0 50% 0;background:#2d4a2d22;filter:blur(1px)}\n.l1b{left:12%;top:20%;transform:rotate(-34deg)}.l2b{right:14%;bottom:22%;transform:rotate(140deg)}\n.plate2{position:relative;text-align:center}\n.plate2 b{font:400 clamp(11px,1.8vw,14px)/1.3 Georgia,serif;color:#2d4a2d;letter-spacing:.1em}\n.plate2 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:#7a8a6a}",
+    html: "<div class=\"border2\"></div><div class=\"leaf2 l1b\"></div><div class=\"leaf2 l2b\"></div><div class=\"plate2\"><b>BOTANICAL<br>STUDY · PL. VII</b><small>2D4A2D</small></div>"
+  },
+  {
+    slug: "cubism",
+    name: "立体主义",
+    nameEn: "Cubism",
+    desc: "多视角解构、几何切面与棕土色，毕加索式的空间。",
+    meta: ["几何切面","多视角","棕土色"],
+    verified: true,
+    css: "background:#e8dcc8;position:relative;overflow:hidden;\n.f1c{position:absolute;left:6%;top:10%;width:44%;height:56%;background:#5c4033;clip-path:polygon(0 12%,88% 0,100% 76%,18% 100%)}\n.f2c{position:absolute;right:8%;top:16%;width:40%;height:44%;background:#8a6b4a;clip-path:polygon(18% 0,100% 22%,72% 100%,0 74%)}\n.f3c{position:absolute;left:28%;bottom:8%;width:38%;height:34%;background:#b89a72;clip-path:polygon(0 22%,70% 0,100% 62%,26% 100%)}\n.eye2{position:absolute;right:22%;bottom:24%;width:14px;height:7px;border-radius:50%;background:#1a1a1a}\n.txt37{position:absolute;left:8%;bottom:10%;font:700 clamp(9px,1.5vw,12px)/1 ui-monospace,monospace;letter-spacing:.2em;color:#3a2c20}",
+    html: "<div class=\"f1c\"></div><div class=\"f2c\"></div><div class=\"f3c\"></div><div class=\"eye2\"></div><div class=\"txt37\">CUBISM 1912</div>"
+  },
+  {
+    slug: "tropical-paradise",
+    name: "热带天堂",
+    nameEn: "Tropical Paradise",
+    desc: "棕榈叶、明亮青绿与阳光感，度假胜地的松弛。",
+    meta: ["棕榈叶","青绿","阳光"],
+    verified: true,
+    css: "background:linear-gradient(#fffde7,#d9f2e3 60%,#a8e0c8);position:relative;overflow:hidden;display:grid;place-items:center;\n.sun5{position:absolute;top:12%;right:14%;width:34px;height:34px;border-radius:50%;background:#f5c518;box-shadow:0 0 20px #f5c51888}\n.palm{position:absolute;bottom:-6%;left:-4%;width:46%;height:56%;border-radius:50% 50% 0 0;background:#00897b;transform:rotate(18deg);opacity:.85}\n.palm2{position:absolute;bottom:-4%;right:-2%;width:38%;height:44%;border-radius:50% 50% 0 0;background:#00695c;transform:rotate(-16deg);opacity:.85}\n.txt38{position:relative;text-align:center;color:#0d4f43}\n.txt38 b{font:600 clamp(12px,2vw,16px)/1.2 system-ui;letter-spacing:-.01em}\n.txt38 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:#2f8a76}",
+    html: "<div class=\"sun5\"></div><div class=\"palm\"></div><div class=\"palm2\"></div><div class=\"txt38\"><b>Find your<br>paradise</b><small>TROPICAL</small></div>"
+  },
+  {
+    slug: "github-style",
+    name: "GitHub 风格",
+    nameEn: "GitHub Style",
+    desc: "GitHub 的开发者界面：细边框卡片、蓝色链接与等宽代码。",
+    meta: ["细边框","等宽代码","蓝色链接"],
+    verified: true,
+    css: "background:#ffffff;padding:12px 14px;display:flex;flex-direction:column;gap:7px;\n.repo{display:flex;align-items:center;gap:6px;font:600 10px/1 system-ui;color:#0969da}\n.repo:before{content:'';width:8px;height:8px;border-radius:50%;border:2px solid #0969da}\n.card9{border:1px solid #d0d7de;border-radius:6px;padding:8px 10px}\n.card9 b{display:block;font:600 10px/1.3 system-ui;color:#1f2328}\n.card9 small{display:block;margin-top:3px;font:8.5px/1.5 system-ui;color:#656d76}\n.code2{margin-top:6px;background:#f6f8fa;border-radius:4px;padding:5px 7px;font:7.5px/1.5 ui-monospace,monospace;color:#0550ae}\n.stats3{display:flex;gap:10px;font:7px/1 ui-monospace,monospace;color:#656d76}\n.stats3 i{display:inline-block;width:6px;height:6px;border-radius:50%;margin-right:3px;vertical-align:middle}",
+    html: "<div class=\"repo\">octocat/hello-world</div><div class=\"card9\"><b>Public repository</b><small>Fork and contribute to the project.</small><div class=\"code2\">$ git clone repo.git</div></div><div class=\"stats3\"><span><i style=\"background:#d1242f\"></i>Issues 3</span><span><i style=\"background:#1a7f37\"></i>PR 12</span></div>"
+  },
+  {
+    slug: "witchcore",
+    name: "巫术核心",
+    nameEn: "Witchcore",
+    desc: "神秘紫黑、月亮符文与雾感，暗夜魔法的氛围。",
+    meta: ["紫黑","月亮","雾感"],
+    verified: true,
+    css: "background:radial-gradient(circle at 70% 24%,#3a1f4d,#0d0b14 68%);position:relative;overflow:hidden;display:grid;place-items:center;\n.moon{position:absolute;top:14%;right:18%;width:36px;height:36px;border-radius:50%;background:#e8d9f5;box-shadow:inset -9px -3px 0 -1px #0d0b14,0 0 20px #c9a8e055}\n.fog{position:absolute;inset:0;background:radial-gradient(ellipse at 30% 74%,#7a4a9e33,transparent 58%)}\n.txt39{position:relative;text-align:center;color:#d9c4ea}\n.txt39 b{font:400 clamp(11px,1.9vw,15px)/1.3 Georgia,serif;letter-spacing:.16em}\n.txt39 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#8a6ba8}\n.sigil{font:12px/1 serif;color:#b98ad4;letter-spacing:.5em;position:absolute;bottom:16%}",
+    html: "<div class=\"moon\"></div><div class=\"fog\"></div><div class=\"txt39\"><b>Under the<br>waning moon</b><small>WITCHCORE</small></div><div class=\"sigil\">☾ ✦ ☽</div>"
+  },
+  {
+    slug: "neon-tokyo",
+    name: "霓虹东京",
+    nameEn: "Neon Tokyo",
+    desc: "雨夜霓虹、招牌色块与像素光点，都市的未来感。",
+    meta: ["霓虹招牌","雨夜","都市"],
+    verified: true,
+    css: "background:linear-gradient(#0a0a1a,#1a1230 60%,#0a0a1a);position:relative;overflow:hidden;\n.sign{position:absolute;border:1px solid #ff1493;padding:3px 7px;font:8px/1 ui-monospace,monospace;color:#ff1493;letter-spacing:.16em;box-shadow:0 0 10px #ff149355}\n.s1{top:14%;left:10%}.s2{top:26%;left:10%;color:#14ffe0;border-color:#14ffe0;box-shadow:0 0 10px #14ffe055}\n.s3{top:20%;right:12%;color:#ffe014;border-color:#ffe014;writing-mode:vertical-rl;padding:7px 3px}\n.streaks{position:absolute;inset:0;background:repeating-linear-gradient(96deg,#ffffff06 0 1px,transparent 1px 12px)}\n.txt40{position:absolute;left:10%;bottom:14%;color:#fff}\n.txt40 b{font:700 clamp(11px,1.9vw,15px)/1.1 'Arial Black',system-ui;letter-spacing:.06em;text-shadow:0 0 10px #ff149388}\n.txt40 small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#8e8ea8}",
+    html: "<div class=\"streaks\"></div><div class=\"sign s1\">ラーメン</div><div class=\"sign s2\">SUSHI</div><div class=\"sign s3\">東京</div><div class=\"txt40\"><b>NEON TOKYO</b><small>2:47 AM · RAIN</small></div>"
   }
 ];
