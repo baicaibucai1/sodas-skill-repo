@@ -1060,5 +1060,135 @@ h4{font:700 clamp(22px,3.4vw,32px)/.96 Helvetica,Arial,sans-serif;letter-spacing
     verified: true,
     css: "background:radial-gradient(circle at 50% 40%,#0f1a2e,#0a0e1a 70%);position:relative;overflow:hidden;\n.pt{position:absolute;width:5px;height:5px;border-radius:50%;background:#6ea8ff;box-shadow:0 0 8px #6ea8ff}\n.pt1{top:24%;left:22%}.pt2{top:38%;left:52%}.pt3{top:58%;left:30%}.pt4{top:30%;left:70%}.pt5{top:66%;left:66%}.pt6{top:46%;left:16%}\n.ln{position:absolute;height:1px;background:#3b6bb855;transform-origin:left center}\n.n1{top:24%;left:22%;width:33%;transform:rotate(25deg)}.n2{top:38%;left:52%;width:26%;transform:rotate(-22deg)}.n3{top:58%;left:30%;width:34%;transform:rotate(14deg)}\n.txt24{position:absolute;bottom:12%;left:0;right:0;text-align:center;font:7.5px/1 ui-monospace,monospace;letter-spacing:.26em;color:#5a7bb0}",
     html: "<div class=\"ln n1\"></div><div class=\"ln n2\"></div><div class=\"ln n3\"></div><div class=\"pt pt1\"></div><div class=\"pt pt2\"></div><div class=\"pt pt3\"></div><div class=\"pt pt4\"></div><div class=\"pt pt5\"></div><div class=\"pt pt6\"></div><div class=\"txt24\">PARTICLE FIELD</div>"
+  },
+  {
+    slug: "vhs-aesthetic",
+    name: "VHS美学",
+    nameEn: "VHS Aesthetic",
+    desc: "色彩失真、扫描噪点与磁带抖动，模拟信号损坏的怀旧。",
+    meta: ["色彩失真","噪点","磁带"],
+    verified: true,
+    css: "background:#0a0a0a;position:relative;overflow:hidden;display:grid;place-items:center;\n.noise{position:absolute;inset:0;background-image:repeating-linear-gradient(#ffffff10 0 1px,transparent 1px 3px);opacity:.9}\n.tint{position:absolute;inset:0;background:linear-gradient(90deg,#ff00ff18,#00ffff18)}\n.track{position:absolute;left:0;right:0;height:10px;background:#ffffff22;bottom:22%}\n.txt25{position:relative;text-align:center;color:#f0f0f0;text-shadow:1.5px 0 #ff00ff,-1.5px 0 #00ffff}\n.txt25 b{font:700 clamp(12px,2.2vw,17px)/1 'Arial Black',system-ui;letter-spacing:.12em}\n.txt25 small{display:block;margin-top:5px;font:7px/1 ui-monospace,monospace;letter-spacing:.26em;color:#a0a0a0}",
+    html: "<div class=\"noise\"></div><div class=\"tint\"></div><div class=\"track\"></div><div class=\"txt25\"><b>PLAY ▶</b><small>VHS · SP · 1994</small></div>"
+  },
+  {
+    slug: "ink-wash",
+    name: "水墨画风",
+    nameEn: "Ink Wash",
+    desc: "墨色浓淡干湿的变化与大面留白，东方的诗意。",
+    meta: ["墨色浓淡","飞白","留白"],
+    verified: true,
+    css: "background:#f8f5f0;position:relative;overflow:hidden;\n.m1{position:absolute;left:12%;top:16%;width:52%;height:44%;border-radius:52% 48% 60% 40%/44% 56% 44% 56%;background:radial-gradient(circle at 36% 34%,#2c2c2ccc,#2c2c2c33 62%,transparent 76%);filter:blur(4px)}\n.m2{position:absolute;right:14%;bottom:14%;width:34%;height:26%;border-radius:60% 40% 50% 50%;background:radial-gradient(circle,#2c2c2c66,transparent 72%);filter:blur(6px)}\n.stem{position:absolute;left:44%;top:40%;width:1.5px;height:34%;background:#2c2c2c;transform:rotate(8deg);opacity:.7}\n.txt26{position:absolute;right:12%;top:16%;writing-mode:vertical-rl;font:400 clamp(12px,2vw,16px)/1.6 Georgia,'Songti SC',serif;color:#3a3a3a;letter-spacing:.2em}",
+    html: "<div class=\"m1\"></div><div class=\"m2\"></div><div class=\"stem\"></div><div class=\"txt26\">水墨 · 空山</div>"
+  },
+  {
+    slug: "monochrome",
+    name: "单色极简",
+    nameEn: "Monochrome",
+    desc: "只用黑白灰，靠字重与留白建立层级。",
+    meta: ["纯黑白","字重对比","极简"],
+    verified: true,
+    css: "background:#fafafa;padding:18px 22px;display:flex;flex-direction:column;justify-content:center;gap:6px;\nsmall.k{font:7.5px/1 ui-monospace,monospace;letter-spacing:.32em;color:#999}\nh4{font:700 clamp(15px,2.6vw,22px)/1.1 system-ui;color:#111;letter-spacing:-.03em}\np.m{font:9px/1.6 system-ui;color:#666;max-width:88%}\n.rule4{width:100%;height:1px;background:#111;margin-top:4px}",
+    html: "<small class=\"k\">MONOCHROME</small><h4>Less, but<br>only less.</h4><p class=\"m\">没有第二种颜色，层级全靠字号、字重和间距。</p><div class=\"rule4\"></div>"
+  },
+  {
+    slug: "terracotta",
+    name: "赤陶暖调",
+    nameEn: "Terracotta",
+    desc: "陶土橙、暖沙色与自然肌理，温厚朴实的质感。",
+    meta: ["陶土橙","暖沙","自然肌理"],
+    verified: true,
+    css: "background:#faf5ef;padding:16px 20px;display:flex;flex-direction:column;justify-content:center;gap:8px;\n.blk{width:44px;height:44px;border-radius:50% 50% 46% 54%/48% 52% 48% 52%;background:linear-gradient(140deg,#b5654a,#8a4632);box-shadow:inset -4px -4px 8px #8a463288,inset 3px 3px 6px #d18b7055}\nh4{font:400 clamp(13px,2.2vw,18px)/1.2 Georgia,'Songti SC',serif;color:#5c3826;letter-spacing:.03em}\n.sw2{display:flex;gap:6px}.sw2 i{width:20px;height:20px;border-radius:4px}\nsmall.k{font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#a88168}",
+    html: "<div class=\"blk\"></div><small class=\"k\">TERRACOTTA</small><h4>暖，是材料本身</h4><div class=\"sw2\"><i style=\"background:#b5654a\"></i><i style=\"background:#d9a48c\"></i><i style=\"background:#e8d6c4\"></i></div>"
+  },
+  {
+    slug: "brutalist-web",
+    name: "网页粗野主义",
+    nameEn: "Brutalist Web",
+    desc: "裸露的结构、系统字体与原始 HTML 感，拒绝装饰。",
+    meta: ["系统字体","裸露结构","高对比"],
+    verified: true,
+    css: "background:#fff;padding:14px 16px;display:flex;flex-direction:column;gap:5px;\nh4{font:700 15px/1.15 Arial,Helvetica,sans-serif;color:#000;letter-spacing:-.01em;text-decoration:underline;text-underline-offset:3px}\np.b{font:9px/1.5 Arial,Helvetica,sans-serif;color:#000}\n.line5{height:1px;background:#000;margin:3px 0}\nul{margin:0;padding-left:14px;font:9px/1.6 Arial,Helvetica,sans-serif;color:#000}\na.u{font:9px/1 Arial;color:#00e;text-decoration:underline}",
+    html: "<h4>THIS IS A WEB PAGE</h4><p class=\"b\">Default browser styles. Serif-free. No gradients. No shadows.</p><div class=\"line5\"></div><ul><li>System fonts only</li><li>Visible structure</li></ul><a class=\"u\">→ read more</a>"
+  },
+  {
+    slug: "mid-century-modern",
+    name: "中世纪现代",
+    nameEn: "Mid-Century Modern",
+    desc: "50 年代橙、芥末黄与几何形，简洁而有时代感。",
+    meta: ["50 年代配色","几何形","复古现代"],
+    verified: true,
+    css: "background:#f5f0e1;position:relative;overflow:hidden;\n.c1m{position:absolute;left:8%;top:16%;width:52px;height:52px;border-radius:50%;background:#e8572a}\n.t1{position:absolute;right:16%;top:12%;width:0;height:0;border-left:26px solid transparent;border-right:26px solid transparent;border-bottom:44px solid #d9a648}\n.b1m{position:absolute;left:26%;bottom:14%;width:64px;height:20px;background:#2f4a3f;border-radius:10px;transform:rotate(-14deg)}\n.txt27{position:absolute;right:12%;bottom:16%;text-align:right;color:#3a3226}\n.txt27 b{font:700 clamp(11px,1.9vw,15px)/1.1 Georgia,serif;letter-spacing:.04em}\n.txt27 small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.2em;color:#8a7c60}",
+    html: "<div class=\"c1m\"></div><div class=\"t1\"></div><div class=\"b1m\"></div><div class=\"txt27\"><b>Midcentury</b><small>1956</small></div>"
+  },
+  {
+    slug: "constructivism",
+    name: "构成主义",
+    nameEn: "Constructivism",
+    desc: "粗斜线、红色几何与强硬排版，俄国先锋派的构成感。",
+    meta: ["粗斜线","正红","强硬排版"],
+    verified: true,
+    css: "background:#f2e8d5;position:relative;overflow:hidden;\n.slash2{position:absolute;left:-10%;top:26%;width:130%;height:26px;background:#cc0000;transform:rotate(-16deg)}\n.slash3{position:absolute;left:-10%;top:54%;width:130%;height:9px;background:#1a1a1a;transform:rotate(-16deg)}\n.circ2{position:absolute;right:14%;top:14%;width:58px;height:58px;border-radius:50%;background:#cc0000}\n.txt28{position:absolute;left:8%;bottom:12%;color:#1a1a1a}\n.txt28 b{font:900 clamp(14px,2.6vw,20px)/.92 'Arial Black',system-ui;letter-spacing:-.04em;text-transform:uppercase}\n.txt28 small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em}",
+    html: "<div class=\"slash2\"></div><div class=\"slash3\"></div><div class=\"circ2\"></div><div class=\"txt28\">FORWARD!<small>1923 · KONSTRUKTIVISM</small></div>"
+  },
+  {
+    slug: "op-art",
+    name: "欧普艺术",
+    nameEn: "Op Art",
+    desc: "黑白几何的视觉错觉，线条产生波动与眩晕感。",
+    meta: ["视觉错觉","黑白线","几何"],
+    verified: true,
+    css: "background:#fff;position:relative;overflow:hidden;display:grid;place-items:center;\n.rings{position:absolute;inset:-20%;background:repeating-radial-gradient(circle at 50% 50%,#000 0 2px,#fff 2px 9px)}\n.warp{position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,#fff0 26%,#fff 62%);mix-blend-mode:normal}\n.txt29{position:relative;background:#fff;padding:5px 12px;font:900 11px/1 'Arial Black',system-ui;letter-spacing:.2em;color:#000;border:2px solid #000}",
+    html: "<div class=\"rings\"></div><div class=\"warp\"></div><div class=\"txt29\">OP ART</div>"
+  },
+  {
+    slug: "islamic-geometric",
+    name: "伊斯兰几何",
+    nameEn: "Islamic Geometric",
+    desc: "星形 tessellation 与金线纹样，对称精密的东方几何。",
+    meta: ["星形纹样","对称","金线"],
+    verified: true,
+    css: "background:#1a3a5c;position:relative;overflow:hidden;\n.tess{position:absolute;inset:0;background-image:linear-gradient(45deg,#d4af3733 1px,transparent 1px),linear-gradient(-45deg,#d4af3733 1px,transparent 1px),linear-gradient(45deg,#d4af3718 1px,transparent 1px),linear-gradient(-45deg,#d4af3718 1px,transparent 1px);background-size:34px 34px,34px 34px,17px 17px,17px 17px}\n.star8{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:70px;height:70px;border:1px solid #d4af37;clip-path:polygon(50% 0,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%)}\n.txt30{position:absolute;bottom:12%;left:0;right:0;text-align:center;font:400 clamp(10px,1.7vw,13px)/1 Georgia,serif;letter-spacing:.3em;color:#e8d29a}",
+    html: "<div class=\"tess\"></div><div class=\"star8\"></div><div class=\"txt30\">GEOMETRIC</div>"
+  },
+  {
+    slug: "indian-festive",
+    name: "印度节庆",
+    nameEn: "Indian Festive",
+    desc: "亮红与金色、灯饰与曼陀罗纹样，热闹的节庆氛围。",
+    meta: ["正红金","灯饰","曼陀罗"],
+    verified: true,
+    css: "background:linear-gradient(#fff8e7,#ffe8c8);position:relative;overflow:hidden;display:grid;place-items:center;\n.mand{position:absolute;width:66%;aspect-ratio:1;border-radius:50%;border:1px dashed #e6394666;box-shadow:0 0 0 10px #e6394612,0 0 0 22px #d4af3712}\n.diya{position:absolute;bottom:14%;width:18px;height:12px;border-radius:50% 50% 40% 40%;background:#e63946}\n.d1{left:20%}.d2{left:50%;transform:translateX(-50%)}.d3{right:20%}\n.flame{position:absolute;bottom:24%;width:7px;height:9px;border-radius:50% 50% 50% 50%;background:#f5c518;box-shadow:0 0 8px #f5c518}\n.txt31{position:relative;text-align:center;color:#8a1c26}\n.txt31 b{font:600 clamp(11px,1.9vw,15px)/1.2 'Songti SC',Georgia,serif;letter-spacing:.1em}\n.txt31 small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.2em;color:#b5544a}",
+    html: "<div class=\"mand\"></div><div class=\"diya d1\"></div><div class=\"diya d2\"></div><div class=\"diya d3\"></div><div class=\"flame\" style=\"left:22%\"></div><div class=\"flame\" style=\"left:52%\"></div><div class=\"flame\" style=\"right:22%\"></div><div class=\"txt31\"><b>节庆之光</b><small>DIWALI</small></div>"
+  },
+  {
+    slug: "african-textile",
+    name: "非洲纺织",
+    nameEn: "African Textile",
+    desc: "几何织纹、大地色与高对比色块，手工织物的节奏。",
+    meta: ["几何织纹","大地色","高对比"],
+    verified: true,
+    css: "background:#2c1810;position:relative;overflow:hidden;\n.stripes{position:absolute;inset:0;background:repeating-linear-gradient(0deg,#c4501f 0 10px,#2c1810 10px 14px,#d9a648 14px 20px,#2c1810 20px 24px);opacity:.85}\n.cut{position:absolute;left:0;right:0;top:34%;height:32%;background:#f0e0c8;display:grid;place-items:center}\n.cut b{font:900 clamp(12px,2.2vw,17px)/1 'Arial Black',system-ui;color:#2c1810;letter-spacing:.06em}\n.diamonds{position:absolute;left:0;right:0;top:38%;height:24%;background-image:linear-gradient(45deg,#c4501f 25%,transparent 25%,transparent 75%,#c4501f 75%),linear-gradient(45deg,#c4501f 25%,transparent 25%,transparent 75%,#c4501f 75%);background-size:14px 14px;background-position:0 0,7px 7px;opacity:.35}",
+    html: "<div class=\"stripes\"></div><div class=\"cut\"><b>TEXTILE</b></div><div class=\"diamonds\"></div>"
+  },
+  {
+    slug: "kinetic-typography",
+    name: "动力学排印",
+    nameEn: "Kinetic Typography",
+    desc: "字体作为运动主体，倾斜、拉伸与重复制造速度感。",
+    meta: ["动态字","倾斜","重复"],
+    verified: true,
+    css: "background:#0B0B0C;position:relative;overflow:hidden;display:flex;flex-direction:column;justify-content:center;gap:1px;padding-left:0;\n.row5{font:900 clamp(20px,4.4vw,34px)/.92 'Arial Black',system-ui;color:#F4F1EB;letter-spacing:-.04em;white-space:nowrap;transform:skewX(-10deg)}\n.row5:nth-child(2){color:#F4F1EB55}\n.row5:nth-child(3){color:#F4F1EB22}\n.row5:nth-child(4){color:#F4F1EB11}",
+    html: "<div class=\"row5\">MOTION</div><div class=\"row5\">MOTION</div><div class=\"row5\">MOTION</div><div class=\"row5\">MOTION</div>"
+  },
+  {
+    slug: "kinetic-constructivism",
+    name: "动力学构成主义",
+    nameEn: "Kinetic Constructivism",
+    desc: "几何构件像机械臂一样倾斜排列，构成与运动的结合。",
+    meta: ["几何构件","倾斜","机械感"],
+    verified: true,
+    css: "background:#EFE9DC;position:relative;overflow:hidden;\n.bar4{position:absolute;height:16px;background:#17130E;transform-origin:left center}\n.k1{left:6%;top:24%;width:60%;transform:rotate(-14deg)}\n.k2{left:14%;top:44%;width:52%;background:#c8341f;transform:rotate(-14deg)}\n.k3{left:6%;top:62%;width:44%;transform:rotate(-14deg)}\n.disk{position:absolute;right:14%;top:18%;width:44px;height:44px;border-radius:50%;background:#17130E}\n.txt32{position:absolute;left:8%;bottom:12%;font:700 clamp(10px,1.7vw,13px)/1 ui-monospace,monospace;letter-spacing:.2em;color:#17130E}",
+    html: "<div class=\"bar4 k1\"></div><div class=\"bar4 k2\"></div><div class=\"bar4 k3\"></div><div class=\"disk\"></div><div class=\"txt32\">KINETIC 1922</div>"
   }
 ];
