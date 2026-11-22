@@ -1,1 +1,74 @@
-PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCA2MzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9ImtjQXJjQ2xpcCI+CiAgICAgIDxyZWN0IHg9IjkyMCIgeT0iNjAiIHdpZHRoPSIyODAiIGhlaWdodD0iMjgwIiAvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CgogIDwhLS0gUGFwZXIgc3RhZ2UgLS0+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjRUZFOURDIiAvPgoKICA8IS0tIE1hY2hpbmUgZGVjb3I6IGNvbmNlbnRyaWMgYXJjICh0b3AtcmlnaHQpLCByYWRpYWwgYnVyc3QgaXMgdGhlIGZseXdoZWVsIC0tPgogIDxnIGNsaXAtcGF0aD0idXJsKCNrY0FyY0NsaXApIj4KICAgIDxjaXJjbGUgY3g9IjExMjAiIGN5PSI5MCIgcj0iMjEwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNzEzMEUiIHN0cm9rZS13aWR0aD0iMyIgb3BhY2l0eT0iMC4yOCIgLz4KICAgIDxjaXJjbGUgY3g9IjExMjAiIGN5PSI5MCIgcj0iMTUwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNzEzMEUiIHN0cm9rZS13aWR0aD0iMyIgb3BhY2l0eT0iMC4yOCIgLz4KICAgIDxjaXJjbGUgY3g9IjExMjAiIGN5PSI5MCIgcj0iOTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzFDNEE4NyIgc3Ryb2tlLXdpZHRoPSI4IiBvcGFjaXR5PSIwLjg1IiAvPgogIDwvZz4KCiAgPCEtLSBEaWFnb25hbCByZWQgYmFuZCBkcml2aW5nIGFjcm9zcyAtLT4KICA8ZyB0cmFuc2Zvcm09InJvdGF0ZSgtMjQgNjAwIDMxNSkiPgogICAgPHJlY3QgeD0iLTgwIiB5PSIyOTgiIHdpZHRoPSIxMzYwIiBoZWlnaHQ9IjM0IiBmaWxsPSIjRTAyMzFCIiAvPgogIDwvZz4KCiAgPCEtLSBPcmJpdGluZyBkaXNjOiByaW0gY2lyY2xlICsgdHJhdmVsbGluZyBkb3QgLS0+CiAgPGNpcmNsZSBjeD0iMjUwIiBjeT0iMjUwIiByPSI4NiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTcxMzBFIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9IjAuMzUiIC8+CiAgPGNpcmNsZSBjeD0iMjUwIiBjeT0iMTY0IiByPSIyMCIgZmlsbD0iI0UwMjMxQiIgc3Ryb2tlPSIjMTcxMzBFIiBzdHJva2Utd2lkdGg9IjMiIC8+CgogIDwhLS0gU3dpbmdpbmcgdHJpYW5nbGUgKHBlbmR1bHVtKSB0b3AtcmlnaHQgLS0+CiAgPHBvbHlnb24gcG9pbnRzPSI4ODAsMTIwIDkzNiwxMjAgOTA4LDE3MiIgZmlsbD0iIzFDNEE4NyIgc3Ryb2tlPSIjMTcxMzBFIiBzdHJva2Utd2lkdGg9IjMiIC8+CiAgPGxpbmUgeDE9IjkwOCIgeTE9Ijk2IiB4Mj0iOTA4IiB5Mj0iMTIwIiBzdHJva2U9IiMxNzEzMEUiIHN0cm9rZS13aWR0aD0iMiIgLz4KCiAgPCEtLSBUb3AtbGVmdDogbnVtYmVyZWQgY29uc3RydWN0aXZpc3QgY2FyZCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2MCw2MCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjMyMCIgaGVpZ2h0PSIxMjYiIGZpbGw9IiNFRkU5REMiIHN0cm9rZT0iIzE3MTMwRSIgc3Ryb2tlLXdpZHRoPSIyIiAvPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjMyMCIgaGVpZ2h0PSI4IiBmaWxsPSIjMUM0QTg3IiAvPgogICAgPHRleHQgeD0iMTgiIHk9IjQ2IiBmb250LWZhbWlseT0idWktbW9ub3NwYWNlLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNFMDIzMUIiPjAxPC90ZXh0PgogICAgPHRleHQgeD0iMTgiIHk9Ijc4IiBmb250LWZhbWlseT0iQXJjaGl2bywgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI0IiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjMTcxMzBFIiBsZXR0ZXItc3BhY2luZz0iLTAuNSI+TU9USU9OIElTIFNUUlVDVFVSRTwvdGV4dD4KICAgIDx0ZXh0IHg9IjE4IiB5PSIxMDQiIGZvbnQtZmFtaWx5PSJBcmNoaXZvLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMxNzEzMEUiIG9wYWNpdHk9IjAuNiI+VGhlIGRpc2MgZG9lcyBub3QgZGVjb3JhdGUgJiM4MjEyOyBpdCB0dXJucy48L3RleHQ+CiAgPC9nPgoKICA8IS0tIENlbnRyYWwgZGlhZ29uYWwgaGVhZGxpbmUgLS0+CiAgPGcgZm9udC1mYW1pbHk9IkFyY2hpdm8sIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9Ii0zIj4KICAgIDx0ZXh0IHg9IjEyMCIgeT0iMzMwIiBmb250LXNpemU9IjE1MCIgZmlsbD0iIzE3MTMwRSI+QlVJTEQ8L3RleHQ+CiAgICA8dGV4dCB4PSIxMjAiIHk9IjQ1MiIgZm9udC1zaXplPSIxMjAiIGZpbGw9IiNFMDIzMUIiPklOPC90ZXh0PgogICAgPGcgdHJhbnNmb3JtPSJyb3RhdGUoLTQgNTAwIDQzMCkiPgogICAgICA8cmVjdCB4PSIzMzAiIHk9IjM3OCIgd2lkdGg9IjM2MCIgaGVpZ2h0PSI5NiIgZmlsbD0iI0Y0QjMwMSIgc3Ryb2tlPSIjMTcxMzBFIiBzdHJva2Utd2lkdGg9IjMiIC8+CiAgICAgIDx0ZXh0IHg9IjM1MiIgeT0iNDUyIiBmb250LXNpemU9Ijk2IiBmaWxsPSIjMTcxMzBFIj5NT1RJT048L3RleHQ+CiAgICA8L2c+CiAgPC9nPgoKICA8IS0tIE1hcmNoaW5nIHNxdWFyZXMgc3RyaXAgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTIwLDQ5OCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjI2IiBoZWlnaHQ9IjI2IiBmaWxsPSIjMTcxMzBFIiAvPgogICAgPHJlY3QgeD0iNDAiIHk9IjAiIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTcxMzBFIiBzdHJva2Utd2lkdGg9IjIiIC8+CiAgICA8cmVjdCB4PSI4MCIgeT0iMCIgd2lkdGg9IjI2IiBoZWlnaHQ9IjI2IiBmaWxsPSIjMUM0QTg3IiAvPgogICAgPHJlY3QgeD0iMTIwIiB5PSIwIiB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE3MTMwRSIgc3Ryb2tlLXdpZHRoPSIyIiAvPgogICAgPHJlY3QgeD0iMTYwIiB5PSIwIiB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIGZpbGw9IiNGNEIzMDEiIHN0cm9rZT0iIzE3MTMwRSIgc3Ryb2tlLXdpZHRoPSIyIiAvPgogIDwvZz4KCiAgPCEtLSBCb3R0b20tbGVmdDogYnV0dG9ucyAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMjAsNTQ4KSI+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTc2IiBoZWlnaHQ9IjQ2IiBmaWxsPSIjRTAyMzFCIiBzdHJva2U9IiMxNzEzMEUiIHN0cm9rZS13aWR0aD0iMiIgLz4KICAgIDx0ZXh0IHg9Ijg4IiB5PSIzMCIgZm9udC1mYW1pbHk9IkFyY2hpdm8sIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iI0VGRTlEQyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkJVSUxEIEZPUldBUkQ8L3RleHQ+CiAgICA8cmVjdCB4PSIxOTIiIHk9IjAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNDYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE3MTMwRSIgc3Ryb2tlLXdpZHRoPSIyIiAvPgogICAgPHRleHQgeD0iMjUyIiB5PSIzMCIgZm9udC1mYW1pbHk9IkFyY2hpdm8sIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iIzE3MTMwRSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlNQRUNTPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBCb3R0b20tcmlnaHQ6IGJveGVkIGlucHV0IHdpdGggcmVkIGJhc2VsaW5lIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDgyMCw1NDApIj4KICAgIDx0ZXh0IHg9IjAiIHk9IjE0IiBmb250LWZhbWlseT0idWktbW9ub3NwYWNlLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxNzEzMEUiIG9wYWNpdHk9IjAuNiIgbGV0dGVyLXNwYWNpbmc9IjMiPllPVVIgTkFNRTwvdGV4dD4KICAgIDxyZWN0IHg9IjAiIHk9IjI0IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjQ4IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNzEzMEUiIHN0cm9rZS13aWR0aD0iMiIgLz4KICAgIDx0ZXh0IHg9IjE0IiB5PSI1NCIgZm9udC1mYW1pbHk9IkFyY2hpdm8sIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iIzE3MTMwRSIgb3BhY2l0eT0iMC4zNSI+VHlwZSBoZXJlPC90ZXh0PgogICAgPHJlY3QgeD0iMiIgeT0iNjgiIHdpZHRoPSIxNTAiIGhlaWdodD0iNCIgZmlsbD0iI0UwMjMxQiIgLz4KICA8L2c+Cjwvc3ZnPgo=
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="kcArcClip">
+      <rect x="920" y="60" width="280" height="280" />
+    </clipPath>
+  </defs>
+
+  <!-- Paper stage -->
+  <rect width="1200" height="630" fill="#EFE9DC" />
+
+  <!-- Machine decor: concentric arc (top-right), radial burst is the flywheel -->
+  <g clip-path="url(#kcArcClip)">
+    <circle cx="1120" cy="90" r="210" fill="none" stroke="#17130E" stroke-width="3" opacity="0.28" />
+    <circle cx="1120" cy="90" r="150" fill="none" stroke="#17130E" stroke-width="3" opacity="0.28" />
+    <circle cx="1120" cy="90" r="90" fill="none" stroke="#1C4A87" stroke-width="8" opacity="0.85" />
+  </g>
+
+  <!-- Diagonal red band driving across -->
+  <g transform="rotate(-24 600 315)">
+    <rect x="-80" y="298" width="1360" height="34" fill="#E0231B" />
+  </g>
+
+  <!-- Orbiting disc: rim circle + travelling dot -->
+  <circle cx="250" cy="250" r="86" fill="none" stroke="#17130E" stroke-width="2" opacity="0.35" />
+  <circle cx="250" cy="164" r="20" fill="#E0231B" stroke="#17130E" stroke-width="3" />
+
+  <!-- Swinging triangle (pendulum) top-right -->
+  <polygon points="880,120 936,120 908,172" fill="#1C4A87" stroke="#17130E" stroke-width="3" />
+  <line x1="908" y1="96" x2="908" y2="120" stroke="#17130E" stroke-width="2" />
+
+  <!-- Top-left: numbered constructivist card -->
+  <g transform="translate(60,60)">
+    <rect x="0" y="0" width="320" height="126" fill="#EFE9DC" stroke="#17130E" stroke-width="2" />
+    <rect x="0" y="0" width="320" height="8" fill="#1C4A87" />
+    <text x="18" y="46" font-family="ui-monospace, monospace" font-size="14" fill="#E0231B">01</text>
+    <text x="18" y="78" font-family="Archivo, Helvetica, sans-serif" font-size="24" font-weight="800" fill="#17130E" letter-spacing="-0.5">MOTION IS STRUCTURE</text>
+    <text x="18" y="104" font-family="Archivo, Helvetica, sans-serif" font-size="13" fill="#17130E" opacity="0.6">The disc does not decorate &#8212; it turns.</text>
+  </g>
+
+  <!-- Central diagonal headline -->
+  <g font-family="Archivo, Helvetica, sans-serif" font-weight="900" letter-spacing="-3">
+    <text x="120" y="330" font-size="150" fill="#17130E">BUILD</text>
+    <text x="120" y="452" font-size="120" fill="#E0231B">IN</text>
+    <g transform="rotate(-4 500 430)">
+      <rect x="330" y="378" width="360" height="96" fill="#F4B301" stroke="#17130E" stroke-width="3" />
+      <text x="352" y="452" font-size="96" fill="#17130E">MOTION</text>
+    </g>
+  </g>
+
+  <!-- Marching squares strip -->
+  <g transform="translate(120,498)">
+    <rect x="0" y="0" width="26" height="26" fill="#17130E" />
+    <rect x="40" y="0" width="26" height="26" fill="none" stroke="#17130E" stroke-width="2" />
+    <rect x="80" y="0" width="26" height="26" fill="#1C4A87" />
+    <rect x="120" y="0" width="26" height="26" fill="none" stroke="#17130E" stroke-width="2" />
+    <rect x="160" y="0" width="26" height="26" fill="#F4B301" stroke="#17130E" stroke-width="2" />
+  </g>
+
+  <!-- Bottom-left: buttons -->
+  <g transform="translate(120,548)">
+    <rect x="0" y="0" width="176" height="46" fill="#E0231B" stroke="#17130E" stroke-width="2" />
+    <text x="88" y="30" font-family="Archivo, Helvetica, sans-serif" font-size="15" font-weight="800" fill="#EFE9DC" text-anchor="middle" letter-spacing="2">BUILD FORWARD</text>
+    <rect x="192" y="0" width="120" height="46" fill="none" stroke="#17130E" stroke-width="2" />
+    <text x="252" y="30" font-family="Archivo, Helvetica, sans-serif" font-size="15" font-weight="800" fill="#17130E" text-anchor="middle" letter-spacing="2">SPECS</text>
+  </g>
+
+  <!-- Bottom-right: boxed input with red baseline -->
+  <g transform="translate(820,540)">
+    <text x="0" y="14" font-family="ui-monospace, monospace" font-size="11" fill="#17130E" opacity="0.6" letter-spacing="3">YOUR NAME</text>
+    <rect x="0" y="24" width="300" height="48" fill="none" stroke="#17130E" stroke-width="2" />
+    <text x="14" y="54" font-family="Archivo, Helvetica, sans-serif" font-size="18" fill="#17130E" opacity="0.35">Type here</text>
+    <rect x="2" y="68" width="150" height="4" fill="#E0231B" />
+  </g>
+</svg>

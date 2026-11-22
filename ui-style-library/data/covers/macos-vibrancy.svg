@@ -1,1 +1,94 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+DQogIDxkZWZzPg0KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0id2FybUJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzQ4NTZhIi8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNhMDc2NmEiLz4NCiAgICA8L2xpbmVhckdyYWRpZW50Pg0KICA8L2RlZnM+DQoNCiAgPCEtLSBEZXNrdG9wIHdhbGxwYXBlciBiYWNrZ3JvdW5kIC0tPg0KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9InVybCgjd2FybUJnKSIvPg0KDQogIDwhLS0gQXBwIHdpbmRvdyBmcmFtZSAtLT4NCiAgPHJlY3QgeD0iODAiIHk9IjQwIiB3aWR0aD0iMTA0MCIgaGVpZ2h0PSI1NTAiIHJ4PSIxMiIgZmlsbD0iIzFjMWMxZSIgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMSkiIHN0cm9rZS13aWR0aD0iMSIvPg0KDQogIDwhLS0gVGl0bGUgYmFyIC0tPg0KICA8cmVjdCB4PSI4MCIgeT0iNDAiIHdpZHRoPSIxMDQwIiBoZWlnaHQ9IjM2IiByeD0iMTIiIGZpbGw9IiMyYzJjMmUiLz4NCiAgPHJlY3QgeD0iODAiIHk9IjY0IiB3aWR0aD0iMTA0MCIgaGVpZ2h0PSIxMiIgZmlsbD0iIzJjMmMyZSIvPg0KICA8IS0tIFRyYWZmaWMgbGlnaHRzIC0tPg0KICA8Y2lyY2xlIGN4PSIxMDQiIGN5PSI1OCIgcj0iNiIgZmlsbD0iI2ZmNWY1NyIvPg0KICA8Y2lyY2xlIGN4PSIxMjQiIGN5PSI1OCIgcj0iNiIgZmlsbD0iI2ZlYmMyZSIvPg0KICA8Y2lyY2xlIGN4PSIxNDQiIGN5PSI1OCIgcj0iNiIgZmlsbD0iIzI4Yzg0MCIvPg0KICA8IS0tIFRpdGxlIHRleHQgLS0+DQogIDx0ZXh0IHg9IjYwMCIgeT0iNjMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC42KSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjUwMCI+bWFjT1MgVmlicmFuY3k8L3RleHQ+DQoNCiAgPCEtLSBTaWRlYmFyICh3aXRoIHZpYnJhbmN5IC0gc2xpZ2h0bHkgd2FybSB0aW50ZWQpIC0tPg0KICA8cmVjdCB4PSI4MCIgeT0iNzYiIHdpZHRoPSIyNDAiIGhlaWdodD0iNTE0IiBmaWxsPSJyZ2JhKDI4LDI4LDMwLDAuODUpIi8+DQogIDxyZWN0IHg9IjMyMCIgeT0iNzYiIHdpZHRoPSIxIiBoZWlnaHQ9IjUxNCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjA4KSIvPg0KDQogIDwhLS0gU2lkZWJhciBzZWFyY2ggLS0+DQogIDxyZWN0IHg9Ijk2IiB5PSI5MiIgd2lkdGg9IjIwOCIgaGVpZ2h0PSIyOCIgcng9IjYiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wNikiLz4NCiAgPHRleHQgeD0iMTE2IiB5PSIxMTAiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4zKSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSIgZm9udC1zaXplPSIxMSI+U2VhcmNoLi4uPC90ZXh0Pg0KDQogIDwhLS0gU2lkZWJhciBuYXYgaXRlbXMgLS0+DQogIDxyZWN0IHg9IjkyIiB5PSIxMzIiIHdpZHRoPSIyMTYiIGhlaWdodD0iMzIiIHJ4PSI4IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMSkiLz4NCiAgPHRleHQgeD0iMTE2IiB5PSIxNTMiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC45KSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjUwMCI+RGFzaGJvYXJkPC90ZXh0Pg0KDQogIDx0ZXh0IHg9IjExNiIgeT0iMTg1IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNSkiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWkiIGZvbnQtc2l6ZT0iMTMiPkFuYWx5dGljczwvdGV4dD4NCiAgPHRleHQgeD0iMTE2IiB5PSIyMTUiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC41KSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSIgZm9udC1zaXplPSIxMyI+U2V0dGluZ3M8L3RleHQ+DQogIDx0ZXh0IHg9IjExNiIgeT0iMjQ1IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNSkiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWkiIGZvbnQtc2l6ZT0iMTMiPlByb2ZpbGU8L3RleHQ+DQoNCiAgPCEtLSBNaWRkbGUgcGFuZWwgLS0+DQogIDxyZWN0IHg9IjMyMSIgeT0iNzYiIHdpZHRoPSIyODAiIGhlaWdodD0iNTE0IiBmaWxsPSIjMmMyYzJlIi8+DQogIDxyZWN0IHg9IjYwMSIgeT0iNzYiIHdpZHRoPSIxIiBoZWlnaHQ9IjUxNCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjA4KSIvPg0KDQogIDwhLS0gTWlkZGxlIHBhbmVsIGNvbnRlbnQgLS0+DQogIDx0ZXh0IHg9IjM0MSIgeT0iMTA4IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNCkiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWkiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIxLjUiPlNVTU1BUlk8L3RleHQ+DQogIDxyZWN0IHg9IjM0MSIgeT0iMTIwIiB3aWR0aD0iMjQwIiBoZWlnaHQ9IjgiIHJ4PSIyIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMTUpIi8+DQogIDxyZWN0IHg9IjM0MSIgeT0iMTM2IiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjgiIHJ4PSIyIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMSkiLz4NCiAgPHJlY3QgeD0iMzQxIiB5PSIxNTIiIHdpZHRoPSIyMjAiIGhlaWdodD0iOCIgcng9IjIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4xKSIvPg0KDQogIDx0ZXh0IHg9IjM0MSIgeT0iMTkyIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNCkiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWkiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIxLjUiPk9VVExJTkU8L3RleHQ+DQogIDx0ZXh0IHg9IjM0MSIgeT0iMjE2IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNykiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWkiIGZvbnQtc2l6ZT0iMTIiPk92ZXJ2aWV3PC90ZXh0Pg0KICA8dGV4dCB4PSIzNDEiIHk9IjI0MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjUpIiBmb250LWZhbWlseT0ic3lzdGVtLXVpIiBmb250LXNpemU9IjEyIj5Db21wb25lbnRzPC90ZXh0Pg0KICA8dGV4dCB4PSIzNDEiIHk9IjI2NCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjUpIiBmb250LWZhbWlseT0ic3lzdGVtLXVpIiBmb250LXNpemU9IjEyIj5UeXBvZ3JhcGh5PC90ZXh0Pg0KICA8dGV4dCB4PSIzNDEiIHk9IjI4OCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjUpIiBmb250LWZhbWlseT0ic3lzdGVtLXVpIiBmb250LXNpemU9IjEyIj5Db2xvcnM8L3RleHQ+DQoNCiAgPCEtLSBNYWluIGNvbnRlbnQgYXJlYSAtLT4NCiAgPHJlY3QgeD0iNjAyIiB5PSI3NiIgd2lkdGg9IjUxOCIgaGVpZ2h0PSI1MTQiIGZpbGw9IiMyYzJjMmUiLz4NCg0KICA8IS0tIENvbnRlbnQgaGVhZGluZyAoc2VyaWYpIC0tPg0KICA8dGV4dCB4PSI2NDAiIHk9IjE0MCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjk1KSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iNzAwIj5tYWNPUyBWaWJyYW5jeTwvdGV4dD4NCg0KICA8IS0tIENvbnRlbnQgYm9keSAtLT4NCiAgPHJlY3QgeD0iNjQwIiB5PSIxNjgiIHdpZHRoPSI0NDAiIGhlaWdodD0iOCIgcng9IjIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4xNSkiLz4NCiAgPHJlY3QgeD0iNjQwIiB5PSIxODQiIHdpZHRoPSIzODAiIGhlaWdodD0iOCIgcng9IjIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4xKSIvPg0KICA8cmVjdCB4PSI2NDAiIHk9IjIwMCIgd2lkdGg9IjQyMCIgaGVpZ2h0PSI4IiByeD0iMiIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIi8+DQoNCiAgPCEtLSBDYXJkIGNvbXBvbmVudCBwcmV2aWV3IC0tPg0KICA8cmVjdCB4PSI2NDAiIHk9IjI0MCIgd2lkdGg9IjQ0MCIgaGVpZ2h0PSIxMDAiIHJ4PSIxMCIgZmlsbD0iIzNhM2EzYyIgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMDgpIiBzdHJva2Utd2lkdGg9IjEiLz4NCiAgPHRleHQgeD0iNjY0IiB5PSIyNzIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC45KSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNjAwIj5QYW5lbCBUaXRsZTwvdGV4dD4NCiAgPHJlY3QgeD0iNjY0IiB5PSIyODQiIHdpZHRoPSIzMDAiIGhlaWdodD0iNiIgcng9IjIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4xMikiLz4NCiAgPHJlY3QgeD0iNjY0IiB5PSIyOTgiIHdpZHRoPSIyNjAiIGhlaWdodD0iNiIgcng9IjIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiLz4NCiAgPHJlY3QgeD0iNjY0IiB5PSIzMTIiIHdpZHRoPSIyODAiIGhlaWdodD0iNiIgcng9IjIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4wOCkiLz4NCg0KICA8IS0tIEJ1dHRvbiBwcmV2aWV3cyAtLT4NCiAgPHJlY3QgeD0iNjQwIiB5PSIzNjAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMzIiIHJ4PSI4IiBmaWxsPSIjM2EzYTNjIi8+DQogIDx0ZXh0IHg9IjY2OCIgeT0iMzgxIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuOSkiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWkiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI1MDAiPlByaW1hcnk8L3RleHQ+DQoNCiAgPHJlY3QgeD0iNzU2IiB5PSIzNjAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMzIiIHJ4PSI4IiBmaWxsPSIjMGE4NGZmIi8+DQogIDx0ZXh0IHg9Ijc4NiIgeT0iMzgxIiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjUwMCI+QWNjZW50PC90ZXh0Pg0KDQogIDxyZWN0IHg9Ijg3MiIgeT0iMzYwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjMyIiByeD0iOCIgZmlsbD0idHJhbnNwYXJlbnQiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEyKSIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDx0ZXh0IHg9IjkwMCIgeT0iMzgxIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNykiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWkiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI1MDAiPk91dGxpbmU8L3RleHQ+DQoNCiAgPCEtLSBJbnB1dCBwcmV2aWV3IC0tPg0KICA8cmVjdCB4PSI2NDAiIHk9IjQxMiIgd2lkdGg9IjQ0MCIgaGVpZ2h0PSIzNiIgcng9IjgiIGZpbGw9IiMxYzFjMWUiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2Utd2lkdGg9IjEiLz4NCiAgPHRleHQgeD0iNjYwIiB5PSI0MzUiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4zKSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSIgZm9udC1zaXplPSIxMiI+U2VhcmNoIGNvbnZlcnNhdGlvbnMuLi48L3RleHQ+DQoNCiAgPCEtLSBDb2RlIGJsb2NrIHByZXZpZXcgLS0+DQogIDxyZWN0IHg9IjY0MCIgeT0iNDY4IiB3aWR0aD0iNDQwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iIzFjMWMxZSIgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMDYpIiBzdHJva2Utd2lkdGg9IjEiLz4NCiAgPHRleHQgeD0iNjYwIiB5PSI0OTIiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC41KSIgZm9udC1mYW1pbHk9IlNGIE1vbm8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSI+YmctWyMxYzFjMWVdLzgwPC90ZXh0Pg0KICA8dGV4dCB4PSI2NjAiIHk9IjUxMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjUpIiBmb250LWZhbWlseT0iU0YgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjExIj5iYWNrZHJvcC1ibHVyLXhsPC90ZXh0Pg0KICA8dGV4dCB4PSI2NjAiIHk9IjUyOCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjUpIiBmb250LWZhbWlseT0iU0YgTW9ubywgbW9ub3NwYWNlIiBmb250LXNpemU9IjExIj5ib3JkZXItciBib3JkZXItd2hpdGUvODwvdGV4dD4NCjwvc3ZnPg0K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="warmBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c4856a"/>
+      <stop offset="100%" stop-color="#a0766a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Desktop wallpaper background -->
+  <rect width="1200" height="630" fill="url(#warmBg)"/>
+
+  <!-- App window frame -->
+  <rect x="80" y="40" width="1040" height="550" rx="12" fill="#1c1c1e" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect x="80" y="40" width="1040" height="36" rx="12" fill="#2c2c2e"/>
+  <rect x="80" y="64" width="1040" height="12" fill="#2c2c2e"/>
+  <!-- Traffic lights -->
+  <circle cx="104" cy="58" r="6" fill="#ff5f57"/>
+  <circle cx="124" cy="58" r="6" fill="#febc2e"/>
+  <circle cx="144" cy="58" r="6" fill="#28c840"/>
+  <!-- Title text -->
+  <text x="600" y="63" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="system-ui" font-size="12" font-weight="500">macOS Vibrancy</text>
+
+  <!-- Sidebar (with vibrancy - slightly warm tinted) -->
+  <rect x="80" y="76" width="240" height="514" fill="rgba(28,28,30,0.85)"/>
+  <rect x="320" y="76" width="1" height="514" fill="rgba(255,255,255,0.08)"/>
+
+  <!-- Sidebar search -->
+  <rect x="96" y="92" width="208" height="28" rx="6" fill="rgba(255,255,255,0.06)"/>
+  <text x="116" y="110" fill="rgba(255,255,255,0.3)" font-family="system-ui" font-size="11">Search...</text>
+
+  <!-- Sidebar nav items -->
+  <rect x="92" y="132" width="216" height="32" rx="8" fill="rgba(255,255,255,0.1)"/>
+  <text x="116" y="153" fill="rgba(255,255,255,0.9)" font-family="system-ui" font-size="13" font-weight="500">Dashboard</text>
+
+  <text x="116" y="185" fill="rgba(255,255,255,0.5)" font-family="system-ui" font-size="13">Analytics</text>
+  <text x="116" y="215" fill="rgba(255,255,255,0.5)" font-family="system-ui" font-size="13">Settings</text>
+  <text x="116" y="245" fill="rgba(255,255,255,0.5)" font-family="system-ui" font-size="13">Profile</text>
+
+  <!-- Middle panel -->
+  <rect x="321" y="76" width="280" height="514" fill="#2c2c2e"/>
+  <rect x="601" y="76" width="1" height="514" fill="rgba(255,255,255,0.08)"/>
+
+  <!-- Middle panel content -->
+  <text x="341" y="108" fill="rgba(255,255,255,0.4)" font-family="system-ui" font-size="10" font-weight="600" letter-spacing="1.5">SUMMARY</text>
+  <rect x="341" y="120" width="240" height="8" rx="2" fill="rgba(255,255,255,0.15)"/>
+  <rect x="341" y="136" width="200" height="8" rx="2" fill="rgba(255,255,255,0.1)"/>
+  <rect x="341" y="152" width="220" height="8" rx="2" fill="rgba(255,255,255,0.1)"/>
+
+  <text x="341" y="192" fill="rgba(255,255,255,0.4)" font-family="system-ui" font-size="10" font-weight="600" letter-spacing="1.5">OUTLINE</text>
+  <text x="341" y="216" fill="rgba(255,255,255,0.7)" font-family="system-ui" font-size="12">Overview</text>
+  <text x="341" y="240" fill="rgba(255,255,255,0.5)" font-family="system-ui" font-size="12">Components</text>
+  <text x="341" y="264" fill="rgba(255,255,255,0.5)" font-family="system-ui" font-size="12">Typography</text>
+  <text x="341" y="288" fill="rgba(255,255,255,0.5)" font-family="system-ui" font-size="12">Colors</text>
+
+  <!-- Main content area -->
+  <rect x="602" y="76" width="518" height="514" fill="#2c2c2e"/>
+
+  <!-- Content heading (serif) -->
+  <text x="640" y="140" fill="rgba(255,255,255,0.95)" font-family="Georgia, serif" font-size="32" font-weight="700">macOS Vibrancy</text>
+
+  <!-- Content body -->
+  <rect x="640" y="168" width="440" height="8" rx="2" fill="rgba(255,255,255,0.15)"/>
+  <rect x="640" y="184" width="380" height="8" rx="2" fill="rgba(255,255,255,0.1)"/>
+  <rect x="640" y="200" width="420" height="8" rx="2" fill="rgba(255,255,255,0.1)"/>
+
+  <!-- Card component preview -->
+  <rect x="640" y="240" width="440" height="100" rx="10" fill="#3a3a3c" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="664" y="272" fill="rgba(255,255,255,0.9)" font-family="Georgia, serif" font-size="15" font-weight="600">Panel Title</text>
+  <rect x="664" y="284" width="300" height="6" rx="2" fill="rgba(255,255,255,0.12)"/>
+  <rect x="664" y="298" width="260" height="6" rx="2" fill="rgba(255,255,255,0.08)"/>
+  <rect x="664" y="312" width="280" height="6" rx="2" fill="rgba(255,255,255,0.08)"/>
+
+  <!-- Button previews -->
+  <rect x="640" y="360" width="100" height="32" rx="8" fill="#3a3a3c"/>
+  <text x="668" y="381" fill="rgba(255,255,255,0.9)" font-family="system-ui" font-size="12" font-weight="500">Primary</text>
+
+  <rect x="756" y="360" width="100" height="32" rx="8" fill="#0a84ff"/>
+  <text x="786" y="381" fill="white" font-family="system-ui" font-size="12" font-weight="500">Accent</text>
+
+  <rect x="872" y="360" width="100" height="32" rx="8" fill="transparent" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+  <text x="900" y="381" fill="rgba(255,255,255,0.7)" font-family="system-ui" font-size="12" font-weight="500">Outline</text>
+
+  <!-- Input preview -->
+  <rect x="640" y="412" width="440" height="36" rx="8" fill="#1c1c1e" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="660" y="435" fill="rgba(255,255,255,0.3)" font-family="system-ui" font-size="12">Search conversations...</text>
+
+  <!-- Code block preview -->
+  <rect x="640" y="468" width="440" height="80" rx="8" fill="#1c1c1e" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="660" y="492" fill="rgba(255,255,255,0.5)" font-family="SF Mono, monospace" font-size="11">bg-[#1c1c1e]/80</text>
+  <text x="660" y="510" fill="rgba(255,255,255,0.5)" font-family="SF Mono, monospace" font-size="11">backdrop-blur-xl</text>
+  <text x="660" y="528" fill="rgba(255,255,255,0.5)" font-family="SF Mono, monospace" font-size="11">border-r border-white/8</text>
+</svg>

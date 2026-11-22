@@ -1,1 +1,109 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIj4KICA8ZGVmcz4KICAgIDxmaWx0ZXIgaWQ9ImRldmljZS1zaGFkb3ciIHg9Ii0yMCUiIHk9Ii0xMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjEzMCUiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iMTIiIHN0ZERldmlhdGlvbj0iMjgiIGZsb29kLWNvbG9yPSJyZ2JhKDAsMCwwLDAuMjIpIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYm9keS1ncmFkIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyYzJjMmUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMxZDFkMWYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGQwZDBmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzY3JlZW4tZ3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMWExYTFhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxjbGlwUGF0aCBpZD0ic2NyZWVuLWNsaXAiPgogICAgICA8cmVjdCB4PSIyNzUiIHk9IjE0OCIgd2lkdGg9IjI1MCIgaGVpZ2h0PSIzNTgiIHJ4PSIzNiIvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiNmNWY1ZjciLz4KCiAgPCEtLSBBcHBsZSBsb2dvOiB0b3AgY2VudGVyIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDU3NCwgMzApIiBmaWxsPSIjMWQxZDFmIiBvcGFjaXR5PSIwLjciPgogICAgPHBhdGggZD0iTTI2IDQgQzI2IDQgMzAgMCAzNiAzIEMzNiAzIDMyIDYgMzIgMTAgQzMyIDEwIDI4IDEwIDI2IDRaIi8+CiAgICA8cGF0aCBkPSJNMTQgMTAgQzE0IDEwIDE4IDYgMjQgNiBDMjQgNiAzMCA2IDM0IDEwIEMzOCAxNCAzOCAyNiAzNCAzMiBDMzIgMzYgMzAgMzggMjYgMzggQzIyIDM4IDIwIDM2IDE4IDM2IEMxNiAzNiAxNCAzOCAxMCAzOCBDNiAzOCA0IDM2IDIgMzIgQy0yIDI2IC0yIDE0IDIgMTAgQzYgNiAxMCAxMCAxNCAxMFoiLz4KICAgIDxlbGxpcHNlIGN4PSIzMiIgY3k9IjciIHJ4PSI1LjUiIHJ5PSI1LjUiIGZpbGw9IiNmNWY1ZjciLz4KICA8L2c+CgogIDwhLS0gaVBob25lIGJvZHkgLS0+CiAgPHJlY3QgeD0iMjU1IiB5PSIxMDUiIHdpZHRoPSIyOTAiIGhlaWdodD0iNDIyIiByeD0iNTAiIGZpbGw9InVybCgjYm9keS1ncmFkKSIgZmlsdGVyPSJ1cmwoI2RldmljZS1zaGFkb3cpIi8+CiAgPHJlY3QgeD0iMjU1IiB5PSIxMDUiIHdpZHRoPSIyOTAiIGhlaWdodD0iNDIyIiByeD0iNTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzM4MzgzYSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KCiAgPCEtLSBTY3JlZW4gYmV6ZWwgLS0+CiAgPHJlY3QgeD0iMjY3IiB5PSIxNDAiIHdpZHRoPSIyNjYiIGhlaWdodD0iMzc0IiByeD0iNDAiIGZpbGw9IiMwMDAiLz4KCiAgPCEtLSBTY3JlZW4gY29udGVudCAtLT4KICA8cmVjdCB4PSIyNzUiIHk9IjE0OCIgd2lkdGg9IjI1MCIgaGVpZ2h0PSIzNTgiIHJ4PSIzNiIgZmlsbD0idXJsKCNzY3JlZW4tZ3JhZCkiLz4KCiAgPCEtLSBEeW5hbWljIElzbGFuZCAtLT4KICA8cmVjdCB4PSIzMzgiIHk9IjE2MiIgd2lkdGg9IjEyNCIgaGVpZ2h0PSIzMCIgcng9IjE1IiBmaWxsPSIjMDAwMDAwIiBvcGFjaXR5PSIwLjk1Ii8+CgogIDwhLS0gU2NyZWVuIFVJIGVsZW1lbnRzIGluc2lkZSBjbGlwIC0tPgogIDxnIGNsaXAtcGF0aD0idXJsKCNzY3JlZW4tY2xpcCkiPgogICAgPCEtLSBBcHAgaWNvbiByb3cgLS0+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjIxMiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTMiIGZpbGw9IiMxYzRlZDgiIG9wYWNpdHk9IjAuOTIiLz4KICAgIDxyZWN0IHg9IjM1NiIgeT0iMjEyIiB3aWR0aD0iNTIiIGhlaWdodD0iNTIiIHJ4PSIxMyIgZmlsbD0iIzA0Nzg1NyIgb3BhY2l0eT0iMC45MiIvPgogICAgPHJlY3QgeD0iNDIwIiB5PSIyMTIiIHdpZHRoPSI1MiIgaGVpZ2h0PSI1MiIgcng9IjEzIiBmaWxsPSIjN2MzYWVkIiBvcGFjaXR5PSIwLjkyIi8+CiAgICA8IS0tIENvbnRlbnQgbGluZXMgLS0+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjI4MiIgd2lkdGg9IjIyOCIgaGVpZ2h0PSI5IiByeD0iNC41IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjE0Ii8+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjMwMSIgd2lkdGg9IjE3OCIgaGVpZ2h0PSI3IiByeD0iMy41IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjA5Ii8+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjMyMiIgd2lkdGg9IjIyOCIgaGVpZ2h0PSI5IiByeD0iNC41IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjE0Ii8+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjM0MSIgd2lkdGg9IjE0OCIgaGVpZ2h0PSI3IiByeD0iMy41IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjA5Ii8+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjM2MiIgd2lkdGg9IjIyOCIgaGVpZ2h0PSI5IiByeD0iNC41IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjE0Ii8+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjM4MSIgd2lkdGg9IjE5OCIgaGVpZ2h0PSI3IiByeD0iMy41IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjA5Ii8+CiAgICA8cmVjdCB4PSIyOTIiIHk9IjQwMiIgd2lkdGg9IjIyOCIgaGVpZ2h0PSI5IiByeD0iNC41IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjE0Ii8+CiAgICA8IS0tIEhvbWUgaW5kaWNhdG9yIC0tPgogICAgPHJlY3QgeD0iMzUwIiB5PSI0NzIiIHdpZHRoPSIxMDAiIGhlaWdodD0iNSIgcng9IjIuNSIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4zIi8+CiAgPC9nPgoKICA8IS0tIFNpZGUgYnV0dG9ucyAtLT4KICA8cmVjdCB4PSI1NDUiIHk9IjIyOCIgd2lkdGg9IjYiIGhlaWdodD0iNjAiIHJ4PSIzIiBmaWxsPSIjMzgzODNhIi8+CiAgPHJlY3QgeD0iMjQ5IiB5PSIyMTgiIHdpZHRoPSI2IiBoZWlnaHQ9IjQyIiByeD0iMyIgZmlsbD0iIzM4MzgzYSIvPgogIDxyZWN0IHg9IjI0OSIgeT0iMjcyIiB3aWR0aD0iNiIgaGVpZ2h0PSI0MiIgcng9IjMiIGZpbGw9IiMzODM4M2EiLz4KCiAgPCEtLSBWZXJ0aWNhbCBkaXZpZGVyIC0tPgogIDxsaW5lIHgxPSI2MzYiIHkxPSIxNTAiIHgyPSI2MzYiIHkyPSI0NzgiIHN0cm9rZT0iI2QyZDJkNyIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDwhLS0gRXllYnJvdyBsYWJlbCAtLT4KICA8dGV4dCB4PSI2OTAiIHk9IjIyMiIKICAgIGZvbnQtZmFtaWx5PSItYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsICdTRiBQcm8gRGlzcGxheScsICdIZWx2ZXRpY2EgTmV1ZScsIHNhbnMtc2VyaWYiCiAgICBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNTAwIiBsZXR0ZXItc3BhY2luZz0iNC41IiBmaWxsPSIjODY4NjhiIiB0ZXh0LWFuY2hvcj0ic3RhcnQiPgogICAgU1RZTEVLSVQKICA8L3RleHQ+CgogIDwhLS0gTWFpbiBoZWFkaW5nIC0tPgogIDx0ZXh0IHg9IjY4NiIgeT0iMzE4IgogICAgZm9udC1mYW1pbHk9Ii1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ1NGIFBybyBEaXNwbGF5JywgJ0hlbHZldGljYSBOZXVlJywgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iNzIiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSItMi41IiBmaWxsPSIjMWQxZDFmIiB0ZXh0LWFuY2hvcj0ic3RhcnQiPgogICAgQXBwbGUgU3R5bGUuCiAgPC90ZXh0PgoKICA8IS0tIFRhZ2xpbmUgLS0+CiAgPHRleHQgeD0iNjkwIiB5PSIzNjgiCiAgICBmb250LWZhbWlseT0iLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAnU0YgUHJvIERpc3BsYXknLCAnSGVsdmV0aWNhIE5ldWUnLCBzYW5zLXNlcmlmIgogICAgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjQwMCIgbGV0dGVyLXNwYWNpbmc9Ii0wLjQiIGZpbGw9IiM4Njg2OGIiIHRleHQtYW5jaG9yPSJzdGFydCI+CiAgICBEZXNpZ25lZCB3aXRoIHByZWNpc2lvbi4KICA8L3RleHQ+CgogIDwhLS0gSG9yaXpvbnRhbCBydWxlIC0tPgogIDxsaW5lIHgxPSI2OTAiIHkxPSIzOTYiIHgyPSIxMTEwIiB5Mj0iMzk2IiBzdHJva2U9IiNkMmQyZDciIHN0cm9rZS13aWR0aD0iMSIvPgoKICA8IS0tIENUQSB0ZXh0IC0tPgogIDx0ZXh0IHg9IjY5MCIgeT0iNDMyIgogICAgZm9udC1mYW1pbHk9Ii1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ1NGIFBybyBEaXNwbGF5JywgJ0hlbHZldGljYSBOZXVlJywgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI0MDAiIGxldHRlci1zcGFjaW5nPSItMC4yIiBmaWxsPSIjMDA3MWUzIiB0ZXh0LWFuY2hvcj0ic3RhcnQiPgogICAgTGVhcm4gbW9yZSAmI3gyMDNBOwogIDwvdGV4dD4KCiAgPCEtLSBCb3R0b20gcnVsZSAtLT4KICA8bGluZSB4MT0iNjAiIHkxPSI1OTIiIHgyPSIxMTQwIiB5Mj0iNTkyIiBzdHJva2U9IiNkMmQyZDciIHN0cm9rZS13aWR0aD0iMSIvPgoKICA8IS0tIEZvb3RlciAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjYxNCIKICAgIGZvbnQtZmFtaWx5PSItYXBwbGUtc3lzdGVtLCBCbGlua01hY1N5c3RlbUZvbnQsICdTRiBQcm8gRGlzcGxheScsICdIZWx2ZXRpY2EgTmV1ZScsIHNhbnMtc2VyaWYiCiAgICBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNDAwIiBsZXR0ZXItc3BhY2luZz0iMC4zIiBmaWxsPSIjODY4NjhiIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4KICAgIE1pbmltYWwuIEludGVudGlvbmFsLiBSZWZpbmVkLgogIDwvdGV4dD4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <filter id="device-shadow" x="-20%" y="-10%" width="140%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="28" flood-color="rgba(0,0,0,0.22)"/>
+    </filter>
+    <linearGradient id="body-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2c2c2e"/>
+      <stop offset="55%" stop-color="#1d1d1f"/>
+      <stop offset="100%" stop-color="#0d0d0f"/>
+    </linearGradient>
+    <linearGradient id="screen-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <clipPath id="screen-clip">
+      <rect x="275" y="148" width="250" height="358" rx="36"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#f5f5f7"/>
+
+  <!-- Apple logo: top center -->
+  <g transform="translate(574, 30)" fill="#1d1d1f" opacity="0.7">
+    <path d="M26 4 C26 4 30 0 36 3 C36 3 32 6 32 10 C32 10 28 10 26 4Z"/>
+    <path d="M14 10 C14 10 18 6 24 6 C24 6 30 6 34 10 C38 14 38 26 34 32 C32 36 30 38 26 38 C22 38 20 36 18 36 C16 36 14 38 10 38 C6 38 4 36 2 32 C-2 26 -2 14 2 10 C6 6 10 10 14 10Z"/>
+    <ellipse cx="32" cy="7" rx="5.5" ry="5.5" fill="#f5f5f7"/>
+  </g>
+
+  <!-- iPhone body -->
+  <rect x="255" y="105" width="290" height="422" rx="50" fill="url(#body-grad)" filter="url(#device-shadow)"/>
+  <rect x="255" y="105" width="290" height="422" rx="50" fill="none" stroke="#38383a" stroke-width="1.5"/>
+
+  <!-- Screen bezel -->
+  <rect x="267" y="140" width="266" height="374" rx="40" fill="#000"/>
+
+  <!-- Screen content -->
+  <rect x="275" y="148" width="250" height="358" rx="36" fill="url(#screen-grad)"/>
+
+  <!-- Dynamic Island -->
+  <rect x="338" y="162" width="124" height="30" rx="15" fill="#000000" opacity="0.95"/>
+
+  <!-- Screen UI elements inside clip -->
+  <g clip-path="url(#screen-clip)">
+    <!-- App icon row -->
+    <rect x="292" y="212" width="52" height="52" rx="13" fill="#1c4ed8" opacity="0.92"/>
+    <rect x="356" y="212" width="52" height="52" rx="13" fill="#047857" opacity="0.92"/>
+    <rect x="420" y="212" width="52" height="52" rx="13" fill="#7c3aed" opacity="0.92"/>
+    <!-- Content lines -->
+    <rect x="292" y="282" width="228" height="9" rx="4.5" fill="#ffffff" opacity="0.14"/>
+    <rect x="292" y="301" width="178" height="7" rx="3.5" fill="#ffffff" opacity="0.09"/>
+    <rect x="292" y="322" width="228" height="9" rx="4.5" fill="#ffffff" opacity="0.14"/>
+    <rect x="292" y="341" width="148" height="7" rx="3.5" fill="#ffffff" opacity="0.09"/>
+    <rect x="292" y="362" width="228" height="9" rx="4.5" fill="#ffffff" opacity="0.14"/>
+    <rect x="292" y="381" width="198" height="7" rx="3.5" fill="#ffffff" opacity="0.09"/>
+    <rect x="292" y="402" width="228" height="9" rx="4.5" fill="#ffffff" opacity="0.14"/>
+    <!-- Home indicator -->
+    <rect x="350" y="472" width="100" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
+  </g>
+
+  <!-- Side buttons -->
+  <rect x="545" y="228" width="6" height="60" rx="3" fill="#38383a"/>
+  <rect x="249" y="218" width="6" height="42" rx="3" fill="#38383a"/>
+  <rect x="249" y="272" width="6" height="42" rx="3" fill="#38383a"/>
+
+  <!-- Vertical divider -->
+  <line x1="636" y1="150" x2="636" y2="478" stroke="#d2d2d7" stroke-width="1"/>
+
+  <!-- Eyebrow label -->
+  <text x="690" y="222"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+    font-size="13" font-weight="500" letter-spacing="4.5" fill="#86868b" text-anchor="start">
+    STYLEKIT
+  </text>
+
+  <!-- Main heading -->
+  <text x="686" y="318"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+    font-size="72" font-weight="600" letter-spacing="-2.5" fill="#1d1d1f" text-anchor="start">
+    Apple Style.
+  </text>
+
+  <!-- Tagline -->
+  <text x="690" y="368"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+    font-size="24" font-weight="400" letter-spacing="-0.4" fill="#86868b" text-anchor="start">
+    Designed with precision.
+  </text>
+
+  <!-- Horizontal rule -->
+  <line x1="690" y1="396" x2="1110" y2="396" stroke="#d2d2d7" stroke-width="1"/>
+
+  <!-- CTA text -->
+  <text x="690" y="432"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+    font-size="20" font-weight="400" letter-spacing="-0.2" fill="#0071e3" text-anchor="start">
+    Learn more &#x203A;
+  </text>
+
+  <!-- Bottom rule -->
+  <line x1="60" y1="592" x2="1140" y2="592" stroke="#d2d2d7" stroke-width="1"/>
+
+  <!-- Footer -->
+  <text x="600" y="614"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+    font-size="12" font-weight="400" letter-spacing="0.3" fill="#86868b" text-anchor="middle">
+    Minimal. Intentional. Refined.
+  </text>
+</svg>

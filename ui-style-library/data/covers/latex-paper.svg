@@ -1,1 +1,114 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgZmlsbD0ibm9uZSI+CiAgPCEtLSBEZXNrIGJhY2tkcm9wIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iI0Y1RjVGMCIvPgoKICA8IS0tIFBhcGVyIHBhZ2UgLS0+CiAgPHJlY3QgeD0iMTcwIiB5PSIyNCIgd2lkdGg9Ijg2MCIgaGVpZ2h0PSI1ODIiIGZpbGw9IiNGRkZGRkYiIHN0cm9rZT0iI0Q0RDREMCIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDwhLS0gUnVubmluZyBoZWFkIC0tPgogIDx0ZXh0IHg9IjIxMCIgeT0iNTAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzZCNkI2NiI+Si4gV2ViIFR5cG9nci4gMTIgKDIwMjYpIDEmIzgyMTE7MTg8L3RleHQ+CiAgPHRleHQgeD0iOTkwIiB5PSI1MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzBCNTM5NCIgdGV4dC1hbmNob3I9ImVuZCI+YXJYaXY6MjYwNy4wMDAwMTwvdGV4dD4KICA8bGluZSB4MT0iMjEwIiB5MT0iNTgiIHgyPSI5OTAiIHkyPSI1OCIgc3Ryb2tlPSIjRDRENEQwIiBzdHJva2Utd2lkdGg9IjEiLz4KCiAgPCEtLSBDZW50ZXJlZCB0aXRsZSAtLT4KICA8dGV4dCB4PSI2MDAiIHk9Ijk0IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjI5IiBmaWxsPSIjMTExMTExIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iLTAuNCI+T3JkZXIgYXMgSW50ZXJmYWNlOiBUeXBlc2V0dGluZyB0aGUgV2ViPC90ZXh0PgoKICA8IS0tIEF1dGhvciBsaW5lIGFuZCBkYXRlIC0tPgogIDx0ZXh0IHg9IjYwMCIgeT0iMTIyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMTExMTExIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5BLiBSZXNlYXJjaGVyJiM4MjAxOyYjMTg1OyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwO0IuIENvYXV0aG9yJiM4MjAxOyYjMTc4OyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwO0MuIFJldmlld2VyJiM4MjAxOyYjMTg1OzwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjE0MiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMiIgZm9udC1zdHlsZT0iaXRhbGljIiBmaWxsPSIjNkI2QjY2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5KdWx5IDUsIDIwMjY8L3RleHQ+CgogIDwhLS0gQWJzdHJhY3QgYmxvY2sgKG5hcnJvdywgaW5kZW50ZWQpIC0tPgogIDx0ZXh0IHg9IjYwMCIgeT0iMTcyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWJzdHJhY3Q8L3RleHQ+CiAgPHJlY3QgeD0iMzgwIiB5PSIxODIiIHdpZHRoPSI0NDAiIGhlaWdodD0iNSIgZmlsbD0iI0Q0RDREMCIvPgogIDxyZWN0IHg9IjM4MCIgeT0iMTk1IiB3aWR0aD0iNDQwIiBoZWlnaHQ9IjUiIGZpbGw9IiNENEQ0RDAiLz4KICA8cmVjdCB4PSIzODAiIHk9IjIwOCIgd2lkdGg9IjQ0MCIgaGVpZ2h0PSI1IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iMzgwIiB5PSIyMjEiIHdpZHRoPSIzMDAiIGhlaWdodD0iNSIgZmlsbD0iI0Q0RDREMCIvPgogIDx0ZXh0IHg9IjYwMCIgeT0iMjQ4IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiM2QjZCNjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPktleXdvcmRzOiB0eXBlc2V0dGluZywgdGhlb3JlbSBlbnZpcm9ubWVudHMsIGJvb2t0YWJzPC90ZXh0PgoKICA8IS0tIENvbHVtbiAxOiBzZWN0aW9uIGhlYWRpbmcgLS0+CiAgPHRleHQgeD0iMjEwIiB5PSIyODgiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMTExMTExIj4xJiMxNjA7JiMxNjA7JiMxNjA7SW50cm9kdWN0aW9uPC90ZXh0PgoKICA8IS0tIENvbHVtbiAxOiBib2R5IHRleHQgbGluZXMgLS0+CiAgPHJlY3QgeD0iMjEwIiB5PSIzMDAiIHdpZHRoPSIzODAiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iMjEwIiB5PSIzMTIiIHdpZHRoPSIzODAiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iMjEwIiB5PSIzMjQiIHdpZHRoPSIzNjYiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iMjEwIiB5PSIzMzYiIHdpZHRoPSIzODAiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iMjEwIiB5PSIzNDgiIHdpZHRoPSIzODAiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iMjEwIiB5PSIzNjAiIHdpZHRoPSIyNDIiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CgogIDwhLS0gQ29sdW1uIDE6IGRpc3BsYXkgZXF1YXRpb24gd2l0aCAoMSkgdGFnIC0tPgogIDx0ZXh0IHg9IjM5MiIgeT0iMzk0IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjE0IiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxMTExMTEiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkJldHRlciA9IChBICsgTykgLyAoQSArIE8gKyBNICsgSSk8L3RleHQ+CiAgPHRleHQgeD0iNTkwIiB5PSIzOTQiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMxMTExMTEiIHRleHQtYW5jaG9yPSJlbmQiPigxKTwvdGV4dD4KCiAgPCEtLSBDb2x1bW4gMTogbW9yZSBib2R5IGxpbmVzIHdpdGggYW4gaW5saW5lIGh5cGVycmVmIC0tPgogIDxyZWN0IHg9IjIxMCIgeT0iNDEyIiB3aWR0aD0iMzgwIiBoZWlnaHQ9IjQuNSIgZmlsbD0iI0Q0RDREMCIvPgogIDxyZWN0IHg9IjIxMCIgeT0iNDI0IiB3aWR0aD0iMjg2IiBoZWlnaHQ9IjQuNSIgZmlsbD0iI0Q0RDREMCIvPgogIDx0ZXh0IHg9IjUwNCIgeT0iNDMwIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMEI1Mzk0Ij5zZWUgVGFibGUgMTwvdGV4dD4KICA8cmVjdCB4PSIyMTAiIHk9IjQzNiIgd2lkdGg9IjM4MCIgaGVpZ2h0PSI0LjUiIGZpbGw9IiNENEQ0RDAiLz4KCiAgPCEtLSBDb2x1bW4gMTogRmlndXJlIDEgbWluaSBwcm9maWxlIGNoYXJ0IC0tPgogIDxsaW5lIHgxPSIyNjAiIHkxPSI0NjIiIHgyPSIyNjAiIHkyPSI1NDYiIHN0cm9rZT0iI0Q0RDREMCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSIyIDQiLz4KICA8bGluZSB4MT0iMzMwIiB5MT0iNDYyIiB4Mj0iMzMwIiB5Mj0iNTQ2IiBzdHJva2U9IiNENEQ0RDAiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWRhc2hhcnJheT0iMiA0Ii8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjQ2MiIgeDI9IjQwMCIgeTI9IjU0NiIgc3Ryb2tlPSIjNkI2QjY2IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iNDcwIiB5MT0iNDYyIiB4Mj0iNDcwIiB5Mj0iNTQ2IiBzdHJva2U9IiNENEQ0RDAiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWRhc2hhcnJheT0iMiA0Ii8+CiAgPGxpbmUgeDE9IjU0MCIgeTE9IjQ2MiIgeDI9IjU0MCIgeTI9IjU0NiIgc3Ryb2tlPSIjRDRENEQwIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjIgNCIvPgogIDxwb2x5bGluZSBwb2ludHM9IjQ3MCw0NzAgNTA1LDQ4OSA0MzUsNTA4IDQ3MCw1MjcgNTA1LDU0NiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMEI1Mzk0IiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWRhc2hhcnJheT0iNSAzIi8+CiAgPHJlY3QgeD0iNDY2LjUiIHk9IjQ2Ni41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiBmaWxsPSIjRkZGRkZGIiBzdHJva2U9IiMwQjUzOTQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHJlY3QgeD0iNTAxLjUiIHk9IjQ4NS41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiBmaWxsPSIjRkZGRkZGIiBzdHJva2U9IiMwQjUzOTQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHJlY3QgeD0iNDMxLjUiIHk9IjUwNC41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiBmaWxsPSIjRkZGRkZGIiBzdHJva2U9IiMwQjUzOTQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHJlY3QgeD0iNDY2LjUiIHk9IjUyMy41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiBmaWxsPSIjRkZGRkZGIiBzdHJva2U9IiMwQjUzOTQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHJlY3QgeD0iNTAxLjUiIHk9IjU0Mi41IiB3aWR0aD0iNyIgaGVpZ2h0PSI3IiBmaWxsPSIjRkZGRkZGIiBzdHJva2U9IiMwQjUzOTQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHBvbHlsaW5lIHBvaW50cz0iMjk1LDQ3MCAyNjAsNDg5IDMzMCw1MDggMjk1LDUyNyAyNjAsNTQ2IiBmaWxsPSJub25lIiBzdHJva2U9IiMxMTExMTEiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPGNpcmNsZSBjeD0iMjk1IiBjeT0iNDcwIiByPSIzLjUiIGZpbGw9IiMxMTExMTEiLz4KICA8Y2lyY2xlIGN4PSIyNjAiIGN5PSI0ODkiIHI9IjMuNSIgZmlsbD0iIzExMTExMSIvPgogIDxjaXJjbGUgY3g9IjMzMCIgY3k9IjUwOCIgcj0iMy41IiBmaWxsPSIjMTExMTExIi8+CiAgPGNpcmNsZSBjeD0iMjk1IiBjeT0iNTI3IiByPSIzLjUiIGZpbGw9IiMxMTExMTEiLz4KICA8Y2lyY2xlIGN4PSIyNjAiIGN5PSI1NDYiIHI9IjMuNSIgZmlsbD0iIzExMTExMSIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iNTY4IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTExMTExIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj48dHNwYW4gZm9udC13ZWlnaHQ9ImJvbGQiPkZpZ3VyZSAxOjwvdHNwYW4+IFNlbWFudGljIGRpZmZlcmVudGlhbCBwcm9maWxlcy48L3RleHQ+CgogIDwhLS0gQ29sdW1uIDI6IHNlY3Rpb24gaGVhZGluZyAtLT4KICA8dGV4dCB4PSI2MzAiIHk9IjI4OCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxMTExMTEiPjImIzE2MDsmIzE2MDsmIzE2MDtSZXN1bHRzPC90ZXh0PgoKICA8IS0tIENvbHVtbiAyOiBib2R5IHRleHQgbGluZXMgLS0+CiAgPHJlY3QgeD0iNjMwIiB5PSIzMDAiIHdpZHRoPSIzNjAiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iNjMwIiB5PSIzMTIiIHdpZHRoPSIzNjAiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CiAgPHJlY3QgeD0iNjMwIiB5PSIzMjQiIHdpZHRoPSIyMTQiIGhlaWdodD0iNC41IiBmaWxsPSIjRDRENEQwIi8+CgogIDwhLS0gQ29sdW1uIDI6IFRhYmxlIDEgY2FwdGlvbiBhYm92ZSB0YWJsZSAtLT4KICA8dGV4dCB4PSI4MTAiIHk9IjM1MiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+PHRzcGFuIGZvbnQtd2VpZ2h0PSJib2xkIj5UYWJsZSAxOjwvdHNwYW4+IEthbm8gY2xhc3NpZmljYXRpb24uPC90ZXh0PgoKICA8IS0tIENvbHVtbiAyOiBib29rdGFicyB0YWJsZSAoaGVhdnkgdG9wL2JvdHRvbSBydWxlcywgdGhpbiBtaWRydWxlLCBubyB2ZXJ0aWNhbCBydWxlcykgLS0+CiAgPGxpbmUgeDE9IjYzMCIgeTE9IjM2NCIgeDI9Ijk5MCIgeTI9IjM2NCIgc3Ryb2tlPSIjMTExMTExIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8dGV4dCB4PSI2MzgiIHk9IjM4MiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZm9udC1zdHlsZT0iaXRhbGljIiBmaWxsPSIjMTExMTExIj5GZWF0dXJlPC90ZXh0PgogIDx0ZXh0IHg9IjgxMCIgeT0iMzgyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxMTExMTEiPkNhdC48L3RleHQ+CiAgPHRleHQgeD0iOTAwIiB5PSIzODIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9ImVuZCI+QmV0dGVyPC90ZXh0PgogIDx0ZXh0IHg9Ijk4MiIgeT0iMzgyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxMTExMTEiIHRleHQtYW5jaG9yPSJlbmQiPldvcnNlPC90ZXh0PgogIDxsaW5lIHgxPSI2MzAiIHkxPSIzOTAiIHgyPSI5OTAiIHkyPSIzOTAiIHN0cm9rZT0iIzExMTExMSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iNjM4IiB5PSI0MDgiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxMTExMTEiPkxvYWQgJiM2MDsgMSBzPC90ZXh0PgogIDx0ZXh0IHg9IjgxMCIgeT0iNDA4IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTExMTExIj5NPC90ZXh0PgogIDx0ZXh0IHg9IjkwMCIgeT0iNDA4IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTExMTExIiB0ZXh0LWFuY2hvcj0iZW5kIj4wLjIxPC90ZXh0PgogIDx0ZXh0IHg9Ijk4MiIgeT0iNDA4IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTExMTExIiB0ZXh0LWFuY2hvcj0iZW5kIj4mIzg3MjI7MC44MzwvdGV4dD4KICA8dGV4dCB4PSI2MzgiIHk9IjQyNiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSI+Q1NWIGV4cG9ydDwvdGV4dD4KICA8dGV4dCB4PSI4MTAiIHk9IjQyNiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSI+TzwvdGV4dD4KICA8dGV4dCB4PSI5MDAiIHk9IjQyNiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9ImVuZCI+MC42NDwvdGV4dD4KICA8dGV4dCB4PSI5ODIiIHk9IjQyNiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9ImVuZCI+JiM4NzIyOzAuNTc8L3RleHQ+CiAgPHRleHQgeD0iNjM4IiB5PSI0NDQiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxMTExMTEiPkRhcmsgbW9kZTwvdGV4dD4KICA8dGV4dCB4PSI4MTAiIHk9IjQ0NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSI+QTwvdGV4dD4KICA8dGV4dCB4PSI5MDAiIHk9IjQ0NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9ImVuZCI+MC43MjwvdGV4dD4KICA8dGV4dCB4PSI5ODIiIHk9IjQ0NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9ImVuZCI+JiM4NzIyOzAuMTg8L3RleHQ+CiAgPHRleHQgeD0iNjM4IiB5PSI0NjIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxMTExMTEiPkNvbmZldHRpPC90ZXh0PgogIDx0ZXh0IHg9IjgxMCIgeT0iNDYyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTExMTExIj5JPC90ZXh0PgogIDx0ZXh0IHg9IjkwMCIgeT0iNDYyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTExMTExIiB0ZXh0LWFuY2hvcj0iZW5kIj4wLjEwPC90ZXh0PgogIDx0ZXh0IHg9Ijk4MiIgeT0iNDYyIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjMTExMTExIiB0ZXh0LWFuY2hvcj0iZW5kIj4mIzg3MjI7MC4wNTwvdGV4dD4KICA8bGluZSB4MT0iNjMwIiB5MT0iNDcyIiB4Mj0iOTkwIiB5Mj0iNDcyIiBzdHJva2U9IiMxMTExMTEiIHN0cm9rZS13aWR0aD0iMiIvPgoKICA8IS0tIENvbHVtbiAyOiB0aGVvcmVtIGVudmlyb25tZW50IC0tPgogIDxyZWN0IHg9IjYzMCIgeT0iNDkyIiB3aWR0aD0iMzYwIiBoZWlnaHQ9IjcwIiBmaWxsPSIjRjVGNUYwIi8+CiAgPHJlY3QgeD0iNjMwIiB5PSI0OTIiIHdpZHRoPSIyLjUiIGhlaWdodD0iNzAiIGZpbGw9IiMxMTExMTEiLz4KICA8dGV4dCB4PSI2NDYiIHk9IjUxNCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzExMTExMSI+PHRzcGFuIGZvbnQtd2VpZ2h0PSJib2xkIj5UaGVvcmVtIDEuPC90c3Bhbj4gPHRzcGFuIGZvbnQtc3R5bGU9Iml0YWxpYyI+RXZlcnl0aGluZyBudW1iZXJlZCw8L3RzcGFuPjwvdGV4dD4KICA8dGV4dCB4PSI2NDYiIHk9IjUzMiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMiIgZm9udC1zdHlsZT0iaXRhbGljIiBmaWxsPSIjMTExMTExIj5ldmVyeXRoaW5nIGNpdGFibGU7IG9yZGVyLCBvbmNlIHZpc2libGUsPC90ZXh0PgogIDx0ZXh0IHg9IjY0NiIgeT0iNTUwIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxMTExMTEiPnJlYWRzIGFzIGNyZWRpYmlsaXR5LjwvdGV4dD4KCiAgPCEtLSBQYWdlIG51bWJlciAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjU5NCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzExMTExMSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTwvdGV4dD4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <!-- Desk backdrop -->
+  <rect width="1200" height="630" fill="#F5F5F0"/>
+
+  <!-- Paper page -->
+  <rect x="170" y="24" width="860" height="582" fill="#FFFFFF" stroke="#D4D4D0" stroke-width="1"/>
+
+  <!-- Running head -->
+  <text x="210" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#6B6B66">J. Web Typogr. 12 (2026) 1&#8211;18</text>
+  <text x="990" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#0B5394" text-anchor="end">arXiv:2607.00001</text>
+  <line x1="210" y1="58" x2="990" y2="58" stroke="#D4D4D0" stroke-width="1"/>
+
+  <!-- Centered title -->
+  <text x="600" y="94" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#111111" text-anchor="middle" letter-spacing="-0.4">Order as Interface: Typesetting the Web</text>
+
+  <!-- Author line and date -->
+  <text x="600" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#111111" text-anchor="middle">A. Researcher&#8201;&#185;&#160;&#160;&#160;&#160;B. Coauthor&#8201;&#178;&#160;&#160;&#160;&#160;C. Reviewer&#8201;&#185;</text>
+  <text x="600" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-style="italic" fill="#6B6B66" text-anchor="middle">July 5, 2026</text>
+
+  <!-- Abstract block (narrow, indented) -->
+  <text x="600" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-weight="bold" fill="#111111" text-anchor="middle">Abstract</text>
+  <rect x="380" y="182" width="440" height="5" fill="#D4D4D0"/>
+  <rect x="380" y="195" width="440" height="5" fill="#D4D4D0"/>
+  <rect x="380" y="208" width="440" height="5" fill="#D4D4D0"/>
+  <rect x="380" y="221" width="300" height="5" fill="#D4D4D0"/>
+  <text x="600" y="248" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#6B6B66" text-anchor="middle">Keywords: typesetting, theorem environments, booktabs</text>
+
+  <!-- Column 1: section heading -->
+  <text x="210" y="288" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="bold" fill="#111111">1&#160;&#160;&#160;Introduction</text>
+
+  <!-- Column 1: body text lines -->
+  <rect x="210" y="300" width="380" height="4.5" fill="#D4D4D0"/>
+  <rect x="210" y="312" width="380" height="4.5" fill="#D4D4D0"/>
+  <rect x="210" y="324" width="366" height="4.5" fill="#D4D4D0"/>
+  <rect x="210" y="336" width="380" height="4.5" fill="#D4D4D0"/>
+  <rect x="210" y="348" width="380" height="4.5" fill="#D4D4D0"/>
+  <rect x="210" y="360" width="242" height="4.5" fill="#D4D4D0"/>
+
+  <!-- Column 1: display equation with (1) tag -->
+  <text x="392" y="394" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" fill="#111111" text-anchor="middle">Better = (A + O) / (A + O + M + I)</text>
+  <text x="590" y="394" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#111111" text-anchor="end">(1)</text>
+
+  <!-- Column 1: more body lines with an inline hyperref -->
+  <rect x="210" y="412" width="380" height="4.5" fill="#D4D4D0"/>
+  <rect x="210" y="424" width="286" height="4.5" fill="#D4D4D0"/>
+  <text x="504" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#0B5394">see Table 1</text>
+  <rect x="210" y="436" width="380" height="4.5" fill="#D4D4D0"/>
+
+  <!-- Column 1: Figure 1 mini profile chart -->
+  <line x1="260" y1="462" x2="260" y2="546" stroke="#D4D4D0" stroke-width="1" stroke-dasharray="2 4"/>
+  <line x1="330" y1="462" x2="330" y2="546" stroke="#D4D4D0" stroke-width="1" stroke-dasharray="2 4"/>
+  <line x1="400" y1="462" x2="400" y2="546" stroke="#6B6B66" stroke-width="1"/>
+  <line x1="470" y1="462" x2="470" y2="546" stroke="#D4D4D0" stroke-width="1" stroke-dasharray="2 4"/>
+  <line x1="540" y1="462" x2="540" y2="546" stroke="#D4D4D0" stroke-width="1" stroke-dasharray="2 4"/>
+  <polyline points="470,470 505,489 435,508 470,527 505,546" fill="none" stroke="#0B5394" stroke-width="1.5" stroke-dasharray="5 3"/>
+  <rect x="466.5" y="466.5" width="7" height="7" fill="#FFFFFF" stroke="#0B5394" stroke-width="1.5"/>
+  <rect x="501.5" y="485.5" width="7" height="7" fill="#FFFFFF" stroke="#0B5394" stroke-width="1.5"/>
+  <rect x="431.5" y="504.5" width="7" height="7" fill="#FFFFFF" stroke="#0B5394" stroke-width="1.5"/>
+  <rect x="466.5" y="523.5" width="7" height="7" fill="#FFFFFF" stroke="#0B5394" stroke-width="1.5"/>
+  <rect x="501.5" y="542.5" width="7" height="7" fill="#FFFFFF" stroke="#0B5394" stroke-width="1.5"/>
+  <polyline points="295,470 260,489 330,508 295,527 260,546" fill="none" stroke="#111111" stroke-width="1.5"/>
+  <circle cx="295" cy="470" r="3.5" fill="#111111"/>
+  <circle cx="260" cy="489" r="3.5" fill="#111111"/>
+  <circle cx="330" cy="508" r="3.5" fill="#111111"/>
+  <circle cx="295" cy="527" r="3.5" fill="#111111"/>
+  <circle cx="260" cy="546" r="3.5" fill="#111111"/>
+  <text x="400" y="568" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="middle"><tspan font-weight="bold">Figure 1:</tspan> Semantic differential profiles.</text>
+
+  <!-- Column 2: section heading -->
+  <text x="630" y="288" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="bold" fill="#111111">2&#160;&#160;&#160;Results</text>
+
+  <!-- Column 2: body text lines -->
+  <rect x="630" y="300" width="360" height="4.5" fill="#D4D4D0"/>
+  <rect x="630" y="312" width="360" height="4.5" fill="#D4D4D0"/>
+  <rect x="630" y="324" width="214" height="4.5" fill="#D4D4D0"/>
+
+  <!-- Column 2: Table 1 caption above table -->
+  <text x="810" y="352" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="middle"><tspan font-weight="bold">Table 1:</tspan> Kano classification.</text>
+
+  <!-- Column 2: booktabs table (heavy top/bottom rules, thin midrule, no vertical rules) -->
+  <line x1="630" y1="364" x2="990" y2="364" stroke="#111111" stroke-width="2"/>
+  <text x="638" y="382" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#111111">Feature</text>
+  <text x="810" y="382" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#111111">Cat.</text>
+  <text x="900" y="382" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#111111" text-anchor="end">Better</text>
+  <text x="982" y="382" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#111111" text-anchor="end">Worse</text>
+  <line x1="630" y1="390" x2="990" y2="390" stroke="#111111" stroke-width="1"/>
+  <text x="638" y="408" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">Load &#60; 1 s</text>
+  <text x="810" y="408" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">M</text>
+  <text x="900" y="408" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">0.21</text>
+  <text x="982" y="408" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">&#8722;0.83</text>
+  <text x="638" y="426" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">CSV export</text>
+  <text x="810" y="426" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">O</text>
+  <text x="900" y="426" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">0.64</text>
+  <text x="982" y="426" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">&#8722;0.57</text>
+  <text x="638" y="444" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">Dark mode</text>
+  <text x="810" y="444" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">A</text>
+  <text x="900" y="444" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">0.72</text>
+  <text x="982" y="444" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">&#8722;0.18</text>
+  <text x="638" y="462" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">Confetti</text>
+  <text x="810" y="462" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111">I</text>
+  <text x="900" y="462" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">0.10</text>
+  <text x="982" y="462" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#111111" text-anchor="end">&#8722;0.05</text>
+  <line x1="630" y1="472" x2="990" y2="472" stroke="#111111" stroke-width="2"/>
+
+  <!-- Column 2: theorem environment -->
+  <rect x="630" y="492" width="360" height="70" fill="#F5F5F0"/>
+  <rect x="630" y="492" width="2.5" height="70" fill="#111111"/>
+  <text x="646" y="514" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#111111"><tspan font-weight="bold">Theorem 1.</tspan> <tspan font-style="italic">Everything numbered,</tspan></text>
+  <text x="646" y="532" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-style="italic" fill="#111111">everything citable; order, once visible,</text>
+  <text x="646" y="550" font-family="Georgia, 'Times New Roman', serif" font-size="12" font-style="italic" fill="#111111">reads as credibility.</text>
+
+  <!-- Page number -->
+  <text x="600" y="594" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#111111" text-anchor="middle">1</text>
+</svg>

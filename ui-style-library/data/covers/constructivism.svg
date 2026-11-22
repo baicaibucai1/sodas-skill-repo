@@ -1,1 +1,26 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZjJlOGQ1Ii8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBEaWFnb25hbCByZWQgd2VkZ2UgLS0+CiAgPHBvbHlnb24gcG9pbnRzPSIxMDAsNDAwIDQwMCw1MCA0NTAsODAgMTUwLDQwMCIgZmlsbD0iI2NjMDAwMCIvPgogIDwhLS0gQm9sZCBnZW9tZXRyaWMgYmxvY2tzIC0tPgogIDxyZWN0IHg9IjMwMCIgeT0iNjAiIHdpZHRoPSIyMDAiIGhlaWdodD0iNjAiIHRyYW5zZm9ybT0icm90YXRlKC0yMCw0MDAsOTApIiBmaWxsPSIjMWExYTFhIi8+CiAgPHJlY3QgeD0iMjUwIiB5PSIxNjAiIHdpZHRoPSIzMDAiIGhlaWdodD0iNTAiIHRyYW5zZm9ybT0icm90YXRlKC0yMCw0MDAsMTg1KSIgZmlsbD0iI2NjMDAwMCIvPgogIDwhLS0gQ2lyY2xlIC0tPgogIDxjaXJjbGUgY3g9IjYwMCIgY3k9IjE1MCIgcj0iODAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSI4Ii8+CiAgPGNpcmNsZSBjeD0iNjAwIiBjeT0iMTUwIiByPSI1MCIgZmlsbD0iI2NjMDAwMCIvPgogIDwhLS0gRGlhZ29uYWwgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjAiIHkxPSIzNTAiIHgyPSI4MDAiIHkyPSIxMDAiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPGxpbmUgeDE9IjAiIHkxPSIzNzAiIHgyPSI4MDAiIHkyPSIxMjAiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8IS0tIFRyaWFuZ2xlcyAtLT4KICA8cG9seWdvbiBwb2ludHM9IjUwMCwyODAgNTgwLDM4MCA0MjAsMzgwIiBmaWxsPSIjMWExYTFhIi8+CiAgPHBvbHlnb24gcG9pbnRzPSI2NTAsMjUwIDczMCwzNTAgNTcwLDM1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjY2MwMDAwIiBzdHJva2Utd2lkdGg9IjQiLz4KICA8IS0tIFNtYWxsIGFjY2VudCByZWN0YW5nbGVzIC0tPgogIDxyZWN0IHg9IjEwMCIgeT0iNTAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIyNSIgZmlsbD0iI2NjMDAwMCIvPgogIDxyZWN0IHg9IjEwMCIgeT0iODUiIHdpZHRoPSI1MCIgaGVpZ2h0PSIxNSIgZmlsbD0iIzFhMWExYSIvPgogIDwhLS0gVmVydGljYWwgYmFyIC0tPgogIDxyZWN0IHg9Ijc1MCIgeT0iMzAiIHdpZHRoPSIxNSIgaGVpZ2h0PSIzNDAiIGZpbGw9IiNjYzAwMDAiLz4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzg1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iJ0ltcGFjdCcsICdBcmlhbCBCbGFjaycsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjIiIGZpbGw9IiMxYTFhMWEiIGZvbnQtd2VpZ2h0PSJib2xkIiBsZXR0ZXItc3BhY2luZz0iNCI+Q09OU1RSVUNUSVZJU008L3RleHQ+CiAgPC9nPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f2e8d5"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Diagonal red wedge -->
+  <polygon points="100,400 400,50 450,80 150,400" fill="#cc0000"/>
+  <!-- Bold geometric blocks -->
+  <rect x="300" y="60" width="200" height="60" transform="rotate(-20,400,90)" fill="#1a1a1a"/>
+  <rect x="250" y="160" width="300" height="50" transform="rotate(-20,400,185)" fill="#cc0000"/>
+  <!-- Circle -->
+  <circle cx="600" cy="150" r="80" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+  <circle cx="600" cy="150" r="50" fill="#cc0000"/>
+  <!-- Diagonal lines -->
+  <line x1="0" y1="350" x2="800" y2="100" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="0" y1="370" x2="800" y2="120" stroke="#1a1a1a" stroke-width="1.5"/>
+  <!-- Triangles -->
+  <polygon points="500,280 580,380 420,380" fill="#1a1a1a"/>
+  <polygon points="650,250 730,350 570,350" fill="none" stroke="#cc0000" stroke-width="4"/>
+  <!-- Small accent rectangles -->
+  <rect x="100" y="50" width="80" height="25" fill="#cc0000"/>
+  <rect x="100" y="85" width="50" height="15" fill="#1a1a1a"/>
+  <!-- Vertical bar -->
+  <rect x="750" y="30" width="15" height="340" fill="#cc0000"/>
+  <!-- Title -->
+  <text x="400" y="385" text-anchor="middle" font-family="'Impact', 'Arial Black', sans-serif" font-size="22" fill="#1a1a1a" font-weight="bold" letter-spacing="4">CONSTRUCTIVISM</text>
+  </g>
+</svg>

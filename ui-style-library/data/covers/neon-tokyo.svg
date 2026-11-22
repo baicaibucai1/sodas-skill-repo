@@ -1,1 +1,54 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjMGEwYTFhIi8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBSYWluIGVmZmVjdCAtLT4KICA8bGluZSB4MT0iNTAiIHkxPSIwIiB4Mj0iNTAiIHkyPSIyMCIgc3Ryb2tlPSIjMDBmMGZmIiBzdHJva2Utd2lkdGg9IjAuNSIgb3BhY2l0eT0iMC4zIi8+CiAgPGxpbmUgeDE9IjEyMCIgeTE9IjMwIiB4Mj0iMTIwIiB5Mj0iNTUiIHN0cm9rZT0iIzAwZjBmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMiIvPgogIDxsaW5lIHgxPSIyMDAiIHkxPSIxMCIgeDI9IjIwMCIgeTI9IjM1IiBzdHJva2U9IiMwMGYwZmYiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjI1Ii8+CiAgPGxpbmUgeDE9IjMxMCIgeTE9IjIwIiB4Mj0iMzEwIiB5Mj0iNTAiIHN0cm9rZT0iIzAwZjBmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMiIvPgogIDxsaW5lIHgxPSI0NTAiIHkxPSI1IiB4Mj0iNDUwIiB5Mj0iMzAiIHN0cm9rZT0iIzAwZjBmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMyIvPgogIDxsaW5lIHgxPSI1NjAiIHkxPSIxNSIgeDI9IjU2MCIgeTI9IjQwIiBzdHJva2U9IiMwMGYwZmYiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjIiLz4KICA8bGluZSB4MT0iNjcwIiB5MT0iMCIgeDI9IjY3MCIgeTI9IjI1IiBzdHJva2U9IiMwMGYwZmYiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjI1Ii8+CiAgPGxpbmUgeDE9Ijc1MCIgeTE9IjI1IiB4Mj0iNzUwIiB5Mj0iNTAiIHN0cm9rZT0iIzAwZjBmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMiIvPgogIDxsaW5lIHgxPSI5MCIgeTE9IjYwIiB4Mj0iOTAiIHkyPSI4NSIgc3Ryb2tlPSIjYmMxM2ZlIiBzdHJva2Utd2lkdGg9IjAuNSIgb3BhY2l0eT0iMC4yIi8+CiAgPGxpbmUgeDE9IjM4MCIgeTE9IjUwIiB4Mj0iMzgwIiB5Mj0iODAiIHN0cm9rZT0iI2JjMTNmZSIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMTUiLz4KICA8bGluZSB4MT0iNjIwIiB5MT0iNDAiIHgyPSI2MjAiIHkyPSI3MCIgc3Ryb2tlPSIjYmMxM2ZlIiBzdHJva2Utd2lkdGg9IjAuNSIgb3BhY2l0eT0iMC4yIi8+CiAgPCEtLSBDaXR5IHNreWxpbmUgc2lsaG91ZXR0ZXMgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMjgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMTIwIiBmaWxsPSIjMTIxMjJhIi8+CiAgPHJlY3QgeD0iNjUiIHk9IjI0MCIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjE2MCIgZmlsbD0iIzBmMGYyNSIvPgogIDxyZWN0IHg9IjExNSIgeT0iMjYwIiB3aWR0aD0iNTUiIGhlaWdodD0iMTQwIiBmaWxsPSIjMTIxMjJhIi8+CiAgPHJlY3QgeD0iMTc1IiB5PSIyMjAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIxODAiIGZpbGw9IiMwZjBmMjUiLz4KICA8cmVjdCB4PSIyMjAiIHk9IjI1MCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjE1MCIgZmlsbD0iIzEyMTIyYSIvPgogIDxyZWN0IHg9IjUzMCIgeT0iMjQwIiB3aWR0aD0iNTAiIGhlaWdodD0iMTYwIiBmaWxsPSIjMTIxMjJhIi8+CiAgPHJlY3QgeD0iNTg1IiB5PSIyMTAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIxOTAiIGZpbGw9IiMwZjBmMjUiLz4KICA8cmVjdCB4PSI2MzAiIHk9IjI2MCIgd2lkdGg9IjU1IiBoZWlnaHQ9IjE0MCIgZmlsbD0iIzEyMTIyYSIvPgogIDxyZWN0IHg9IjY5MCIgeT0iMjMwIiB3aWR0aD0iNDUiIGhlaWdodD0iMTcwIiBmaWxsPSIjMGYwZjI1Ii8+CiAgPHJlY3QgeD0iNzQwIiB5PSIyNTAiIHdpZHRoPSI2MCIgaGVpZ2h0PSIxNTAiIGZpbGw9IiMxMjEyMmEiLz4KICA8IS0tIEJ1aWxkaW5nIHdpbmRvd3MgLS0+CiAgPHJlY3QgeD0iMTAiIHk9IjI5MCIgd2lkdGg9IjUiIGhlaWdodD0iNSIgZmlsbD0iI2ZmMTQ5MyIgb3BhY2l0eT0iMC40Ii8+CiAgPHJlY3QgeD0iMjUiIHk9IjMwMCIgd2lkdGg9IjUiIGhlaWdodD0iNSIgZmlsbD0iIzAwZjBmZiIgb3BhY2l0eT0iMC4zIi8+CiAgPHJlY3QgeD0iNDAiIHk9IjMxMCIgd2lkdGg9IjUiIGhlaWdodD0iNSIgZmlsbD0iI2ZmMTQ5MyIgb3BhY2l0eT0iMC4zIi8+CiAgPHJlY3QgeD0iNzUiIHk9IjI1NSIgd2lkdGg9IjUiIGhlaWdodD0iNSIgZmlsbD0iIzAwZjBmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPHJlY3QgeD0iODUiIHk9IjI3MCIgd2lkdGg9IjUiIGhlaWdodD0iNSIgZmlsbD0iI2JjMTNmZSIgb3BhY2l0eT0iMC4zIi8+CiAgPHJlY3QgeD0iNTQ1IiB5PSIyNjAiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIGZpbGw9IiNmZjE0OTMiIG9wYWNpdHk9IjAuMyIvPgogIDxyZWN0IHg9IjU2MCIgeT0iMjgwIiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjMDBmMGZmIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI3MDAiIHk9IjI1MCIgd2lkdGg9IjUiIGhlaWdodD0iNSIgZmlsbD0iI2JjMTNmZSIgb3BhY2l0eT0iMC4zIi8+CiAgPHJlY3QgeD0iNzE1IiB5PSIyNjUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIGZpbGw9IiNmZjE0OTMiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gTmVvbiBzaWduIGZyYW1lIC0tPgogIDxyZWN0IHg9IjI5MCIgeT0iMTAwIiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmYxNDkzIiBzdHJva2Utd2lkdGg9IjMiIG9wYWNpdHk9IjAuOCIvPgogIDxyZWN0IHg9IjI5MCIgeT0iMTAwIiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iI2ZmMTQ5MyIgb3BhY2l0eT0iMC4wNSIvPgogIDwhLS0gTmVvbiBnbG93IGVmZmVjdCAtLT4KICA8cmVjdCB4PSIyODUiIHk9Ijk1IiB3aWR0aD0iMjMwIiBoZWlnaHQ9IjkwIiByeD0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMTQ5MyIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjMiLz4KICA8IS0tIE5lb24gdGV4dCAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjE1MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmMTQ5MyI+TkVPTjwvdGV4dD4KICA8IS0tIFNlY29uZGFyeSBzaWduIC0tPgogIDxyZWN0IHg9IjMxMCIgeT0iMjEwIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjUwIiByeD0iNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmMGZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9IjAuNyIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjQzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDBmMGZmIj5UT0tZTzwvdGV4dD4KICA8IS0tIEFjY2VudCBuZW9uIGxpbmVzIC0tPgogIDxsaW5lIHgxPSIzMDAiIHkxPSIyOTAiIHgyPSI1MDAiIHkyPSIyOTAiIHN0cm9rZT0iI2JjMTNmZSIgc3Ryb2tlLXdpZHRoPSIyIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMzIwIiB5MT0iMzAwIiB4Mj0iNDgwIiB5Mj0iMzAwIiBzdHJva2U9IiNiYzEzZmUiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC4zIi8+CiAgPCEtLSBWZXJ0aWNhbCBuZW9uIGFjY2VudHMgb24gYnVpbGRpbmdzIC0tPgogIDxsaW5lIHgxPSIxOTAiIHkxPSIyMjUiIHgyPSIxOTAiIHkyPSIzOTUiIHN0cm9rZT0iI2ZmMTQ5MyIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuMyIvPgogIDxsaW5lIHgxPSI2MDAiIHkxPSIyMTUiIHgyPSI2MDAiIHkyPSIzOTUiIHN0cm9rZT0iIzAwZjBmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuMyIvPgogIDwvZz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0a1a"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Rain effect -->
+  <line x1="50" y1="0" x2="50" y2="20" stroke="#00f0ff" stroke-width="0.5" opacity="0.3"/>
+  <line x1="120" y1="30" x2="120" y2="55" stroke="#00f0ff" stroke-width="0.5" opacity="0.2"/>
+  <line x1="200" y1="10" x2="200" y2="35" stroke="#00f0ff" stroke-width="0.5" opacity="0.25"/>
+  <line x1="310" y1="20" x2="310" y2="50" stroke="#00f0ff" stroke-width="0.5" opacity="0.2"/>
+  <line x1="450" y1="5" x2="450" y2="30" stroke="#00f0ff" stroke-width="0.5" opacity="0.3"/>
+  <line x1="560" y1="15" x2="560" y2="40" stroke="#00f0ff" stroke-width="0.5" opacity="0.2"/>
+  <line x1="670" y1="0" x2="670" y2="25" stroke="#00f0ff" stroke-width="0.5" opacity="0.25"/>
+  <line x1="750" y1="25" x2="750" y2="50" stroke="#00f0ff" stroke-width="0.5" opacity="0.2"/>
+  <line x1="90" y1="60" x2="90" y2="85" stroke="#bc13fe" stroke-width="0.5" opacity="0.2"/>
+  <line x1="380" y1="50" x2="380" y2="80" stroke="#bc13fe" stroke-width="0.5" opacity="0.15"/>
+  <line x1="620" y1="40" x2="620" y2="70" stroke="#bc13fe" stroke-width="0.5" opacity="0.2"/>
+  <!-- City skyline silhouettes -->
+  <rect x="0" y="280" width="60" height="120" fill="#12122a"/>
+  <rect x="65" y="240" width="45" height="160" fill="#0f0f25"/>
+  <rect x="115" y="260" width="55" height="140" fill="#12122a"/>
+  <rect x="175" y="220" width="40" height="180" fill="#0f0f25"/>
+  <rect x="220" y="250" width="50" height="150" fill="#12122a"/>
+  <rect x="530" y="240" width="50" height="160" fill="#12122a"/>
+  <rect x="585" y="210" width="40" height="190" fill="#0f0f25"/>
+  <rect x="630" y="260" width="55" height="140" fill="#12122a"/>
+  <rect x="690" y="230" width="45" height="170" fill="#0f0f25"/>
+  <rect x="740" y="250" width="60" height="150" fill="#12122a"/>
+  <!-- Building windows -->
+  <rect x="10" y="290" width="5" height="5" fill="#ff1493" opacity="0.4"/>
+  <rect x="25" y="300" width="5" height="5" fill="#00f0ff" opacity="0.3"/>
+  <rect x="40" y="310" width="5" height="5" fill="#ff1493" opacity="0.3"/>
+  <rect x="75" y="255" width="5" height="5" fill="#00f0ff" opacity="0.4"/>
+  <rect x="85" y="270" width="5" height="5" fill="#bc13fe" opacity="0.3"/>
+  <rect x="545" y="260" width="5" height="5" fill="#ff1493" opacity="0.3"/>
+  <rect x="560" y="280" width="5" height="5" fill="#00f0ff" opacity="0.4"/>
+  <rect x="700" y="250" width="5" height="5" fill="#bc13fe" opacity="0.3"/>
+  <rect x="715" y="265" width="5" height="5" fill="#ff1493" opacity="0.4"/>
+  <!-- Neon sign frame -->
+  <rect x="290" y="100" width="220" height="80" rx="8" fill="none" stroke="#ff1493" stroke-width="3" opacity="0.8"/>
+  <rect x="290" y="100" width="220" height="80" rx="8" fill="#ff1493" opacity="0.05"/>
+  <!-- Neon glow effect -->
+  <rect x="285" y="95" width="230" height="90" rx="10" fill="none" stroke="#ff1493" stroke-width="1" opacity="0.3"/>
+  <!-- Neon text -->
+  <text x="400" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ff1493">NEON</text>
+  <!-- Secondary sign -->
+  <rect x="310" y="210" width="180" height="50" rx="6" fill="none" stroke="#00f0ff" stroke-width="2" opacity="0.7"/>
+  <text x="400" y="243" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#00f0ff">TOKYO</text>
+  <!-- Accent neon lines -->
+  <line x1="300" y1="290" x2="500" y2="290" stroke="#bc13fe" stroke-width="2" opacity="0.5"/>
+  <line x1="320" y1="300" x2="480" y2="300" stroke="#bc13fe" stroke-width="1" opacity="0.3"/>
+  <!-- Vertical neon accents on buildings -->
+  <line x1="190" y1="225" x2="190" y2="395" stroke="#ff1493" stroke-width="1.5" opacity="0.3"/>
+  <line x1="600" y1="215" x2="600" y2="395" stroke="#00f0ff" stroke-width="1.5" opacity="0.3"/>
+  </g>
+</svg>

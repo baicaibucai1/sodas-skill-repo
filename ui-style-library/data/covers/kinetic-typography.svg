@@ -1,1 +1,62 @@
-PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCA2MzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9InJpc2VDbGlwIj4KICAgICAgPHJlY3QgeD0iMTIwIiB5PSIyMDAiIHdpZHRoPSI5NjAiIGhlaWdodD0iMTkwIiAvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CgogIDwhLS0gSW5rIHN0YWdlIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iIzBCMEIwQyIgLz4KCiAgPCEtLSBUb3AtbGVmdDogbnVtYmVyZWQgY2FyZCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2MCw1NCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyIiBmaWxsPSIjRjRGMUVCIiBvcGFjaXR5PSIwLjkiIC8+CiAgICA8dGV4dCB4PSIwIiB5PSIzMCIgZm9udC1mYW1pbHk9InVpLW1vbm9zcGFjZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjRkY0RDAwIj4wMTwvdGV4dD4KICAgIDx0ZXh0IHg9IjAiIHk9IjYyIiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNiIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iI0Y0RjFFQiIgbGV0dGVyLXNwYWNpbmc9Ii0wLjUiPldFSUdIVCBJUyBWT0xVTUU8L3RleHQ+CiAgICA8dGV4dCB4PSIwIiB5PSI4OCIgZm9udC1mYW1pbHk9IkFyY2hpdm8sIHVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNGNEYxRUIiIG9wYWNpdHk9IjAuNSI+VGhlIGhlYWRsaW5lIHNwZWFrcyBsb3VkZXIgYXMgeW91IGFwcHJvYWNoLjwvdGV4dD4KICA8L2c+CgogIDwhLS0gVG9wLXJpZ2h0OiBuYXYgbW9jayAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NjAsNTQpIj4KICAgIDx0ZXh0IHg9IjAiIHk9IjI0IiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9IjkwMCIgZmlsbD0iI0Y0RjFFQiIgbGV0dGVyLXNwYWNpbmc9Ii0wLjUiPlNUVURJTzx0c3BhbiBmaWxsPSIjRkY0RDAwIj4qPC90c3Bhbj48L3RleHQ+CiAgICA8dGV4dCB4PSIyMDAiIHk9IjIyIiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iI0Y0RjFFQiIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjIiPldPUks8L3RleHQ+CiAgICA8cmVjdCB4PSIyMDAiIHk9IjI4IiB3aWR0aD0iNDQiIGhlaWdodD0iMiIgZmlsbD0iI0ZGNEQwMCIgLz4KICAgIDx0ZXh0IHg9IjI3MCIgeT0iMjIiIGZvbnQtZmFtaWx5PSJBcmNoaXZvLCB1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjRjRGMUVCIiBvcGFjaXR5PSIwLjUiIGxldHRlci1zcGFjaW5nPSIyIj5BQk9VVDwvdGV4dD4KICAgIDx0ZXh0IHg9IjM0OCIgeT0iMjIiIGZvbnQtZmFtaWx5PSJBcmNoaXZvLCB1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjRjRGMUVCIiBvcGFjaXR5PSIwLjUiIGxldHRlci1zcGFjaW5nPSIyIj5DT05UQUNUPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBDZW50cmFsIGhlYWRsaW5lOiBsZXR0ZXJzIGZyb3plbiBtaWQtcmlzZSwgY2xpcHBlZCAtLT4KICA8ZyBjbGlwLXBhdGg9InVybCgjcmlzZUNsaXApIiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgZm9udC1zaXplPSIxNzAiIGZpbGw9IiNGNEYxRUIiIGxldHRlci1zcGFjaW5nPSItNCI+CiAgICA8dGV4dCB4PSIxMjgiIHk9IjM2MCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSI+SzwvdGV4dD4KICAgIDx0ZXh0IHg9IjI0OCIgeT0iMzYwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDE4KSIgb3BhY2l0eT0iMC45MiI+STwvdGV4dD4KICAgIDx0ZXh0IHg9IjMxMCIgeT0iMzYwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDQyKSIgb3BhY2l0eT0iMC44NSI+TjwvdGV4dD4KICAgIDx0ZXh0IHg9IjQ0NCIgeT0iMzYwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDgpIj5FPC90ZXh0PgogICAgPHRleHQgeD0iNTU2IiB5PSIzNjAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsNjApIiBvcGFjaXR5PSIwLjcyIj5UPC90ZXh0PgogICAgPHRleHQgeD0iNjY4IiB5PSIzNjAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMjYpIiBvcGFjaXR5PSIwLjg4Ij5JPC90ZXh0PgogICAgPHRleHQgeD0iNzMwIiB5PSIzNjAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsNzQpIiBmaWxsPSIjRkY0RDAwIj5DPC90ZXh0PgogIDwvZz4KICA8cmVjdCB4PSIxMjAiIHk9IjM5MCIgd2lkdGg9Ijk2MCIgaGVpZ2h0PSIyIiBmaWxsPSIjRjRGMUVCIiBvcGFjaXR5PSIwLjE4IiAvPgogIDx0ZXh0IHg9IjEyMiIgeT0iNDI4IiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIzMCIgZm9udC13ZWlnaHQ9IjMwMCIgZmlsbD0iI0Y0RjFFQiIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjE0Ij5UWVBPR1JBUEhZPC90ZXh0PgogIDx0ZXh0IHg9IjkyMCIgeT0iNDI4IiBmb250LWZhbWlseT0idWktbW9ub3NwYWNlLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNGNEYxRUIiIG9wYWNpdHk9IjAuNDUiPndnaHQgMTAwJiM4MjExOzkwMCAmIzE4Mzsgd2R0aCA1MCYjODIxMTsxNTA8L3RleHQ+CgogIDwhLS0gTWFycXVlZSBzdHJpcCAtLT4KICA8ZyBmb250LWZhbWlseT0idWktbW9ub3NwYWNlLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGxldHRlci1zcGFjaW5nPSIzIj4KICAgIDx0ZXh0IHg9IjYwIiB5PSI0ODAiIGZpbGw9IiNGNEYxRUIiIG9wYWNpdHk9IjAuNCI+U1RBR0dFUiA8dHNwYW4gZmlsbD0iI0ZGNEQwMCI+JiMxODM7PC90c3Bhbj4gQlJFQVRIRSA8dHNwYW4gZmlsbD0iI0ZGNEQwMCI+JiMxODM7PC90c3Bhbj4gU1RSRVRDSCA8dHNwYW4gZmlsbD0iI0ZGNEQwMCI+JiMxODM7PC90c3Bhbj4gTUFSUVVFRSA8dHNwYW4gZmlsbD0iI0ZGNEQwMCI+JiMxODM7PC90c3Bhbj4gTUFTSyBSSVNFIDx0c3BhbiBmaWxsPSIjRkY0RDAwIj4mIzE4Mzs8L3RzcGFuPiBFWFBPIE9VVCA8dHNwYW4gZmlsbD0iI0ZGNEQwMCI+JiMxODM7PC90c3Bhbj4gU1RBR0dFUiA8dHNwYW4gZmlsbD0iI0ZGNEQwMCI+JiMxODM7PC90c3Bhbj4gQlJFQVRIRTwvdGV4dD4KICA8L2c+CgogIDwhLS0gQm90dG9tLWxlZnQ6IGJ1dHRvbnMgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjAsNTE2KSI+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTMyIiBoZWlnaHQ9IjQ4IiBmaWxsPSIjRkY0RDAwIiAvPgogICAgPHRleHQgeD0iNjYiIHk9IjMwIiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzBCMEIwQyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjMiPlBMQVk8L3RleHQ+CiAgICA8cmVjdCB4PSIxNTIiIHk9IjAiIHdpZHRoPSIxODAiIGhlaWdodD0iNDgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Y0RjFFQiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMS41IiAvPgogICAgPHRleHQgeD0iMjQyIiB5PSIzMCIgZm9udC1mYW1pbHk9IkFyY2hpdm8sIHVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNGNEYxRUIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIzIj5TUEVDSU1FTjwvdGV4dD4KICA8L2c+CgogIDwhLS0gQm90dG9tLXJpZ2h0OiB1bmRlcmxpbmUgaW5wdXQgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzYwLDUwNikiPgogICAgPHRleHQgeD0iMCIgeT0iMTQiIGZvbnQtZmFtaWx5PSJ1aS1tb25vc3BhY2UsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iI0Y0RjFFQiIgb3BhY2l0eT0iMC40NSIgbGV0dGVyLXNwYWNpbmc9IjMiPllPVVIgTkFNRTwvdGV4dD4KICAgIDx0ZXh0IHg9IjAiIHk9IjQ4IiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMiIgZmlsbD0iI0Y0RjFFQiIgb3BhY2l0eT0iMC4zNSI+VHlwZSBoZXJlPC90ZXh0PgogICAgPHJlY3QgeD0iMCIgeT0iNTgiIHdpZHRoPSIzODAiIGhlaWdodD0iMS41IiBmaWxsPSIjRjRGMUVCIiBvcGFjaXR5PSIwLjI1IiAvPgogICAgPHJlY3QgeD0iMCIgeT0iNTgiIHdpZHRoPSIxNTAiIGhlaWdodD0iMS41IiBmaWxsPSIjRkY0RDAwIiAvPgogIDwvZz4KPC9zdmc+Cg==
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="riseClip">
+      <rect x="120" y="200" width="960" height="190" />
+    </clipPath>
+  </defs>
+
+  <!-- Ink stage -->
+  <rect width="1200" height="630" fill="#0B0B0C" />
+
+  <!-- Top-left: numbered card -->
+  <g transform="translate(60,54)">
+    <rect x="0" y="0" width="300" height="2" fill="#F4F1EB" opacity="0.9" />
+    <text x="0" y="30" font-family="ui-monospace, monospace" font-size="13" fill="#FF4D00">01</text>
+    <text x="0" y="62" font-family="Archivo, ui-sans-serif, sans-serif" font-size="26" font-weight="800" fill="#F4F1EB" letter-spacing="-0.5">WEIGHT IS VOLUME</text>
+    <text x="0" y="88" font-family="Archivo, ui-sans-serif, sans-serif" font-size="13" fill="#F4F1EB" opacity="0.5">The headline speaks louder as you approach.</text>
+  </g>
+
+  <!-- Top-right: nav mock -->
+  <g transform="translate(760,54)">
+    <text x="0" y="24" font-family="Archivo, ui-sans-serif, sans-serif" font-size="22" font-weight="900" fill="#F4F1EB" letter-spacing="-0.5">STUDIO<tspan fill="#FF4D00">*</tspan></text>
+    <text x="200" y="22" font-family="Archivo, ui-sans-serif, sans-serif" font-size="13" font-weight="600" fill="#F4F1EB" opacity="0.85" letter-spacing="2">WORK</text>
+    <rect x="200" y="28" width="44" height="2" fill="#FF4D00" />
+    <text x="270" y="22" font-family="Archivo, ui-sans-serif, sans-serif" font-size="13" font-weight="600" fill="#F4F1EB" opacity="0.5" letter-spacing="2">ABOUT</text>
+    <text x="348" y="22" font-family="Archivo, ui-sans-serif, sans-serif" font-size="13" font-weight="600" fill="#F4F1EB" opacity="0.5" letter-spacing="2">CONTACT</text>
+  </g>
+
+  <!-- Central headline: letters frozen mid-rise, clipped -->
+  <g clip-path="url(#riseClip)" font-family="Archivo, ui-sans-serif, sans-serif" font-weight="900" font-size="170" fill="#F4F1EB" letter-spacing="-4">
+    <text x="128" y="360" transform="translate(0,0)">K</text>
+    <text x="248" y="360" transform="translate(0,18)" opacity="0.92">I</text>
+    <text x="310" y="360" transform="translate(0,42)" opacity="0.85">N</text>
+    <text x="444" y="360" transform="translate(0,8)">E</text>
+    <text x="556" y="360" transform="translate(0,60)" opacity="0.72">T</text>
+    <text x="668" y="360" transform="translate(0,26)" opacity="0.88">I</text>
+    <text x="730" y="360" transform="translate(0,74)" fill="#FF4D00">C</text>
+  </g>
+  <rect x="120" y="390" width="960" height="2" fill="#F4F1EB" opacity="0.18" />
+  <text x="122" y="428" font-family="Archivo, ui-sans-serif, sans-serif" font-size="30" font-weight="300" fill="#F4F1EB" opacity="0.85" letter-spacing="14">TYPOGRAPHY</text>
+  <text x="920" y="428" font-family="ui-monospace, monospace" font-size="13" fill="#F4F1EB" opacity="0.45">wght 100&#8211;900 &#183; wdth 50&#8211;150</text>
+
+  <!-- Marquee strip -->
+  <g font-family="ui-monospace, monospace" font-size="13" letter-spacing="3">
+    <text x="60" y="480" fill="#F4F1EB" opacity="0.4">STAGGER <tspan fill="#FF4D00">&#183;</tspan> BREATHE <tspan fill="#FF4D00">&#183;</tspan> STRETCH <tspan fill="#FF4D00">&#183;</tspan> MARQUEE <tspan fill="#FF4D00">&#183;</tspan> MASK RISE <tspan fill="#FF4D00">&#183;</tspan> EXPO OUT <tspan fill="#FF4D00">&#183;</tspan> STAGGER <tspan fill="#FF4D00">&#183;</tspan> BREATHE</text>
+  </g>
+
+  <!-- Bottom-left: buttons -->
+  <g transform="translate(60,516)">
+    <rect x="0" y="0" width="132" height="48" fill="#FF4D00" />
+    <text x="66" y="30" font-family="Archivo, ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#0B0B0C" text-anchor="middle" letter-spacing="3">PLAY</text>
+    <rect x="152" y="0" width="180" height="48" fill="none" stroke="#F4F1EB" stroke-opacity="0.35" stroke-width="1.5" />
+    <text x="242" y="30" font-family="Archivo, ui-sans-serif, sans-serif" font-size="15" font-weight="700" fill="#F4F1EB" text-anchor="middle" letter-spacing="3">SPECIMEN</text>
+  </g>
+
+  <!-- Bottom-right: underline input -->
+  <g transform="translate(760,506)">
+    <text x="0" y="14" font-family="ui-monospace, monospace" font-size="11" fill="#F4F1EB" opacity="0.45" letter-spacing="3">YOUR NAME</text>
+    <text x="0" y="48" font-family="Archivo, ui-sans-serif, sans-serif" font-size="22" fill="#F4F1EB" opacity="0.35">Type here</text>
+    <rect x="0" y="58" width="380" height="1.5" fill="#F4F1EB" opacity="0.25" />
+    <rect x="0" y="58" width="150" height="1.5" fill="#FF4D00" />
+  </g>
+</svg>

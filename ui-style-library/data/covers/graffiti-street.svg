@@ -1,1 +1,39 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjMWMxYzFlIi8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBTcHJheSBwYWludCBzcGxhc2hlcyAtLT4KICA8Y2lyY2xlIGN4PSIxNTAiIGN5PSIxODAiIHI9IjgwIiBmaWxsPSIjZmYyZDU1IiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSIxNTAiIHI9IjUwIiBmaWxsPSIjZmYyZDU1IiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSIyMjAiIHI9IjMwIiBmaWxsPSIjZmYyZDU1IiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIERyaXAgZWZmZWN0cyAtLT4KICA8cmVjdCB4PSIxNDUiIHk9IjI1MCIgd2lkdGg9IjgiIGhlaWdodD0iNjAiIHJ4PSI0IiBmaWxsPSIjZmYyZDU1IiBvcGFjaXR5PSIwLjYiLz4KICA8cmVjdCB4PSIxNzAiIHk9IjI0MCIgd2lkdGg9IjYiIGhlaWdodD0iODAiIHJ4PSIzIiBmaWxsPSIjZmYyZDU1IiBvcGFjaXR5PSIwLjUiLz4KICA8cmVjdCB4PSIxMjUiIHk9IjI2MCIgd2lkdGg9IjUiIGhlaWdodD0iNDUiIHJ4PSIyLjUiIGZpbGw9IiNmZjJkNTUiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gQ3lhbiBzcGxhc2ggLS0+CiAgPGNpcmNsZSBjeD0iNTAwIiBjeT0iMTIwIiByPSI2MCIgZmlsbD0iIzAwZTVmZiIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNTQwIiBjeT0iMTAwIiByPSIzNSIgZmlsbD0iIzAwZTVmZiIgb3BhY2l0eT0iMC40Ii8+CiAgPHJlY3QgeD0iNDk1IiB5PSIxNzUiIHdpZHRoPSI3IiBoZWlnaHQ9IjUwIiByeD0iMy41IiBmaWxsPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjUiLz4KICA8cmVjdCB4PSI1MjAiIHk9IjE2NSIgd2lkdGg9IjUiIGhlaWdodD0iNjUiIHJ4PSIyLjUiIGZpbGw9IiMwMGU1ZmYiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gWWVsbG93IHNwbGFzaCAtLT4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSIyODAiIHI9IjU1IiBmaWxsPSIjZmZlYTAwIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2OTAiIGN5PSIyNjAiIHI9IjMwIiBmaWxsPSIjZmZlYTAwIiBvcGFjaXR5PSIwLjQiLz4KICA8cmVjdCB4PSI2NDUiIHk9IjMzMCIgd2lkdGg9IjYiIGhlaWdodD0iNDAiIHJ4PSIzIiBmaWxsPSIjZmZlYTAwIiBvcGFjaXR5PSIwLjUiLz4KICA8IS0tIEJvbGQgdGFnLXN0eWxlIHN0cm9rZXMgLS0+CiAgPHBhdGggZD0iTTMwMCA4MCBMMzUwIDYwIEwzODAgMTAwIEwzNDAgMTMwIFoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmMmQ1NSIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNNTgwIDE4MCBMNjQwIDE2MCBMNjYwIDIxMCBMNjEwIDIzMCBaIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMzUwIiB4Mj0iMjUwIiB5Mj0iMzIwIiBzdHJva2U9IiNmZmVhMDAiIHN0cm9rZS13aWR0aD0iNCIgb3BhY2l0eT0iMC41Ii8+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjM1MCIgeDI9IjU1MCIgeTI9IjM3MCIgc3Ryb2tlPSIjZmYyZDU1IiBzdHJva2Utd2lkdGg9IjMiIG9wYWNpdHk9IjAuNCIvPgogIDwhLS0gU3ByYXkgZG90cyAtLT4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSIyMDAiIHI9IjMiIGZpbGw9IiNmZjJkNTUiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjMyMCIgY3k9IjE5MCIgcj0iMiIgZmlsbD0iI2ZmMmQ1NSIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iMzEwIiBjeT0iMjE1IiByPSI0IiBmaWxsPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIzMDAiIHI9IjMiIGZpbGw9IiNmZmVhMDAiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjQ3MCIgY3k9IjI5MCIgcj0iMiIgZmlsbD0iI2ZmZWEwMCIgb3BhY2l0eT0iMC40Ii8+CiAgPGNpcmNsZSBjeD0iMzgwIiBjeT0iMTUwIiByPSIyIiBmaWxsPSIjMDBlNWZmIiBvcGFjaXR5PSIwLjQiLz4KICA8Y2lyY2xlIGN4PSIyNTAiIGN5PSIxMDAiIHI9IjMiIGZpbGw9IiNmZmVhMDAiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjcwMCIgY3k9IjE1MCIgcj0iMiIgZmlsbD0iI2ZmMmQ1NSIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBTdHlsZSBuYW1lIC0tPgogIDx0ZXh0IHg9IjQwMCIgeT0iMjIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwgQmxhY2ssIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSI5MDAiIGZpbGw9IiNmZjJkNTUiIHRyYW5zZm9ybT0icm90YXRlKC04IDQwMCAyMjApIiBzdHJva2U9IiMxYzFjMWUiIHN0cm9rZS13aWR0aD0iMiI+R1JBRkZJVEk8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIyNzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCBCbGFjaywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIzNiIgZm9udC13ZWlnaHQ9IjkwMCIgZmlsbD0iIzAwZTVmZiIgdHJhbnNmb3JtPSJyb3RhdGUoLTggNDAwIDI3MCkiPlNUUkVFVDwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1c1c1e"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Spray paint splashes -->
+  <circle cx="150" cy="180" r="80" fill="#ff2d55" opacity="0.7"/>
+  <circle cx="200" cy="150" r="50" fill="#ff2d55" opacity="0.5"/>
+  <circle cx="120" cy="220" r="30" fill="#ff2d55" opacity="0.4"/>
+  <!-- Drip effects -->
+  <rect x="145" y="250" width="8" height="60" rx="4" fill="#ff2d55" opacity="0.6"/>
+  <rect x="170" y="240" width="6" height="80" rx="3" fill="#ff2d55" opacity="0.5"/>
+  <rect x="125" y="260" width="5" height="45" rx="2.5" fill="#ff2d55" opacity="0.4"/>
+  <!-- Cyan splash -->
+  <circle cx="500" cy="120" r="60" fill="#00e5ff" opacity="0.6"/>
+  <circle cx="540" cy="100" r="35" fill="#00e5ff" opacity="0.4"/>
+  <rect x="495" y="175" width="7" height="50" rx="3.5" fill="#00e5ff" opacity="0.5"/>
+  <rect x="520" y="165" width="5" height="65" rx="2.5" fill="#00e5ff" opacity="0.4"/>
+  <!-- Yellow splash -->
+  <circle cx="650" cy="280" r="55" fill="#ffea00" opacity="0.6"/>
+  <circle cx="690" cy="260" r="30" fill="#ffea00" opacity="0.4"/>
+  <rect x="645" y="330" width="6" height="40" rx="3" fill="#ffea00" opacity="0.5"/>
+  <!-- Bold tag-style strokes -->
+  <path d="M300 80 L350 60 L380 100 L340 130 Z" fill="none" stroke="#ff2d55" stroke-width="6" stroke-linecap="round"/>
+  <path d="M580 180 L640 160 L660 210 L610 230 Z" fill="none" stroke="#00e5ff" stroke-width="5" stroke-linecap="round"/>
+  <line x1="80" y1="350" x2="250" y2="320" stroke="#ffea00" stroke-width="4" opacity="0.5"/>
+  <line x1="400" y1="350" x2="550" y2="370" stroke="#ff2d55" stroke-width="3" opacity="0.4"/>
+  <!-- Spray dots -->
+  <circle cx="300" cy="200" r="3" fill="#ff2d55" opacity="0.6"/>
+  <circle cx="320" cy="190" r="2" fill="#ff2d55" opacity="0.5"/>
+  <circle cx="310" cy="215" r="4" fill="#00e5ff" opacity="0.5"/>
+  <circle cx="450" cy="300" r="3" fill="#ffea00" opacity="0.6"/>
+  <circle cx="470" cy="290" r="2" fill="#ffea00" opacity="0.4"/>
+  <circle cx="380" cy="150" r="2" fill="#00e5ff" opacity="0.4"/>
+  <circle cx="250" cy="100" r="3" fill="#ffea00" opacity="0.5"/>
+  <circle cx="700" cy="150" r="2" fill="#ff2d55" opacity="0.4"/>
+  <!-- Style name -->
+  <text x="400" y="220" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="52" font-weight="900" fill="#ff2d55" transform="rotate(-8 400 220)" stroke="#1c1c1e" stroke-width="2">GRAFFITI</text>
+  <text x="400" y="270" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="36" font-weight="900" fill="#00e5ff" transform="rotate(-8 400 270)">STREET</text>
+  </g>
+</svg>

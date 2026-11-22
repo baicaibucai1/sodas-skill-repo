@@ -1,1 +1,43 @@
-IyDpo47moLzlupPmoLzlvI8KCumjjuagvOWGheWuueS7pSBTdHlsZUtpdCDnmoQgYHNsdWdgIOS4uuWHhu+8jOacrOS7k+W6k+S4jeWGjeWkjeWItumjjuagvOato+aWh+OAguebruW9leWIhuS4pOWxgu+8mgoKLSAqKuebruW9leW/q+eFpyoqIGBkYXRhL2NhdGFsb2cuanNvbmDvvJoxNTEg5p2hIFN0eWxlS2l0IOebruW9leeahOacrOWcsOWJr+acrO+8jOeUqOS6juemu+e6v+ajgOe0ouOAgueUsSBbZGF0YS9OT1RJQ0UubWRdKC4uL2RhdGEvTk9USUNFLm1kKSDorrDlvZXmnaXmupDkuI7mm7TmlrDmlrnlvI/vvIzkuI3opoHmiYvmlLnljZXmnaHjgIIKLSAqKumhueebruengeacieadoeebrioqIGA8cHJvamVjdD4vLnVpLXN0eWxlcy88c2x1Zz4vc3R5bGUuanNvbmDvvJrnlKjmiLfnoa7orqTlkI7liqDlhaXnmoTjgIFTdHlsZUtpdCDmsqHmnInnmoTpo47moLzvvIzmiJbpnIDopoHlm7rlrpror7TmmI7nmoTmnKzlnLDlj5jkvZPjgIIKCiMjIOadoeebruagvOW8jwoKYGBganNvbgp7CiAgInNsdWciOiAicGFwZXItZWRpdG9yaWFsIiwKICAibmFtZSI6ICLnurjmhJ/nvJbovpEiLAogICJzdW1tYXJ5IjogIuaalueZveW6leOAgeihrOe6v+agh+mimOS4jueWj+acl+eJiOmdou+8jOmAgueUqOS6jumYheivu+Wei+mhtemdouOAgiIsCiAgInRhZ3MiOiBbIumYheivuyIsICLlhoXlrrnnq5kiXSwKICAibGV2ZWwiOiAicmVmZXJlbmNlIiwKICAiZ3VpZGUiOiAiZ3VpZGUubWQiLAogICJzb3VyY2UiOiAiaHR0cHM6Ly9leGFtcGxlLmNvbSDmiJbnlKjmiLfmj5DkvpvnmoTmoLfmnKzor7TmmI4iCn0KYGBgCgotIGBzbHVnYO+8muWwj+WGmeWtl+avjeOAgeaVsOWtl+WSjOi/nuWtl+espu+8jOW/hemhu+S4juebruW9leWQjeS4gOiHtOOAguW3suWtmOWcqOS6jiBTdHlsZUtpdCDnmoTpo47moLznm7TmjqXlvJXnlKjkuIrmuLggc2x1Z++8jOS4jemHjeWkjeWFpeW6k+OAggotIGBuYW1lYOOAgWBzdW1tYXJ5YOOAgWBndWlkZWAg5b+F5aGr44CCYHRhZ3NgIOS4uuWPr+mAieWtl+espuS4suaVsOe7hOOAggotIGBsZXZlbGDvvJpgcmVmZXJlbmNlYCDooajnpLrlj6rog73mmK/op4bop4nlj4LogIPjgIHlpI3njrDnqIvluqbmnKrpqozor4HvvJtgcmVwcm9kdWNpYmxlYCDlv4XpobvpmYTlj6/ov5DooYzmoLfmnKzvvIzlubblnKjmjIfljZfkuK3liJfmmI7nirbmgIHpqozmlLbjgIIKLSDlt7Llj5HluIPnmoTmnaHnm67lj6rlop7kuI3mlLnvvIzlj5jmm7Tlj6blu7ogc2x1ZyDmiJbniYjmnKzvvJvkuI3lkIzpobnnm67lh7rnjrDlkIwgc2x1ZyDlsZ7kuo7lhrLnqoHvvIzpnIDmiqXlkYrjgIIKLSDkuI3lhpkgYHZlcnNpb25gIOWtl+aute+8mumjjuagvOato+aWh+eahOeJiOacrOeUsSBTdHlsZUtpdCDkuIrmuLjnrqHnkIbvvIzmnKzku5PlupPlj6rorrDlvZUgYHNvdXJjZWAg5LiOIGBmZXRjaGVkQXRg77yI6ZyA6KaB5pe277yJ44CCCgpgYGBzaApub2RlIHNjcmlwdHMvY2F0YWxvZy5tanMgbGlzdCAtLXByb2plY3QgL3BhdGgvdG8vcHJvamVjdCAtLXF1ZXJ5IOWQjuWPsApub2RlIHNjcmlwdHMvY2F0YWxvZy5tanMgdmFsaWRhdGUgLS1wcm9qZWN0IC9wYXRoL3RvL3Byb2plY3QKYGBgCgrohJrmnKzkvp3otZYgTm9kZS5qcyAxOCvvvIzkuI3ogZTnvZHvvJvmn6Xor6LkuI3lhpnmlofku7bjgILml6AgTm9kZS5qcyDml7bku43lj6/nm7TmjqXor7vmuIXljZXjgIIKCiMjIOabtOaWsOebruW9leW/q+eFpwoK5LiK5ri455uu5b2V5Y+Y5YyW5pe277yM55So5ZCM5LiA5Lu96ISa5pys6YeN5bu65b+r54Wn5LiO5bCB6Z2i77yM5L+d6K+BIGBzbHVnYOOAgeWQjeensOOAgeWIhuexu+S4gOiHtO+8jOW5tuS/neeVmSBOT1RJQ0Ug5Lit55qE5p2l5rqQ6K+05piO77yaCgpgYGBzaApub2RlIHNjcmlwdHMvc3luYy1jYXRhbG9nLm1qcwpgYGAKCuiEmuacrOS8muivt+axgiBgaHR0cHM6Ly93d3cuc3R5bGVraXQudG9wL2FwaS9zdHlsZXNg44CB5YaZ5YWlIGBkYXRhL2NhdGFsb2cuanNvbmAg5bm26KGl6b2Q57y65aSx5bCB6Z2i44CC5a6D5LiN5Y+R5biD44CB5LiN5pS5IFJFQURNReOAggo=
+# 风格库格式
+
+风格内容以 StyleKit 的 `slug` 为准，本仓库不再复制风格正文。目录分两层：
+
+- **目录快照** `data/catalog.json`：151 条 StyleKit 目录的本地副本，用于离线检索。由 [data/NOTICE.md](../data/NOTICE.md) 记录来源与更新方式，不要手改单条。
+- **项目私有条目** `<project>/.ui-styles/<slug>/style.json`：用户确认后加入的、StyleKit 没有的风格，或需要固定说明的本地变体。
+
+## 条目格式
+
+```json
+{
+  "slug": "paper-editorial",
+  "name": "纸感编辑",
+  "summary": "暖白底、衬线标题与疏朗版面，适用于阅读型页面。",
+  "tags": ["阅读", "内容站"],
+  "level": "reference",
+  "guide": "guide.md",
+  "source": "https://example.com 或用户提供的样本说明"
+}
+```
+
+- `slug`：小写字母、数字和连字符，必须与目录名一致。已存在于 StyleKit 的风格直接引用上游 slug，不重复入库。
+- `name`、`summary`、`guide` 必填。`tags` 为可选字符串数组。
+- `level`：`reference` 表示只能是视觉参考、复现程度未验证；`reproducible` 必须附可运行样本，并在指南中列明状态验收。
+- 已发布的条目只增不改，变更另建 slug 或版本；不同项目出现同 slug 属于冲突，需报告。
+- 不写 `version` 字段：风格正文的版本由 StyleKit 上游管理，本仓库只记录 `source` 与 `fetchedAt`（需要时）。
+
+```sh
+node scripts/catalog.mjs list --project /path/to/project --query 后台
+node scripts/catalog.mjs validate --project /path/to/project
+```
+
+脚本依赖 Node.js 18+，不联网；查询不写文件。无 Node.js 时仍可直接读清单。
+
+## 更新目录快照
+
+上游目录变化时，用同一份脚本重建快照与封面，保证 `slug`、名称、分类一致，并保留 NOTICE 中的来源说明：
+
+```sh
+node scripts/sync-catalog.mjs
+```
+
+脚本会请求 `https://www.stylekit.top/api/styles`、写入 `data/catalog.json` 并补齐缺失封面。它不发布、不改 README。

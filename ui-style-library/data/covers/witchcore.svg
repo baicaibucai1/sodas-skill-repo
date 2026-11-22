@@ -1,1 +1,41 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjMGQwYjE0Ii8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBTdGFycyBzY2F0dGVyZWQgLS0+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iNTAiIHI9IjEuNSIgZmlsbD0iI2M5YTc0ZSIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iMzAiIHI9IjEiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjM1MCIgY3k9IjYwIiByPSIxLjUiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjUwMCIgY3k9IjQwIiByPSIxIiBmaWxsPSIjYzlhNzRlIiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI2NTAiIGN5PSI1NSIgcj0iMS41IiBmaWxsPSIjYzlhNzRlIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI3NTAiIGN5PSIzNSIgcj0iMSIgZmlsbD0iI2M5YTc0ZSIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSIzNTAiIHI9IjEiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjcyMCIgY3k9IjM2MCIgcj0iMS41IiBmaWxsPSIjYzlhNzRlIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSIzNzAiIHI9IjEiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuNCIvPgogIDxjaXJjbGUgY3g9IjI1MCIgY3k9IjM4MCIgcj0iMSIgZmlsbD0iI2M5YTc0ZSIgb3BhY2l0eT0iMC41Ii8+CiAgPCEtLSBNb29uIHBoYXNlcyAtLT4KICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSIxMzAiIHI9IjIwIiBmaWxsPSIjYzlhNzRlIiBvcGFjaXR5PSIwLjE1Ii8+CiAgPGNpcmNsZSBjeD0iMjgwIiBjeT0iMTMwIiByPSIyNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhNzRlIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMC40Ii8+CiAgPGNpcmNsZSBjeD0iMjgwIiBjeT0iMTMwIiByPSIyNSIgZmlsbD0iI2M5YTc0ZSIgb3BhY2l0eT0iMC4wNSIvPgogIDwhLS0gRnVsbCBtb29uIC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjEyMCIgcj0iMzUiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuMiIvPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjEyMCIgcj0iMzUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2M5YTc0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPCEtLSBXYW5pbmcgLS0+CiAgPGNpcmNsZSBjeD0iNTIwIiBjeT0iMTMwIiByPSIyNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhNzRlIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMC40Ii8+CiAgPHBhdGggZD0iTTUyMCAxMDUgQTI1IDI1IDAgMCAxIDUyMCAxNTUgQTE1IDI1IDAgMCAwIDUyMCAxMDUiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuMTUiLz4KICA8Y2lyY2xlIGN4PSI2MDAiIGN5PSIxMzAiIHI9IjIwIiBmaWxsPSJub25lIiBzdHJva2U9IiNjOWE3NGUiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC4zIi8+CiAgPHBhdGggZD0iTTYwMCAxMTAgQTIwIDIwIDAgMCAxIDYwMCAxNTAgQTEwIDIwIDAgMCAwIDYwMCAxMTAiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuMSIvPgogIDwhLS0gUGVudGFncmFtIHN0YXIgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDAwLDI4MCkiPgogICAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjUwIiBmaWxsPSJub25lIiBzdHJva2U9IiM0YTE5NDIiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgICA8cG9seWdvbiBwb2ludHM9IjAsLTUwIDE0LjcsMjAuMiAtNDcuNiwtMTYuMiA0Ny42LC0xNi4yIC0xNC43LDIwLjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2M5YTc0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjUiLz4KICA8L2c+CiAgPCEtLSBNeXN0aWMgdHJpYW5nbGUgLS0+CiAgPHBvbHlnb24gcG9pbnRzPSIxNTAsMzQwIDE4MCwyODAgMjEwLDM0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNGExOTQyIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDxjaXJjbGUgY3g9IjE4MCIgY3k9IjMxNSIgcj0iOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhNzRlIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNCIvPgogIDxwb2x5Z29uIHBvaW50cz0iNTkwLDM0MCA2MjAsMjgwIDY1MCwzNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRhMTk0MiIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8Y2lyY2xlIGN4PSI2MjAiIGN5PSIzMTUiIHI9IjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2M5YTc0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIFN0eWxlIG5hbWUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI0NCIgZmlsbD0iI2M5YTc0ZSIgbGV0dGVyLXNwYWNpbmc9IjgiPldJVENIQ09SRTwvdGV4dD4KICA8bGluZSB4MT0iMjUwIiB5MT0iMjI1IiB4Mj0iNTUwIiB5Mj0iMjI1IiBzdHJva2U9IiM0YTE5NDIiIHN0cm9rZS13aWR0aD0iMSIvPgogIDwvZz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d0b14"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Stars scattered -->
+  <circle cx="100" cy="50" r="1.5" fill="#c9a74e" opacity="0.8"/>
+  <circle cx="200" cy="30" r="1" fill="#c9a74e" opacity="0.6"/>
+  <circle cx="350" cy="60" r="1.5" fill="#c9a74e" opacity="0.7"/>
+  <circle cx="500" cy="40" r="1" fill="#c9a74e" opacity="0.5"/>
+  <circle cx="650" cy="55" r="1.5" fill="#c9a74e" opacity="0.8"/>
+  <circle cx="750" cy="35" r="1" fill="#c9a74e" opacity="0.6"/>
+  <circle cx="80" cy="350" r="1" fill="#c9a74e" opacity="0.5"/>
+  <circle cx="720" cy="360" r="1.5" fill="#c9a74e" opacity="0.6"/>
+  <circle cx="550" cy="370" r="1" fill="#c9a74e" opacity="0.4"/>
+  <circle cx="250" cy="380" r="1" fill="#c9a74e" opacity="0.5"/>
+  <!-- Moon phases -->
+  <circle cx="200" cy="130" r="20" fill="#c9a74e" opacity="0.15"/>
+  <circle cx="280" cy="130" r="25" fill="none" stroke="#c9a74e" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="280" cy="130" r="25" fill="#c9a74e" opacity="0.05"/>
+  <!-- Full moon -->
+  <circle cx="400" cy="120" r="35" fill="#c9a74e" opacity="0.2"/>
+  <circle cx="400" cy="120" r="35" fill="none" stroke="#c9a74e" stroke-width="2"/>
+  <!-- Waning -->
+  <circle cx="520" cy="130" r="25" fill="none" stroke="#c9a74e" stroke-width="1.5" opacity="0.4"/>
+  <path d="M520 105 A25 25 0 0 1 520 155 A15 25 0 0 0 520 105" fill="#c9a74e" opacity="0.15"/>
+  <circle cx="600" cy="130" r="20" fill="none" stroke="#c9a74e" stroke-width="1" opacity="0.3"/>
+  <path d="M600 110 A20 20 0 0 1 600 150 A10 20 0 0 0 600 110" fill="#c9a74e" opacity="0.1"/>
+  <!-- Pentagram star -->
+  <g transform="translate(400,280)">
+    <circle cx="0" cy="0" r="50" fill="none" stroke="#4a1942" stroke-width="1.5"/>
+    <polygon points="0,-50 14.7,20.2 -47.6,-16.2 47.6,-16.2 -14.7,20.2" fill="none" stroke="#c9a74e" stroke-width="1" opacity="0.5"/>
+  </g>
+  <!-- Mystic triangle -->
+  <polygon points="150,340 180,280 210,340" fill="none" stroke="#4a1942" stroke-width="1.5"/>
+  <circle cx="180" cy="315" r="8" fill="none" stroke="#c9a74e" stroke-width="1" opacity="0.4"/>
+  <polygon points="590,340 620,280 650,340" fill="none" stroke="#4a1942" stroke-width="1.5"/>
+  <circle cx="620" cy="315" r="8" fill="none" stroke="#c9a74e" stroke-width="1" opacity="0.4"/>
+  <!-- Style name -->
+  <text x="400" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#c9a74e" letter-spacing="8">WITCHCORE</text>
+  <line x1="250" y1="225" x2="550" y2="225" stroke="#4a1942" stroke-width="1"/>
+  </g>
+</svg>

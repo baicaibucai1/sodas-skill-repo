@@ -1,1 +1,37 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZmZmZmZmIi8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBDb25jZW50cmljIGNpcmNsZXMgLSBsZWZ0IGdyb3VwIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCwyMDApIj4KICAgIDxjaXJjbGUgcj0iMTYwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMTAiLz4KICAgIDxjaXJjbGUgcj0iMTQ1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNSIvPgogICAgPGNpcmNsZSByPSIxMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIxMCIvPgogICAgPGNpcmNsZSByPSIxMTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSI1Ii8+CiAgICA8Y2lyY2xlIHI9IjEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjEwIi8+CiAgICA8Y2lyY2xlIHI9Ijg1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNSIvPgogICAgPGNpcmNsZSByPSI3MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjEwIi8+CiAgICA8Y2lyY2xlIHI9IjU1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNSIvPgogICAgPGNpcmNsZSByPSI0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjEwIi8+CiAgICA8Y2lyY2xlIHI9IjI1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNSIvPgogICAgPGNpcmNsZSByPSIxMCIgZmlsbD0iIzAwMDAwMCIvPgogIDwvZz4KICA8IS0tIENvbmNlbnRyaWMgY2lyY2xlcyAtIHJpZ2h0IGdyb3VwIG9mZnNldCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1NTAsMjAwKSI+CiAgICA8Y2lyY2xlIHI9IjE2MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjEwIi8+CiAgICA8Y2lyY2xlIHI9IjE0NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjUiLz4KICAgIDxjaXJjbGUgcj0iMTMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMTAiLz4KICAgIDxjaXJjbGUgcj0iMTE1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNSIvPgogICAgPGNpcmNsZSByPSIxMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIxMCIvPgogICAgPGNpcmNsZSByPSI4NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjUiLz4KICAgIDxjaXJjbGUgcj0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIxMCIvPgogICAgPGNpcmNsZSByPSI1NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjUiLz4KICAgIDxjaXJjbGUgcj0iNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIxMCIvPgogICAgPGNpcmNsZSByPSIyNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjUiLz4KICAgIDxjaXJjbGUgcj0iMTAiIGZpbGw9IiNmZjMzMDAiLz4KICA8L2c+CiAgPCEtLSBSZWQgYWNjZW50IGxpbmUgLS0+CiAgPGxpbmUgeDE9IjQwMCIgeTE9IjAiIHgyPSI0MDAiIHkyPSI0MDAiIHN0cm9rZT0iI2ZmMzMwMCIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNiIgZmlsbD0iIzAwMDAwMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGxldHRlci1zcGFjaW5nPSI2Ij5PUCBBUlQ8L3RleHQ+CiAgPC9nPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Concentric circles - left group -->
+  <g transform="translate(250,200)">
+    <circle r="160" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="145" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="130" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="115" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="100" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="85" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="70" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="55" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="40" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="25" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="10" fill="#000000"/>
+  </g>
+  <!-- Concentric circles - right group offset -->
+  <g transform="translate(550,200)">
+    <circle r="160" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="145" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="130" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="115" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="100" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="85" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="70" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="55" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="40" fill="none" stroke="#000000" stroke-width="10"/>
+    <circle r="25" fill="none" stroke="#000000" stroke-width="5"/>
+    <circle r="10" fill="#ff3300"/>
+  </g>
+  <!-- Red accent line -->
+  <line x1="400" y1="0" x2="400" y2="400" stroke="#ff3300" stroke-width="2"/>
+  <!-- Title -->
+  <text x="400" y="390" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, sans-serif" font-size="16" fill="#000000" font-weight="bold" letter-spacing="6">OP ART</text>
+  </g>
+</svg>

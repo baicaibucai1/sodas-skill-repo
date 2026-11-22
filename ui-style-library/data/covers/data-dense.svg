@@ -1,1 +1,180 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgZmlsbD0ibm9uZSI+DQogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iI2Y4ZmFmYyIvPg0KDQogIDwhLS0gU2lkZWJhciAtLT4NCiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDxyZWN0IHg9IjE2IiB5PSIyNCIgd2lkdGg9IjE0OCIgaGVpZ2h0PSIxMiIgcng9IjIiIGZpbGw9IiNlMmU4ZjAiLz4NCiAgPHJlY3QgeD0iMTYiIHk9IjUyIiB3aWR0aD0iMTQ4IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzNiODJmNiIvPg0KICA8dGV4dCB4PSIyOCIgeT0iNjciIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiNmZmZmZmYiPkRhc2hib2FyZDwvdGV4dD4NCiAgPHJlY3QgeD0iMTYiIHk9IjgwIiB3aWR0aD0iMTQ4IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz4NCiAgPHRleHQgeD0iMjgiIHk9Ijk1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNjQ3NDhiIj5Vc2VyczwvdGV4dD4NCiAgPHJlY3QgeD0iMTYiIHk9IjEwOCIgd2lkdGg9IjE0OCIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9InRyYW5zcGFyZW50Ii8+DQogIDx0ZXh0IHg9IjI4IiB5PSIxMjMiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPk9yZGVyczwvdGV4dD4NCiAgPHJlY3QgeD0iMTYiIHk9IjEzNiIgd2lkdGg9IjE0OCIgaGVpZ2h0PSIyMiIgcng9IjQiIGZpbGw9InRyYW5zcGFyZW50Ii8+DQogIDx0ZXh0IHg9IjI4IiB5PSIxNTEiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPlByb2R1Y3RzPC90ZXh0Pg0KICA8cmVjdCB4PSIxNiIgeT0iMTY0IiB3aWR0aD0iMTQ4IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz4NCiAgPHRleHQgeD0iMjgiIHk9IjE3OSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+QW5hbHl0aWNzPC90ZXh0Pg0KICA8cmVjdCB4PSIxNiIgeT0iMTkyIiB3aWR0aD0iMTQ4IiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0idHJhbnNwYXJlbnQiLz4NCiAgPHRleHQgeD0iMjgiIHk9IjIwNyIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+U2V0dGluZ3M8L3RleHQ+DQoNCiAgPCEtLSBLUEkgQ2FyZHMgLS0+DQogIDxyZWN0IHg9IjIwMCIgeT0iMjQiIHdpZHRoPSIyMzAiIGhlaWdodD0iNjgiIHJ4PSI0IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8dGV4dCB4PSIyMTYiIHk9IjQ0IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NDc0OGIiIHRleHQtdHJhbnNmb3JtPSJ1cHBlcmNhc2UiIGxldHRlci1zcGFjaW5nPSIxIj5SRVZFTlVFPC90ZXh0Pg0KICA8dGV4dCB4PSIyMTYiIHk9IjY4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjIyIiBmaWxsPSIjMWUyOTNiIiBmb250LXdlaWdodD0iNjAwIj4kMTQyLDM4OTwvdGV4dD4NCiAgPHRleHQgeD0iMjE2IiB5PSI4MiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjMjJjNTVlIj4rMTIuNSU8L3RleHQ+DQoNCiAgPHJlY3QgeD0iNDQ2IiB5PSIyNCIgd2lkdGg9IjIzMCIgaGVpZ2h0PSI2OCIgcng9IjQiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDx0ZXh0IHg9IjQ2MiIgeT0iNDQiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY0NzQ4YiIgbGV0dGVyLXNwYWNpbmc9IjEiPk9SREVSUzwvdGV4dD4NCiAgPHRleHQgeD0iNDYyIiB5PSI2OCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIyMiIgZmlsbD0iIzFlMjkzYiIgZm9udC13ZWlnaHQ9IjYwMCI+MywyODQ8L3RleHQ+DQogIDx0ZXh0IHg9IjQ2MiIgeT0iODIiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI2VmNDQ0NCI+LTMuMiU8L3RleHQ+DQoNCiAgPHJlY3QgeD0iNjkyIiB5PSIyNCIgd2lkdGg9IjIzMCIgaGVpZ2h0PSI2OCIgcng9IjQiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDx0ZXh0IHg9IjcwOCIgeT0iNDQiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY0NzQ4YiIgbGV0dGVyLXNwYWNpbmc9IjEiPkFDVElWRSBVU0VSUzwvdGV4dD4NCiAgPHRleHQgeD0iNzA4IiB5PSI2OCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIyMiIgZmlsbD0iIzFlMjkzYiIgZm9udC13ZWlnaHQ9IjYwMCI+MTgsOTIxPC90ZXh0Pg0KICA8dGV4dCB4PSI3MDgiIHk9IjgyIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiMyMmM1NWUiPis4LjElPC90ZXh0Pg0KDQogIDxyZWN0IHg9IjkzOCIgeT0iMjQiIHdpZHRoPSIyMzAiIGhlaWdodD0iNjgiIHJ4PSI0IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8dGV4dCB4PSI5NTQiIHk9IjQ0IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NDc0OGIiIGxldHRlci1zcGFjaW5nPSIxIj5FUlJPUiBSQVRFPC90ZXh0Pg0KICA8dGV4dCB4PSI5NTQiIHk9IjY4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjIyIiBmaWxsPSIjMWUyOTNiIiBmb250LXdlaWdodD0iNjAwIj4wLjQyJTwvdGV4dD4NCiAgPHRleHQgeD0iOTU0IiB5PSI4MiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjMjJjNTVlIj4tMC4xNSU8L3RleHQ+DQoNCiAgPCEtLSBGaWx0ZXIgVG9vbGJhciAtLT4NCiAgPHJlY3QgeD0iMjAwIiB5PSIxMTAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8dGV4dCB4PSIyMTYiIHk9IjEyNiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzk0YTNiOCI+U2VhcmNoIHVzZXJzLi4uPC90ZXh0Pg0KICA8cmVjdCB4PSI0MTAiIHk9IjExMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIyNCIgcng9IjQiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDx0ZXh0IHg9IjQyMCIgeT0iMTI2IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNjQ3NDhiIj5TdGF0dXM8L3RleHQ+DQogIDxyZWN0IHg9IjUyMCIgeT0iMTEwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjZTJlOGYwIiBzdHJva2Utd2lkdGg9IjEiLz4NCiAgPHRleHQgeD0iNTMwIiB5PSIxMjYiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPlJvbGU8L3RleHQ+DQogIDxyZWN0IHg9IjExMDAiIHk9IjExMCIgd2lkdGg9IjY4IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzNiODJmNiIvPg0KICA8dGV4dCB4PSIxMTE2IiB5PSIxMjYiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiNmZmZmZmYiPkV4cG9ydDwvdGV4dD4NCg0KICA8IS0tIFRhYmxlIEhlYWRlciAtLT4NCiAgPHJlY3QgeD0iMjAwIiB5PSIxNTAiIHdpZHRoPSI5NjgiIGhlaWdodD0iMjYiIHJ4PSIwIiBmaWxsPSIjZjhmYWZjIi8+DQogIDxsaW5lIHgxPSIyMDAiIHkxPSIxNzYiIHgyPSIxMTY4IiB5Mj0iMTc2IiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8dGV4dCB4PSIyMTYiIHk9IjE2OCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjQ3NDhiIiBsZXR0ZXItc3BhY2luZz0iMSI+SUQ8L3RleHQ+DQogIDx0ZXh0IHg9IjI5NiIgeT0iMTY4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NDc0OGIiIGxldHRlci1zcGFjaW5nPSIxIj5OQU1FPC90ZXh0Pg0KICA8dGV4dCB4PSI0NDYiIHk9IjE2OCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjQ3NDhiIiBsZXR0ZXItc3BhY2luZz0iMSI+RU1BSUw8L3RleHQ+DQogIDx0ZXh0IHg9IjYzNiIgeT0iMTY4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NDc0OGIiIGxldHRlci1zcGFjaW5nPSIxIj5TVEFUVVM8L3RleHQ+DQogIDx0ZXh0IHg9Ijc0NiIgeT0iMTY4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NDc0OGIiIGxldHRlci1zcGFjaW5nPSIxIj5ST0xFPC90ZXh0Pg0KICA8dGV4dCB4PSI4NDYiIHk9IjE2OCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjQ3NDhiIiBsZXR0ZXItc3BhY2luZz0iMSI+TEFTVCBMT0dJTjwvdGV4dD4NCiAgPHRleHQgeD0iOTg2IiB5PSIxNjgiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY0NzQ4YiIgbGV0dGVyLXNwYWNpbmc9IjEiPkFNT1VOVDwvdGV4dD4NCiAgPHRleHQgeD0iMTA5NiIgeT0iMTY4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NDc0OGIiIGxldHRlci1zcGFjaW5nPSIxIj5BQ1RJT05TPC90ZXh0Pg0KDQogIDwhLS0gVGFibGUgUm93cyAtLT4NCiAgPHJlY3QgeD0iMjAwIiB5PSIxNzYiIHdpZHRoPSI5NjgiIGhlaWdodD0iMjgiIGZpbGw9IiNmZmZmZmYiLz4NCiAgPGxpbmUgeDE9IjIwMCIgeTE9IjIwNCIgeDI9IjExNjgiIHkyPSIyMDQiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4NCiAgPHRleHQgeD0iMjE2IiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPiMxMDQyMTwvdGV4dD4NCiAgPHRleHQgeD0iMjk2IiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjMWUyOTNiIj5BbGljZSBDaGVuPC90ZXh0Pg0KICA8dGV4dCB4PSI0NDYiIHk9IjE5NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPmFsaWNlQGFjbWUuY288L3RleHQ+DQogIDxyZWN0IHg9IjYzNiIgeT0iMTg1IiB3aWR0aD0iNDQiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjZjBmZGY0Ii8+DQogIDx0ZXh0IHg9IjY0MyIgeT0iMTk3IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI4IiBmaWxsPSIjMTU4MDNkIj5BY3RpdmU8L3RleHQ+DQogIDx0ZXh0IHg9Ijc0NiIgeT0iMTk1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+QWRtaW48L3RleHQ+DQogIDx0ZXh0IHg9Ijg0NiIgeT0iMTk1IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzk0YTNiOCI+MiBtaW4gYWdvPC90ZXh0Pg0KICA8dGV4dCB4PSI5ODYiIHk9IjE5NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzFlMjkzYiI+JDQsMjAwPC90ZXh0Pg0KICA8dGV4dCB4PSIxMDk2IiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiMzYjgyZjYiPkVkaXQ8L3RleHQ+DQogIDx0ZXh0IHg9IjExMzYiIHk9IjE5NSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI2VmNDQ0NCI+RGVsPC90ZXh0Pg0KDQogIDxyZWN0IHg9IjIwMCIgeT0iMjA0IiB3aWR0aD0iOTY4IiBoZWlnaHQ9IjI4IiBmaWxsPSIjZmZmZmZmIi8+DQogIDxsaW5lIHgxPSIyMDAiIHkxPSIyMzIiIHgyPSIxMTY4IiB5Mj0iMjMyIiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMC41Ii8+DQogIDx0ZXh0IHg9IjIxNiIgeT0iMjIzIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNjQ3NDhiIj4jMTA0MjA8L3RleHQ+DQogIDx0ZXh0IHg9IjI5NiIgeT0iMjIzIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzFlMjkzYiI+Qm9iIE1hcnRpbmV6PC90ZXh0Pg0KICA8dGV4dCB4PSI0NDYiIHk9IjIyMyIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPmJvYkBhY21lLmNvPC90ZXh0Pg0KICA8cmVjdCB4PSI2MzYiIHk9IjIxMyIgd2lkdGg9IjUyIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iI2ZmZmJlYiIvPg0KICA8dGV4dCB4PSI2NDMiIHk9IjIyNSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iI2ExNjIwNyI+UGVuZGluZzwvdGV4dD4NCiAgPHRleHQgeD0iNzQ2IiB5PSIyMjMiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNjQ3NDhiIj5FZGl0b3I8L3RleHQ+DQogIDx0ZXh0IHg9Ijg0NiIgeT0iMjIzIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzk0YTNiOCI+MSBociBhZ288L3RleHQ+DQogIDx0ZXh0IHg9Ijk4NiIgeT0iMjIzIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjMWUyOTNiIj4kMSw4OTA8L3RleHQ+DQogIDx0ZXh0IHg9IjEwOTYiIHk9IjIyMyIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzNiODJmNiI+RWRpdDwvdGV4dD4NCiAgPHRleHQgeD0iMTEzNiIgeT0iMjIzIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSIjZWY0NDQ0Ij5EZWw8L3RleHQ+DQoNCiAgPHJlY3QgeD0iMjAwIiB5PSIyMzIiIHdpZHRoPSI5NjgiIGhlaWdodD0iMjgiIGZpbGw9IiNmZmZmZmYiLz4NCiAgPGxpbmUgeDE9IjIwMCIgeTE9IjI2MCIgeDI9IjExNjgiIHkyPSIyNjAiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4NCiAgPHRleHQgeD0iMjE2IiB5PSIyNTEiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPiMxMDQxOTwvdGV4dD4NCiAgPHRleHQgeD0iMjk2IiB5PSIyNTEiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjMWUyOTNiIj5DYXJvbCBTaW5naDwvdGV4dD4NCiAgPHRleHQgeD0iNDQ2IiB5PSIyNTEiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNjQ3NDhiIj5jYXJvbEBhY21lLmNvPC90ZXh0Pg0KICA8cmVjdCB4PSI2MzYiIHk9IjI0MSIgd2lkdGg9IjQ0IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iI2YwZmRmNCIvPg0KICA8dGV4dCB4PSI2NDMiIHk9IjI1MyIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzE1ODAzZCI+QWN0aXZlPC90ZXh0Pg0KICA8dGV4dCB4PSI3NDYiIHk9IjI1MSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPlZpZXdlcjwvdGV4dD4NCiAgPHRleHQgeD0iODQ2IiB5PSIyNTEiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjOTRhM2I4Ij41IG1pbiBhZ288L3RleHQ+DQogIDx0ZXh0IHg9Ijk4NiIgeT0iMjUxIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjMWUyOTNiIj4kMywxMDA8L3RleHQ+DQogIDx0ZXh0IHg9IjEwOTYiIHk9IjI1MSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzNiODJmNiI+RWRpdDwvdGV4dD4NCiAgPHRleHQgeD0iMTEzNiIgeT0iMjUxIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSIjZWY0NDQ0Ij5EZWw8L3RleHQ+DQoNCiAgPHJlY3QgeD0iMjAwIiB5PSIyNjAiIHdpZHRoPSI5NjgiIGhlaWdodD0iMjgiIGZpbGw9IiNmZmZmZmYiLz4NCiAgPGxpbmUgeDE9IjIwMCIgeTE9IjI4OCIgeDI9IjExNjgiIHkyPSIyODgiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4NCiAgPHRleHQgeD0iMjE2IiB5PSIyNzkiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPiMxMDQxODwvdGV4dD4NCiAgPHRleHQgeD0iMjk2IiB5PSIyNzkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjMWUyOTNiIj5EYXZpZCBLaW08L3RleHQ+DQogIDx0ZXh0IHg9IjQ0NiIgeT0iMjc5IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+ZGF2aWRAYWNtZS5jbzwvdGV4dD4NCiAgPHJlY3QgeD0iNjM2IiB5PSIyNjkiIHdpZHRoPSIzOCIgaGVpZ2h0PSIxNiIgcng9IjMiIGZpbGw9IiNmZWYyZjIiLz4NCiAgPHRleHQgeD0iNjQzIiB5PSIyODEiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjgiIGZpbGw9IiNiOTFjMWMiPkVycm9yPC90ZXh0Pg0KICA8dGV4dCB4PSI3NDYiIHk9IjI3OSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM2NDc0OGIiPkVkaXRvcjwvdGV4dD4NCiAgPHRleHQgeD0iODQ2IiB5PSIyNzkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjOTRhM2I4Ij4zIGRheXMgYWdvPC90ZXh0Pg0KICA8dGV4dCB4PSI5ODYiIHk9IjI3OSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzFlMjkzYiI+JDcyMDwvdGV4dD4NCiAgPHRleHQgeD0iMTA5NiIgeT0iMjc5IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSIjM2I4MmY2Ij5FZGl0PC90ZXh0Pg0KICA8dGV4dCB4PSIxMTM2IiB5PSIyNzkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiNlZjQ0NDQiPkRlbDwvdGV4dD4NCg0KICA8cmVjdCB4PSIyMDAiIHk9IjI4OCIgd2lkdGg9Ijk2OCIgaGVpZ2h0PSIyOCIgZmlsbD0iI2ZmZmZmZiIvPg0KICA8bGluZSB4MT0iMjAwIiB5MT0iMzE2IiB4Mj0iMTE2OCIgeTI9IjMxNiIgc3Ryb2tlPSIjZTJlOGYwIiBzdHJva2Utd2lkdGg9IjAuNSIvPg0KICA8dGV4dCB4PSIyMTYiIHk9IjMwNyIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+IzEwNDE3PC90ZXh0Pg0KICA8dGV4dCB4PSIyOTYiIHk9IjMwNyIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiMxZTI5M2IiPkV2ZSBXaWxzb248L3RleHQ+DQogIDx0ZXh0IHg9IjQ0NiIgeT0iMzA3IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+ZXZlQGFjbWUuY288L3RleHQ+DQogIDxyZWN0IHg9IjYzNiIgeT0iMjk3IiB3aWR0aD0iNDQiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjZjBmZGY0Ii8+DQogIDx0ZXh0IHg9IjY0MyIgeT0iMzA5IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI4IiBmaWxsPSIjMTU4MDNkIj5BY3RpdmU8L3RleHQ+DQogIDx0ZXh0IHg9Ijc0NiIgeT0iMzA3IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+QWRtaW48L3RleHQ+DQogIDx0ZXh0IHg9Ijg0NiIgeT0iMzA3IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzk0YTNiOCI+MTIgbWluIGFnbzwvdGV4dD4NCiAgPHRleHQgeD0iOTg2IiB5PSIzMDciIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiMxZTI5M2IiPiQ1LDY0MDwvdGV4dD4NCiAgPHRleHQgeD0iMTA5NiIgeT0iMzA3IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSIjM2I4MmY2Ij5FZGl0PC90ZXh0Pg0KICA8dGV4dCB4PSIxMTM2IiB5PSIzMDciIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiNlZjQ0NDQiPkRlbDwvdGV4dD4NCg0KICA8IS0tIFBhZ2luYXRpb24gLS0+DQogIDxyZWN0IHg9IjIwMCIgeT0iMzMwIiB3aWR0aD0iOTY4IiBoZWlnaHQ9IjI0IiByeD0iMCIgZmlsbD0iI2Y4ZmFmYyIvPg0KICA8dGV4dCB4PSIyMTYiIHk9IjM0NiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzk0YTNiOCI+U2hvd2luZyAxLTggb2YgMywyODQ8L3RleHQ+DQogIDxyZWN0IHg9IjEwNTYiIHk9IjMzNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzNiODJmNiIvPg0KICA8dGV4dCB4PSIxMDYyIiB5PSIzNDYiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI2ZmZmZmZiI+MTwvdGV4dD4NCiAgPHJlY3QgeD0iMTA4MCIgeT0iMzM0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMC41Ii8+DQogIDx0ZXh0IHg9IjEwODYiIHk9IjM0NiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjQ3NDhiIj4yPC90ZXh0Pg0KICA8cmVjdCB4PSIxMTA0IiB5PSIzMzQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNiIgcng9IjMiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4NCiAgPHRleHQgeD0iMTExMCIgeT0iMzQ2IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NDc0OGIiPjM8L3RleHQ+DQoNCiAgPCEtLSBNaW5pIENoYXJ0IC0tPg0KICA8cmVjdCB4PSIyMDAiIHk9IjM3MCIgd2lkdGg9IjQ4MCIgaGVpZ2h0PSIxMjAiIHJ4PSI0IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8dGV4dCB4PSIyMTYiIHk9IjM5MiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjQ3NDhiIiBsZXR0ZXItc3BhY2luZz0iMSI+UkVWRU5VRSBUUkVORDwvdGV4dD4NCiAgPHRleHQgeD0iNjE2IiB5PSIzOTIiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzIyYzU1ZSIgdGV4dC1hbmNob3I9ImVuZCI+KzEyLjUlPC90ZXh0Pg0KICA8cmVjdCB4PSIyMjAiIHk9IjQ1MCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjMwIiByeD0iMiIgZmlsbD0iI2UyZThmMCIvPg0KICA8cmVjdCB4PSIyNzgiIHk9IjQzMCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiByeD0iMiIgZmlsbD0iI2UyZThmMCIvPg0KICA8cmVjdCB4PSIzMzYiIHk9IjQ2MCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjIwIiByeD0iMiIgZmlsbD0iI2UyZThmMCIvPg0KICA8cmVjdCB4PSIzOTQiIHk9IjQyMCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjYwIiByeD0iMiIgZmlsbD0iI2UyZThmMCIvPg0KICA8cmVjdCB4PSI0NTIiIHk9IjQxMCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjcwIiByeD0iMiIgZmlsbD0iI2UyZThmMCIvPg0KICA8cmVjdCB4PSI1MTAiIHk9IjQyNSIgd2lkdGg9IjUwIiBoZWlnaHQ9IjU1IiByeD0iMiIgZmlsbD0iI2UyZThmMCIvPg0KICA8cmVjdCB4PSI1NjgiIHk9IjQwMCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjgwIiByeD0iMiIgZmlsbD0iIzNiODJmNiIvPg0KDQogIDwhLS0gQWxlcnRzIC0tPg0KICA8cmVjdCB4PSI3MDAiIHk9IjM3MCIgd2lkdGg9IjQ2OCIgaGVpZ2h0PSIyOCIgcng9IjQiIGZpbGw9IiNlZmY2ZmYiIHN0cm9rZT0iI2JmZGJmZSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4NCiAgPHRleHQgeD0iNzE2IiB5PSIzODkiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzFkNGVkOCIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+SU5GTzwvdGV4dD4NCiAgPHRleHQgeD0iNzU2IiB5PSIzODkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiMxZDRlZDgiPlN5c3RlbSB1cGRhdGUgc2NoZWR1bGVkIGZvciAyOjAwIEFNPC90ZXh0Pg0KDQogIDxyZWN0IHg9IjcwMCIgeT0iNDA0IiB3aWR0aD0iNDY4IiBoZWlnaHQ9IjI4IiByeD0iNCIgZmlsbD0iI2YwZmRmNCIgc3Ryb2tlPSIjYmJmN2QwIiBzdHJva2Utd2lkdGg9IjAuNSIvPg0KICA8dGV4dCB4PSI3MTYiIHk9IjQyMyIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBmaWxsPSIjMTU4MDNkIiBsZXR0ZXItc3BhY2luZz0iMC41Ij5PSzwvdGV4dD4NCiAgPHRleHQgeD0iNzQ4IiB5PSI0MjMiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiMxNTgwM2QiPkJhY2t1cCBjb21wbGV0ZWQuIDEsMjg0IHJlY29yZHMgcHJvY2Vzc2VkLjwvdGV4dD4NCg0KICA8cmVjdCB4PSI3MDAiIHk9IjQzOCIgd2lkdGg9IjQ2OCIgaGVpZ2h0PSIyOCIgcng9IjQiIGZpbGw9IiNmZmZiZWIiIHN0cm9rZT0iI2ZkZTY4YSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4NCiAgPHRleHQgeD0iNzE2IiB5PSI0NTciIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iI2ExNjIwNyIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+V0FSTjwvdGV4dD4NCiAgPHRleHQgeD0iNzU2IiB5PSI0NTciIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiNhMTYyMDciPkFQSSByYXRlIGxpbWl0IGFwcHJvYWNoaW5nIDgwJTwvdGV4dD4NCg0KICA8cmVjdCB4PSI3MDAiIHk9IjQ3MiIgd2lkdGg9IjQ2OCIgaGVpZ2h0PSIyOCIgcng9IjQiIGZpbGw9IiNmZWYyZjIiIHN0cm9rZT0iI2ZlY2FjYSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4NCiAgPHRleHQgeD0iNzE2IiB5PSI0OTEiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iI2I5MWMxYyIgbGV0dGVyLXNwYWNpbmc9IjAuNSI+RVJSPC90ZXh0Pg0KICA8dGV4dCB4PSI3NTAiIHk9IjQ5MSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI2I5MWMxYyI+REIgY29ubmVjdGlvbiB0aW1lb3V0IG9uIHJlcGxpY2EtMDM8L3RleHQ+DQoNCiAgPCEtLSBTdGF0dXMgQmFyIC0tPg0KICA8cmVjdCB4PSIyMDAiIHk9IjYwNCIgd2lkdGg9Ijk2OCIgaGVpZ2h0PSIyNiIgcng9IjAiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2UyZThmMCIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDxjaXJjbGUgY3g9IjIyMCIgY3k9IjYxNyIgcj0iMyIgZmlsbD0iIzIyYzU1ZSIvPg0KICA8dGV4dCB4PSIyMjgiIHk9IjYyMSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBmaWxsPSIjOTRhM2I4Ij5TeXN0ZW0gT0s8L3RleHQ+DQogIDx0ZXh0IHg9IjMxMCIgeT0iNjIxIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGZpbGw9IiM5NGEzYjgiPkFQSTogMTQybXM8L3RleHQ+DQogIDx0ZXh0IHg9IjQwMCIgeT0iNjIxIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGZpbGw9IiM5NGEzYjgiPkRCOiAyOG1zPC90ZXh0Pg0KICA8dGV4dCB4PSIxMDkwIiB5PSI2MjEiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgZmlsbD0iIzk0YTNiOCI+djIuNC4xPC90ZXh0Pg0KDQogIDwhLS0gVGl0bGUgT3ZlcmxheSAtLT4NCiAgPHJlY3QgeD0iMjAwIiB5PSI1MzAiIHdpZHRoPSI0ODAiIGhlaWdodD0iNjAiIHJ4PSI0IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNlMmU4ZjAiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8dGV4dCB4PSIyMTYiIHk9IjU1NCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiMxZTI5M2IiIGZvbnQtd2VpZ2h0PSI2MDAiPkRhdGEgRGVuc2U8L3RleHQ+DQogIDx0ZXh0IHg9IjIxNiIgeT0iNTc0IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzY0NzQ4YiI+SGlnaC1kZW5zaXR5IGFkbWluIHBhbmVsIHdpdGggY29tcGFjdCBzcGFjaW5nPC90ZXh0Pg0KPC9zdmc+DQo=
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+
+  <!-- Sidebar -->
+  <rect x="0" y="0" width="180" height="630" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <rect x="16" y="24" width="148" height="12" rx="2" fill="#e2e8f0"/>
+  <rect x="16" y="52" width="148" height="22" rx="4" fill="#3b82f6"/>
+  <text x="28" y="67" font-family="monospace" font-size="10" fill="#ffffff">Dashboard</text>
+  <rect x="16" y="80" width="148" height="22" rx="4" fill="transparent"/>
+  <text x="28" y="95" font-family="monospace" font-size="10" fill="#64748b">Users</text>
+  <rect x="16" y="108" width="148" height="22" rx="4" fill="transparent"/>
+  <text x="28" y="123" font-family="monospace" font-size="10" fill="#64748b">Orders</text>
+  <rect x="16" y="136" width="148" height="22" rx="4" fill="transparent"/>
+  <text x="28" y="151" font-family="monospace" font-size="10" fill="#64748b">Products</text>
+  <rect x="16" y="164" width="148" height="22" rx="4" fill="transparent"/>
+  <text x="28" y="179" font-family="monospace" font-size="10" fill="#64748b">Analytics</text>
+  <rect x="16" y="192" width="148" height="22" rx="4" fill="transparent"/>
+  <text x="28" y="207" font-family="monospace" font-size="10" fill="#64748b">Settings</text>
+
+  <!-- KPI Cards -->
+  <rect x="200" y="24" width="230" height="68" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="216" y="44" font-family="monospace" font-size="9" fill="#64748b" text-transform="uppercase" letter-spacing="1">REVENUE</text>
+  <text x="216" y="68" font-family="monospace" font-size="22" fill="#1e293b" font-weight="600">$142,389</text>
+  <text x="216" y="82" font-family="monospace" font-size="9" fill="#22c55e">+12.5%</text>
+
+  <rect x="446" y="24" width="230" height="68" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="462" y="44" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">ORDERS</text>
+  <text x="462" y="68" font-family="monospace" font-size="22" fill="#1e293b" font-weight="600">3,284</text>
+  <text x="462" y="82" font-family="monospace" font-size="9" fill="#ef4444">-3.2%</text>
+
+  <rect x="692" y="24" width="230" height="68" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="708" y="44" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">ACTIVE USERS</text>
+  <text x="708" y="68" font-family="monospace" font-size="22" fill="#1e293b" font-weight="600">18,921</text>
+  <text x="708" y="82" font-family="monospace" font-size="9" fill="#22c55e">+8.1%</text>
+
+  <rect x="938" y="24" width="230" height="68" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="954" y="44" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">ERROR RATE</text>
+  <text x="954" y="68" font-family="monospace" font-size="22" fill="#1e293b" font-weight="600">0.42%</text>
+  <text x="954" y="82" font-family="monospace" font-size="9" fill="#22c55e">-0.15%</text>
+
+  <!-- Filter Toolbar -->
+  <rect x="200" y="110" width="200" height="24" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="216" y="126" font-family="monospace" font-size="10" fill="#94a3b8">Search users...</text>
+  <rect x="410" y="110" width="100" height="24" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="420" y="126" font-family="monospace" font-size="10" fill="#64748b">Status</text>
+  <rect x="520" y="110" width="100" height="24" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="530" y="126" font-family="monospace" font-size="10" fill="#64748b">Role</text>
+  <rect x="1100" y="110" width="68" height="24" rx="4" fill="#3b82f6"/>
+  <text x="1116" y="126" font-family="monospace" font-size="10" fill="#ffffff">Export</text>
+
+  <!-- Table Header -->
+  <rect x="200" y="150" width="968" height="26" rx="0" fill="#f8fafc"/>
+  <line x1="200" y1="176" x2="1168" y2="176" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="216" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">ID</text>
+  <text x="296" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">NAME</text>
+  <text x="446" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">EMAIL</text>
+  <text x="636" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">STATUS</text>
+  <text x="746" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">ROLE</text>
+  <text x="846" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">LAST LOGIN</text>
+  <text x="986" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">AMOUNT</text>
+  <text x="1096" y="168" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">ACTIONS</text>
+
+  <!-- Table Rows -->
+  <rect x="200" y="176" width="968" height="28" fill="#ffffff"/>
+  <line x1="200" y1="204" x2="1168" y2="204" stroke="#e2e8f0" stroke-width="0.5"/>
+  <text x="216" y="195" font-family="monospace" font-size="10" fill="#64748b">#10421</text>
+  <text x="296" y="195" font-family="sans-serif" font-size="10" fill="#1e293b">Alice Chen</text>
+  <text x="446" y="195" font-family="sans-serif" font-size="10" fill="#64748b">alice@acme.co</text>
+  <rect x="636" y="185" width="44" height="16" rx="3" fill="#f0fdf4"/>
+  <text x="643" y="197" font-family="sans-serif" font-size="8" fill="#15803d">Active</text>
+  <text x="746" y="195" font-family="sans-serif" font-size="10" fill="#64748b">Admin</text>
+  <text x="846" y="195" font-family="sans-serif" font-size="10" fill="#94a3b8">2 min ago</text>
+  <text x="986" y="195" font-family="monospace" font-size="10" fill="#1e293b">$4,200</text>
+  <text x="1096" y="195" font-family="sans-serif" font-size="9" fill="#3b82f6">Edit</text>
+  <text x="1136" y="195" font-family="sans-serif" font-size="9" fill="#ef4444">Del</text>
+
+  <rect x="200" y="204" width="968" height="28" fill="#ffffff"/>
+  <line x1="200" y1="232" x2="1168" y2="232" stroke="#e2e8f0" stroke-width="0.5"/>
+  <text x="216" y="223" font-family="monospace" font-size="10" fill="#64748b">#10420</text>
+  <text x="296" y="223" font-family="sans-serif" font-size="10" fill="#1e293b">Bob Martinez</text>
+  <text x="446" y="223" font-family="sans-serif" font-size="10" fill="#64748b">bob@acme.co</text>
+  <rect x="636" y="213" width="52" height="16" rx="3" fill="#fffbeb"/>
+  <text x="643" y="225" font-family="sans-serif" font-size="8" fill="#a16207">Pending</text>
+  <text x="746" y="223" font-family="sans-serif" font-size="10" fill="#64748b">Editor</text>
+  <text x="846" y="223" font-family="sans-serif" font-size="10" fill="#94a3b8">1 hr ago</text>
+  <text x="986" y="223" font-family="monospace" font-size="10" fill="#1e293b">$1,890</text>
+  <text x="1096" y="223" font-family="sans-serif" font-size="9" fill="#3b82f6">Edit</text>
+  <text x="1136" y="223" font-family="sans-serif" font-size="9" fill="#ef4444">Del</text>
+
+  <rect x="200" y="232" width="968" height="28" fill="#ffffff"/>
+  <line x1="200" y1="260" x2="1168" y2="260" stroke="#e2e8f0" stroke-width="0.5"/>
+  <text x="216" y="251" font-family="monospace" font-size="10" fill="#64748b">#10419</text>
+  <text x="296" y="251" font-family="sans-serif" font-size="10" fill="#1e293b">Carol Singh</text>
+  <text x="446" y="251" font-family="sans-serif" font-size="10" fill="#64748b">carol@acme.co</text>
+  <rect x="636" y="241" width="44" height="16" rx="3" fill="#f0fdf4"/>
+  <text x="643" y="253" font-family="sans-serif" font-size="8" fill="#15803d">Active</text>
+  <text x="746" y="251" font-family="sans-serif" font-size="10" fill="#64748b">Viewer</text>
+  <text x="846" y="251" font-family="sans-serif" font-size="10" fill="#94a3b8">5 min ago</text>
+  <text x="986" y="251" font-family="monospace" font-size="10" fill="#1e293b">$3,100</text>
+  <text x="1096" y="251" font-family="sans-serif" font-size="9" fill="#3b82f6">Edit</text>
+  <text x="1136" y="251" font-family="sans-serif" font-size="9" fill="#ef4444">Del</text>
+
+  <rect x="200" y="260" width="968" height="28" fill="#ffffff"/>
+  <line x1="200" y1="288" x2="1168" y2="288" stroke="#e2e8f0" stroke-width="0.5"/>
+  <text x="216" y="279" font-family="monospace" font-size="10" fill="#64748b">#10418</text>
+  <text x="296" y="279" font-family="sans-serif" font-size="10" fill="#1e293b">David Kim</text>
+  <text x="446" y="279" font-family="sans-serif" font-size="10" fill="#64748b">david@acme.co</text>
+  <rect x="636" y="269" width="38" height="16" rx="3" fill="#fef2f2"/>
+  <text x="643" y="281" font-family="sans-serif" font-size="8" fill="#b91c1c">Error</text>
+  <text x="746" y="279" font-family="sans-serif" font-size="10" fill="#64748b">Editor</text>
+  <text x="846" y="279" font-family="sans-serif" font-size="10" fill="#94a3b8">3 days ago</text>
+  <text x="986" y="279" font-family="monospace" font-size="10" fill="#1e293b">$720</text>
+  <text x="1096" y="279" font-family="sans-serif" font-size="9" fill="#3b82f6">Edit</text>
+  <text x="1136" y="279" font-family="sans-serif" font-size="9" fill="#ef4444">Del</text>
+
+  <rect x="200" y="288" width="968" height="28" fill="#ffffff"/>
+  <line x1="200" y1="316" x2="1168" y2="316" stroke="#e2e8f0" stroke-width="0.5"/>
+  <text x="216" y="307" font-family="monospace" font-size="10" fill="#64748b">#10417</text>
+  <text x="296" y="307" font-family="sans-serif" font-size="10" fill="#1e293b">Eve Wilson</text>
+  <text x="446" y="307" font-family="sans-serif" font-size="10" fill="#64748b">eve@acme.co</text>
+  <rect x="636" y="297" width="44" height="16" rx="3" fill="#f0fdf4"/>
+  <text x="643" y="309" font-family="sans-serif" font-size="8" fill="#15803d">Active</text>
+  <text x="746" y="307" font-family="sans-serif" font-size="10" fill="#64748b">Admin</text>
+  <text x="846" y="307" font-family="sans-serif" font-size="10" fill="#94a3b8">12 min ago</text>
+  <text x="986" y="307" font-family="monospace" font-size="10" fill="#1e293b">$5,640</text>
+  <text x="1096" y="307" font-family="sans-serif" font-size="9" fill="#3b82f6">Edit</text>
+  <text x="1136" y="307" font-family="sans-serif" font-size="9" fill="#ef4444">Del</text>
+
+  <!-- Pagination -->
+  <rect x="200" y="330" width="968" height="24" rx="0" fill="#f8fafc"/>
+  <text x="216" y="346" font-family="sans-serif" font-size="9" fill="#94a3b8">Showing 1-8 of 3,284</text>
+  <rect x="1056" y="334" width="20" height="16" rx="3" fill="#3b82f6"/>
+  <text x="1062" y="346" font-family="monospace" font-size="9" fill="#ffffff">1</text>
+  <rect x="1080" y="334" width="20" height="16" rx="3" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5"/>
+  <text x="1086" y="346" font-family="monospace" font-size="9" fill="#64748b">2</text>
+  <rect x="1104" y="334" width="20" height="16" rx="3" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5"/>
+  <text x="1110" y="346" font-family="monospace" font-size="9" fill="#64748b">3</text>
+
+  <!-- Mini Chart -->
+  <rect x="200" y="370" width="480" height="120" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="216" y="392" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">REVENUE TREND</text>
+  <text x="616" y="392" font-family="monospace" font-size="9" fill="#22c55e" text-anchor="end">+12.5%</text>
+  <rect x="220" y="450" width="50" height="30" rx="2" fill="#e2e8f0"/>
+  <rect x="278" y="430" width="50" height="50" rx="2" fill="#e2e8f0"/>
+  <rect x="336" y="460" width="50" height="20" rx="2" fill="#e2e8f0"/>
+  <rect x="394" y="420" width="50" height="60" rx="2" fill="#e2e8f0"/>
+  <rect x="452" y="410" width="50" height="70" rx="2" fill="#e2e8f0"/>
+  <rect x="510" y="425" width="50" height="55" rx="2" fill="#e2e8f0"/>
+  <rect x="568" y="400" width="50" height="80" rx="2" fill="#3b82f6"/>
+
+  <!-- Alerts -->
+  <rect x="700" y="370" width="468" height="28" rx="4" fill="#eff6ff" stroke="#bfdbfe" stroke-width="0.5"/>
+  <text x="716" y="389" font-family="monospace" font-size="8" fill="#1d4ed8" letter-spacing="0.5">INFO</text>
+  <text x="756" y="389" font-family="sans-serif" font-size="9" fill="#1d4ed8">System update scheduled for 2:00 AM</text>
+
+  <rect x="700" y="404" width="468" height="28" rx="4" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="0.5"/>
+  <text x="716" y="423" font-family="monospace" font-size="8" fill="#15803d" letter-spacing="0.5">OK</text>
+  <text x="748" y="423" font-family="sans-serif" font-size="9" fill="#15803d">Backup completed. 1,284 records processed.</text>
+
+  <rect x="700" y="438" width="468" height="28" rx="4" fill="#fffbeb" stroke="#fde68a" stroke-width="0.5"/>
+  <text x="716" y="457" font-family="monospace" font-size="8" fill="#a16207" letter-spacing="0.5">WARN</text>
+  <text x="756" y="457" font-family="sans-serif" font-size="9" fill="#a16207">API rate limit approaching 80%</text>
+
+  <rect x="700" y="472" width="468" height="28" rx="4" fill="#fef2f2" stroke="#fecaca" stroke-width="0.5"/>
+  <text x="716" y="491" font-family="monospace" font-size="8" fill="#b91c1c" letter-spacing="0.5">ERR</text>
+  <text x="750" y="491" font-family="sans-serif" font-size="9" fill="#b91c1c">DB connection timeout on replica-03</text>
+
+  <!-- Status Bar -->
+  <rect x="200" y="604" width="968" height="26" rx="0" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <circle cx="220" cy="617" r="3" fill="#22c55e"/>
+  <text x="228" y="621" font-family="monospace" font-size="8" fill="#94a3b8">System OK</text>
+  <text x="310" y="621" font-family="monospace" font-size="8" fill="#94a3b8">API: 142ms</text>
+  <text x="400" y="621" font-family="monospace" font-size="8" fill="#94a3b8">DB: 28ms</text>
+  <text x="1090" y="621" font-family="monospace" font-size="8" fill="#94a3b8">v2.4.1</text>
+
+  <!-- Title Overlay -->
+  <rect x="200" y="530" width="480" height="60" rx="4" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="216" y="554" font-family="sans-serif" font-size="16" fill="#1e293b" font-weight="600">Data Dense</text>
+  <text x="216" y="574" font-family="sans-serif" font-size="10" fill="#64748b">High-density admin panel with compact spacing</text>
+</svg>

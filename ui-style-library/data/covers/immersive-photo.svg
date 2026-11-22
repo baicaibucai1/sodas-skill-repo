@@ -1,1 +1,46 @@
-PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCA2MzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InNreSIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyQTNBNUMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjQyIiBzdG9wLWNvbG9yPSIjN0M2QThBIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC43IiBzdG9wLWNvbG9yPSIjRDk4QTZBIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0YyQzc5QiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0ic3VuIiBjeD0iMC43MiIgY3k9IjAuNiIgcj0iMC41Ij4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjRkZEOUEwIiBzdG9wLW9wYWNpdHk9IjAuOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGRkQ5QTAiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2NyaW0iIHgxPSIwIiB5MT0iMSIgeDI9IjAiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDAwMDAwIiBzdG9wLW9wYWNpdHk9IjAuNzIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC4xMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC4zIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ3JhaW4iPjxmZVR1cmJ1bGVuY2UgdHlwZT0iZnJhY3RhbE5vaXNlIiBiYXNlRnJlcXVlbmN5PSIwLjkiIG51bU9jdGF2ZXM9IjIiIHN0aXRjaFRpbGVzPSJzdGl0Y2giLz48ZmVDb2xvck1hdHJpeCB0eXBlPSJzYXR1cmF0ZSIgdmFsdWVzPSIwIi8+PC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8IS0tIGZ1bGwtYmxlZWQgcGhvdG8gLS0+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSJ1cmwoI3NreSkiLz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9InVybCgjc3VuKSIvPgogIDwhLS0gcmlkZ2VsaW5lIHNpbGhvdWV0dGVzIGZvciBkZXB0aCAtLT4KICA8cGF0aCBkPSJNMCA0NzAgTDIwMCA0MzAgTDM2MCA0NjAgTDUyMCA0MTUgTDcwMCA0NTUgTDg4MCA0MjAgTDEwNTAgNDUwIEwxMjAwIDQyNSBMMTIwMCA2MzAgTDAgNjMwIFoiIGZpbGw9IiMxQTFDMjIiIG9wYWNpdHk9IjAuMzUiLz4KICA8cGF0aCBkPSJNMCA1MjAgTDI2MCA0OTUgTDQ3MCA1MjAgTDY4MCA0OTAgTDkwMCA1MjAgTDEyMDAgNDk1IEwxMjAwIDYzMCBMMCA2MzAgWiIgZmlsbD0iIzBDMEQxMCIgb3BhY2l0eT0iMC41Ii8+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWx0ZXI9InVybCgjZ3JhaW4pIiBvcGFjaXR5PSIwLjA1Ii8+CiAgPCEtLSByZWFkYWJpbGl0eSBzY3JpbSAtLT4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9InVybCgjc2NyaW0pIi8+CgogIDwhLS0gbmF2IGhpbnQgLS0+CiAgPHRleHQgeD0iNjAiIHk9IjU2IiBmb250LWZhbWlseT0iQXJjaGl2bywgdWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iI0ZGRkZGRiI+QXRsYXM8L3RleHQ+CiAgPHRleHQgeD0iMTAwMCIgeT0iNTQiIGZvbnQtZmFtaWx5PSJBcmNoaXZvLCB1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmaWxsPSIjRkZGRkZGIiBvcGFjaXR5PSIwLjc1Ij5TZXJpZXMgJiMxODM7IENyYWZ0PC90ZXh0PgoKICA8IS0tIGhlYWRsaW5lIGJsb2NrIC0tPgogIDx0ZXh0IHg9IjYwIiB5PSI0NDAiIGZvbnQtZmFtaWx5PSJ1aS1tb25vc3BhY2UsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZmlsbD0iI0U4QjA0QiIgbGV0dGVyLXNwYWNpbmc9IjUiPkNIQVBURVIgT05FPC90ZXh0PgogIDx0ZXh0IHg9IjU4IiB5PSI1MTIiIGZvbnQtZmFtaWx5PSJBcmNoaXZvLCB1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9Ijc0IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjRkZGRkZGIiBsZXR0ZXItc3BhY2luZz0iLTEuNSI+VGhlIGxpZ2h0IGFycml2ZXM8L3RleHQ+CiAgPHRleHQgeD0iNTgiIHk9IjU4MiIgZm9udC1mYW1pbHk9IkFyY2hpdm8sIHVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNzQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNGRkZGRkYiIGxldHRlci1zcGFjaW5nPSItMS41Ij5iZWZvcmUgdGhlIHNvdW5kPC90ZXh0PgoKICA8IS0tIGZyb3N0ZWQgQ1RBIHBpbGwgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODgwLDUzMCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjI0OCIgaGVpZ2h0PSI1NCIgcng9IjI3IiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuMTQiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzIiLz4KICAgIDx0ZXh0IHg9IjMwIiB5PSIzNCIgZm9udC1mYW1pbHk9IkFyY2hpdm8sIHVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTciIGZpbGw9IiNGRkZGRkYiPlZpZXcgdGhlIHNlcmllczwvdGV4dD4KICAgIDx0ZXh0IHg9IjIxMCIgeT0iMzQiIGZvbnQtZmFtaWx5PSJBcmNoaXZvLCB1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4IiBmaWxsPSIjRkZGRkZGIj4mIzg1OTQ7PC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2A3A5C"/>
+      <stop offset="0.42" stop-color="#7C6A8A"/>
+      <stop offset="0.7" stop-color="#D98A6A"/>
+      <stop offset="1" stop-color="#F2C79B"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.72" cy="0.6" r="0.5">
+      <stop offset="0" stop-color="#FFD9A0" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#FFD9A0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scrim" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="0.72"/>
+      <stop offset="0.5" stop-color="#000000" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.3"/>
+    </linearGradient>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+  </defs>
+
+  <!-- full-bleed photo -->
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <rect width="1200" height="630" fill="url(#sun)"/>
+  <!-- ridgeline silhouettes for depth -->
+  <path d="M0 470 L200 430 L360 460 L520 415 L700 455 L880 420 L1050 450 L1200 425 L1200 630 L0 630 Z" fill="#1A1C22" opacity="0.35"/>
+  <path d="M0 520 L260 495 L470 520 L680 490 L900 520 L1200 495 L1200 630 L0 630 Z" fill="#0C0D10" opacity="0.5"/>
+  <rect width="1200" height="630" filter="url(#grain)" opacity="0.05"/>
+  <!-- readability scrim -->
+  <rect width="1200" height="630" fill="url(#scrim)"/>
+
+  <!-- nav hint -->
+  <text x="60" y="56" font-family="Archivo, ui-sans-serif, sans-serif" font-size="22" font-weight="600" fill="#FFFFFF">Atlas</text>
+  <text x="1000" y="54" font-family="Archivo, ui-sans-serif, sans-serif" font-size="15" fill="#FFFFFF" opacity="0.75">Series &#183; Craft</text>
+
+  <!-- headline block -->
+  <text x="60" y="440" font-family="ui-monospace, monospace" font-size="16" fill="#E8B04B" letter-spacing="5">CHAPTER ONE</text>
+  <text x="58" y="512" font-family="Archivo, ui-sans-serif, sans-serif" font-size="74" font-weight="700" fill="#FFFFFF" letter-spacing="-1.5">The light arrives</text>
+  <text x="58" y="582" font-family="Archivo, ui-sans-serif, sans-serif" font-size="74" font-weight="700" fill="#FFFFFF" letter-spacing="-1.5">before the sound</text>
+
+  <!-- frosted CTA pill -->
+  <g transform="translate(880,530)">
+    <rect x="0" y="0" width="248" height="54" rx="27" fill="#FFFFFF" fill-opacity="0.14" stroke="#FFFFFF" stroke-opacity="0.32"/>
+    <text x="30" y="34" font-family="Archivo, ui-sans-serif, sans-serif" font-size="17" fill="#FFFFFF">View the series</text>
+    <text x="210" y="34" font-family="Archivo, ui-sans-serif, sans-serif" font-size="18" fill="#FFFFFF">&#8594;</text>
+  </g>
+</svg>

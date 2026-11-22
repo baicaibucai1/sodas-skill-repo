@@ -1,1 +1,52 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZmRmNmVlIi8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBCYWNrIGxheWVyIHNoYXBlcyB3aXRoIHNoYWRvdyAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLDMpIiBvcGFjaXR5PSIwLjE1Ij4KICAgIDxyZWN0IHg9IjgwIiB5PSI2MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxNDAiIHJ4PSI0IiBmaWxsPSIjMzMzIi8+CiAgICA8Y2lyY2xlIGN4PSI2MDAiIGN5PSIxNTAiIHI9IjgwIiBmaWxsPSIjMzMzIi8+CiAgICA8cG9seWdvbiBwb2ludHM9IjQwMCw1MCA0NjAsMTgwIDM0MCwxODAiIGZpbGw9IiMzMzMiLz4KICA8L2c+CiAgPCEtLSBQYXBlciBsYXllciAxOiB0ZWFsIHJlY3RhbmdsZSAtLT4KICA8cmVjdCB4PSI4MCIgeT0iNjAiIHdpZHRoPSIxODAiIGhlaWdodD0iMTQwIiByeD0iNCIgZmlsbD0iIzVjYjhhNSIvPgogIDwhLS0gUGFwZXIgbGF5ZXIgMjogcGluayBzaGFwZSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLDMpIiBvcGFjaXR5PSIwLjE1Ij4KICAgIDxyZWN0IHg9IjIwMCIgeT0iMTMwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEyMCIgcng9IjQiIGZpbGw9IiMzMzMiLz4KICA8L2c+CiAgPHJlY3QgeD0iMjAwIiB5PSIxMzAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMTIwIiByeD0iNCIgZmlsbD0iI2U4NWQ3NSIvPgogIDwhLS0gUGFwZXIgbGF5ZXIgMzogeWVsbG93IGNpcmNsZSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLDMpIiBvcGFjaXR5PSIwLjE1Ij4KICAgIDxjaXJjbGUgY3g9IjQ4MCIgY3k9IjExMCIgcj0iNjUiIGZpbGw9IiMzMzMiLz4KICA8L2c+CiAgPGNpcmNsZSBjeD0iNDgwIiBjeT0iMTEwIiByPSI2NSIgZmlsbD0iI2Y1YzA0MCIvPgogIDwhLS0gUGFwZXIgbGF5ZXIgNDogdGVhbCB0cmlhbmdsZSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLDMpIiBvcGFjaXR5PSIwLjE1Ij4KICAgIDxwb2x5Z29uIHBvaW50cz0iNDAwLDUwIDQ2MCwxODAgMzQwLDE4MCIgZmlsbD0iIzMzMyIvPgogIDwvZz4KICA8cG9seWdvbiBwb2ludHM9IjQwMCw1MCA0NjAsMTgwIDM0MCwxODAiIGZpbGw9IiM1Y2I4YTUiIG9wYWNpdHk9IjAuOCIvPgogIDwhLS0gUGFwZXIgbGF5ZXIgNTogbGFyZ2UgcGluayBjaXJjbGUgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMiwzKSIgb3BhY2l0eT0iMC4xNSI+CiAgICA8Y2lyY2xlIGN4PSI2MDAiIGN5PSIxNTAiIHI9IjgwIiBmaWxsPSIjMzMzIi8+CiAgPC9nPgogIDxjaXJjbGUgY3g9IjYwMCIgY3k9IjE1MCIgcj0iODAiIGZpbGw9IiNlODVkNzUiIG9wYWNpdHk9IjAuNyIvPgogIDwhLS0gQm90dG9tIHN0cmlwIGxheWVycyAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLDIpIiBvcGFjaXR5PSIwLjEyIj4KICAgIDxyZWN0IHg9IjYwIiB5PSIyODAiIHdpZHRoPSIzMDAiIGhlaWdodD0iNjAiIHJ4PSI0IiBmaWxsPSIjMzMzIi8+CiAgPC9nPgogIDxyZWN0IHg9IjYwIiB5PSIyODAiIHdpZHRoPSIzMDAiIGhlaWdodD0iNjAiIHJ4PSI0IiBmaWxsPSIjZjVjMDQwIiBvcGFjaXR5PSIwLjgiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyLDIpIiBvcGFjaXR5PSIwLjEyIj4KICAgIDxyZWN0IHg9IjM0MCIgeT0iMjkwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUwIiByeD0iNCIgZmlsbD0iIzMzMyIvPgogIDwvZz4KICA8cmVjdCB4PSIzNDAiIHk9IjI5MCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSI1MCIgcng9IjQiIGZpbGw9IiM1Y2I4YTUiIG9wYWNpdHk9IjAuNyIvPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIsMikiIG9wYWNpdHk9IjAuMTIiPgogICAgPHJlY3QgeD0iNTIwIiB5PSIyNzUiIHdpZHRoPSIyMjAiIGhlaWdodD0iNjUiIHJ4PSI0IiBmaWxsPSIjMzMzIi8+CiAgPC9nPgogIDxyZWN0IHg9IjUyMCIgeT0iMjc1IiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjY1IiByeD0iNCIgZmlsbD0iI2U4NWQ3NSIgb3BhY2l0eT0iMC42Ii8+CiAgPCEtLSBTbWFsbCBkZWNvcmF0aXZlIGN1dG91dHMgLS0+CiAgPGNpcmNsZSBjeD0iMTUwIiBjeT0iMzcwIiByPSI4IiBmaWxsPSIjZjVjMDQwIiBvcGFjaXR5PSIwLjUiLz4KICA8cmVjdCB4PSI0NTAiIHk9IjM2NSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiByeD0iMiIgZmlsbD0iIzVjYjhhNSIgb3BhY2l0eT0iMC41IiB0cmFuc2Zvcm09InJvdGF0ZSgxNSA0NTcgMzcyKSIvPgogIDxwb2x5Z29uIHBvaW50cz0iNzAwLDM2MCA3MTAsMzc1IDY5MCwzNzUiIGZpbGw9IiNlODVkNzUiIG9wYWNpdHk9IjAuNSIvPgogIDwhLS0gU3R5bGUgbmFtZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjIzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIFJvdW5kZWQgTVQgQm9sZCwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNDIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZTg1ZDc1Ij5QYXBlciBDcmFmdDwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fdf6ee"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Back layer shapes with shadow -->
+  <g transform="translate(2,3)" opacity="0.15">
+    <rect x="80" y="60" width="180" height="140" rx="4" fill="#333"/>
+    <circle cx="600" cy="150" r="80" fill="#333"/>
+    <polygon points="400,50 460,180 340,180" fill="#333"/>
+  </g>
+  <!-- Paper layer 1: teal rectangle -->
+  <rect x="80" y="60" width="180" height="140" rx="4" fill="#5cb8a5"/>
+  <!-- Paper layer 2: pink shape -->
+  <g transform="translate(2,3)" opacity="0.15">
+    <rect x="200" y="130" width="200" height="120" rx="4" fill="#333"/>
+  </g>
+  <rect x="200" y="130" width="200" height="120" rx="4" fill="#e85d75"/>
+  <!-- Paper layer 3: yellow circle -->
+  <g transform="translate(2,3)" opacity="0.15">
+    <circle cx="480" cy="110" r="65" fill="#333"/>
+  </g>
+  <circle cx="480" cy="110" r="65" fill="#f5c040"/>
+  <!-- Paper layer 4: teal triangle -->
+  <g transform="translate(2,3)" opacity="0.15">
+    <polygon points="400,50 460,180 340,180" fill="#333"/>
+  </g>
+  <polygon points="400,50 460,180 340,180" fill="#5cb8a5" opacity="0.8"/>
+  <!-- Paper layer 5: large pink circle -->
+  <g transform="translate(2,3)" opacity="0.15">
+    <circle cx="600" cy="150" r="80" fill="#333"/>
+  </g>
+  <circle cx="600" cy="150" r="80" fill="#e85d75" opacity="0.7"/>
+  <!-- Bottom strip layers -->
+  <g transform="translate(2,2)" opacity="0.12">
+    <rect x="60" y="280" width="300" height="60" rx="4" fill="#333"/>
+  </g>
+  <rect x="60" y="280" width="300" height="60" rx="4" fill="#f5c040" opacity="0.8"/>
+  <g transform="translate(2,2)" opacity="0.12">
+    <rect x="340" y="290" width="200" height="50" rx="4" fill="#333"/>
+  </g>
+  <rect x="340" y="290" width="200" height="50" rx="4" fill="#5cb8a5" opacity="0.7"/>
+  <g transform="translate(2,2)" opacity="0.12">
+    <rect x="520" y="275" width="220" height="65" rx="4" fill="#333"/>
+  </g>
+  <rect x="520" y="275" width="220" height="65" rx="4" fill="#e85d75" opacity="0.6"/>
+  <!-- Small decorative cutouts -->
+  <circle cx="150" cy="370" r="8" fill="#f5c040" opacity="0.5"/>
+  <rect x="450" y="365" width="15" height="15" rx="2" fill="#5cb8a5" opacity="0.5" transform="rotate(15 457 372)"/>
+  <polygon points="700,360 710,375 690,375" fill="#e85d75" opacity="0.5"/>
+  <!-- Style name -->
+  <text x="400" y="230" text-anchor="middle" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="42" font-weight="bold" fill="#e85d75">Paper Craft</text>
+  </g>
+</svg>

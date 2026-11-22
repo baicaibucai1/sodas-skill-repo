@@ -1,1 +1,58 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjMWUzYTVmIi8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBHcmlkIGxpbmVzIC0tPgogIDxnIHN0cm9rZT0iIzRhOTBkOSIgb3BhY2l0eT0iMC4xNSIgc3Ryb2tlLXdpZHRoPSIwLjUiPgogICAgPGxpbmUgeDE9IjAiIHkxPSI0MCIgeDI9IjgwMCIgeTI9IjQwIi8+PGxpbmUgeDE9IjAiIHkxPSI4MCIgeDI9IjgwMCIgeTI9IjgwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjEyMCIgeDI9IjgwMCIgeTI9IjEyMCIvPjxsaW5lIHgxPSIwIiB5MT0iMTYwIiB4Mj0iODAwIiB5Mj0iMTYwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjIwMCIgeDI9IjgwMCIgeTI9IjIwMCIvPjxsaW5lIHgxPSIwIiB5MT0iMjQwIiB4Mj0iODAwIiB5Mj0iMjQwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjI4MCIgeDI9IjgwMCIgeTI9IjI4MCIvPjxsaW5lIHgxPSIwIiB5MT0iMzIwIiB4Mj0iODAwIiB5Mj0iMzIwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjM2MCIgeDI9IjgwMCIgeTI9IjM2MCIvPgogICAgPGxpbmUgeDE9IjgwIiB5MT0iMCIgeDI9IjgwIiB5Mj0iNDAwIi8+PGxpbmUgeDE9IjE2MCIgeTE9IjAiIHgyPSIxNjAiIHkyPSI0MDAiLz4KICAgIDxsaW5lIHgxPSIyNDAiIHkxPSIwIiB4Mj0iMjQwIiB5Mj0iNDAwIi8+PGxpbmUgeDE9IjMyMCIgeTE9IjAiIHgyPSIzMjAiIHkyPSI0MDAiLz4KICAgIDxsaW5lIHgxPSI0MDAiIHkxPSIwIiB4Mj0iNDAwIiB5Mj0iNDAwIi8+PGxpbmUgeDE9IjQ4MCIgeTE9IjAiIHgyPSI0ODAiIHkyPSI0MDAiLz4KICAgIDxsaW5lIHgxPSI1NjAiIHkxPSIwIiB4Mj0iNTYwIiB5Mj0iNDAwIi8+PGxpbmUgeDE9IjY0MCIgeTE9IjAiIHgyPSI2NDAiIHkyPSI0MDAiLz4KICAgIDxsaW5lIHgxPSI3MjAiIHkxPSIwIiB4Mj0iNzIwIiB5Mj0iNDAwIi8+CiAgPC9nPgogIDwhLS0gTWFqb3IgZ3JpZCAtLT4KICA8ZyBzdHJva2U9IiM0YTkwZDkiIG9wYWNpdHk9IjAuMjUiIHN0cm9rZS13aWR0aD0iMC44Ij4KICAgIDxsaW5lIHgxPSIwIiB5MT0iMjAwIiB4Mj0iODAwIiB5Mj0iMjAwIi8+CiAgICA8bGluZSB4MT0iNDAwIiB5MT0iMCIgeDI9IjQwMCIgeTI9IjQwMCIvPgogIDwvZz4KICA8IS0tIFRlY2huaWNhbCBkcmF3aW5nOiByZWN0YW5nbGUgd2l0aCBkaW1lbnNpb25zIC0tPgogIDxyZWN0IHg9IjE4MCIgeT0iMTAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDwhLS0gRGltZW5zaW9uIGFycm93cyBob3Jpem9udGFsIC0tPgogIDxsaW5lIHgxPSIxODAiIHkxPSIyNTAiIHgyPSIzODAiIHkyPSIyNTAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIwLjgiLz4KICA8bGluZSB4MT0iMTgwIiB5MT0iMjQ1IiB4Mj0iMTgwIiB5Mj0iMjU1IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgPGxpbmUgeDE9IjM4MCIgeTE9IjI0NSIgeDI9IjM4MCIgeTI9IjI1NSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjAuOCIvPgogIDwhLS0gQXJyb3cgaGVhZHMgLS0+CiAgPHBvbHlnb24gcG9pbnRzPSIxODUsMjUwIDE4MCwyNDcgMTgwLDI1MyIgZmlsbD0iI2ZmZmZmZiIvPgogIDxwb2x5Z29uIHBvaW50cz0iMzc1LDI1MCAzODAsMjQ3IDM4MCwyNTMiIGZpbGw9IiNmZmZmZmYiLz4KICA8dGV4dCB4PSIyODAiIHk9IjI2NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2ZmZmZmZiI+MjAwPC90ZXh0PgogIDwhLS0gRGltZW5zaW9uIGFycm93cyB2ZXJ0aWNhbCAtLT4KICA8bGluZSB4MT0iNDEwIiB5MT0iMTAwIiB4Mj0iNDEwIiB5Mj0iMjIwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC44Ii8+CiAgPGxpbmUgeDE9IjQwNSIgeTE9IjEwMCIgeDI9IjQxNSIgeTI9IjEwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjAuOCIvPgogIDxsaW5lIHgxPSI0MDUiIHkxPSIyMjAiIHgyPSI0MTUiIHkyPSIyMjAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIwLjgiLz4KICA8cG9seWdvbiBwb2ludHM9IjQxMCwxMDUgNDA3LDEwMCA0MTMsMTAwIiBmaWxsPSIjZmZmZmZmIi8+CiAgPHBvbHlnb24gcG9pbnRzPSI0MTAsMjE1IDQwNywyMjAgNDEzLDIyMCIgZmlsbD0iI2ZmZmZmZiIvPgogIDx0ZXh0IHg9IjQzMCIgeT0iMTY1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBmaWxsPSIjZmZmZmZmIj4xMjA8L3RleHQ+CiAgPCEtLSBDaXJjbGUgZGV0YWlsIC0tPgogIDxjaXJjbGUgY3g9IjYwMCIgY3k9IjE2MCIgcj0iNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8bGluZSB4MT0iNjAwIiB5MT0iMTYwIiB4Mj0iNjYwIiB5Mj0iMTYwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC44IiBzdHJva2UtZGFzaGFycmF5PSI0IDIiLz4KICA8dGV4dCB4PSI2MzAiIHk9IjE1NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2ZmZmZmZiI+UjYwPC90ZXh0PgogIDwhLS0gQ2VudGVyIG1hcmsgLS0+CiAgPGxpbmUgeDE9IjU5NSIgeTE9IjE2MCIgeDI9IjYwNSIgeTI9IjE2MCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjAuNiIvPgogIDxsaW5lIHgxPSI2MDAiIHkxPSIxNTUiIHgyPSI2MDAiIHkyPSIxNjUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIwLjYiLz4KICA8IS0tIERhc2hlZCBjb25zdHJ1Y3Rpb24gbGluZXMgLS0+CiAgPGxpbmUgeDE9IjI4MCIgeTE9IjEwMCIgeDI9IjI4MCIgeTI9IjYwIiBzdHJva2U9IiM0YTkwZDkiIHN0cm9rZS13aWR0aD0iMC42IiBzdHJva2UtZGFzaGFycmF5PSI2IDMiLz4KICA8bGluZSB4MT0iNjAwIiB5MT0iMTAwIiB4Mj0iNjAwIiB5Mj0iNjAiIHN0cm9rZT0iIzRhOTBkOSIgc3Ryb2tlLXdpZHRoPSIwLjYiIHN0cm9rZS1kYXNoYXJyYXk9IjYgMyIvPgogIDxsaW5lIHgxPSIxODAiIHkxPSIxNjAiIHgyPSIxNDAiIHkyPSIxNjAiIHN0cm9rZT0iIzRhOTBkOSIgc3Ryb2tlLXdpZHRoPSIwLjYiIHN0cm9rZS1kYXNoYXJyYXk9IjYgMyIvPgogIDwhLS0gVGl0bGUgYmxvY2sgYm90dG9tIHJpZ2h0IC0tPgogIDxyZWN0IHg9IjUyMCIgeT0iMzAwIiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjcwIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSI1MjAiIHkxPSIzMzAiIHgyPSI3NzAiIHkyPSIzMzAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4KICA8bGluZSB4MT0iNTIwIiB5MT0iMzU1IiB4Mj0iNzcwIiB5Mj0iMzU1IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgPHRleHQgeD0iNjQ1IiB5PSIzMjIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZmZmZmZmIj5CTFVFUFJJTlQ8L3RleHQ+CiAgPHRleHQgeD0iNjQ1IiB5PSIzNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM0YTkwZDkiPlRFQ0hOSUNBTCBEUkFXSU5HIFNUWUxFPC90ZXh0PgogIDx0ZXh0IHg9IjY0NSIgeT0iMzY3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGZpbGw9IiM0YTkwZDkiPlNDQUxFIDE6MSB8IFJFViBBPC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1e3a5f"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Grid lines -->
+  <g stroke="#4a90d9" opacity="0.15" stroke-width="0.5">
+    <line x1="0" y1="40" x2="800" y2="40"/><line x1="0" y1="80" x2="800" y2="80"/>
+    <line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="160" x2="800" y2="160"/>
+    <line x1="0" y1="200" x2="800" y2="200"/><line x1="0" y1="240" x2="800" y2="240"/>
+    <line x1="0" y1="280" x2="800" y2="280"/><line x1="0" y1="320" x2="800" y2="320"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+    <line x1="80" y1="0" x2="80" y2="400"/><line x1="160" y1="0" x2="160" y2="400"/>
+    <line x1="240" y1="0" x2="240" y2="400"/><line x1="320" y1="0" x2="320" y2="400"/>
+    <line x1="400" y1="0" x2="400" y2="400"/><line x1="480" y1="0" x2="480" y2="400"/>
+    <line x1="560" y1="0" x2="560" y2="400"/><line x1="640" y1="0" x2="640" y2="400"/>
+    <line x1="720" y1="0" x2="720" y2="400"/>
+  </g>
+  <!-- Major grid -->
+  <g stroke="#4a90d9" opacity="0.25" stroke-width="0.8">
+    <line x1="0" y1="200" x2="800" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="400"/>
+  </g>
+  <!-- Technical drawing: rectangle with dimensions -->
+  <rect x="180" y="100" width="200" height="120" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- Dimension arrows horizontal -->
+  <line x1="180" y1="250" x2="380" y2="250" stroke="#ffffff" stroke-width="0.8"/>
+  <line x1="180" y1="245" x2="180" y2="255" stroke="#ffffff" stroke-width="0.8"/>
+  <line x1="380" y1="245" x2="380" y2="255" stroke="#ffffff" stroke-width="0.8"/>
+  <!-- Arrow heads -->
+  <polygon points="185,250 180,247 180,253" fill="#ffffff"/>
+  <polygon points="375,250 380,247 380,253" fill="#ffffff"/>
+  <text x="280" y="265" text-anchor="middle" font-family="monospace" font-size="11" fill="#ffffff">200</text>
+  <!-- Dimension arrows vertical -->
+  <line x1="410" y1="100" x2="410" y2="220" stroke="#ffffff" stroke-width="0.8"/>
+  <line x1="405" y1="100" x2="415" y2="100" stroke="#ffffff" stroke-width="0.8"/>
+  <line x1="405" y1="220" x2="415" y2="220" stroke="#ffffff" stroke-width="0.8"/>
+  <polygon points="410,105 407,100 413,100" fill="#ffffff"/>
+  <polygon points="410,215 407,220 413,220" fill="#ffffff"/>
+  <text x="430" y="165" font-family="monospace" font-size="11" fill="#ffffff">120</text>
+  <!-- Circle detail -->
+  <circle cx="600" cy="160" r="60" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="600" y1="160" x2="660" y2="160" stroke="#ffffff" stroke-width="0.8" stroke-dasharray="4 2"/>
+  <text x="630" y="155" font-family="monospace" font-size="10" fill="#ffffff">R60</text>
+  <!-- Center mark -->
+  <line x1="595" y1="160" x2="605" y2="160" stroke="#ffffff" stroke-width="0.6"/>
+  <line x1="600" y1="155" x2="600" y2="165" stroke="#ffffff" stroke-width="0.6"/>
+  <!-- Dashed construction lines -->
+  <line x1="280" y1="100" x2="280" y2="60" stroke="#4a90d9" stroke-width="0.6" stroke-dasharray="6 3"/>
+  <line x1="600" y1="100" x2="600" y2="60" stroke="#4a90d9" stroke-width="0.6" stroke-dasharray="6 3"/>
+  <line x1="180" y1="160" x2="140" y2="160" stroke="#4a90d9" stroke-width="0.6" stroke-dasharray="6 3"/>
+  <!-- Title block bottom right -->
+  <rect x="520" y="300" width="250" height="70" fill="none" stroke="#ffffff" stroke-width="1"/>
+  <line x1="520" y1="330" x2="770" y2="330" stroke="#ffffff" stroke-width="0.5"/>
+  <line x1="520" y1="355" x2="770" y2="355" stroke="#ffffff" stroke-width="0.5"/>
+  <text x="645" y="322" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#ffffff">BLUEPRINT</text>
+  <text x="645" y="348" text-anchor="middle" font-family="monospace" font-size="10" fill="#4a90d9">TECHNICAL DRAWING STYLE</text>
+  <text x="645" y="367" text-anchor="middle" font-family="monospace" font-size="9" fill="#4a90d9">SCALE 1:1 | REV A</text>
+  </g>
+</svg>

@@ -1,1 +1,150 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIj4KICA8ZGVmcz4KICAgIDxmaWx0ZXIgaWQ9ImRwMSI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSIxIiBzdGREZXZpYXRpb249IjEiIGZsb29kLWNvbG9yPSJyZ2JhKDAsMCwwLDAuMjApIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9ImRwMiI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSIyIiBzdGREZXZpYXRpb249IjIiIGZsb29kLWNvbG9yPSJyZ2JhKDAsMCwwLDAuMjApIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9ImRwNCI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSI0IiBzdGREZXZpYXRpb249IjQiIGZsb29kLWNvbG9yPSJyZ2JhKDAsMCwwLDAuMjApIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9ImRwOCI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSI4IiBzdGREZXZpYXRpb249IjgiIGZsb29kLWNvbG9yPSJyZ2JhKDAsMCwwLDAuMjQpIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9ImZhYi1zaGFkb3ciPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iNiIgc3RkRGV2aWF0aW9uPSI4IiBmbG9vZC1jb2xvcj0icmdiYSgzLDIxOCwxOTgsMC40MCkiLz4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlciBpZD0iYXBwYmFyLXNoYWRvdyI+CiAgICAgIDxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSI0IiBzdGREZXZpYXRpb249IjQiIGZsb29kLWNvbG9yPSJyZ2JhKDAsMCwwLDAuMzApIi8+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiNmYWZhZmEiLz4KCiAgPCEtLSBTdGF0dXMgYmFyIC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjI0IiBmaWxsPSIjMzcwMGIzIi8+CiAgPHRleHQgeD0iMjAiIHk9IjE2IiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuOSkiIGZvbnQtd2VpZ2h0PSI1MDAiPjk6NDE8L3RleHQ+CiAgPHRleHQgeD0iMTE4MCIgeT0iMTYiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuOSkiIHRleHQtYW5jaG9yPSJlbmQiPiYjOTY3OTsmIzk2Nzk7JiM5Njc5OzwvdGV4dD4KCiAgPCEtLSBBcHAgQmFyIC0tPgogIDxyZWN0IHg9IjAiIHk9IjI0IiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI1NiIgZmlsbD0iIzYyMDBlZSIgZmlsdGVyPSJ1cmwoI2FwcGJhci1zaGFkb3cpIi8+CiAgPCEtLSBIYW1idXJnZXIgaWNvbiAtLT4KICA8bGluZSB4MT0iMjYiIHkxPSI0NCIgeDI9IjUwIiB5Mj0iNDQiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8bGluZSB4MT0iMjYiIHkxPSI1MiIgeDI9IjUwIiB5Mj0iNTIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8bGluZSB4MT0iMjYiIHkxPSI2MCIgeDI9IjUwIiB5Mj0iNjAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8IS0tIFRpdGxlIC0tPgogIDx0ZXh0IHg9Ijc2IiB5PSI1OSIgZm9udC1mYW1pbHk9IlJvYm90bywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjUwMCIgZmlsbD0id2hpdGUiPlN0eWxlS2l0PC90ZXh0PgogIDwhLS0gU2VhcmNoIGljb24gLS0+CiAgPGNpcmNsZSBjeD0iMTEzMCIgY3k9IjUyIiByPSI5IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8bGluZSB4MT0iMTEzNiIgeTE9IjU4IiB4Mj0iMTE0NCIgeTI9IjY2IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwhLS0gTW9yZSAodmVydGljYWwgZG90cykgLS0+CiAgPGNpcmNsZSBjeD0iMTE3MCIgY3k9IjQ2IiByPSIyLjUiIGZpbGw9IndoaXRlIi8+CiAgPGNpcmNsZSBjeD0iMTE3MCIgY3k9IjUyIiByPSIyLjUiIGZpbGw9IndoaXRlIi8+CiAgPGNpcmNsZSBjeD0iMTE3MCIgY3k9IjU4IiByPSIyLjUiIGZpbGw9IndoaXRlIi8+CgogIDwhLS0gU2VjdGlvbiBsYWJlbCAtLT4KICA8dGV4dCB4PSI2MCIgeT0iMTE4IiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSIjNjIwMGVlIiBsZXR0ZXItc3BhY2luZz0iMS41Ij5FTEVWQVRJT04gU1lTVEVNPC90ZXh0PgoKICA8IS0tIENhcmQgRFA9MSAodG9wLWxlZnQpIC0tPgogIDxyZWN0IHg9IjYwIiB5PSIxMjgiIHdpZHRoPSIyNDAiIGhlaWdodD0iMTQwIiByeD0iNCIgZmlsbD0id2hpdGUiIGZpbHRlcj0idXJsKCNkcDEpIi8+CiAgPHRleHQgeD0iODAiIHk9IjE1NiIgZm9udC1mYW1pbHk9IlJvYm90bywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjUwMCIgZmlsbD0iIzFhMWExYSI+RWxldmF0aW9uIDFkcDwvdGV4dD4KICA8cmVjdCB4PSI4MCIgeT0iMTY2IiB3aWR0aD0iNjAiIGhlaWdodD0iNiIgcng9IjMiIGZpbGw9IiNlMGUwZTAiLz4KICA8cmVjdCB4PSI4MCIgeT0iMTc4IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjZTBlMGUwIi8+CiAgPHJlY3QgeD0iODAiIHk9IjE5MCIgd2lkdGg9IjkwIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjZTBlMGUwIi8+CiAgPHJlY3QgeD0iODAiIHk9IjIxMCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjI4IiByeD0iNCIgZmlsbD0iIzYyMDBlZSIvPgogIDx0ZXh0IHg9IjEyMCIgeT0iMjI5IiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QUNUSU9OPC90ZXh0PgogIDx0ZXh0IHg9IjgwIiB5PSIyNTYiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5ZTllOWUiPjAgMXB4IDJweCByZ2JhKDAsMCwwLC4yKTwvdGV4dD4KCiAgPCEtLSBDYXJkIERQPTIgKHRvcC1yaWdodCkgLS0+CiAgPHJlY3QgeD0iMzQwIiB5PSIxMjgiIHdpZHRoPSIyNDAiIGhlaWdodD0iMTQwIiByeD0iNCIgZmlsbD0id2hpdGUiIGZpbHRlcj0idXJsKCNkcDIpIi8+CiAgPHRleHQgeD0iMzYwIiB5PSIxNTYiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9IiMxYTFhMWEiPkVsZXZhdGlvbiAyZHA8L3RleHQ+CiAgPHJlY3QgeD0iMzYwIiB5PSIxNjYiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2IiByeD0iMyIgZmlsbD0iI2UwZTBlMCIvPgogIDxyZWN0IHg9IjM2MCIgeT0iMTc4IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjZTBlMGUwIi8+CiAgPHJlY3QgeD0iMzYwIiB5PSIxOTAiIHdpZHRoPSI5MCIgaGVpZ2h0PSI2IiByeD0iMyIgZmlsbD0iI2UwZTBlMCIvPgogIDxyZWN0IHg9IjM2MCIgeT0iMjEwIiB3aWR0aD0iODAiIGhlaWdodD0iMjgiIHJ4PSI0IiBmaWxsPSIjNjIwMGVlIi8+CiAgPHRleHQgeD0iNDAwIiB5PSIyMjkiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5BQ1RJT048L3RleHQ+CiAgPHRleHQgeD0iMzYwIiB5PSIyNTYiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM5ZTllOWUiPjAgMnB4IDRweCByZ2JhKDAsMCwwLC4yKTwvdGV4dD4KCiAgPCEtLSBDYXJkIERQPTQgKGJvdHRvbS1sZWZ0KSAtLT4KICA8cmVjdCB4PSI2MCIgeT0iMjkyIiB3aWR0aD0iMjQwIiBoZWlnaHQ9IjE0MCIgcng9IjQiIGZpbGw9IndoaXRlIiBmaWx0ZXI9InVybCgjZHA0KSIvPgogIDx0ZXh0IHg9IjgwIiB5PSIzMjAiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9IiMxYTFhMWEiPkVsZXZhdGlvbiA0ZHA8L3RleHQ+CiAgPHJlY3QgeD0iODAiIHk9IjMzMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjZTBlMGUwIi8+CiAgPHJlY3QgeD0iODAiIHk9IjM0MiIgd2lkdGg9IjEyMCIgaGVpZ2h0PSI2IiByeD0iMyIgZmlsbD0iI2UwZTBlMCIvPgogIDxyZWN0IHg9IjgwIiB5PSIzNTQiIHdpZHRoPSI5MCIgaGVpZ2h0PSI2IiByeD0iMyIgZmlsbD0iI2UwZTBlMCIvPgogIDxyZWN0IHg9IjgwIiB5PSIzNzQiIHdpZHRoPSI4MCIgaGVpZ2h0PSIyOCIgcng9IjQiIGZpbGw9IiM2MjAwZWUiLz4KICA8dGV4dCB4PSIxMjAiIHk9IjM5MyIgZm9udC1mYW1pbHk9IlJvYm90bywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjUwMCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkFDVElPTjwvdGV4dD4KICA8dGV4dCB4PSI4MCIgeT0iNDIwIiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjOWU5ZTllIj4wIDRweCA4cHggcmdiYSgwLDAsMCwuMik8L3RleHQ+CgogIDwhLS0gQ2FyZCBEUD04IChib3R0b20tcmlnaHQpIC0tPgogIDxyZWN0IHg9IjM0MCIgeT0iMjkyIiB3aWR0aD0iMjQwIiBoZWlnaHQ9IjE0MCIgcng9IjQiIGZpbGw9IndoaXRlIiBmaWx0ZXI9InVybCgjZHA4KSIvPgogIDx0ZXh0IHg9IjM2MCIgeT0iMzIwIiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSIjMWExYTFhIj5FbGV2YXRpb24gOGRwPC90ZXh0PgogIDxyZWN0IHg9IjM2MCIgeT0iMzMwIiB3aWR0aD0iNjAiIGhlaWdodD0iNiIgcng9IjMiIGZpbGw9IiNlMGUwZTAiLz4KICA8cmVjdCB4PSIzNjAiIHk9IjM0MiIgd2lkdGg9IjEyMCIgaGVpZ2h0PSI2IiByeD0iMyIgZmlsbD0iI2UwZTBlMCIvPgogIDxyZWN0IHg9IjM2MCIgeT0iMzU0IiB3aWR0aD0iOTAiIGhlaWdodD0iNiIgcng9IjMiIGZpbGw9IiNlMGUwZTAiLz4KICA8cmVjdCB4PSIzNjAiIHk9IjM3NCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjI4IiByeD0iNCIgZmlsbD0iIzYyMDBlZSIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzkzIiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QUNUSU9OPC90ZXh0PgogIDx0ZXh0IHg9IjM2MCIgeT0iNDIwIiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjOWU5ZTllIj4wIDhweCAxNnB4IHJnYmEoMCwwLDAsLjI0KTwvdGV4dD4KCiAgPCEtLSBUeXBvZ3JhcGh5IG92ZXJsYXkgKGNlbnRlci1yaWdodCkgLS0+CiAgPHRleHQgeD0iOTAwIiB5PSIyMTUiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM2MjAwZWUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk1hdGVyaWFsPC90ZXh0PgogIDx0ZXh0IHg9IjkwMCIgeT0iMjgzIiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjYwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjNjIwMGVlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5EZXNpZ248L3RleHQ+CiAgPHRleHQgeD0iOTAwIiB5PSIzMjgiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI0MDAiIGZpbGw9IiMwM2RhYzYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5FbGV2YXRpb24gLiBDb21wb25lbnRzIC4gTW90aW9uPC90ZXh0PgoKICA8IS0tIENvbG9yIGNoaXBzIC0tPgogIDxyZWN0IHg9IjY4MCIgeT0iMzY1IiB3aWR0aD0iNzgiIGhlaWdodD0iNzgiIHJ4PSI0IiBmaWxsPSIjNjIwMGVlIiBmaWx0ZXI9InVybCgjZHAyKSIvPgogIDx0ZXh0IHg9IjcxOSIgeT0iMzk1IiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5QcmltYXJ5PC90ZXh0PgogIDx0ZXh0IHg9IjcxOSIgeT0iNDA4IiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC44KSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+IzYyMDBFRTwvdGV4dD4KCiAgPHJlY3QgeD0iNzc4IiB5PSIzNjUiIHdpZHRoPSI3OCIgaGVpZ2h0PSI3OCIgcng9IjQiIGZpbGw9IiMzNzAwYjMiIGZpbHRlcj0idXJsKCNkcDIpIi8+CiAgPHRleHQgeD0iODE3IiB5PSIzOTUiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlByaW1hcnkgRGs8L3RleHQ+CiAgPHRleHQgeD0iODE3IiB5PSI0MDgiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjgpIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4jMzcwMEIzPC90ZXh0PgoKICA8cmVjdCB4PSI4NzYiIHk9IjM2NSIgd2lkdGg9Ijc4IiBoZWlnaHQ9Ijc4IiByeD0iNCIgZmlsbD0iIzAzZGFjNiIgZmlsdGVyPSJ1cmwoI2RwMikiLz4KICA8dGV4dCB4PSI5MTUiIHk9IjM5NSIgZm9udC1mYW1pbHk9IlJvYm90bywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSIjMDAwMDAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TZWNvbmRhcnk8L3RleHQ+CiAgPHRleHQgeD0iOTE1IiB5PSI0MDgiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0icmdiYSgwLDAsMCwwLjcpIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4jMDNEQUM2PC90ZXh0PgoKICA8cmVjdCB4PSI5NzQiIHk9IjM2NSIgd2lkdGg9Ijc4IiBoZWlnaHQ9Ijc4IiByeD0iNCIgZmlsbD0iI2NmNjY3OSIgZmlsdGVyPSJ1cmwoI2RwMikiLz4KICA8dGV4dCB4PSIxMDEzIiB5PSIzOTUiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkVycm9yPC90ZXh0PgogIDx0ZXh0IHg9IjEwMTMiIHk9IjQwOCIgZm9udC1mYW1pbHk9IlJvYm90bywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuOCkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPiNDRjY2Nzk8L3RleHQ+CgogIDxyZWN0IHg9IjEwNzIiIHk9IjM2NSIgd2lkdGg9Ijc4IiBoZWlnaHQ9Ijc4IiByeD0iNCIgZmlsbD0id2hpdGUiIGZpbHRlcj0idXJsKCNkcDQpIi8+CiAgPHRleHQgeD0iMTExMSIgeT0iMzk1IiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiMxYTFhMWEiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlN1cmZhY2U8L3RleHQ+CiAgPHRleHQgeD0iMTExMSIgeT0iNDA4IiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiM3NTc1NzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPiNGRkZGRkY8L3RleHQ+CgogIDwhLS0gRkFCIGJ1dHRvbiAtLT4KICA8Y2lyY2xlIGN4PSIxMTQwIiBjeT0iNDg4IiByPSIyOCIgZmlsbD0iIzAzZGFjNiIgZmlsdGVyPSJ1cmwoI2ZhYi1zaGFkb3cpIi8+CiAgPGxpbmUgeDE9IjExNDAiIHkxPSI0NzQiIHgyPSIxMTQwIiB5Mj0iNTAyIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPGxpbmUgeDE9IjExMjYiIHkxPSI0ODgiIHgyPSIxMTU0IiB5Mj0iNDg4IiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CgogIDwhLS0gQm90dG9tIE5hdmlnYXRpb24gQmFyIC0tPgogIDxyZWN0IHg9IjAiIHk9IjU0MCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAiIGZpbGw9IndoaXRlIiBmaWx0ZXI9InVybCgjZHA4KSIvPgogIDxsaW5lIHgxPSIwIiB5MT0iNTQwIiB4Mj0iMTIwMCIgeTI9IjU0MCIgc3Ryb2tlPSIjZTBlMGUwIiBzdHJva2Utd2lkdGg9IjEiLz4KCiAgPCEtLSBIb21lIHRhYiAoYWN0aXZlKSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNTAsIDU1NykiPgogICAgPHBvbHlnb24gcG9pbnRzPSIwLC0xMyAtMTMsMCAtOSwwIC05LDExIDksMTEgOSwwIDEzLDAiIGZpbGw9IiM2MjAwZWUiLz4KICAgIDx0ZXh0IHg9IjAiIHk9IjMwIiBmb250LWZhbWlseT0iUm9ib3RvLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSIjNjIwMGVlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Ib21lPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBTZWFyY2ggdGFiIChpbmFjdGl2ZSkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDUwLCA1NTcpIj4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSItNSIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNzU3NTc1IiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDxsaW5lIHgxPSI2IiB5MT0iMiIgeDI9IjEzIiB5Mj0iOSIgc3Ryb2tlPSIjNzU3NTc1IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgPHRleHQgeD0iMCIgeT0iMzAiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3NTc1NzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlNlYXJjaDwvdGV4dD4KICA8L2c+CgogIDwhLS0gRmF2b3JpdGVzIHRhYiAoaW5hY3RpdmUpIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDc1MCwgNTU3KSI+CiAgICA8cG9seWdvbiBwb2ludHM9IjAsLTE1IDQsLTYgMTQsLTUgNiwyIDksMTMgMCw3IC05LDEzIC02LDIgLTE0LC01IC00LC02IiBmaWxsPSJub25lIiBzdHJva2U9IiM3NTc1NzUiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPHRleHQgeD0iMCIgeT0iMzAiIGZvbnQtZmFtaWx5PSJSb2JvdG8sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3NTc1NzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkZhdm9yaXRlczwvdGV4dD4KICA8L2c+CgogIDwhLS0gUHJvZmlsZSB0YWIgKGluYWN0aXZlKSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDUwLCA1NTcpIj4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSItMTAiIHI9IjciIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzc1NzU3NSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8cGF0aCBkPSJNIC0xMyw3IEMgLTEzLC0yIDEzLC0yIDEzLDciIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzc1NzU3NSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8dGV4dCB4PSIwIiB5PSIzMCIgZm9udC1mYW1pbHk9IlJvYm90bywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzc1NzU3NSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UHJvZmlsZTwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <filter id="dp1">
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="rgba(0,0,0,0.20)"/>
+    </filter>
+    <filter id="dp2">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="rgba(0,0,0,0.20)"/>
+    </filter>
+    <filter id="dp4">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="rgba(0,0,0,0.20)"/>
+    </filter>
+    <filter id="dp8">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="rgba(0,0,0,0.24)"/>
+    </filter>
+    <filter id="fab-shadow">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="rgba(3,218,198,0.40)"/>
+    </filter>
+    <filter id="appbar-shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="rgba(0,0,0,0.30)"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#fafafa"/>
+
+  <!-- Status bar -->
+  <rect x="0" y="0" width="1200" height="24" fill="#3700b3"/>
+  <text x="20" y="16" font-family="Roboto, sans-serif" font-size="11" fill="rgba(255,255,255,0.9)" font-weight="500">9:41</text>
+  <text x="1180" y="16" font-family="sans-serif" font-size="10" fill="rgba(255,255,255,0.9)" text-anchor="end">&#9679;&#9679;&#9679;</text>
+
+  <!-- App Bar -->
+  <rect x="0" y="24" width="1200" height="56" fill="#6200ee" filter="url(#appbar-shadow)"/>
+  <!-- Hamburger icon -->
+  <line x1="26" y1="44" x2="50" y2="44" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="26" y1="52" x2="50" y2="52" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="26" y1="60" x2="50" y2="60" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Title -->
+  <text x="76" y="59" font-family="Roboto, sans-serif" font-size="20" font-weight="500" fill="white">StyleKit</text>
+  <!-- Search icon -->
+  <circle cx="1130" cy="52" r="9" fill="none" stroke="white" stroke-width="2"/>
+  <line x1="1136" y1="58" x2="1144" y2="66" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <!-- More (vertical dots) -->
+  <circle cx="1170" cy="46" r="2.5" fill="white"/>
+  <circle cx="1170" cy="52" r="2.5" fill="white"/>
+  <circle cx="1170" cy="58" r="2.5" fill="white"/>
+
+  <!-- Section label -->
+  <text x="60" y="118" font-family="Roboto, sans-serif" font-size="12" font-weight="500" fill="#6200ee" letter-spacing="1.5">ELEVATION SYSTEM</text>
+
+  <!-- Card DP=1 (top-left) -->
+  <rect x="60" y="128" width="240" height="140" rx="4" fill="white" filter="url(#dp1)"/>
+  <text x="80" y="156" font-family="Roboto, sans-serif" font-size="13" font-weight="500" fill="#1a1a1a">Elevation 1dp</text>
+  <rect x="80" y="166" width="60" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="80" y="178" width="120" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="80" y="190" width="90" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="80" y="210" width="80" height="28" rx="4" fill="#6200ee"/>
+  <text x="120" y="229" font-family="Roboto, sans-serif" font-size="12" font-weight="500" fill="white" text-anchor="middle">ACTION</text>
+  <text x="80" y="256" font-family="Roboto, sans-serif" font-size="10" fill="#9e9e9e">0 1px 2px rgba(0,0,0,.2)</text>
+
+  <!-- Card DP=2 (top-right) -->
+  <rect x="340" y="128" width="240" height="140" rx="4" fill="white" filter="url(#dp2)"/>
+  <text x="360" y="156" font-family="Roboto, sans-serif" font-size="13" font-weight="500" fill="#1a1a1a">Elevation 2dp</text>
+  <rect x="360" y="166" width="60" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="360" y="178" width="120" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="360" y="190" width="90" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="360" y="210" width="80" height="28" rx="4" fill="#6200ee"/>
+  <text x="400" y="229" font-family="Roboto, sans-serif" font-size="12" font-weight="500" fill="white" text-anchor="middle">ACTION</text>
+  <text x="360" y="256" font-family="Roboto, sans-serif" font-size="10" fill="#9e9e9e">0 2px 4px rgba(0,0,0,.2)</text>
+
+  <!-- Card DP=4 (bottom-left) -->
+  <rect x="60" y="292" width="240" height="140" rx="4" fill="white" filter="url(#dp4)"/>
+  <text x="80" y="320" font-family="Roboto, sans-serif" font-size="13" font-weight="500" fill="#1a1a1a">Elevation 4dp</text>
+  <rect x="80" y="330" width="60" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="80" y="342" width="120" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="80" y="354" width="90" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="80" y="374" width="80" height="28" rx="4" fill="#6200ee"/>
+  <text x="120" y="393" font-family="Roboto, sans-serif" font-size="12" font-weight="500" fill="white" text-anchor="middle">ACTION</text>
+  <text x="80" y="420" font-family="Roboto, sans-serif" font-size="10" fill="#9e9e9e">0 4px 8px rgba(0,0,0,.2)</text>
+
+  <!-- Card DP=8 (bottom-right) -->
+  <rect x="340" y="292" width="240" height="140" rx="4" fill="white" filter="url(#dp8)"/>
+  <text x="360" y="320" font-family="Roboto, sans-serif" font-size="13" font-weight="500" fill="#1a1a1a">Elevation 8dp</text>
+  <rect x="360" y="330" width="60" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="360" y="342" width="120" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="360" y="354" width="90" height="6" rx="3" fill="#e0e0e0"/>
+  <rect x="360" y="374" width="80" height="28" rx="4" fill="#6200ee"/>
+  <text x="400" y="393" font-family="Roboto, sans-serif" font-size="12" font-weight="500" fill="white" text-anchor="middle">ACTION</text>
+  <text x="360" y="420" font-family="Roboto, sans-serif" font-size="10" fill="#9e9e9e">0 8px 16px rgba(0,0,0,.24)</text>
+
+  <!-- Typography overlay (center-right) -->
+  <text x="900" y="215" font-family="Roboto, sans-serif" font-size="60" font-weight="700" fill="#6200ee" text-anchor="middle">Material</text>
+  <text x="900" y="283" font-family="Roboto, sans-serif" font-size="60" font-weight="700" fill="#6200ee" text-anchor="middle">Design</text>
+  <text x="900" y="328" font-family="Roboto, sans-serif" font-size="16" font-weight="400" fill="#03dac6" text-anchor="middle" letter-spacing="2">Elevation . Components . Motion</text>
+
+  <!-- Color chips -->
+  <rect x="680" y="365" width="78" height="78" rx="4" fill="#6200ee" filter="url(#dp2)"/>
+  <text x="719" y="395" font-family="Roboto, sans-serif" font-size="9" fill="white" text-anchor="middle">Primary</text>
+  <text x="719" y="408" font-family="Roboto, sans-serif" font-size="9" fill="rgba(255,255,255,0.8)" text-anchor="middle">#6200EE</text>
+
+  <rect x="778" y="365" width="78" height="78" rx="4" fill="#3700b3" filter="url(#dp2)"/>
+  <text x="817" y="395" font-family="Roboto, sans-serif" font-size="9" fill="white" text-anchor="middle">Primary Dk</text>
+  <text x="817" y="408" font-family="Roboto, sans-serif" font-size="9" fill="rgba(255,255,255,0.8)" text-anchor="middle">#3700B3</text>
+
+  <rect x="876" y="365" width="78" height="78" rx="4" fill="#03dac6" filter="url(#dp2)"/>
+  <text x="915" y="395" font-family="Roboto, sans-serif" font-size="9" fill="#000000" text-anchor="middle">Secondary</text>
+  <text x="915" y="408" font-family="Roboto, sans-serif" font-size="9" fill="rgba(0,0,0,0.7)" text-anchor="middle">#03DAC6</text>
+
+  <rect x="974" y="365" width="78" height="78" rx="4" fill="#cf6679" filter="url(#dp2)"/>
+  <text x="1013" y="395" font-family="Roboto, sans-serif" font-size="9" fill="white" text-anchor="middle">Error</text>
+  <text x="1013" y="408" font-family="Roboto, sans-serif" font-size="9" fill="rgba(255,255,255,0.8)" text-anchor="middle">#CF6679</text>
+
+  <rect x="1072" y="365" width="78" height="78" rx="4" fill="white" filter="url(#dp4)"/>
+  <text x="1111" y="395" font-family="Roboto, sans-serif" font-size="9" fill="#1a1a1a" text-anchor="middle">Surface</text>
+  <text x="1111" y="408" font-family="Roboto, sans-serif" font-size="9" fill="#757575" text-anchor="middle">#FFFFFF</text>
+
+  <!-- FAB button -->
+  <circle cx="1140" cy="488" r="28" fill="#03dac6" filter="url(#fab-shadow)"/>
+  <line x1="1140" y1="474" x2="1140" y2="502" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="1126" y1="488" x2="1154" y2="488" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Bottom Navigation Bar -->
+  <rect x="0" y="540" width="1200" height="90" fill="white" filter="url(#dp8)"/>
+  <line x1="0" y1="540" x2="1200" y2="540" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- Home tab (active) -->
+  <g transform="translate(150, 557)">
+    <polygon points="0,-13 -13,0 -9,0 -9,11 9,11 9,0 13,0" fill="#6200ee"/>
+    <text x="0" y="30" font-family="Roboto, sans-serif" font-size="12" font-weight="500" fill="#6200ee" text-anchor="middle">Home</text>
+  </g>
+
+  <!-- Search tab (inactive) -->
+  <g transform="translate(450, 557)">
+    <circle cx="0" cy="-5" r="9" fill="none" stroke="#757575" stroke-width="2"/>
+    <line x1="6" y1="2" x2="13" y2="9" stroke="#757575" stroke-width="2" stroke-linecap="round"/>
+    <text x="0" y="30" font-family="Roboto, sans-serif" font-size="12" fill="#757575" text-anchor="middle">Search</text>
+  </g>
+
+  <!-- Favorites tab (inactive) -->
+  <g transform="translate(750, 557)">
+    <polygon points="0,-15 4,-6 14,-5 6,2 9,13 0,7 -9,13 -6,2 -14,-5 -4,-6" fill="none" stroke="#757575" stroke-width="2"/>
+    <text x="0" y="30" font-family="Roboto, sans-serif" font-size="12" fill="#757575" text-anchor="middle">Favorites</text>
+  </g>
+
+  <!-- Profile tab (inactive) -->
+  <g transform="translate(1050, 557)">
+    <circle cx="0" cy="-10" r="7" fill="none" stroke="#757575" stroke-width="2"/>
+    <path d="M -13,7 C -13,-2 13,-2 13,7" fill="none" stroke="#757575" stroke-width="2"/>
+    <text x="0" y="30" font-family="Roboto, sans-serif" font-size="12" fill="#757575" text-anchor="middle">Profile</text>
+  </g>
+</svg>

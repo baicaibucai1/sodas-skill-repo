@@ -1,1 +1,94 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDEyMDAgNjMwIj4KICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMCAwaDEyMDB2NjMwSDB6Ii8+CiAgPCEtLSBtYXN0aGVhZCAtLT4KICA8cGF0aCBzdHJva2U9IiNFNUU3RUIiIGQ9Ik0wIDY0LjVoMTIwMCIvPgogIDx0ZXh0IHg9IjEyMCIgeT0iNDEiIGZpbGw9IiMxRjI5MzMiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI2MDAiPlRoZSBEaXN0aWxsIFJldmlldzwvdGV4dD4KICA8dGV4dCB4PSIzMjIiIHk9IjQxIiBmaWxsPSIjOUNBM0FGIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjE1Ij7orr7orqHnp5Hlrabor4Torro8L3RleHQ+CiAgPHRleHQgeD0iODgwIiB5PSI0MCIgZmlsbD0iIzZCNzI4MCIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIj5BcnRpY2xlczwvdGV4dD4KICA8dGV4dCB4PSI5NDYiIHk9IjQwIiBmaWxsPSIjNkI3MjgwIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiPkFyY2hpdmU8L3RleHQ+CiAgPHRleHQgeD0iMTAxMiIgeT0iNDAiIGZpbGw9IiM2QjcyODAiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiI+U3VibWl0PC90ZXh0PgogIDx0ZXh0IHg9IjEwODAiIHk9IjQwIiBmaWxsPSIjOUNBM0FGIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGxldHRlci1zcGFjaW5nPSIuMWVtIj5JU1NOIDIwMjYtMDcwNTwvdGV4dD4KICA8IS0tIGFydGljbGUgY29sdW1uIChuYXJyb3cgbWVhc3VyZSkgLS0+CiAgPHRleHQgeD0iMzIwIiB5PSIxMTIiIGZpbGw9IiMyQTdBRTIiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgbGV0dGVyLXNwYWNpbmc9Ii4xNmVtIj5SRVNFQVJDSCBFWFBMQUlORVI8L3RleHQ+CiAgPHRleHQgeD0iMzIwIiB5PSIxNTIiIGZpbGw9IiMxRjI5MzMiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMzQiIGZvbnQtd2VpZ2h0PSI2MDAiPueVjOmdoumjjuagvOeahOWPr+a1i+mHj+aApzwvdGV4dD4KICA8dGV4dCB4PSIzMjAiIHk9IjE4MiIgZmlsbD0iIzZCNzI4MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIxNiI+5LuO54up6YeO5puy57q/5Yiw5oOF57uq5ZyG546v77ya5oqK44CM5aW955yL44CN57+76K+R5oiQ5Z2Q5qCHPC90ZXh0PgogIDwhLS0gYnlsaW5lIGJsb2NrIC0tPgogIDxwYXRoIHN0cm9rZT0iI0U1RTdFQiIgZD0iTTMyMCAyMDAuNWg1NjBNMzIwIDI2MC41aDU2MCIvPgogIDx0ZXh0IHg9IjMyMCIgeT0iMjIyIiBmaWxsPSIjNkI3MjgwIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgbGV0dGVyLXNwYWNpbmc9Ii4xNGVtIj5BVVRIT1JTPC90ZXh0PgogIDx0ZXh0IHg9IjMyMCIgeT0iMjQyIiBmaWxsPSIjMUYyOTMzIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiPkxpbiBRaWFvLCBBLiBOLiBSZWFkZXI8L3RleHQ+CiAgPHRleHQgeD0iNTIwIiB5PSIyMjIiIGZpbGw9IiM2QjcyODAiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iLjE0ZW0iPlBVQkxJU0hFRDwvdGV4dD4KICA8dGV4dCB4PSI1MjAiIHk9IjI0MiIgZmlsbD0iIzFGMjkzMyIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIj5KdWx5IDUsIDIwMjY8L3RleHQ+CiAgPHRleHQgeD0iNzAwIiB5PSIyMjIiIGZpbGw9IiM2QjcyODAiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iLjE0ZW0iPkRPSTwvdGV4dD4KICA8dGV4dCB4PSI3MDAiIHk9IjI0MiIgZmlsbD0iIzFGMjkzMyIgZm9udC1mYW1pbHk9IidTRk1vbm8tUmVndWxhcicsQ29uc29sYXMsbW9ub3NwYWNlIiBmb250LXNpemU9IjExIj4xMC4yMzkxNS9zay4wMDA0MjwvdGV4dD4KICA8IS0tIGJvZHkgcHJvc2UgbGluZXMgd2l0aCBjaXRhdGlvbiBtYXJrcyAtLT4KICA8ZyBmaWxsPSIjRDZEQUUwIj4KICAgIDxyZWN0IHg9IjMyMCIgeT0iMjg4IiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjkiIHJ4PSIyIi8+CiAgICA8cmVjdCB4PSIzMjAiIHk9IjMxMCIgd2lkdGg9IjUyMiIgaGVpZ2h0PSI5IiByeD0iMiIvPgogICAgPHJlY3QgeD0iMzIwIiB5PSIzMzIiIHdpZHRoPSI1NjAiIGhlaWdodD0iOSIgcng9IjIiLz4KICAgIDxyZWN0IHg9IjMyMCIgeT0iMzU0IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjkiIHJ4PSIyIi8+CiAgPC9nPgogIDx0ZXh0IHg9Ijg0OCIgeT0iMzE4IiBmaWxsPSIjMkE3QUUyIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI2MDAiPlsxXTwvdGV4dD4KICA8dGV4dCB4PSI2MjYiIHk9IjM2MiIgZmlsbD0iIzJBN0FFMiIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmb250LXdlaWdodD0iNjAwIj5bMl08L3RleHQ+CiAgPCEtLSBzaWRlbm90ZSBpbiByaWdodCBtYXJnaW4gLS0+CiAgPHBhdGggc3Ryb2tlPSIjRTVFN0VCIiBkPSJNOTIwIDI4OC41aDE4MCIvPgogIDx0ZXh0IHg9IjkyMCIgeT0iMzA4IiBmaWxsPSIjMkE3QUUyIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSI2MDAiPuazqCAxLjwvdGV4dD4KICA8ZyBmaWxsPSIjRTVFN0VCIj4KICAgIDxyZWN0IHg9Ijk1MiIgeT0iMzAwIiB3aWR0aD0iMTQ4IiBoZWlnaHQ9IjciIHJ4PSIyIi8+CiAgICA8cmVjdCB4PSI5MjAiIHk9IjMxNiIgd2lkdGg9IjE4MCIgaGVpZ2h0PSI3IiByeD0iMiIvPgogICAgPHJlY3QgeD0iOTIwIiB5PSIzMzIiIHdpZHRoPSIxMzIiIGhlaWdodD0iNyIgcng9IjIiLz4KICA8L2c+CiAgPCEtLSBmaWd1cmUgYnJlYWtpbmcgdGhlIG1lYXN1cmU6IEthbm8gY3VydmVzIC0tPgogIDxyZWN0IHg9IjIwMCIgeT0iMzkyIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjE4MCIgZmlsbD0iI0ZGRkZGRiIgc3Ryb2tlPSIjRTVFN0VCIiByeD0iNCIvPgogIDwhLS0gYXhlcyAtLT4KICA8cGF0aCBzdHJva2U9IiM5Q0EzQUYiIGQ9Ik0yNjAgNDgyaDY4ME02MDAgNTUyVjQxMiIvPgogIDxwYXRoIGZpbGw9IiM5Q0EzQUYiIGQ9Ik05NDAgNDgybC05LTQuNXY5ek02MDAgNDEybC00LjUgOWg5eiIvPgogIDx0ZXh0IHg9IjkzMiIgeT0iNDk4IiBmaWxsPSIjNkI3MjgwIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIHRleHQtYW5jaG9yPSJlbmQiPuWKn+iDveWFheWIhjwvdGV4dD4KICA8dGV4dCB4PSIyNjQiIHk9IjQ5OCIgZmlsbD0iIzZCNzI4MCIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIj7lip/og73nvLrlpLE8L3RleHQ+CiAgPHRleHQgeD0iNjEwIiB5PSI0MjIiIGZpbGw9IiM2QjcyODAiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCI+5ruh5oSPPC90ZXh0PgogIDx0ZXh0IHg9IjYxMCIgeT0iNTQ4IiBmaWxsPSIjNkI3MjgwIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiPuS4jea7oTwvdGV4dD4KICA8IS0tIG11c3QtYmUgY29uY2F2ZSAoZGFzaGVkIGluaykgLS0+CiAgPHBhdGggc3Ryb2tlPSIjMUYyOTMzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjYgNCIgZD0iTTI4MCA1NDRjNjAtNDAgMTMwLTUyIDY0MC01OCIvPgogIDwhLS0gb25lLWRpbWVuc2lvbmFsIHN0cmFpZ2h0IChibHVlKSAtLT4KICA8cGF0aCBzdHJva2U9IiMyQTdBRTIiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTI4MCA1NDAgOTIwIDQzNiIvPgogIDwhLS0gYXR0cmFjdGl2ZSBjb252ZXggKG9yYW5nZSkgLS0+CiAgPHBhdGggc3Ryb2tlPSIjRTQ1NzJFIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yODAgNDkwYzIyMC00IDQ4MC0xNiA2NDAtNzgiLz4KICA8Y2lyY2xlIGN4PSI5MjAiIGN5PSI0MTIiIHI9IjMuNSIgZmlsbD0iI0U0NTcyRSIvPgogIDxjaXJjbGUgY3g9IjkyMCIgY3k9IjQzNiIgcj0iMy41IiBmaWxsPSIjMkE3QUUyIi8+CiAgPGNpcmNsZSBjeD0iOTIwIiBjeT0iNDg2IiByPSIzLjUiIGZpbGw9IiMxRjI5MzMiLz4KICA8dGV4dCB4PSI5MzAiIHk9IjQxNiIgZmlsbD0iI0U0NTcyRSIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNjAwIj5BPC90ZXh0PgogIDx0ZXh0IHg9IjkzMCIgeT0iNDQwIiBmaWxsPSIjMkE3QUUyIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSI2MDAiPk88L3RleHQ+CiAgPHRleHQgeD0iOTMwIiB5PSI0OTAiIGZpbGw9IiMxRjI5MzMiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjYwMCI+TTwvdGV4dD4KICA8IS0tIG1pbmkgY2lyY3VtcGxleCBpbnNpZGUgZmlndXJlLCBsZWZ0IHNpZGUgLS0+CiAgPGNpcmNsZSBjeD0iMzMwIiBjeT0iNDQwIiByPSIyNiIgc3Ryb2tlPSIjRDFENURCIi8+CiAgPHBhdGggc3Ryb2tlPSIjRTVFN0VCIiBkPSJNMjk4IDQ0MGg2NE0zMzAgNDA4djY0Ii8+CiAgPGNpcmNsZSBjeD0iMzQ4IiBjeT0iNDIyIiByPSI0IiBmaWxsPSIjRTQ1NzJFIi8+CiAgPGNpcmNsZSBjeD0iMzU2IiBjeT0iNDQwIiByPSIyLjUiIGZpbGw9IiMyQTdBRTIiLz4KICA8Y2lyY2xlIGN4PSIzMzAiIGN5PSI0MTQiIHI9IjIuNSIgZmlsbD0iIzJBN0FFMiIvPgogIDxjaXJjbGUgY3g9IjMxMiIgY3k9IjQyMiIgcj0iMi41IiBmaWxsPSIjMkE3QUUyIi8+CiAgPGNpcmNsZSBjeD0iMzA0IiBjeT0iNDQwIiByPSIyLjUiIGZpbGw9IiMyQTdBRTIiLz4KICA8Y2lyY2xlIGN4PSIzMTIiIGN5PSI0NTgiIHI9IjIuNSIgZmlsbD0iIzJBN0FFMiIvPgogIDxjaXJjbGUgY3g9IjMzMCIgY3k9IjQ2NiIgcj0iMi41IiBmaWxsPSIjMkE3QUUyIi8+CiAgPGNpcmNsZSBjeD0iMzQ4IiBjeT0iNDU4IiByPSIyLjUiIGZpbGw9IiMyQTdBRTIiLz4KICA8IS0tIGZpZ3VyZSBjYXB0aW9uIC0tPgogIDxwYXRoIHN0cm9rZT0iI0U1RTdFQiIgZD0iTTIwMCA1ODguNWg4MDAiLz4KICA8dGV4dCB4PSIyMDAiIHk9IjYwOCIgZmlsbD0iIzFGMjkzMyIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNjAwIj7lm74gMe+8mjwvdGV4dD4KICA8dGV4dCB4PSIyMzgiIHk9IjYwOCIgZmlsbD0iIzZCNzI4MCIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIj7ni6nph47mqKHlnovkuInnsbvlk4HotKjmm7Lnur/vvIhLYW5vIGV0IGFsLiwgMTk4NO+8ieOAgkEg6a2F5Yqb5ZOB6LSo6ZqP5pe26Ze06KGw5Y+Y5Li6IE/vvIzlho3oobDlj5jkuLogTeOAgjwvdGV4dD4KICA8IS0tIGxlZnQgbWFyZ2luOiBjb250ZW50cyBoaW50IC0tPgogIDx0ZXh0IHg9IjEyMCIgeT0iMTEyIiBmaWxsPSIjNkI3MjgwIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgbGV0dGVyLXNwYWNpbmc9Ii4xNGVtIj5DT05URU5UUzwvdGV4dD4KICA8ZyBmaWxsPSIjRTVFN0VCIj4KICAgIDxyZWN0IHg9IjEyMCIgeT0iMTI2IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjciIHJ4PSIyIi8+CiAgICA8cmVjdCB4PSIxMjAiIHk9IjE0NCIgd2lkdGg9Ijk2IiBoZWlnaHQ9IjciIHJ4PSIyIi8+CiAgICA8cmVjdCB4PSIxMjAiIHk9IjE2MiIgd2lkdGg9IjExMCIgaGVpZ2h0PSI3IiByeD0iMiIvPgogICAgPHJlY3QgeD0iMTIwIiB5PSIxODAiIHdpZHRoPSI4NCIgaGVpZ2h0PSI3IiByeD0iMiIvPgogIDwvZz4KICA8cGF0aCBzdHJva2U9IiMyQTdBRTIiIGQ9Ik0xMDggMTI0djE0Ii8+CiAgPCEtLSByaWdodCBtYXJnaW4gYm90dG9tOiB0YWcgYmFkZ2VzIC0tPgogIDxyZWN0IHg9IjkyMCIgeT0iMTIwIiB3aWR0aD0iNTIiIGhlaWdodD0iMjAiIHN0cm9rZT0iI0U1RTdFQiIgcng9IjIiLz4KICA8dGV4dCB4PSI5NDYiIHk9IjEzNCIgZmlsbD0iIzZCNzI4MCIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPmNzLkhDPC90ZXh0PgogIDxyZWN0IHg9Ijk4MCIgeT0iMTIwIiB3aWR0aD0iNTgiIGhlaWdodD0iMjAiIHN0cm9rZT0iI0U1RTdFQiIgcng9IjIiLz4KICA8dGV4dCB4PSIxMDA5IiB5PSIxMzQiIGZpbGw9IiM2QjcyODAiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5zdGF0LkFQPC90ZXh0PgogIDxyZWN0IHg9IjEwNDYiIHk9IjEyMCIgd2lkdGg9IjM0IiBoZWlnaHQ9IjIwIiBzdHJva2U9IiNFNUU3RUIiIHJ4PSIyIi8+CiAgPHRleHQgeD0iMTA2MyIgeT0iMTM0IiBmaWxsPSIjMkE3QUUyIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UERGPC90ZXh0PgogIDwhLS0gZm9vdGVyIHRhZ2xpbmUgLS0+CiAgPHRleHQgeD0iMTA4MCIgeT0iNjA4IiBmaWxsPSIjOUNBM0FGIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIHRleHQtYW5jaG9yPSJlbmQiIGxldHRlci1zcGFjaW5nPSIuMDVlbSI+RGlzdGlsbCBTdHlsZSAtIOWtpuacr+enkeaZrumjjjwvdGV4dD4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" fill="none" viewBox="0 0 1200 630">
+  <path fill="#FFFFFF" d="M0 0h1200v630H0z"/>
+  <!-- masthead -->
+  <path stroke="#E5E7EB" d="M0 64.5h1200"/>
+  <text x="120" y="41" fill="#1F2933" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="600">The Distill Review</text>
+  <text x="322" y="41" fill="#9CA3AF" font-family="Georgia, 'Times New Roman', serif" font-size="15">设计科学评论</text>
+  <text x="880" y="40" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="12">Articles</text>
+  <text x="946" y="40" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="12">Archive</text>
+  <text x="1012" y="40" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="12">Submit</text>
+  <text x="1080" y="40" fill="#9CA3AF" font-family="'Inter','Segoe UI',sans-serif" font-size="10" letter-spacing=".1em">ISSN 2026-0705</text>
+  <!-- article column (narrow measure) -->
+  <text x="320" y="112" fill="#2A7AE2" font-family="'Inter','Segoe UI',sans-serif" font-size="11" letter-spacing=".16em">RESEARCH EXPLAINER</text>
+  <text x="320" y="152" fill="#1F2933" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="600">界面风格的可测量性</text>
+  <text x="320" y="182" fill="#6B7280" font-family="Georgia, 'Times New Roman', serif" font-size="16">从狩野曲线到情绪圆环：把「好看」翻译成坐标</text>
+  <!-- byline block -->
+  <path stroke="#E5E7EB" d="M320 200.5h560M320 260.5h560"/>
+  <text x="320" y="222" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".14em">AUTHORS</text>
+  <text x="320" y="242" fill="#1F2933" font-family="'Inter','Segoe UI',sans-serif" font-size="12">Lin Qiao, A. N. Reader</text>
+  <text x="520" y="222" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".14em">PUBLISHED</text>
+  <text x="520" y="242" fill="#1F2933" font-family="'Inter','Segoe UI',sans-serif" font-size="12">July 5, 2026</text>
+  <text x="700" y="222" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".14em">DOI</text>
+  <text x="700" y="242" fill="#1F2933" font-family="'SFMono-Regular',Consolas,monospace" font-size="11">10.23915/sk.00042</text>
+  <!-- body prose lines with citation marks -->
+  <g fill="#D6DAE0">
+    <rect x="320" y="288" width="560" height="9" rx="2"/>
+    <rect x="320" y="310" width="522" height="9" rx="2"/>
+    <rect x="320" y="332" width="560" height="9" rx="2"/>
+    <rect x="320" y="354" width="300" height="9" rx="2"/>
+  </g>
+  <text x="848" y="318" fill="#2A7AE2" font-family="'Inter','Segoe UI',sans-serif" font-size="10" font-weight="600">[1]</text>
+  <text x="626" y="362" fill="#2A7AE2" font-family="'Inter','Segoe UI',sans-serif" font-size="10" font-weight="600">[2]</text>
+  <!-- sidenote in right margin -->
+  <path stroke="#E5E7EB" d="M920 288.5h180"/>
+  <text x="920" y="308" fill="#2A7AE2" font-family="'Inter','Segoe UI',sans-serif" font-size="10" font-weight="600">注 1.</text>
+  <g fill="#E5E7EB">
+    <rect x="952" y="300" width="148" height="7" rx="2"/>
+    <rect x="920" y="316" width="180" height="7" rx="2"/>
+    <rect x="920" y="332" width="132" height="7" rx="2"/>
+  </g>
+  <!-- figure breaking the measure: Kano curves -->
+  <rect x="200" y="392" width="800" height="180" fill="#FFFFFF" stroke="#E5E7EB" rx="4"/>
+  <!-- axes -->
+  <path stroke="#9CA3AF" d="M260 482h680M600 552V412"/>
+  <path fill="#9CA3AF" d="M940 482l-9-4.5v9zM600 412l-4.5 9h9z"/>
+  <text x="932" y="498" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="10" text-anchor="end">功能充分</text>
+  <text x="264" y="498" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="10">功能缺失</text>
+  <text x="610" y="422" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="10">满意</text>
+  <text x="610" y="548" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="10">不满</text>
+  <!-- must-be concave (dashed ink) -->
+  <path stroke="#1F2933" stroke-width="2" stroke-dasharray="6 4" d="M280 544c60-40 130-52 640-58"/>
+  <!-- one-dimensional straight (blue) -->
+  <path stroke="#2A7AE2" stroke-width="2" d="M280 540 920 436"/>
+  <!-- attractive convex (orange) -->
+  <path stroke="#E4572E" stroke-width="2" d="M280 490c220-4 480-16 640-78"/>
+  <circle cx="920" cy="412" r="3.5" fill="#E4572E"/>
+  <circle cx="920" cy="436" r="3.5" fill="#2A7AE2"/>
+  <circle cx="920" cy="486" r="3.5" fill="#1F2933"/>
+  <text x="930" y="416" fill="#E4572E" font-family="'Inter','Segoe UI',sans-serif" font-size="11" font-weight="600">A</text>
+  <text x="930" y="440" fill="#2A7AE2" font-family="'Inter','Segoe UI',sans-serif" font-size="11" font-weight="600">O</text>
+  <text x="930" y="490" fill="#1F2933" font-family="'Inter','Segoe UI',sans-serif" font-size="11" font-weight="600">M</text>
+  <!-- mini circumplex inside figure, left side -->
+  <circle cx="330" cy="440" r="26" stroke="#D1D5DB"/>
+  <path stroke="#E5E7EB" d="M298 440h64M330 408v64"/>
+  <circle cx="348" cy="422" r="4" fill="#E4572E"/>
+  <circle cx="356" cy="440" r="2.5" fill="#2A7AE2"/>
+  <circle cx="330" cy="414" r="2.5" fill="#2A7AE2"/>
+  <circle cx="312" cy="422" r="2.5" fill="#2A7AE2"/>
+  <circle cx="304" cy="440" r="2.5" fill="#2A7AE2"/>
+  <circle cx="312" cy="458" r="2.5" fill="#2A7AE2"/>
+  <circle cx="330" cy="466" r="2.5" fill="#2A7AE2"/>
+  <circle cx="348" cy="458" r="2.5" fill="#2A7AE2"/>
+  <!-- figure caption -->
+  <path stroke="#E5E7EB" d="M200 588.5h800"/>
+  <text x="200" y="608" fill="#1F2933" font-family="'Inter','Segoe UI',sans-serif" font-size="11" font-weight="600">图 1：</text>
+  <text x="238" y="608" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="11">狩野模型三类品质曲线（Kano et al., 1984）。A 魅力品质随时间衰变为 O，再衰变为 M。</text>
+  <!-- left margin: contents hint -->
+  <text x="120" y="112" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".14em">CONTENTS</text>
+  <g fill="#E5E7EB">
+    <rect x="120" y="126" width="120" height="7" rx="2"/>
+    <rect x="120" y="144" width="96" height="7" rx="2"/>
+    <rect x="120" y="162" width="110" height="7" rx="2"/>
+    <rect x="120" y="180" width="84" height="7" rx="2"/>
+  </g>
+  <path stroke="#2A7AE2" d="M108 124v14"/>
+  <!-- right margin bottom: tag badges -->
+  <rect x="920" y="120" width="52" height="20" stroke="#E5E7EB" rx="2"/>
+  <text x="946" y="134" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="9" text-anchor="middle">cs.HC</text>
+  <rect x="980" y="120" width="58" height="20" stroke="#E5E7EB" rx="2"/>
+  <text x="1009" y="134" fill="#6B7280" font-family="'Inter','Segoe UI',sans-serif" font-size="9" text-anchor="middle">stat.AP</text>
+  <rect x="1046" y="120" width="34" height="20" stroke="#E5E7EB" rx="2"/>
+  <text x="1063" y="134" fill="#2A7AE2" font-family="'Inter','Segoe UI',sans-serif" font-size="9" text-anchor="middle">PDF</text>
+  <!-- footer tagline -->
+  <text x="1080" y="608" fill="#9CA3AF" font-family="'Inter','Segoe UI',sans-serif" font-size="11" text-anchor="end" letter-spacing=".05em">Distill Style - 学术科普风</text>
+</svg>

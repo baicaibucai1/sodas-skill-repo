@@ -1,1 +1,102 @@
-PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCA2MzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIj4KICA8ZGVmcz4KICAgIDxmaWx0ZXIgaWQ9ImJsdXItODAiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI0MCIvPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJibHVyLTEwMCI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjUwIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9ImJsdXItMTIwIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNjAiLz4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlciBpZD0iYmx1ci02MCI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMwIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iY2FyZC1ncmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2MzViZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjN2E3M2ZmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJjaGlwLWdyYWRpZW50IiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Q0YWYzNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmNWQwNmIiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8Y2xpcFBhdGggaWQ9ImNhcmQtY2xpcCI+CiAgICAgIDxyZWN0IHg9IjEyMCIgeT0iMTYwIiB3aWR0aD0iMzYwIiBoZWlnaHQ9IjIxMCIgcng9IjE2Ii8+CiAgICA8L2NsaXBQYXRoPgogIDwvZGVmcz4KCiAgPCEtLSBCYWNrZ3JvdW5kIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iIzBhMjU0MCIvPgoKICA8IS0tIEdyYWRpZW50IG1lc2ggYmxvYnMgLS0+CiAgPGVsbGlwc2UgY3g9IjkwMCIgY3k9IjgwIiByeD0iMzQwIiByeT0iMjYwIiBmaWxsPSIjNjM1YmZmIiBvcGFjaXR5PSIwLjM1IiBmaWx0ZXI9InVybCgjYmx1ci04MCkiLz4KICA8ZWxsaXBzZSBjeD0iMTgwIiBjeT0iNTIwIiByeD0iMzIwIiByeT0iMjIwIiBmaWxsPSIjMDBkNGZmIiBvcGFjaXR5PSIwLjI1IiBmaWx0ZXI9InVybCgjYmx1ci0xMDApIi8+CiAgPGVsbGlwc2UgY3g9IjU2MCIgY3k9IjMwMCIgcng9IjI4MCIgcnk9IjIwMCIgZmlsbD0iIzdhNzNmZiIgb3BhY2l0eT0iMC4zIiBmaWx0ZXI9InVybCgjYmx1ci0xMjApIi8+CiAgPGVsbGlwc2UgY3g9IjEwMCIgY3k9IjEyMCIgcng9IjIyMCIgcnk9IjE2MCIgZmlsbD0iIzgwZTlmZiIgb3BhY2l0eT0iMC4yIiBmaWx0ZXI9InVybCgjYmx1ci02MCkiLz4KICA8ZWxsaXBzZSBjeD0iMTEwMCIgY3k9IjQ4MCIgcng9IjI2MCIgcnk9IjE4MCIgZmlsbD0iIzYzNWJmZiIgb3BhY2l0eT0iMC4yIiBmaWx0ZXI9InVybCgjYmx1ci04MCkiLz4KCiAgPCEtLSBQYXltZW50IENhcmQgLS0+CiAgPHJlY3QgeD0iMTIwIiB5PSIxNjAiIHdpZHRoPSIzNjAiIGhlaWdodD0iMjEwIiByeD0iMTYiIGZpbGw9InVybCgjY2FyZC1ncmFkaWVudCkiLz4KCiAgPCEtLSBDYXJkIHN1YnRsZSBncmlkIGxpbmVzIC0tPgogIDxnIGNsaXAtcGF0aD0idXJsKCNjYXJkLWNsaXApIiBvcGFjaXR5PSIwLjA4Ij4KICAgIDxsaW5lIHgxPSIxMjAiIHkxPSIyMDAiIHgyPSI0ODAiIHkyPSIyMDAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPGxpbmUgeDE9IjEyMCIgeTE9IjI0MCIgeDI9IjQ4MCIgeTI9IjI0MCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8bGluZSB4MT0iMTIwIiB5MT0iMjgwIiB4Mj0iNDgwIiB5Mj0iMjgwIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDxsaW5lIHgxPSIxMjAiIHkxPSIzMjAiIHgyPSI0ODAiIHkyPSIzMjAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPGxpbmUgeDE9IjE4MCIgeTE9IjE2MCIgeDI9IjE4MCIgeTI9IjM3MCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8bGluZSB4MT0iMjQwIiB5MT0iMTYwIiB4Mj0iMjQwIiB5Mj0iMzcwIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDxsaW5lIHgxPSIzMDAiIHkxPSIxNjAiIHgyPSIzMDAiIHkyPSIzNzAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPGxpbmUgeDE9IjM2MCIgeTE9IjE2MCIgeDI9IjM2MCIgeTI9IjM3MCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8bGluZSB4MT0iNDIwIiB5MT0iMTYwIiB4Mj0iNDIwIiB5Mj0iMzcwIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8L2c+CgogIDwhLS0gQ2FyZCBjaGlwIC0tPgogIDxyZWN0IHg9IjE1MiIgeT0iMjA2IiB3aWR0aD0iNDQiIGhlaWdodD0iMzQiIHJ4PSI1IiBmaWxsPSJ1cmwoI2NoaXAtZ3JhZGllbnQpIi8+CiAgPGxpbmUgeDE9IjE1MiIgeTE9IjIyMCIgeDI9IjE5NiIgeTI9IjIyMCIgc3Ryb2tlPSIjYjg5MDBhIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNSIvPgogIDxsaW5lIHgxPSIxNTIiIHkxPSIyMjkiIHgyPSIxOTYiIHkyPSIyMjkiIHN0cm9rZT0iI2I4OTAwYSIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjUiLz4KICA8bGluZSB4MT0iMTc0IiB5MT0iMjA2IiB4Mj0iMTc0IiB5Mj0iMjQwIiBzdHJva2U9IiNiODkwMGEiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC41Ii8+CgogIDwhLS0gQ2FyZCBuZXR3b3JrIGxvZ28gY2lyY2xlcyAtLT4KICA8Y2lyY2xlIGN4PSI0MzIiIGN5PSIyMDUiIHI9IjE4IiBmaWxsPSIjZWIwMDFiIiBvcGFjaXR5PSIwLjkiLz4KICA8Y2lyY2xlIGN4PSI0NTQiIGN5PSIyMDUiIHI9IjE4IiBmaWxsPSIjZjc5ZTFiIiBvcGFjaXR5PSIwLjkiLz4KICA8ZWxsaXBzZSBjeD0iNDQzIiBjeT0iMjA1IiByeD0iNyIgcnk9IjE0IiBmaWxsPSIjZmY1ZjAwIiBvcGFjaXR5PSIwLjkiLz4KCiAgPCEtLSBDYXJkIG51bWJlciAtLT4KICA8dGV4dCB4PSIxNTIiIHk9IjMwNSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxOCIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOSIgbGV0dGVyLXNwYWNpbmc9IjMiPi4uLi4gIC4uLi4gIC4uLi4gIDQyNDI8L3RleHQ+CgogIDwhLS0gQ2FyZCBob2xkZXIgLS0+CiAgPHRleHQgeD0iMTUyIiB5PSIzNDQiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuNiIgbGV0dGVyLXNwYWNpbmc9IjIiPkNBUkQgSE9MREVSPC90ZXh0PgogIDx0ZXh0IHg9IjE1MiIgeT0iMzYwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IndoaXRlIiBmb250LXdlaWdodD0iNjAwIj5BbGV4IEpvaG5zb248L3RleHQ+CgogIDwhLS0gRXhwaXJ5IC0tPgogIDx0ZXh0IHg9IjM4MCIgeT0iMzQ0IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjYiIGxldHRlci1zcGFjaW5nPSIyIj5FWFBJUkVTPC90ZXh0PgogIDx0ZXh0IHg9IjM4MCIgeT0iMzYwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IndoaXRlIiBmb250LXdlaWdodD0iNjAwIj4xMi8yNzwvdGV4dD4KCiAgPCEtLSBEYXNoYm9hcmQgc3RhdCBjYXJkcyAocmlnaHQgc2lkZSkgLS0+CiAgPCEtLSBSZXZlbnVlIGNhcmQgLS0+CiAgPHJlY3QgeD0iNjIwIiB5PSIxNDgiIHdpZHRoPSIyMjAiIGhlaWdodD0iMTAwIiByeD0iOCIgZmlsbD0iIzFhM2E1YyIgc3Ryb2tlPSIjMmE1MDgwIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8dGV4dCB4PSI2NDQiIHk9IjE4NiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjOTRhM2I4IiBsZXR0ZXItc3BhY2luZz0iMSI+UkVWRU5VRTwvdGV4dD4KICA8dGV4dCB4PSI2NDQiIHk9IjIyMiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI4IiBmaWxsPSJ3aGl0ZSIgZm9udC13ZWlnaHQ9IjcwMCI+JDI0LDg5MTwvdGV4dD4KCiAgPCEtLSBHcm93dGggY2FyZCAtLT4KICA8cmVjdCB4PSI4NjAiIHk9IjE0OCIgd2lkdGg9IjIyMCIgaGVpZ2h0PSIxMDAiIHJ4PSI4IiBmaWxsPSIjMWEzYTVjIiBzdHJva2U9IiMyYTUwODAiIHN0cm9rZS13aWR0aD0iMSIvPgogIDx0ZXh0IHg9Ijg4NCIgeT0iMTg2IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM5NGEzYjgiIGxldHRlci1zcGFjaW5nPSIxIj5HUk9XVEg8L3RleHQ+CiAgPHRleHQgeD0iODg0IiB5PSIyMjIiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyOCIgZmlsbD0iIzAwZDRmZiIgZm9udC13ZWlnaHQ9IjcwMCI+KzEyLjUlPC90ZXh0PgoKICA8IS0tIFRyYW5zYWN0aW9ucyBjYXJkIC0tPgogIDxyZWN0IHg9Ijc0MCIgeT0iMjcyIiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjEwMCIgcng9IjgiIGZpbGw9IiMxYTNhNWMiIHN0cm9rZT0iIzJhNTA4MCIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iNzY0IiB5PSIzMTAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzk0YTNiOCIgbGV0dGVyLXNwYWNpbmc9IjEiPlRSQU5TQUNUSU9OUzwvdGV4dD4KICA8dGV4dCB4PSI3NjQiIHk9IjM0NiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI4IiBmaWxsPSJ3aGl0ZSIgZm9udC13ZWlnaHQ9IjcwMCI+MSw4NDc8L3RleHQ+CgogIDwhLS0gTWluaSBzcGFya2xpbmUgb24gcmV2ZW51ZSBjYXJkIC0tPgogIDxwb2x5bGluZSBwb2ludHM9IjY0NCwyNTIgNjU4LDI0NCA2NzIsMjQ4IDY4NiwyMzYgNzAwLDI0MCA3MTQsMjI4IDcyOCwyMzIgNzQyLDIyMCA3NTYsMjI2IDc3MCwyMTYgNzg0LDIyMiA3OTgsMjEwIDgxMiwyMTYgODI2LDIwNCIgc3Ryb2tlPSIjNjM1YmZmIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuNiIvPgoKICA8IS0tIEJvdHRvbSB0eXBvZ3JhcGh5IC0tPgogIDx0ZXh0IHg9IjEyMCIgeT0iNDcwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNjgiIGZpbGw9IndoaXRlIiBmb250LXdlaWdodD0iNzAwIiBsZXR0ZXItc3BhY2luZz0iLTEiPlN0cmlwZSBTdHlsZTwvdGV4dD4KICA8dGV4dCB4PSIxMjIiIHk9IjUxMCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIyIiBmaWxsPSIjOTRhM2I4Ij5Qcm9mZXNzaW9uYWwgZmludGVjaCBkZXNpZ24gc3lzdGVtPC90ZXh0PgoKICA8IS0tIEFjY2VudCBsaW5lIC0tPgogIDxyZWN0IHg9IjEyMCIgeT0iNTMwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjMiIHJ4PSIyIiBmaWxsPSIjNjM1YmZmIi8+CiAgPHJlY3QgeD0iMjQ4IiB5PSI1MzAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIzIiByeD0iMiIgZmlsbD0iIzAwZDRmZiIvPgo8L3N2Zz4K
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs>
+    <filter id="blur-80">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="blur-100">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+    <filter id="blur-120">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <filter id="blur-60">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <linearGradient id="card-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#635bff"/>
+      <stop offset="100%" stop-color="#7a73ff"/>
+    </linearGradient>
+    <linearGradient id="chip-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#f5d06b"/>
+    </linearGradient>
+    <clipPath id="card-clip">
+      <rect x="120" y="160" width="360" height="210" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0a2540"/>
+
+  <!-- Gradient mesh blobs -->
+  <ellipse cx="900" cy="80" rx="340" ry="260" fill="#635bff" opacity="0.35" filter="url(#blur-80)"/>
+  <ellipse cx="180" cy="520" rx="320" ry="220" fill="#00d4ff" opacity="0.25" filter="url(#blur-100)"/>
+  <ellipse cx="560" cy="300" rx="280" ry="200" fill="#7a73ff" opacity="0.3" filter="url(#blur-120)"/>
+  <ellipse cx="100" cy="120" rx="220" ry="160" fill="#80e9ff" opacity="0.2" filter="url(#blur-60)"/>
+  <ellipse cx="1100" cy="480" rx="260" ry="180" fill="#635bff" opacity="0.2" filter="url(#blur-80)"/>
+
+  <!-- Payment Card -->
+  <rect x="120" y="160" width="360" height="210" rx="16" fill="url(#card-gradient)"/>
+
+  <!-- Card subtle grid lines -->
+  <g clip-path="url(#card-clip)" opacity="0.08">
+    <line x1="120" y1="200" x2="480" y2="200" stroke="white" stroke-width="1"/>
+    <line x1="120" y1="240" x2="480" y2="240" stroke="white" stroke-width="1"/>
+    <line x1="120" y1="280" x2="480" y2="280" stroke="white" stroke-width="1"/>
+    <line x1="120" y1="320" x2="480" y2="320" stroke="white" stroke-width="1"/>
+    <line x1="180" y1="160" x2="180" y2="370" stroke="white" stroke-width="1"/>
+    <line x1="240" y1="160" x2="240" y2="370" stroke="white" stroke-width="1"/>
+    <line x1="300" y1="160" x2="300" y2="370" stroke="white" stroke-width="1"/>
+    <line x1="360" y1="160" x2="360" y2="370" stroke="white" stroke-width="1"/>
+    <line x1="420" y1="160" x2="420" y2="370" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Card chip -->
+  <rect x="152" y="206" width="44" height="34" rx="5" fill="url(#chip-gradient)"/>
+  <line x1="152" y1="220" x2="196" y2="220" stroke="#b8900a" stroke-width="1" opacity="0.5"/>
+  <line x1="152" y1="229" x2="196" y2="229" stroke="#b8900a" stroke-width="1" opacity="0.5"/>
+  <line x1="174" y1="206" x2="174" y2="240" stroke="#b8900a" stroke-width="1" opacity="0.5"/>
+
+  <!-- Card network logo circles -->
+  <circle cx="432" cy="205" r="18" fill="#eb001b" opacity="0.9"/>
+  <circle cx="454" cy="205" r="18" fill="#f79e1b" opacity="0.9"/>
+  <ellipse cx="443" cy="205" rx="7" ry="14" fill="#ff5f00" opacity="0.9"/>
+
+  <!-- Card number -->
+  <text x="152" y="305" font-family="'Courier New', monospace" font-size="18" fill="white" opacity="0.9" letter-spacing="3">....  ....  ....  4242</text>
+
+  <!-- Card holder -->
+  <text x="152" y="344" font-family="Arial, sans-serif" font-size="11" fill="white" opacity="0.6" letter-spacing="2">CARD HOLDER</text>
+  <text x="152" y="360" font-family="Arial, sans-serif" font-size="15" fill="white" font-weight="600">Alex Johnson</text>
+
+  <!-- Expiry -->
+  <text x="380" y="344" font-family="Arial, sans-serif" font-size="11" fill="white" opacity="0.6" letter-spacing="2">EXPIRES</text>
+  <text x="380" y="360" font-family="Arial, sans-serif" font-size="15" fill="white" font-weight="600">12/27</text>
+
+  <!-- Dashboard stat cards (right side) -->
+  <!-- Revenue card -->
+  <rect x="620" y="148" width="220" height="100" rx="8" fill="#1a3a5c" stroke="#2a5080" stroke-width="1"/>
+  <text x="644" y="186" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8" letter-spacing="1">REVENUE</text>
+  <text x="644" y="222" font-family="Arial, sans-serif" font-size="28" fill="white" font-weight="700">$24,891</text>
+
+  <!-- Growth card -->
+  <rect x="860" y="148" width="220" height="100" rx="8" fill="#1a3a5c" stroke="#2a5080" stroke-width="1"/>
+  <text x="884" y="186" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8" letter-spacing="1">GROWTH</text>
+  <text x="884" y="222" font-family="Arial, sans-serif" font-size="28" fill="#00d4ff" font-weight="700">+12.5%</text>
+
+  <!-- Transactions card -->
+  <rect x="740" y="272" width="220" height="100" rx="8" fill="#1a3a5c" stroke="#2a5080" stroke-width="1"/>
+  <text x="764" y="310" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8" letter-spacing="1">TRANSACTIONS</text>
+  <text x="764" y="346" font-family="Arial, sans-serif" font-size="28" fill="white" font-weight="700">1,847</text>
+
+  <!-- Mini sparkline on revenue card -->
+  <polyline points="644,252 658,244 672,248 686,236 700,240 714,228 728,232 742,220 756,226 770,216 784,222 798,210 812,216 826,204" stroke="#635bff" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- Bottom typography -->
+  <text x="120" y="470" font-family="Arial, sans-serif" font-size="68" fill="white" font-weight="700" letter-spacing="-1">Stripe Style</text>
+  <text x="122" y="510" font-family="Arial, sans-serif" font-size="22" fill="#94a3b8">Professional fintech design system</text>
+
+  <!-- Accent line -->
+  <rect x="120" y="530" width="120" height="3" rx="2" fill="#635bff"/>
+  <rect x="248" y="530" width="40" height="3" rx="2" fill="#00d4ff"/>
+</svg>

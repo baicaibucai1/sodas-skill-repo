@@ -1,1 +1,24 @@
-IyDntKDmnZDmnaXmupDkuI7orrjlj68KCuacrOebruW9leeahOebruW9leW/q+eFp+OAgeWwgemdouS4juWQjeensOivtOaYjuadpeiHqiAqKlN0eWxlS2l0KirvvIzkuI3mmK/mnKzku5Pljp/liJvvvJoKCi0g56uZ54K577yaPGh0dHBzOi8vd3d3LnN0eWxla2l0LnRvcC96aC9zdHlsZXM+Ci0g5LiK5ri45LuT5bqT77yaPGh0dHBzOi8vZ2l0aHViLmNvbS9BbnhGb3JldmVyL3N0eWxla2l0Pu+8iE1JVO+8iQotIOebruW9leaOpeWPo++8mjxodHRwczovL3d3dy5zdHlsZWtpdC50b3AvYXBpL3N0eWxlcz4KLSDlv6vnhafml6XmnJ/vvJoyMDI2LTExLTIy77yb5p2h55uu5pWw77yaMTUxCi0g5Y2V6aOO5qC86KeE6IyD77yaYGh0dHBzOi8vd3d3LnN0eWxla2l0LnRvcC9hcGkvc3R5bGVzLzxzbHVnPmDvvJvlrozmlbTlrp7njrDmlofmoaPlnKggYC4uLi9icmllZmAKCiMjIOWMheWQq+S7gOS5iAoKLSBgY2F0YWxvZy5qc29uYO+8muebruW9leWtl+auteeahOWtkOmbhu+8iHNsdWfjgIHkuK3oi7HmloflkI3jgIHor7TmmI7jgIHnsbvlnovjgIHlnLrmma/jgIHmoIfnrb7jgIHphY3oibLvvInvvIznlKjkuo7nprvnur/mo4DntKLjgIIKLSBgY292ZXJzLzxzbHVnPi5zdmdg77ya5bCB6Z2i55qE5pys5Zyw5Ymv5pys77yM5LuF55So5LqO56a757q/5rWP6KeI5LiO55S75buK5Y6f5Z6L44CCCgojIyDkuI3ljIXlkKvku4DkuYgKCuacrOS7k+S4jeWGjeWkjeWItumjjuagvOato+aWh++8iOinhOiMg+OAgee7hOS7tumFjeaWueOAgeaPkOekuuivje+8ie+8jOi/meS6m+S7pSBTdHlsZUtpdCDkuLrlh4bvvIzmjIkgc2x1ZyDlrp7ml7bor7vlj5bjgILoi6XmnKzku5PkuI7kuIrmuLjkuI3kuIDoh7TvvIzku6XkuIrmuLjkuLrlh4bjgIIKCiMjIOWGjeWIhuWPkeimgeaxggoKMS4g5L+d55WZ5pys5paH5Lu255qE5p2l5rqQ5LiOIE1JVCDorrjlj6/or7TmmI7vvIzkuI3lvpflo7Dnp7Dpo47moLzlhoXlrrnkuLrmnKzku5Pljp/liJvjgIIKMi4g5LiK5ri45pu05paw5ZCO77yM55SoIGBub2RlIHNjcmlwdHMvc3luYy1jYXRhbG9nLm1qc2Ag6YeN5bu65b+r54Wn77yM5bm25pu05paw5LiK6Z2i55qE44CM5b+r54Wn5pel5pyf44CN5LiO5p2h55uu5pWw44CCCjMuIOaWsOWinuacrOWcsOmjjuagvOaXtu+8jOe0oOadkOS4juaWh+Wtl+W/hemhu+iHquacieeJiOadg+aIluiOt+aOiOadg++8m+S4jeimgeaKiuS4iua4uOato+aWh+aKhOi/m+acrOWcsOadoeebruOAggo=
+# 素材来源与许可
+
+本目录的目录快照、封面与名称说明来自 **StyleKit**，不是本仓原创：
+
+- 站点：<https://www.stylekit.top/zh/styles>
+- 上游仓库：<https://github.com/AnxForever/stylekit>（MIT）
+- 目录接口：<https://www.stylekit.top/api/styles>
+- 快照日期：2026-11-22；条目数：151
+- 单风格规范：`https://www.stylekit.top/api/styles/<slug>`；完整实现文档在 `.../brief`
+
+## 包含什么
+
+- `catalog.json`：目录字段的子集（slug、中英文名、说明、类型、场景、标签、配色），用于离线检索。
+- `covers/<slug>.svg`：封面的本地副本，仅用于离线浏览与画廊原型。
+
+## 不包含什么
+
+本仓不再复制风格正文（规范、组件配方、提示词），这些以 StyleKit 为准，按 slug 实时读取。若本仓与上游不一致，以上游为准。
+
+## 再分发要求
+
+1. 保留本文件的来源与 MIT 许可说明，不得声称风格内容为本仓原创。
+2. 上游更新后，用 `node scripts/sync-catalog.mjs` 重建快照，并更新上面的「快照日期」与条目数。
+3. 新增本地风格时，素材与文字必须自有版权或获授权；不要把上游正文抄进本地条目。

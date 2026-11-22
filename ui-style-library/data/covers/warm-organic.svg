@@ -1,1 +1,37 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDEyMDAgNjMwIj4KICA8cGF0aCBmaWxsPSIjRjVGMEVCIiBkPSJNMCAwaDEyMDB2NjMwSDB6Ii8+CiAgPCEtLSBvcmdhbmljIGJhY2tncm91bmQgc2hhcGVzIC0tPgogIDxwYXRoIGZpbGw9IiNFOERFRDEiIGQ9Ik0wIDQ4MGMyMDAtNjAgNTAwIDQwIDgwMCAyMHMzNTAtMzAgNDAwLTIwdjE1MEgwWiIgb3BhY2l0eT0iMC42Ii8+CiAgPHBhdGggZmlsbD0iI0Q0QkZBNSIgZD0iTTAgNTIwYzE4MC00MCA0MjAgMzAgNzIwIDEwczMyMC0yMCA0ODAgMTB2MTEwSDBaIiBvcGFjaXR5PSIwLjQiLz4KICA8IS0tIGRlY29yYXRpdmUgbGVhZi9ib3RhbmljYWwgYnJhbmNoIC0tPgogIDxwYXRoIHN0cm9rZT0iIzdBOEI1RSIgc3Ryb2tlLXdpZHRoPSIyLjUiIGZpbGw9Im5vbmUiIGQ9Ik05MjAgODBjLTQgMjggMTIgNTIgMzYgNjIgMTYgNiAzNCA0IDQ0LTgiIG9wYWNpdHk9IjAuNyIvPgogIDxwYXRoIHN0cm9rZT0iIzdBOEI1RSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIiBkPSJNOTU2IDE0MmMtNiA4LTIgMTggOCAyMiIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iOTY4IiBjeT0iMTUwIiByPSIzIiBmaWxsPSIjN0E4QjVFIiBvcGFjaXR5PSIwLjYiLz4KICA8IS0tIG9yZ2FuaWMgY3VydmVkIGRpdmlkZXIgLS0+CiAgPHBhdGggc3Ryb2tlPSIjQzg2QTRBIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiIGQ9Ik04MCAxNjBjMTYwLTIwIDM0MC0yMCAzNDAgMHMxODAgMjAgMzQwIDAgMzAwLTIwIDM0MCAwIiBvcGFjaXR5PSIwLjUiLz4KICA8IS0tIGhlYWRsaW5lIC0tPgogIDx0ZXh0IHg9IjgwIiB5PSIxMjUiIGZpbGw9IiMyRDJBMjQiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCdUaW1lcyBOZXcgUm9tYW4nLHNlcmlmIiBmb250LXNpemU9IjU2IiBmb250LXdlaWdodD0iNjAwIj5tYWRlIGJ5IGhhbmQ8L3RleHQ+CiAgPHRleHQgeD0iODAiIHk9IjE3NSIgZmlsbD0iI0M4NkE0QSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iMjIiIGZvbnQtc3R5bGU9Iml0YWxpYyI+Y3JhZnQgwrcgbWF0ZXJpYWwgwrcgc3BhY2U8L3RleHQ+CiAgPCEtLSBwcm9qZWN0IGNhcmRzIHdpdGggb3JnYW5pYyBmZWVsIC0tPgogIDxyZWN0IHg9IjgwIiB5PSIyNDAiIHdpZHRoPSIzMjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjRkZGRkZGIiByeD0iMTIiLz4KICA8cmVjdCB4PSI5MiIgeT0iMjUyIiB3aWR0aD0iMjk2IiBoZWlnaHQ9IjEyMCIgZmlsbD0iI0YwRThERSIgcng9IjgiLz4KICA8cmVjdCB4PSI5MiIgeT0iMzg0IiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjI0IiBmaWxsPSIjQzg2QTRBIiByeD0iMTIiLz4KICA8dGV4dCB4PSIxNjIiIHk9IjQwMCIgZmlsbD0iI0ZGRkZGRiIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGxldHRlci1zcGFjaW5nPSIuMDVlbSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjYwMCI+QVJDSElURUNUVVJFPC90ZXh0PgogIDx0ZXh0IHg9IjI2MCIgeT0iMzk4IiBmaWxsPSIjMkQyQTI0IiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSIzMDAiPkvFjWNoaSBIb3VzZTwvdGV4dD4KCiAgPHJlY3QgeD0iNDQwIiB5PSIyNDAiIHdpZHRoPSIzMjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjRkZGRkZGIiByeD0iMTIiLz4KICA8cmVjdCB4PSI0NTIiIHk9IjI1MiIgd2lkdGg9IjI5NiIgaGVpZ2h0PSIxMjAiIGZpbGw9IiNGMEU4REUiIHJ4PSI4Ii8+CiAgPHJlY3QgeD0iNDUyIiB5PSIzODQiIHdpZHRoPSIxMjAiIGhlaWdodD0iMjQiIGZpbGw9IiM3QThCNUUiIHJ4PSIxMiIvPgogIDx0ZXh0IHg9IjUxMiIgeT0iNDAwIiBmaWxsPSIjRkZGRkZGIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgbGV0dGVyLXNwYWNpbmc9Ii4wNWVtIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iNjAwIj5QUk9EVUNUPC90ZXh0PgogIDx0ZXh0IHg9IjYwMCIgeT0iMzk4IiBmaWxsPSIjMkQyQTI0IiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSIzMDAiPlRlcnJhY290dGEgVmVzc2VsczwvdGV4dD4KCiAgPHJlY3QgeD0iODAwIiB5PSIyNDAiIHdpZHRoPSIzMjAiIGhlaWdodD0iMTgwIiBmaWxsPSIjRkZGRkZGIiByeD0iMTIiLz4KICA8cmVjdCB4PSI4MTIiIHk9IjI1MiIgd2lkdGg9IjI5NiIgaGVpZ2h0PSIxMjAiIGZpbGw9IiNGMEU4REUiIHJ4PSI4Ii8+CiAgPHJlY3QgeD0iODEyIiB5PSIzODQiIHdpZHRoPSIxMzAiIGhlaWdodD0iMjQiIGZpbGw9IiNDODZBNEEiIHJ4PSIxMiIvPgogIDx0ZXh0IHg9Ijg3NyIgeT0iNDAwIiBmaWxsPSIjRkZGRkZGIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgbGV0dGVyLXNwYWNpbmc9Ii4wNWVtIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iNjAwIj5JTlRFUklPUjwvdGV4dD4KICA8dGV4dCB4PSI5NzAiIHk9IjM5OCIgZmlsbD0iIzJEMkEyNCIgZm9udC1mYW1pbHk9IidJbnRlcicsJ1NlZ29lIFVJJyxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iMzAwIj5DbGF5IFN0dWRpbzwvdGV4dD4KCiAgPCEtLSBmb290ZXIgLS0+CiAgPHRleHQgeD0iNjAwIiB5PSI1ODUiIGZpbGw9IiNDODZBNEEiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCdUaW1lcyBOZXcgUm9tYW4nLHNlcmlmIiBmb250LXNpemU9IjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5XYXJtIE9yZ2FuaWMgwrcg5pqW5oSf5pyJ5py66aOOPC90ZXh0PgogIDx0ZXh0IHg9IjYwMCIgeT0iNjEwIiBmaWxsPSIjOEI3RDZCIiBmb250LWZhbWlseT0iJ0ludGVyJywnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgbGV0dGVyLXNwYWNpbmc9Ii4xZW0iIHRleHQtYW5jaG9yPSJtaWRkbGUiPlBPUlRGT0xJTyBTVFlMRTwvdGV4dD4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" fill="none" viewBox="0 0 1200 630">
+  <path fill="#F5F0EB" d="M0 0h1200v630H0z"/>
+  <!-- organic background shapes -->
+  <path fill="#E8DED1" d="M0 480c200-60 500 40 800 20s350-30 400-20v150H0Z" opacity="0.6"/>
+  <path fill="#D4BFA5" d="M0 520c180-40 420 30 720 10s320-20 480 10v110H0Z" opacity="0.4"/>
+  <!-- decorative leaf/botanical branch -->
+  <path stroke="#7A8B5E" stroke-width="2.5" fill="none" d="M920 80c-4 28 12 52 36 62 16 6 34 4 44-8" opacity="0.7"/>
+  <path stroke="#7A8B5E" stroke-width="2" fill="none" d="M956 142c-6 8-2 18 8 22" opacity="0.5"/>
+  <circle cx="968" cy="150" r="3" fill="#7A8B5E" opacity="0.6"/>
+  <!-- organic curved divider -->
+  <path stroke="#C86A4A" stroke-width="2" fill="none" d="M80 160c160-20 340-20 340 0s180 20 340 0 300-20 340 0" opacity="0.5"/>
+  <!-- headline -->
+  <text x="80" y="125" fill="#2D2A24" font-family="Georgia,'Times New Roman',serif" font-size="56" font-weight="600">made by hand</text>
+  <text x="80" y="175" fill="#C86A4A" font-family="Georgia,'Times New Roman',serif" font-size="22" font-style="italic">craft · material · space</text>
+  <!-- project cards with organic feel -->
+  <rect x="80" y="240" width="320" height="180" fill="#FFFFFF" rx="12"/>
+  <rect x="92" y="252" width="296" height="120" fill="#F0E8DE" rx="8"/>
+  <rect x="92" y="384" width="140" height="24" fill="#C86A4A" rx="12"/>
+  <text x="162" y="400" fill="#FFFFFF" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".05em" text-anchor="middle" font-weight="600">ARCHITECTURE</text>
+  <text x="260" y="398" fill="#2D2A24" font-family="'Inter','Segoe UI',sans-serif" font-size="11" font-weight="300">Kōchi House</text>
+
+  <rect x="440" y="240" width="320" height="180" fill="#FFFFFF" rx="12"/>
+  <rect x="452" y="252" width="296" height="120" fill="#F0E8DE" rx="8"/>
+  <rect x="452" y="384" width="120" height="24" fill="#7A8B5E" rx="12"/>
+  <text x="512" y="400" fill="#FFFFFF" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".05em" text-anchor="middle" font-weight="600">PRODUCT</text>
+  <text x="600" y="398" fill="#2D2A24" font-family="'Inter','Segoe UI',sans-serif" font-size="11" font-weight="300">Terracotta Vessels</text>
+
+  <rect x="800" y="240" width="320" height="180" fill="#FFFFFF" rx="12"/>
+  <rect x="812" y="252" width="296" height="120" fill="#F0E8DE" rx="8"/>
+  <rect x="812" y="384" width="130" height="24" fill="#C86A4A" rx="12"/>
+  <text x="877" y="400" fill="#FFFFFF" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".05em" text-anchor="middle" font-weight="600">INTERIOR</text>
+  <text x="970" y="398" fill="#2D2A24" font-family="'Inter','Segoe UI',sans-serif" font-size="11" font-weight="300">Clay Studio</text>
+
+  <!-- footer -->
+  <text x="600" y="585" fill="#C86A4A" font-family="Georgia,'Times New Roman',serif" font-size="14" text-anchor="middle">Warm Organic · 暖感有机风</text>
+  <text x="600" y="610" fill="#8B7D6B" font-family="'Inter','Segoe UI',sans-serif" font-size="9" letter-spacing=".1em" text-anchor="middle">PORTFOLIO STYLE</text>
+</svg>

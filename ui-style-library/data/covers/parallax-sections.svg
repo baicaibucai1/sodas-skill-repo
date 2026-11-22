@@ -1,1 +1,64 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIj4KICA8IS0tIEJhY2tncm91bmQgc2t5IGxheWVyIChMYXllciAxIC0gZmFydGhlc3QpIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iIzFlM2E1ZiIvPgoKICA8IS0tIFN0YXJzIHNjYXR0ZXJlZCBpbiBza3kgLS0+CiAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iNDAiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iMjQwIiBjeT0iNzUiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iMzcwIiBjeT0iMjgiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iNTEwIiBjeT0iNTUiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iNjUwIiBjeT0iMzUiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iNzgwIiBjeT0iNjIiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iODkwIiBjeT0iMjIiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC45Ii8+CiAgPGNpcmNsZSBjeD0iMTAyMCIgY3k9IjQ4IiByPSIxLjUiIGZpbGw9IiNlMmU4ZjAiIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjExMzAiIGN5PSI2OCIgcj0iMS41IiBmaWxsPSIjZTJlOGYwIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSIxODUiIGN5PSIxMTIiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNDYwIiBjeT0iOTAiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNzIwIiBjeT0iMTA1IiByPSIxLjUiIGZpbGw9IiNlMmU4ZjAiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9Ijk2MCIgY3k9Ijg4IiByPSIxLjUiIGZpbGw9IiNlMmU4ZjAiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjU1IiBjeT0iODIiIHI9IjEuNSIgZmlsbD0iI2UyZThmMCIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMTA4MCIgY3k9IjExOCIgcj0iMS41IiBmaWxsPSIjZTJlOGYwIiBvcGFjaXR5PSIwLjUiLz4KCiAgPCEtLSBMYXllciAyOiBGYXIgaGlsbHMgLS0+CiAgPHBhdGggZD0iTTAsMzEwIFE4MCwyMDAgMjAwLDI0MCBRMzIwLDE4MCA0MjAsMjUwIFE1MjAsMTkwIDYyMCwyMzUgUTcyMCwxNzUgODQwLDIzMCBROTQwLDE4NSAxMDUwLDIyMCBRMTEzMCwxOTAgMTIwMCwyMTUgTDEyMDAsNjMwIEwwLDYzMCBaIiBmaWxsPSIjMmQ0ZjczIi8+CgogIDwhLS0gTGF5ZXIgMzogTWlkIGhpbGxzIC0tPgogIDxwYXRoIGQ9Ik0wLDM3MCBRMTAwLDI4MCAyMjAsMzIwIFEzNDAsMjY1IDQ2MCwzMTAgUTU4MCwyNjAgNjgwLDMwNSBRODAwLDI1NSA5MjAsMjk1IFExMDIwLDI2NSAxMTAwLDI4OCBRMTE2MCwyNzAgMTIwMCwyNzggTDEyMDAsNjMwIEwwLDYzMCBaIiBmaWxsPSIjMWU2MDkxIi8+CgogIDwhLS0gTGF5ZXIgNDogTmVhciBoaWxscyAtLT4KICA8cGF0aCBkPSJNMCw0MzAgUTEyMCwzNjAgMjYwLDM5NSBRMzgwLDM0NSA1MDAsMzg1IFE2MjAsMzUwIDc0MCwzODAgUTg2MCwzNDUgOTgwLDM3NSBRMTA4MCwzNTUgMTIwMCwzNjUgTDEyMDAsNjMwIEwwLDYzMCBaIiBmaWxsPSIjMWUzYTVmIiBvcGFjaXR5PSIwLjkiLz4KCiAgPCEtLSBGb3JlZ3JvdW5kIHN0cmlwIChjbG9zZXN0IGxheWVyKSAtLT4KICA8cGF0aCBkPSJNMCw1MTAgUTE1MCw0ODAgMzAwLDQ5NSBRNDUwLDQ3MCA2MDAsNDg4IFE3NTAsNDY1IDkwMCw0ODIgUTEwNTAsNDYwIDEyMDAsNDc1IEwxMjAwLDYzMCBMMCw2MzAgWiIgZmlsbD0iIzBmMjc0NCIvPgoKICA8IS0tIFBhcmFsbGF4IGxheWVyIGxhYmVscyBvbiB0aGUgbGVmdCAtLT4KICA8IS0tIExheWVyIDEgbGFiZWwgLS0+CiAgPGxpbmUgeDE9IjcyIiB5MT0iODAiIHgyPSIxMDgiIHkyPSI4MCIgc3Ryb2tlPSIjOTNjNWZkIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNiIvPgogIDxyZWN0IHg9IjQiIHk9IjcwIiB3aWR0aD0iNjYiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0iIzFlM2E1ZiIgc3Ryb2tlPSIjOTNjNWZkIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuOCIvPgogIDx0ZXh0IHg9IjM3IiB5PSI4NCIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzkzYzVmZCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TGF5ZXIgMTwvdGV4dD4KCiAgPCEtLSBMYXllciAyIGxhYmVsIC0tPgogIDxsaW5lIHgxPSI3MiIgeTE9IjI1MCIgeDI9IjEwOCIgeTI9IjI1MCIgc3Ryb2tlPSIjOTNjNWZkIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNiIvPgogIDxyZWN0IHg9IjQiIHk9IjI0MCIgd2lkdGg9IjY2IiBoZWlnaHQ9IjIwIiByeD0iMTAiIGZpbGw9IiMxZTNhNWYiIHN0cm9rZT0iIzkzYzVmZCIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjgiLz4KICA8dGV4dCB4PSIzNyIgeT0iMjU0IiBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIiBmaWxsPSIjOTNjNWZkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5MYXllciAyPC90ZXh0PgoKICA8IS0tIExheWVyIDMgbGFiZWwgLS0+CiAgPGxpbmUgeDE9IjcyIiB5MT0iMzM1IiB4Mj0iMTA4IiB5Mj0iMzM1IiBzdHJva2U9IiM5M2M1ZmQiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC42Ii8+CiAgPHJlY3QgeD0iNCIgeT0iMzI1IiB3aWR0aD0iNjYiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0iIzFlM2E1ZiIgc3Ryb2tlPSIjOTNjNWZkIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuOCIvPgogIDx0ZXh0IHg9IjM3IiB5PSIzMzkiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM5M2M1ZmQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkxheWVyIDM8L3RleHQ+CgogIDwhLS0gTGF5ZXIgNCBsYWJlbCAtLT4KICA8bGluZSB4MT0iNzIiIHkxPSI0MTUiIHgyPSIxMDgiIHkyPSI0MTUiIHN0cm9rZT0iIzkzYzVmZCIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjYiLz4KICA8cmVjdCB4PSI0IiB5PSI0MDUiIHdpZHRoPSI2NiIgaGVpZ2h0PSIyMCIgcng9IjEwIiBmaWxsPSIjMWUzYTVmIiBzdHJva2U9IiM5M2M1ZmQiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC44Ii8+CiAgPHRleHQgeD0iMzciIHk9IjQxOSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzkzYzVmZCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TGF5ZXIgNDwvdGV4dD4KCiAgPCEtLSBUaXRsZTogUEFSQUxMQVggLS0+CiAgPHRleHQgeD0iNjAwIiB5PSIxNzUiIGZvbnQtZmFtaWx5PSInQXJpYWwgQmxhY2snLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI4MCIgZm9udC13ZWlnaHQ9IjkwMCIgZmlsbD0iI2Y4ZmFmYyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjYiPlBBUkFMTEFYPC90ZXh0PgoKICA8IS0tIFN1YnRpdGxlOiBTRUNUSU9OUyAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjIyOCIgZm9udC1mYW1pbHk9IidBcmlhbCBCbGFjaycsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjOTNjNWZkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMTAiPlNFQ1RJT05TPC90ZXh0PgoKICA8IS0tIFNjcm9sbCBpbmRpY2F0b3IgYXQgYm90dG9tIGNlbnRlciAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjU5OCIgZm9udC1mYW1pbHk9IidBcmlhbCcsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjIiIGZpbGw9IiM5M2M1ZmQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIG9wYWNpdHk9IjAuOCI+JiN4MjE5Mzs8L3RleHQ+CiAgPHRleHQgeD0iNjAwIiB5PSI2MTgiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5M2M1ZmQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIG9wYWNpdHk9IjAuNiIgbGV0dGVyLXNwYWNpbmc9IjIiPnNjcm9sbDwvdGV4dD4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Background sky layer (Layer 1 - farthest) -->
+  <rect width="1200" height="630" fill="#1e3a5f"/>
+
+  <!-- Stars scattered in sky -->
+  <circle cx="120" cy="40" r="1.5" fill="#e2e8f0" opacity="0.9"/>
+  <circle cx="240" cy="75" r="1.5" fill="#e2e8f0" opacity="0.7"/>
+  <circle cx="370" cy="28" r="1.5" fill="#e2e8f0" opacity="0.8"/>
+  <circle cx="510" cy="55" r="1.5" fill="#e2e8f0" opacity="0.9"/>
+  <circle cx="650" cy="35" r="1.5" fill="#e2e8f0" opacity="0.6"/>
+  <circle cx="780" cy="62" r="1.5" fill="#e2e8f0" opacity="0.8"/>
+  <circle cx="890" cy="22" r="1.5" fill="#e2e8f0" opacity="0.9"/>
+  <circle cx="1020" cy="48" r="1.5" fill="#e2e8f0" opacity="0.7"/>
+  <circle cx="1130" cy="68" r="1.5" fill="#e2e8f0" opacity="0.8"/>
+  <circle cx="185" cy="112" r="1.5" fill="#e2e8f0" opacity="0.5"/>
+  <circle cx="460" cy="90" r="1.5" fill="#e2e8f0" opacity="0.7"/>
+  <circle cx="720" cy="105" r="1.5" fill="#e2e8f0" opacity="0.6"/>
+  <circle cx="960" cy="88" r="1.5" fill="#e2e8f0" opacity="0.8"/>
+  <circle cx="55" cy="82" r="1.5" fill="#e2e8f0" opacity="0.6"/>
+  <circle cx="1080" cy="118" r="1.5" fill="#e2e8f0" opacity="0.5"/>
+
+  <!-- Layer 2: Far hills -->
+  <path d="M0,310 Q80,200 200,240 Q320,180 420,250 Q520,190 620,235 Q720,175 840,230 Q940,185 1050,220 Q1130,190 1200,215 L1200,630 L0,630 Z" fill="#2d4f73"/>
+
+  <!-- Layer 3: Mid hills -->
+  <path d="M0,370 Q100,280 220,320 Q340,265 460,310 Q580,260 680,305 Q800,255 920,295 Q1020,265 1100,288 Q1160,270 1200,278 L1200,630 L0,630 Z" fill="#1e6091"/>
+
+  <!-- Layer 4: Near hills -->
+  <path d="M0,430 Q120,360 260,395 Q380,345 500,385 Q620,350 740,380 Q860,345 980,375 Q1080,355 1200,365 L1200,630 L0,630 Z" fill="#1e3a5f" opacity="0.9"/>
+
+  <!-- Foreground strip (closest layer) -->
+  <path d="M0,510 Q150,480 300,495 Q450,470 600,488 Q750,465 900,482 Q1050,460 1200,475 L1200,630 L0,630 Z" fill="#0f2744"/>
+
+  <!-- Parallax layer labels on the left -->
+  <!-- Layer 1 label -->
+  <line x1="72" y1="80" x2="108" y2="80" stroke="#93c5fd" stroke-width="1" opacity="0.6"/>
+  <rect x="4" y="70" width="66" height="20" rx="10" fill="#1e3a5f" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <text x="37" y="84" font-family="'Courier New', monospace" font-size="12" fill="#93c5fd" text-anchor="middle">Layer 1</text>
+
+  <!-- Layer 2 label -->
+  <line x1="72" y1="250" x2="108" y2="250" stroke="#93c5fd" stroke-width="1" opacity="0.6"/>
+  <rect x="4" y="240" width="66" height="20" rx="10" fill="#1e3a5f" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <text x="37" y="254" font-family="'Courier New', monospace" font-size="12" fill="#93c5fd" text-anchor="middle">Layer 2</text>
+
+  <!-- Layer 3 label -->
+  <line x1="72" y1="335" x2="108" y2="335" stroke="#93c5fd" stroke-width="1" opacity="0.6"/>
+  <rect x="4" y="325" width="66" height="20" rx="10" fill="#1e3a5f" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <text x="37" y="339" font-family="'Courier New', monospace" font-size="12" fill="#93c5fd" text-anchor="middle">Layer 3</text>
+
+  <!-- Layer 4 label -->
+  <line x1="72" y1="415" x2="108" y2="415" stroke="#93c5fd" stroke-width="1" opacity="0.6"/>
+  <rect x="4" y="405" width="66" height="20" rx="10" fill="#1e3a5f" stroke="#93c5fd" stroke-width="1" opacity="0.8"/>
+  <text x="37" y="419" font-family="'Courier New', monospace" font-size="12" fill="#93c5fd" text-anchor="middle">Layer 4</text>
+
+  <!-- Title: PARALLAX -->
+  <text x="600" y="175" font-family="'Arial Black', Arial, sans-serif" font-size="80" font-weight="900" fill="#f8fafc" text-anchor="middle" letter-spacing="6">PARALLAX</text>
+
+  <!-- Subtitle: SECTIONS -->
+  <text x="600" y="228" font-family="'Arial Black', Arial, sans-serif" font-size="40" font-weight="700" fill="#93c5fd" text-anchor="middle" letter-spacing="10">SECTIONS</text>
+
+  <!-- Scroll indicator at bottom center -->
+  <text x="600" y="598" font-family="'Arial', sans-serif" font-size="22" fill="#93c5fd" text-anchor="middle" opacity="0.8">&#x2193;</text>
+  <text x="600" y="618" font-family="'Courier New', monospace" font-size="11" fill="#93c5fd" text-anchor="middle" opacity="0.6" letter-spacing="2">scroll</text>
+</svg>

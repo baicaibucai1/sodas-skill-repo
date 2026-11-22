@@ -1,1 +1,71 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZjBlNmQwIi8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBBZ2VkIHBhcGVyIHRleHR1cmUgZWZmZWN0IC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iI2U4ZGNjNCIgb3BhY2l0eT0iMC4zIi8+CiAgPCEtLSBPcm5hdGUgb3V0ZXIgYm9yZGVyIC0tPgogIDxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9Ijc2MCIgaGVpZ2h0PSIzNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhiMWExYSIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPHJlY3QgeD0iMjgiIHk9IjI4IiB3aWR0aD0iNzQ0IiBoZWlnaHQ9IjM0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhNzRlIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDxyZWN0IHg9IjM0IiB5PSIzNCIgd2lkdGg9IjczMiIgaGVpZ2h0PSIzMzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhiMWExYSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPCEtLSBDb3JuZXIgb3JuYW1lbnRzIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQwLDQwKSI+CiAgICA8cGF0aCBkPSJNMCwwIEwzMCwwIEwzMCw1IEw1LDUgTDUsMzAgTDAsMzAgWiIgZmlsbD0iI2M5YTc0ZSIvPgogICAgPGNpcmNsZSBjeD0iMTUiIGN5PSIxNSIgcj0iNCIgZmlsbD0iIzhiMWExYSIvPgogIDwvZz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NjAsNDApIHNjYWxlKC0xLDEpIj4KICAgIDxwYXRoIGQ9Ik0wLDAgTDMwLDAgTDMwLDUgTDUsNSBMNSwzMCBMMCwzMCBaIiBmaWxsPSIjYzlhNzRlIi8+CiAgICA8Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSI0IiBmaWxsPSIjOGIxYTFhIi8+CiAgPC9nPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQwLDM2MCkgc2NhbGUoMSwtMSkiPgogICAgPHBhdGggZD0iTTAsMCBMMzAsMCBMMzAsNSBMNSw1IEw1LDMwIEwwLDMwIFoiIGZpbGw9IiNjOWE3NGUiLz4KICAgIDxjaXJjbGUgY3g9IjE1IiBjeT0iMTUiIHI9IjQiIGZpbGw9IiM4YjFhMWEiLz4KICA8L2c+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzYwLDM2MCkgc2NhbGUoLTEsLTEpIj4KICAgIDxwYXRoIGQ9Ik0wLDAgTDMwLDAgTDMwLDUgTDUsNSBMNSwzMCBMMCwzMCBaIiBmaWxsPSIjYzlhNzRlIi8+CiAgICA8Y2lyY2xlIGN4PSIxNSIgY3k9IjE1IiByPSI0IiBmaWxsPSIjOGIxYTFhIi8+CiAgPC9nPgogIDwhLS0gSWxsdW1pbmF0ZWQgbGV0dGVyIGFyZWEgLS0+CiAgPHJlY3QgeD0iODAiIHk9IjgwIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE2MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhNzRlIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cmVjdCB4PSI4NSIgeT0iODUiIHdpZHRoPSIxMzAiIGhlaWdodD0iMTUwIiBmaWxsPSIjOGIxYTFhIiBvcGFjaXR5PSIwLjA4Ii8+CiAgPCEtLSBJbGx1bWluYXRlZCAiTSIgLS0+CiAgPHRleHQgeD0iMTUwIiB5PSIyMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTIwIiBmaWxsPSIjOGIxYTFhIiBmb250LXdlaWdodD0iYm9sZCI+TTwvdGV4dD4KICA8IS0tIEdvbGQgbGVhZiBhY2NlbnQgb24gbGV0dGVyIC0tPgogIDxjaXJjbGUgY3g9IjExNSIgY3k9IjE0MCIgcj0iOCIgZmlsbD0iI2M5YTc0ZSIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMTg1IiBjeT0iMTQwIiByPSI4IiBmaWxsPSIjYzlhNzRlIiBvcGFjaXR5PSIwLjYiLz4KICA8IS0tIFZpbmUvc2Nyb2xsIGRlY29yYXRpb25zIGFsb25nIGxlZnQgYm9yZGVyIC0tPgogIDxwYXRoIGQ9Ik02MCw4MCBRNTAsMTIwIDYwLDE2MCBRNzAsMjAwIDYwLDI0MCBRNTAsMjgwIDYwLDMyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOGIxYTFhIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDxjaXJjbGUgY3g9IjYwIiBjeT0iMTIwIiByPSI0IiBmaWxsPSIjYzlhNzRlIiBvcGFjaXR5PSIwLjciLz4KICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjIwMCIgcj0iNCIgZmlsbD0iI2M5YTc0ZSIgb3BhY2l0eT0iMC43Ii8+CiAgPGNpcmNsZSBjeD0iNjAiIGN5PSIyODAiIHI9IjQiIGZpbGw9IiNjOWE3NGUiIG9wYWNpdHk9IjAuNyIvPgogIDwhLS0gU2ltdWxhdGVkIHRleHQgbGluZXMgLS0+CiAgPGcgZmlsbD0iIzhiMWExYSIgb3BhY2l0eT0iMC4zIj4KICAgIDxyZWN0IHg9IjI1MCIgeT0iOTAiIHdpZHRoPSI0ODAiIGhlaWdodD0iNCIgcng9IjEiLz4KICAgIDxyZWN0IHg9IjI1MCIgeT0iMTEwIiB3aWR0aD0iNDYwIiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgICA8cmVjdCB4PSIyNTAiIHk9IjEzMCIgd2lkdGg9IjQ5MCIgaGVpZ2h0PSI0IiByeD0iMSIvPgogICAgPHJlY3QgeD0iMjUwIiB5PSIxNTAiIHdpZHRoPSI0NDAiIGhlaWdodD0iNCIgcng9IjEiLz4KICAgIDxyZWN0IHg9IjI1MCIgeT0iMTcwIiB3aWR0aD0iNDc1IiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgICA8cmVjdCB4PSIyNTAiIHk9IjE5MCIgd2lkdGg9IjQ1MCIgaGVpZ2h0PSI0IiByeD0iMSIvPgogICAgPHJlY3QgeD0iMjUwIiB5PSIyMTAiIHdpZHRoPSI0ODUiIGhlaWdodD0iNCIgcng9IjEiLz4KICAgIDxyZWN0IHg9IjI1MCIgeT0iMjMwIiB3aWR0aD0iNDMwIiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgICA8cmVjdCB4PSI4MCIgeT0iMjYwIiB3aWR0aD0iNjUwIiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgICA8cmVjdCB4PSI4MCIgeT0iMjgwIiB3aWR0aD0iNjYwIiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgICA8cmVjdCB4PSI4MCIgeT0iMzAwIiB3aWR0aD0iNjMwIiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgICA8cmVjdCB4PSI4MCIgeT0iMzIwIiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjQiIHJ4PSIxIi8+CiAgPC9nPgogIDwhLS0gQ3Jvc3MgZGVjb3JhdGlvbnMgaW4gbWFyZ2luIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDc0MCwxMDApIiBmaWxsPSIjYzlhNzRlIj4KICAgIDxyZWN0IHg9Ii0yIiB5PSItOCIgd2lkdGg9IjQiIGhlaWdodD0iMTYiLz4KICAgIDxyZWN0IHg9Ii04IiB5PSItMiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjQiLz4KICA8L2c+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzQwLDIwMCkiIGZpbGw9IiNjOWE3NGUiPgogICAgPHJlY3QgeD0iLTIiIHk9Ii04IiB3aWR0aD0iNCIgaGVpZ2h0PSIxNiIvPgogICAgPHJlY3QgeD0iLTgiIHk9Ii0yIiB3aWR0aD0iMTYiIGhlaWdodD0iNCIvPgogIDwvZz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NDAsMzAwKSIgZmlsbD0iI2M5YTc0ZSI+CiAgICA8cmVjdCB4PSItMiIgeT0iLTgiIHdpZHRoPSI0IiBoZWlnaHQ9IjE2Ii8+CiAgICA8cmVjdCB4PSItOCIgeT0iLTIiIHdpZHRoPSIxNiIgaGVpZ2h0PSI0Ii8+CiAgPC9nPgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzODAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM4YjFhMWEiIGZvbnQtc3R5bGU9Iml0YWxpYyIgbGV0dGVyLXNwYWNpbmc9IjIiPk1lZGlldmFsIE1hbnVzY3JpcHQ8L3RleHQ+CiAgPC9nPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f0e6d0"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Aged paper texture effect -->
+  <rect width="1200" height="630" fill="#e8dcc4" opacity="0.3"/>
+  <!-- Ornate outer border -->
+  <rect x="20" y="20" width="760" height="360" fill="none" stroke="#8b1a1a" stroke-width="3"/>
+  <rect x="28" y="28" width="744" height="344" fill="none" stroke="#c9a74e" stroke-width="1.5"/>
+  <rect x="34" y="34" width="732" height="332" fill="none" stroke="#8b1a1a" stroke-width="1"/>
+  <!-- Corner ornaments -->
+  <g transform="translate(40,40)">
+    <path d="M0,0 L30,0 L30,5 L5,5 L5,30 L0,30 Z" fill="#c9a74e"/>
+    <circle cx="15" cy="15" r="4" fill="#8b1a1a"/>
+  </g>
+  <g transform="translate(760,40) scale(-1,1)">
+    <path d="M0,0 L30,0 L30,5 L5,5 L5,30 L0,30 Z" fill="#c9a74e"/>
+    <circle cx="15" cy="15" r="4" fill="#8b1a1a"/>
+  </g>
+  <g transform="translate(40,360) scale(1,-1)">
+    <path d="M0,0 L30,0 L30,5 L5,5 L5,30 L0,30 Z" fill="#c9a74e"/>
+    <circle cx="15" cy="15" r="4" fill="#8b1a1a"/>
+  </g>
+  <g transform="translate(760,360) scale(-1,-1)">
+    <path d="M0,0 L30,0 L30,5 L5,5 L5,30 L0,30 Z" fill="#c9a74e"/>
+    <circle cx="15" cy="15" r="4" fill="#8b1a1a"/>
+  </g>
+  <!-- Illuminated letter area -->
+  <rect x="80" y="80" width="140" height="160" fill="none" stroke="#c9a74e" stroke-width="2"/>
+  <rect x="85" y="85" width="130" height="150" fill="#8b1a1a" opacity="0.08"/>
+  <!-- Illuminated "M" -->
+  <text x="150" y="200" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="120" fill="#8b1a1a" font-weight="bold">M</text>
+  <!-- Gold leaf accent on letter -->
+  <circle cx="115" cy="140" r="8" fill="#c9a74e" opacity="0.6"/>
+  <circle cx="185" cy="140" r="8" fill="#c9a74e" opacity="0.6"/>
+  <!-- Vine/scroll decorations along left border -->
+  <path d="M60,80 Q50,120 60,160 Q70,200 60,240 Q50,280 60,320" fill="none" stroke="#8b1a1a" stroke-width="1.5"/>
+  <circle cx="60" cy="120" r="4" fill="#c9a74e" opacity="0.7"/>
+  <circle cx="60" cy="200" r="4" fill="#c9a74e" opacity="0.7"/>
+  <circle cx="60" cy="280" r="4" fill="#c9a74e" opacity="0.7"/>
+  <!-- Simulated text lines -->
+  <g fill="#8b1a1a" opacity="0.3">
+    <rect x="250" y="90" width="480" height="4" rx="1"/>
+    <rect x="250" y="110" width="460" height="4" rx="1"/>
+    <rect x="250" y="130" width="490" height="4" rx="1"/>
+    <rect x="250" y="150" width="440" height="4" rx="1"/>
+    <rect x="250" y="170" width="475" height="4" rx="1"/>
+    <rect x="250" y="190" width="450" height="4" rx="1"/>
+    <rect x="250" y="210" width="485" height="4" rx="1"/>
+    <rect x="250" y="230" width="430" height="4" rx="1"/>
+    <rect x="80" y="260" width="650" height="4" rx="1"/>
+    <rect x="80" y="280" width="660" height="4" rx="1"/>
+    <rect x="80" y="300" width="630" height="4" rx="1"/>
+    <rect x="80" y="320" width="640" height="4" rx="1"/>
+  </g>
+  <!-- Cross decorations in margin -->
+  <g transform="translate(740,100)" fill="#c9a74e">
+    <rect x="-2" y="-8" width="4" height="16"/>
+    <rect x="-8" y="-2" width="16" height="4"/>
+  </g>
+  <g transform="translate(740,200)" fill="#c9a74e">
+    <rect x="-2" y="-8" width="4" height="16"/>
+    <rect x="-8" y="-2" width="16" height="4"/>
+  </g>
+  <g transform="translate(740,300)" fill="#c9a74e">
+    <rect x="-2" y="-8" width="4" height="16"/>
+    <rect x="-8" y="-2" width="16" height="4"/>
+  </g>
+  <!-- Title -->
+  <text x="400" y="380" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#8b1a1a" font-style="italic" letter-spacing="2">Medieval Manuscript</text>
+  </g>
+</svg>

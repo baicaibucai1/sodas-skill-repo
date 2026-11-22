@@ -1,1 +1,22 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZmFmOWY3Ii8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBTb2Z0IHJvdW5kZWQgc2hhcGVzIHdpdGggbG90cyBvZiB3aGl0ZXNwYWNlIC0tPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjE2MCIgcj0iNjAiIGZpbGw9IiMzZDRhNWMiIG9wYWNpdHk9IjAuMDgiLz4KICA8Y2lyY2xlIGN4PSI1MDAiIGN5PSIxODAiIHI9IjkwIiBmaWxsPSIjZDRhNWE1IiBvcGFjaXR5PSIwLjE1Ii8+CiAgPHJlY3QgeD0iMzUwIiB5PSIyMzAiIHdpZHRoPSIxMDAiIGhlaWdodD0iNCIgcng9IjIiIGZpbGw9IiMzZDRhNWMiIG9wYWNpdHk9IjAuMiIvPgogIDwhLS0gU3VidGxlIHBpbGwgc2hhcGVzIC0tPgogIDxyZWN0IHg9IjIwMCIgeT0iMTIwIiB3aWR0aD0iNjAiIGhlaWdodD0iMjQiIHJ4PSIxMiIgZmlsbD0iI2Q0YTVhNSIgb3BhY2l0eT0iMC4yIi8+CiAgPHJlY3QgeD0iNTQwIiB5PSIxMDAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIyNCIgcng9IjEyIiBmaWxsPSIjM2Q0YTVjIiBvcGFjaXR5PSIwLjEiLz4KICA8IS0tIFRoaW4gbGluZSAtLT4KICA8bGluZSB4MT0iMjUwIiB5MT0iMjgwIiB4Mj0iNTUwIiB5Mj0iMjgwIiBzdHJva2U9IiMzZDRhNWMiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjMiLz4KICA8IS0tIFNtYWxsIGNpcmNsZSBhY2NlbnRzIC0tPgogIDxjaXJjbGUgY3g9IjQwMCIgY3k9IjMxMCIgcj0iNCIgZmlsbD0iI2Q0YTVhNSIgb3BhY2l0eT0iMC40Ii8+CiAgPGNpcmNsZSBjeD0iMzgwIiBjeT0iMzEwIiByPSIyIiBmaWxsPSIjM2Q0YTVjIiBvcGFjaXR5PSIwLjIiLz4KICA8Y2lyY2xlIGN4PSI0MjAiIGN5PSIzMTAiIHI9IjIiIGZpbGw9IiMzZDRhNWMiIG9wYWNpdHk9IjAuMiIvPgogIDwhLS0gU29mdCByb3VuZGVkIHJlY3RhbmdsZSAtLT4KICA8cmVjdCB4PSIzMzAiIHk9IjE0MCIgd2lkdGg9IjE0MCIgaGVpZ2h0PSI4MCIgcng9IjIwIiBmaWxsPSJub25lIiBzdHJva2U9IiMzZDRhNWMiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC4xNSIvPgogIDwhLS0gVGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIzNzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSItYXBwbGUtc3lzdGVtLCAnSGVsdmV0aWNhIE5ldWUnLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmaWxsPSIjM2Q0YTVjIiBvcGFjaXR5PSIwLjYiIGxldHRlci1zcGFjaW5nPSI0IiBmb250LXdlaWdodD0iMzAwIj5Lb3JlYW4gTWluaW1hbDwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#faf9f7"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Soft rounded shapes with lots of whitespace -->
+  <circle cx="300" cy="160" r="60" fill="#3d4a5c" opacity="0.08"/>
+  <circle cx="500" cy="180" r="90" fill="#d4a5a5" opacity="0.15"/>
+  <rect x="350" y="230" width="100" height="4" rx="2" fill="#3d4a5c" opacity="0.2"/>
+  <!-- Subtle pill shapes -->
+  <rect x="200" y="120" width="60" height="24" rx="12" fill="#d4a5a5" opacity="0.2"/>
+  <rect x="540" y="100" width="80" height="24" rx="12" fill="#3d4a5c" opacity="0.1"/>
+  <!-- Thin line -->
+  <line x1="250" y1="280" x2="550" y2="280" stroke="#3d4a5c" stroke-width="0.5" opacity="0.3"/>
+  <!-- Small circle accents -->
+  <circle cx="400" cy="310" r="4" fill="#d4a5a5" opacity="0.4"/>
+  <circle cx="380" cy="310" r="2" fill="#3d4a5c" opacity="0.2"/>
+  <circle cx="420" cy="310" r="2" fill="#3d4a5c" opacity="0.2"/>
+  <!-- Soft rounded rectangle -->
+  <rect x="330" y="140" width="140" height="80" rx="20" fill="none" stroke="#3d4a5c" stroke-width="1" opacity="0.15"/>
+  <!-- Title -->
+  <text x="400" y="370" text-anchor="middle" font-family="-apple-system, 'Helvetica Neue', sans-serif" font-size="15" fill="#3d4a5c" opacity="0.6" letter-spacing="4" font-weight="300">Korean Minimal</text>
+  </g>
+</svg>

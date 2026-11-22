@@ -1,1 +1,70 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIj4NCiAgPGRlZnM+DQogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnb2xkLWxpbmUiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4NCiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9InRyYW5zcGFyZW50Ii8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjIwJSIgc3RvcC1jb2xvcj0iI2M5YTk2ZSIvPg0KICAgICAgPHN0b3Agb2Zmc2V0PSI4MCUiIHN0b3AtY29sb3I9IiNjOWE5NmUiLz4NCiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0idHJhbnNwYXJlbnQiLz4NCiAgICA8L2xpbmVhckdyYWRpZW50Pg0KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icHJvZHVjdC1ncmFkIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZThlMGQ0Ii8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkOGNmYzAiLz4NCiAgICA8L2xpbmVhckdyYWRpZW50Pg0KICA8L2RlZnM+DQoNCiAgPCEtLSBXYXJtIHdoaXRlIGJhY2tncm91bmQgLS0+DQogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iI2ZhZjlmNiIvPg0KDQogIDwhLS0gVG9wIGdvbGQgZGl2aWRlciAtLT4NCiAgPHJlY3QgeD0iMjAwIiB5PSI4MCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dvbGQtbGluZSkiLz4NCg0KICA8IS0tIEJyYW5kIG5hbWUgLSBzZXJpZiBzdHlsZSAtLT4NCiAgPHRleHQgeD0iNjAwIiB5PSIxMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGxldHRlci1zcGFjaW5nPSIxMiIgZmlsbD0iIzFhMWExYSI+TUFJU09OPC90ZXh0Pg0KDQogIDwhLS0gTmF2aWdhdGlvbiBsaW5rcyAtLT4NCiAgPHRleHQgeD0iNjAwIiB5PSIxNjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBsZXR0ZXItc3BhY2luZz0iNCIgZmlsbD0iIzhiNzM1NSI+V09NRU4gICAgICBNRU4gICAgICBTVE9SSUVTICAgICAgU1RPUkVTPC90ZXh0Pg0KDQogIDwhLS0gR29sZCBkaXZpZGVyIC0tPg0KICA8cmVjdCB4PSIyMDAiIHk9IjE4MCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dvbGQtbGluZSkiLz4NCg0KICA8IS0tIEhlcm8gc2VjdGlvbiAtLT4NCiAgPHRleHQgeD0iNjAwIiB5PSIyNDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGxldHRlci1zcGFjaW5nPSI2IiBmaWxsPSIjYzlhOTZlIj5BVVRVTU4gLyBXSU5URVIgMjAyNjwvdGV4dD4NCiAgPHRleHQgeD0iNjAwIiB5PSIyOTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iNDIiIGZpbGw9IiMxYTFhMWEiPlRoZSBBcnQgb2Y8L3RleHQ+DQogIDx0ZXh0IHg9IjYwMCIgeT0iMzQwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjQyIiBmaWxsPSIjMWExYTFhIj5UaW1lbGVzcyBFbGVnYW5jZTwvdGV4dD4NCg0KICA8IS0tIENUQSBidXR0b24gb3V0bGluZSAtLT4NCiAgPHJlY3QgeD0iNDgwIiB5PSIzNzAiIHdpZHRoPSIyNDAiIGhlaWdodD0iNDQiIHJ4PSIyIiBmaWxsPSJub25lIiBzdHJva2U9IiMxYTFhMWEiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8dGV4dCB4PSI2MDAiIHk9IjM5NyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGxldHRlci1zcGFjaW5nPSI0IiBmaWxsPSIjMWExYTFhIj5FWFBMT1JFIENPTExFQ1RJT048L3RleHQ+DQoNCiAgPCEtLSBHb2xkIGRpdmlkZXIgLS0+DQogIDxyZWN0IHg9IjMwMCIgeT0iNDQwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjZ29sZC1saW5lKSIvPg0KDQogIDwhLS0gUHJvZHVjdCBjYXJkcyByb3cgLS0+DQogIDwhLS0gQ2FyZCAxIC0tPg0KICA8cmVjdCB4PSIxNjAiIHk9IjQ2NSIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxMzAiIHJ4PSIxIiBmaWxsPSJ1cmwoI3Byb2R1Y3QtZ3JhZCkiLz4NCiAgPHRleHQgeD0iMjUwIiB5PSI2MTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIzIiBmaWxsPSIjOGI3MzU1Ij5DT0xMRUNUSU9OPC90ZXh0Pg0KDQogIDwhLS0gQ2FyZCAyIC0tPg0KICA8cmVjdCB4PSIzODAiIHk9IjQ2NSIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxMzAiIHJ4PSIxIiBmaWxsPSJ1cmwoI3Byb2R1Y3QtZ3JhZCkiLz4NCiAgPHRleHQgeD0iNDcwIiB5PSI2MTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMxYTFhMWEiPlNpZ25hdHVyZSBQaWVjZTwvdGV4dD4NCg0KICA8IS0tIENhcmQgMyAtLT4NCiAgPHJlY3QgeD0iNjAwIiB5PSI0NjUiIHdpZHRoPSIxODAiIGhlaWdodD0iMTMwIiByeD0iMSIgZmlsbD0idXJsKCNwcm9kdWN0LWdyYWQpIi8+DQogIDx0ZXh0IHg9IjY5MCIgeT0iNjE1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzhiNzM1NSI+JDEsMjgwPC90ZXh0Pg0KDQogIDwhLS0gQ2FyZCA0IC0tPg0KICA8cmVjdCB4PSI4MjAiIHk9IjQ2NSIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxMzAiIHJ4PSIxIiBmaWxsPSJ1cmwoI3Byb2R1Y3QtZ3JhZCkiLz4NCg0KICA8IS0tIEJvdHRvbSBnb2xkIGFjY2VudHMgLS0+DQogIDxyZWN0IHg9IjIwMCIgeT0iNjI4IiB3aWR0aD0iODAwIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjZ29sZC1saW5lKSIvPg0KDQogIDwhLS0gR29sZCBjb3JuZXIgYWNjZW50cyAtLT4NCiAgPGxpbmUgeDE9IjE0MCIgeTE9IjYwIiB4Mj0iMTQwIiB5Mj0iOTAiIHN0cm9rZT0iI2M5YTk2ZSIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDxsaW5lIHgxPSIxNDAiIHkxPSI2MCIgeDI9IjE3MCIgeTI9IjYwIiBzdHJva2U9IiNjOWE5NmUiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8bGluZSB4MT0iMTA2MCIgeTE9IjYwIiB4Mj0iMTA2MCIgeTI9IjkwIiBzdHJva2U9IiNjOWE5NmUiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8bGluZSB4MT0iMTAzMCIgeTE9IjYwIiB4Mj0iMTA2MCIgeTI9IjYwIiBzdHJva2U9IiNjOWE5NmUiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8bGluZSB4MT0iMTQwIiB5MT0iNTcwIiB4Mj0iMTQwIiB5Mj0iNTQwIiBzdHJva2U9IiNjOWE5NmUiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8bGluZSB4MT0iMTQwIiB5MT0iNTcwIiB4Mj0iMTcwIiB5Mj0iNTcwIiBzdHJva2U9IiNjOWE5NmUiIHN0cm9rZS13aWR0aD0iMSIvPg0KICA8bGluZSB4MT0iMTA2MCIgeTE9IjU3MCIgeDI9IjEwNjAiIHkyPSI1NDAiIHN0cm9rZT0iI2M5YTk2ZSIgc3Ryb2tlLXdpZHRoPSIxIi8+DQogIDxsaW5lIHgxPSIxMDMwIiB5MT0iNTcwIiB4Mj0iMTA2MCIgeTI9IjU3MCIgc3Ryb2tlPSIjYzlhOTZlIiBzdHJva2Utd2lkdGg9IjEiLz4NCjwvc3ZnPg0K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="gold-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="20%" stop-color="#c9a96e"/>
+      <stop offset="80%" stop-color="#c9a96e"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+    <linearGradient id="product-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8e0d4"/>
+      <stop offset="100%" stop-color="#d8cfc0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Warm white background -->
+  <rect width="1200" height="630" fill="#faf9f6"/>
+
+  <!-- Top gold divider -->
+  <rect x="200" y="80" width="800" height="1" fill="url(#gold-line)"/>
+
+  <!-- Brand name - serif style -->
+  <text x="600" y="130" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="12" fill="#1a1a1a">MAISON</text>
+
+  <!-- Navigation links -->
+  <text x="600" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="4" fill="#8b7355">WOMEN      MEN      STORIES      STORES</text>
+
+  <!-- Gold divider -->
+  <rect x="200" y="180" width="800" height="1" fill="url(#gold-line)"/>
+
+  <!-- Hero section -->
+  <text x="600" y="240" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="9" letter-spacing="6" fill="#c9a96e">AUTUMN / WINTER 2026</text>
+  <text x="600" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#1a1a1a">The Art of</text>
+  <text x="600" y="340" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#1a1a1a">Timeless Elegance</text>
+
+  <!-- CTA button outline -->
+  <rect x="480" y="370" width="240" height="44" rx="2" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="600" y="397" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="4" fill="#1a1a1a">EXPLORE COLLECTION</text>
+
+  <!-- Gold divider -->
+  <rect x="300" y="440" width="600" height="1" fill="url(#gold-line)"/>
+
+  <!-- Product cards row -->
+  <!-- Card 1 -->
+  <rect x="160" y="465" width="180" height="130" rx="1" fill="url(#product-grad)"/>
+  <text x="250" y="615" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" letter-spacing="3" fill="#8b7355">COLLECTION</text>
+
+  <!-- Card 2 -->
+  <rect x="380" y="465" width="180" height="130" rx="1" fill="url(#product-grad)"/>
+  <text x="470" y="615" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#1a1a1a">Signature Piece</text>
+
+  <!-- Card 3 -->
+  <rect x="600" y="465" width="180" height="130" rx="1" fill="url(#product-grad)"/>
+  <text x="690" y="615" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#8b7355">$1,280</text>
+
+  <!-- Card 4 -->
+  <rect x="820" y="465" width="180" height="130" rx="1" fill="url(#product-grad)"/>
+
+  <!-- Bottom gold accents -->
+  <rect x="200" y="628" width="800" height="1" fill="url(#gold-line)"/>
+
+  <!-- Gold corner accents -->
+  <line x1="140" y1="60" x2="140" y2="90" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="140" y1="60" x2="170" y2="60" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="1060" y1="60" x2="1060" y2="90" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="1030" y1="60" x2="1060" y2="60" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="140" y1="570" x2="140" y2="540" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="140" y1="570" x2="170" y2="570" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="1060" y1="570" x2="1060" y2="540" stroke="#c9a96e" stroke-width="1"/>
+  <line x1="1030" y1="570" x2="1060" y2="570" stroke="#c9a96e" stroke-width="1"/>
+</svg>

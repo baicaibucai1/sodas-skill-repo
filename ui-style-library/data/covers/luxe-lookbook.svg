@@ -1,1 +1,91 @@
-PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCA2MzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxsLXBsYXRlMSIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNFOEUzREIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjYiIHN0b3AtY29sb3I9IiNDRkM3QkIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOUE3QjRGIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsbC1wbGF0ZTIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjRjBFQ0U1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC43IiBzdG9wLWNvbG9yPSIjREZEOENEIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0I3QTk4RiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGwtcGxhdGUzIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzJBMjYyMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0QTQwMzgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxsLXNjcmltIiB4MT0iMCIgeTE9IjEiIHgyPSIwIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzE0MTIxMCIgc3RvcC1vcGFjaXR5PSIwLjQ1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMC42IiBzdG9wLWNvbG9yPSIjMTQxMjEwIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIHBvcmNlbGFpbiBncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjRjdGNUYxIi8+CgogIDwhLS0gbWFzdGhlYWQgLS0+CiAgPHRleHQgeD0iNjAiIHk9Ijc4IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjM0IiBmaWxsPSIjMTQxMjEwIj5NYWlzb248L3RleHQ+CiAgPHRleHQgeD0iMTAxMCIgeT0iNzIiIGZvbnQtZmFtaWx5PSJ1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBsZXR0ZXItc3BhY2luZz0iNCIgZmlsbD0iIzE0MTIxMCIgb3BhY2l0eT0iMC43Ij5MT09LQk9PSzwvdGV4dD4KICA8bGluZSB4MT0iNjAiIHkxPSIxMDQiIHgyPSIxMTQwIiB5Mj0iMTA0IiBzdHJva2U9IiMxNDEyMTAiIHN0cm9rZS1vcGFjaXR5PSIwLjIiIHN0cm9rZS13aWR0aD0iMSIvPgoKICA8IS0tIHRpdGxlIGFyZWEgLS0+CiAgPHRleHQgeD0iNjAiIHk9IjE3NiIgZm9udC1mYW1pbHk9InVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGxldHRlci1zcGFjaW5nPSI1IiBmaWxsPSIjOUE3QjRGIj5BVVRVTU4gTUFJU09OPC90ZXh0PgogIDx0ZXh0IHg9IjU2IiB5PSIyNzAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiIGZvbnQtc2l6ZT0iMTEyIiBmaWxsPSIjMTQxMjEwIj5MdXhlIExvb2tib29rPC90ZXh0PgoKICA8IS0tIGdvbGQgQ1RBICsgb3V0bGluZSBzZWNvbmRhcnkgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjAsMzA4KSI+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMjMwIiBoZWlnaHQ9IjQ2IiBmaWxsPSIjMTQxMjEwIi8+CiAgICA8dGV4dCB4PSIyOCIgeT0iMzAiIGZvbnQtZmFtaWx5PSJ1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBsZXR0ZXItc3BhY2luZz0iMyIgZmlsbD0iI0Y3RjVGMSI+VklFVyBUSEUgTE9PS0JPT0s8L3RleHQ+CiAgPC9nPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMwNCwzMDgpIj4KICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxOTAiIGhlaWdodD0iNDYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE0MTIxMCIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8dGV4dCB4PSIyNiIgeT0iMzAiIGZvbnQtZmFtaWx5PSJ1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBsZXR0ZXItc3BhY2luZz0iMyIgZmlsbD0iIzE0MTIxMCI+Qk9PSyBBIEZJVFRJTkc8L3RleHQ+CiAgPC9nPgoKICA8IS0tIGxvb2tib29rIGdyaWQgb2YgdGhyZWUgcG9ydHJhaXQgcGxhdGVzIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYwLDM4OCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjbGwtcGxhdGUxKSIvPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjbGwtc2NyaW0pIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjIxNiIgeDI9IjIwMCIgeTI9IjIxNiIgc3Ryb2tlPSIjMTQxMjEwIiBzdHJva2Utb3BhY2l0eT0iMC4yIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjAiIHk9IjI0MCIgZm9udC1mYW1pbHk9InVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGxldHRlci1zcGFjaW5nPSIzIiBmaWxsPSIjOUE3QjRGIj5MT09LIDAxPC90ZXh0PgogICAgPHRleHQgeD0iMCIgeT0iMjY2IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjIwIiBmaWxsPSIjMTQxMjEwIj5UaGUgQ2FtZWwgQ29hdDwvdGV4dD4KICA8L2c+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjg4LDM4OCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjbGwtcGxhdGUyKSIvPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjbGwtc2NyaW0pIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjIxNiIgeDI9IjIwMCIgeTI9IjIxNiIgc3Ryb2tlPSIjMTQxMjEwIiBzdHJva2Utb3BhY2l0eT0iMC4yIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjAiIHk9IjI0MCIgZm9udC1mYW1pbHk9InVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGxldHRlci1zcGFjaW5nPSIzIiBmaWxsPSIjOUE3QjRGIj5MT09LIDAyPC90ZXh0PgogICAgPHRleHQgeD0iMCIgeT0iMjY2IiBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmIiBmb250LXNpemU9IjIwIiBmaWxsPSIjMTQxMjEwIj5Jdm9yeSBDb2x1bW48L3RleHQ+CiAgPC9nPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDUxNiwzODgpIj4KICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2xsLXBsYXRlMykiLz4KICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2xsLXNjcmltKSIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSIyMTYiIHgyPSIyMDAiIHkyPSIyMTYiIHN0cm9rZT0iIzE0MTIxMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMiIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8dGV4dCB4PSIwIiB5PSIyNDAiIGZvbnQtZmFtaWx5PSJ1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBsZXR0ZXItc3BhY2luZz0iMyIgZmlsbD0iIzlBN0I0RiI+TE9PSyAwMzwvdGV4dD4KICAgIDx0ZXh0IHg9IjAiIHk9IjI2NiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIyMCIgZmlsbD0iIzE0MTIxMCI+Tm9pciBUYWlsb3Jpbmc8L3RleHQ+CiAgPC9nPgoKICA8IS0tIHJpZ2h0IGNvbHVtbjogZmlsbS1oZXJvIHBsYXRlIHdpdGggcGxheSBjaGlwICsgbmV3c2xldHRlciBmaWVsZCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NjAsMzg4KSI+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMzgwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNsbC1wbGF0ZTEpIi8+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMzgwIiBoZWlnaHQ9IjIwMCIgZmlsbD0idXJsKCNsbC1zY3JpbSkiLz4KICAgIDxjaXJjbGUgY3g9IjE5MCIgY3k9IjkyIiByPSIzMCIgZmlsbD0iI0Y3RjVGMSIgZmlsbC1vcGFjaXR5PSIwLjg1Ii8+CiAgICA8cGF0aCBkPSJNMTgxIDc4IEwxODEgMTA2IEwyMDUgOTIgWiIgZmlsbD0iIzE0MTIxMCIvPgogICAgPHRleHQgeD0iMTYiIHk9IjE3NiIgZm9udC1mYW1pbHk9InVpLXNhbnMtc2VyaWYsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGxldHRlci1zcGFjaW5nPSI0IiBmaWxsPSIjRjdGNUYxIj5USEUgU0lMSyBTRUFTT04gLSBGSUxNPC90ZXh0PgogICAgPGxpbmUgeDE9IjAiIHkxPSIyNDAiIHgyPSIzMDAiIHkyPSIyNDAiIHN0cm9rZT0iIzE0MTIxMCIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPHRleHQgeD0iMCIgeT0iMjMwIiBmb250LWZhbWlseT0idWktc2Fucy1zZXJpZiwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgbGV0dGVyLXNwYWNpbmc9IjMiIGZpbGw9IiMxNDEyMTAiIG9wYWNpdHk9IjAuNSI+WU9VUiBFTUFJTDwvdGV4dD4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMxMiwyMTQpIj4KICAgICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjY4IiBoZWlnaHQ9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNDEyMTAiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgICA8dGV4dCB4PSIxMiIgeT0iMjAiIGZvbnQtZmFtaWx5PSJ1aS1zYW5zLXNlcmlmLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBsZXR0ZXItc3BhY2luZz0iMiIgZmlsbD0iIzE0MTIxMCI+Sk9JTjwvdGV4dD4KICAgIDwvZz4KICA8L2c+CgogIDwhLS0gcGFsZXR0ZSBkb3RzIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDc2MCwzMjApIj4KICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiIgZmlsbD0iI0Y3RjVGMSIgc3Ryb2tlPSIjMTQxMjEwIiBzdHJva2Utb3BhY2l0eT0iMC4yIi8+CiAgICA8cmVjdCB4PSIzNCIgeT0iMCIgd2lkdGg9IjI2IiBoZWlnaHQ9IjI2IiBmaWxsPSIjRThFM0RCIi8+CiAgICA8cmVjdCB4PSI2OCIgeT0iMCIgd2lkdGg9IjI2IiBoZWlnaHQ9IjI2IiBmaWxsPSIjMTQxMjEwIi8+CiAgICA8cmVjdCB4PSIxMDIiIHk9IjAiIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiIgZmlsbD0iIzlBN0I0RiIvPgogICAgPHJlY3QgeD0iMTM2IiB5PSIwIiB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIGZpbGw9IiM2QjYyNTkiLz4KICA8L2c+Cjwvc3ZnPgo=
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ll-plate1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8E3DB"/>
+      <stop offset="0.6" stop-color="#CFC7BB"/>
+      <stop offset="1" stop-color="#9A7B4F"/>
+    </linearGradient>
+    <linearGradient id="ll-plate2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0ECE5"/>
+      <stop offset="0.7" stop-color="#DFD8CD"/>
+      <stop offset="1" stop-color="#B7A98F"/>
+    </linearGradient>
+    <linearGradient id="ll-plate3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A2622"/>
+      <stop offset="1" stop-color="#4A4038"/>
+    </linearGradient>
+    <linearGradient id="ll-scrim" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#141210" stop-opacity="0.45"/>
+      <stop offset="0.6" stop-color="#141210" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- porcelain ground -->
+  <rect width="1200" height="630" fill="#F7F5F1"/>
+
+  <!-- masthead -->
+  <text x="60" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#141210">Maison</text>
+  <text x="1010" y="72" font-family="ui-sans-serif, sans-serif" font-size="13" letter-spacing="4" fill="#141210" opacity="0.7">LOOKBOOK</text>
+  <line x1="60" y1="104" x2="1140" y2="104" stroke="#141210" stroke-opacity="0.2" stroke-width="1"/>
+
+  <!-- title area -->
+  <text x="60" y="176" font-family="ui-sans-serif, sans-serif" font-size="13" letter-spacing="5" fill="#9A7B4F">AUTUMN MAISON</text>
+  <text x="56" y="270" font-family="Georgia, 'Times New Roman', serif" font-size="112" fill="#141210">Luxe Lookbook</text>
+
+  <!-- gold CTA + outline secondary -->
+  <g transform="translate(60,308)">
+    <rect x="0" y="0" width="230" height="46" fill="#141210"/>
+    <text x="28" y="30" font-family="ui-sans-serif, sans-serif" font-size="13" letter-spacing="3" fill="#F7F5F1">VIEW THE LOOKBOOK</text>
+  </g>
+  <g transform="translate(304,308)">
+    <rect x="0" y="0" width="190" height="46" fill="none" stroke="#141210" stroke-width="1"/>
+    <text x="26" y="30" font-family="ui-sans-serif, sans-serif" font-size="13" letter-spacing="3" fill="#141210">BOOK A FITTING</text>
+  </g>
+
+  <!-- lookbook grid of three portrait plates -->
+  <g transform="translate(60,388)">
+    <rect x="0" y="0" width="200" height="200" fill="url(#ll-plate1)"/>
+    <rect x="0" y="0" width="200" height="200" fill="url(#ll-scrim)"/>
+    <line x1="0" y1="216" x2="200" y2="216" stroke="#141210" stroke-opacity="0.2" stroke-width="1"/>
+    <text x="0" y="240" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="3" fill="#9A7B4F">LOOK 01</text>
+    <text x="0" y="266" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#141210">The Camel Coat</text>
+  </g>
+  <g transform="translate(288,388)">
+    <rect x="0" y="0" width="200" height="200" fill="url(#ll-plate2)"/>
+    <rect x="0" y="0" width="200" height="200" fill="url(#ll-scrim)"/>
+    <line x1="0" y1="216" x2="200" y2="216" stroke="#141210" stroke-opacity="0.2" stroke-width="1"/>
+    <text x="0" y="240" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="3" fill="#9A7B4F">LOOK 02</text>
+    <text x="0" y="266" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#141210">Ivory Column</text>
+  </g>
+  <g transform="translate(516,388)">
+    <rect x="0" y="0" width="200" height="200" fill="url(#ll-plate3)"/>
+    <rect x="0" y="0" width="200" height="200" fill="url(#ll-scrim)"/>
+    <line x1="0" y1="216" x2="200" y2="216" stroke="#141210" stroke-opacity="0.2" stroke-width="1"/>
+    <text x="0" y="240" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="3" fill="#9A7B4F">LOOK 03</text>
+    <text x="0" y="266" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#141210">Noir Tailoring</text>
+  </g>
+
+  <!-- right column: film-hero plate with play chip + newsletter field -->
+  <g transform="translate(760,388)">
+    <rect x="0" y="0" width="380" height="200" fill="url(#ll-plate1)"/>
+    <rect x="0" y="0" width="380" height="200" fill="url(#ll-scrim)"/>
+    <circle cx="190" cy="92" r="30" fill="#F7F5F1" fill-opacity="0.85"/>
+    <path d="M181 78 L181 106 L205 92 Z" fill="#141210"/>
+    <text x="16" y="176" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="4" fill="#F7F5F1">THE SILK SEASON - FILM</text>
+    <line x1="0" y1="240" x2="300" y2="240" stroke="#141210" stroke-opacity="0.35" stroke-width="1"/>
+    <text x="0" y="230" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="3" fill="#141210" opacity="0.5">YOUR EMAIL</text>
+    <g transform="translate(312,214)">
+      <rect x="0" y="0" width="68" height="30" fill="none" stroke="#141210" stroke-width="1"/>
+      <text x="12" y="20" font-family="ui-sans-serif, sans-serif" font-size="10" letter-spacing="2" fill="#141210">JOIN</text>
+    </g>
+  </g>
+
+  <!-- palette dots -->
+  <g transform="translate(760,320)">
+    <rect x="0" y="0" width="26" height="26" fill="#F7F5F1" stroke="#141210" stroke-opacity="0.2"/>
+    <rect x="34" y="0" width="26" height="26" fill="#E8E3DB"/>
+    <rect x="68" y="0" width="26" height="26" fill="#141210"/>
+    <rect x="102" y="0" width="26" height="26" fill="#9A7B4F"/>
+    <rect x="136" y="0" width="26" height="26" fill="#6B6259"/>
+  </g>
+</svg>

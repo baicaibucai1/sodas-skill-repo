@@ -1,1 +1,48 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZmZmZmZmIi8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBUb3AgbmF2IGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI0OCIgZmlsbD0iIzI0MjkyZiIvPgogIDxjaXJjbGUgY3g9IjMwIiBjeT0iMjQiIHI9IjE0IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjE1Ii8+CiAgPHJlY3QgeD0iNjAiIHk9IjE2IiB3aWR0aD0iNjAiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjEiLz4KICA8cmVjdCB4PSIxMzAiIHk9IjE2IiB3aWR0aD0iNTAiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjEiLz4KICA8cmVjdCB4PSIxOTAiIHk9IjE2IiB3aWR0aD0iNTUiIGhlaWdodD0iMTYiIHJ4PSIzIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjEiLz4KICA8IS0tIENvZGUgYmxvY2sgYXJlYSAtLT4KICA8cmVjdCB4PSI4MCIgeT0iODAiIHdpZHRoPSI2NDAiIGhlaWdodD0iMjAwIiByeD0iNiIgZmlsbD0iI2Y2ZjhmYSIgc3Ryb2tlPSIjZDBkN2RlIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8IS0tIExpbmUgbnVtYmVycyAtLT4KICA8dGV4dCB4PSIxMDAiIHk9IjExNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+MTwvdGV4dD4KICA8dGV4dCB4PSIxMDAiIHk9IjEzNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+MjwvdGV4dD4KICA8dGV4dCB4PSIxMDAiIHk9IjE1NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+MzwvdGV4dD4KICA8dGV4dCB4PSIxMDAiIHk9IjE3NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+NDwvdGV4dD4KICA8dGV4dCB4PSIxMDAiIHk9IjE5NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+NTwvdGV4dD4KICA8dGV4dCB4PSIxMDAiIHk9IjIxNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+NjwvdGV4dD4KICA8dGV4dCB4PSIxMDAiIHk9IjIzNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+NzwvdGV4dD4KICA8dGV4dCB4PSIxMDAiIHk9IjI1NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzhiOTQ5ZSI+ODwvdGV4dD4KICA8IS0tIENvZGUgY29udGVudCAtLT4KICA8dGV4dCB4PSIxMzAiIHk9IjExNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2NmMjIyZSI+aW1wb3J0PC90ZXh0PgogIDx0ZXh0IHg9IjE4NSIgeT0iMTE1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMjQyOTJmIj57IFN0eWxlS2l0IH08L3RleHQ+CiAgPHRleHQgeD0iMzEwIiB5PSIxMTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNjZjIyMmUiPmZyb208L3RleHQ+CiAgPHRleHQgeD0iMzUwIiB5PSIxMTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMwYTMwNjkiPiJAc3R5bGVraXQvY29yZSI8L3RleHQ+CiAgPHRleHQgeD0iMTMwIiB5PSIxNTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNjZjIyMmUiPmNvbnN0PC90ZXh0PgogIDx0ZXh0IHg9IjE3NSIgeT0iMTU1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMjQyOTJmIj50aGVtZSA9IFN0eWxlS2l0LjwvdGV4dD4KICA8dGV4dCB4PSIzMzAiIHk9IjE1NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzgyNTBkZiI+Y3JlYXRlPC90ZXh0PgogIDx0ZXh0IHg9IjM3NiIgeT0iMTU1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMjQyOTJmIj4oezwvdGV4dD4KICA8dGV4dCB4PSIxNDUiIHk9IjE3NSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzA1NTBhZSI+Y29sb3JzPC90ZXh0PgogIDx0ZXh0IHg9IjIwMCIgeT0iMTc1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMjQyOTJmIj46IHs8L3RleHQ+CiAgPHRleHQgeD0iMTYwIiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMwNTUwYWUiPnByaW1hcnk8L3RleHQ+CiAgPHRleHQgeD0iMjI1IiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMyNDI5MmYiPjo8L3RleHQ+CiAgPHRleHQgeD0iMjQwIiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiMwYTMwNjkiPiIjMDk2OWRhIjwvdGV4dD4KICA8dGV4dCB4PSIxNjAiIHk9IjIxNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzA1NTBhZSI+c3VjY2VzczwvdGV4dD4KICA8dGV4dCB4PSIyMjUiIHk9IjIxNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzI0MjkyZiI+OjwvdGV4dD4KICA8dGV4dCB4PSIyNDAiIHk9IjIxNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzBhMzA2OSI+IiMxZjg4M2QiPC90ZXh0PgogIDx0ZXh0IHg9IjE0NSIgeT0iMjM1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMjQyOTJmIj59PC90ZXh0PgogIDx0ZXh0IHg9IjEzMCIgeT0iMjU1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMjQyOTJmIj59KTwvdGV4dD4KICA8IS0tIEdyZWVuIGJ1dHRvbiAtLT4KICA8cmVjdCB4PSI4MCIgeT0iMzEwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjM2IiByeD0iNiIgZmlsbD0iIzFmODgzZCIvPgogIDx0ZXh0IHg9IjE0MCIgeT0iMzMzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZmZmZmZmIj5Db21taXQ8L3RleHQ+CiAgPCEtLSBCbHVlIGxpbmsgLS0+CiAgPHRleHQgeD0iMjMwIiB5PSIzMzMiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzA5NjlkYSI+UHVsbCBSZXF1ZXN0ICM0MjwvdGV4dD4KICA8IS0tIFN0eWxlIG5hbWUgLS0+CiAgPHRleHQgeD0iNjQwIiB5PSIzMzMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyOCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMyNDI5MmYiPkdpdEh1YiBTdHlsZTwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Top nav bar -->
+  <rect x="0" y="0" width="1200" height="48" fill="#24292f"/>
+  <circle cx="30" cy="24" r="14" fill="#ffffff" opacity="0.15"/>
+  <rect x="60" y="16" width="60" height="16" rx="3" fill="#ffffff" opacity="0.1"/>
+  <rect x="130" y="16" width="50" height="16" rx="3" fill="#ffffff" opacity="0.1"/>
+  <rect x="190" y="16" width="55" height="16" rx="3" fill="#ffffff" opacity="0.1"/>
+  <!-- Code block area -->
+  <rect x="80" y="80" width="640" height="200" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <!-- Line numbers -->
+  <text x="100" y="115" font-family="monospace" font-size="13" fill="#8b949e">1</text>
+  <text x="100" y="135" font-family="monospace" font-size="13" fill="#8b949e">2</text>
+  <text x="100" y="155" font-family="monospace" font-size="13" fill="#8b949e">3</text>
+  <text x="100" y="175" font-family="monospace" font-size="13" fill="#8b949e">4</text>
+  <text x="100" y="195" font-family="monospace" font-size="13" fill="#8b949e">5</text>
+  <text x="100" y="215" font-family="monospace" font-size="13" fill="#8b949e">6</text>
+  <text x="100" y="235" font-family="monospace" font-size="13" fill="#8b949e">7</text>
+  <text x="100" y="255" font-family="monospace" font-size="13" fill="#8b949e">8</text>
+  <!-- Code content -->
+  <text x="130" y="115" font-family="monospace" font-size="13" fill="#cf222e">import</text>
+  <text x="185" y="115" font-family="monospace" font-size="13" fill="#24292f">{ StyleKit }</text>
+  <text x="310" y="115" font-family="monospace" font-size="13" fill="#cf222e">from</text>
+  <text x="350" y="115" font-family="monospace" font-size="13" fill="#0a3069">"@stylekit/core"</text>
+  <text x="130" y="155" font-family="monospace" font-size="13" fill="#cf222e">const</text>
+  <text x="175" y="155" font-family="monospace" font-size="13" fill="#24292f">theme = StyleKit.</text>
+  <text x="330" y="155" font-family="monospace" font-size="13" fill="#8250df">create</text>
+  <text x="376" y="155" font-family="monospace" font-size="13" fill="#24292f">({</text>
+  <text x="145" y="175" font-family="monospace" font-size="13" fill="#0550ae">colors</text>
+  <text x="200" y="175" font-family="monospace" font-size="13" fill="#24292f">: {</text>
+  <text x="160" y="195" font-family="monospace" font-size="13" fill="#0550ae">primary</text>
+  <text x="225" y="195" font-family="monospace" font-size="13" fill="#24292f">:</text>
+  <text x="240" y="195" font-family="monospace" font-size="13" fill="#0a3069">"#0969da"</text>
+  <text x="160" y="215" font-family="monospace" font-size="13" fill="#0550ae">success</text>
+  <text x="225" y="215" font-family="monospace" font-size="13" fill="#24292f">:</text>
+  <text x="240" y="215" font-family="monospace" font-size="13" fill="#0a3069">"#1f883d"</text>
+  <text x="145" y="235" font-family="monospace" font-size="13" fill="#24292f">}</text>
+  <text x="130" y="255" font-family="monospace" font-size="13" fill="#24292f">})</text>
+  <!-- Green button -->
+  <rect x="80" y="310" width="120" height="36" rx="6" fill="#1f883d"/>
+  <text x="140" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Commit</text>
+  <!-- Blue link -->
+  <text x="230" y="333" font-family="Arial, sans-serif" font-size="14" fill="#0969da">Pull Request #42</text>
+  <!-- Style name -->
+  <text x="640" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#24292f">GitHub Style</text>
+  </g>
+</svg>

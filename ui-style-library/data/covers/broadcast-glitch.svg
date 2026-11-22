@@ -1,1 +1,60 @@
-PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCA2MzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8cGF0dGVybiBpZD0iZ2xpdGNoU2NhbiIgd2lkdGg9IjQiIGhlaWdodD0iNCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjIiIGZpbGw9InRyYW5zcGFyZW50IiAvPgogICAgICA8cmVjdCB5PSIyIiB3aWR0aD0iNCIgaGVpZ2h0PSIxLjQiIGZpbGw9IiMwMDAwMDAiIG9wYWNpdHk9IjAuNiIgLz4KICAgIDwvcGF0dGVybj4KICA8L2RlZnM+CgogIDwhLS0gQ1JUIGJsYWNrIHN0YWdlIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iIzBCMEIwRSIgLz4KCiAgPCEtLSBTTVBURSBjb2xvciBiYXJzLCB0b3AtcmlnaHQgY29ybmVyIC0tPgogIDxnPgogICAgPHJlY3QgeD0iOTQ0IiB5PSIwIiB3aWR0aD0iMzYuNiIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFREVERUQiIC8+CiAgICA8cmVjdCB4PSI5ODAuNiIgeT0iMCIgd2lkdGg9IjM2LjYiIGhlaWdodD0iMjAwIiBmaWxsPSIjRjVFMDAwIiAvPgogICAgPHJlY3QgeD0iMTAxNy4yIiB5PSIwIiB3aWR0aD0iMzYuNiIgaGVpZ2h0PSIyMDAiIGZpbGw9IiMwMEU1RDgiIC8+CiAgICA8cmVjdCB4PSIxMDUzLjgiIHk9IjAiIHdpZHRoPSIzNi42IiBoZWlnaHQ9IjIwMCIgZmlsbD0iIzNERkY2RSIgLz4KICAgIDxyZWN0IHg9IjEwOTAuNCIgeT0iMCIgd2lkdGg9IjM2LjYiIGhlaWdodD0iMjAwIiBmaWxsPSIjRkYyRTlBIiAvPgogICAgPHJlY3QgeD0iMTEyNyIgeT0iMCIgd2lkdGg9IjM2LjYiIGhlaWdodD0iMjAwIiBmaWxsPSIjRkYyRTRDIiAvPgogICAgPHJlY3QgeD0iMTE2My42IiB5PSIwIiB3aWR0aD0iMzYuNCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiMyRTZCRkYiIC8+CiAgPC9nPgoKICA8IS0tIENoYW5uZWwtc3BsaXQgdGl0bGU6IGN5YW4gKyByZWQgb2Zmc2V0cyB1bmRlciB3aGl0ZSAtLT4KICA8ZyBmb250LWZhbWlseT0iJ0F6ZXJldCBNb25vJywgdWktbW9ub3NwYWNlLCBtb25vc3BhY2UiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTI4IiBsZXR0ZXItc3BhY2luZz0iLTIiPgogICAgPHRleHQgeD0iNjYiIHk9IjI3MCIgZmlsbD0iIzAwRTVEOCIgb3BhY2l0eT0iMC45IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2LDApIj5QTEVBU0U8L3RleHQ+CiAgICA8dGV4dCB4PSI2NiIgeT0iMjcwIiBmaWxsPSIjRkYyRTRDIiBvcGFjaXR5PSIwLjkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02LDApIj5QTEVBU0U8L3RleHQ+CiAgICA8dGV4dCB4PSI2NiIgeT0iMjcwIiBmaWxsPSIjRURFREVEIj5QTEVBU0U8L3RleHQ+CiAgICA8dGV4dCB4PSI2NiIgeT0iNDAwIiBmaWxsPSIjMDBFNUQ4IiBvcGFjaXR5PSIwLjkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYsMCkiPlNUQU5EIEJZPC90ZXh0PgogICAgPHRleHQgeD0iNjYiIHk9IjQwMCIgZmlsbD0iI0ZGMkU0QyIgb3BhY2l0eT0iMC45IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNiwwKSI+U1RBTkQgQlk8L3RleHQ+CiAgICA8dGV4dCB4PSI2NiIgeT0iNDAwIiBmaWxsPSIjRURFREVEIj5TVEFORCBCWTwvdGV4dD4KICA8L2c+CgogIDwhLS0gTW9ubyBsYWJlbCAtLT4KICA8dGV4dCB4PSI2OCIgeT0iMTUwIiBmb250LWZhbWlseT0iJ0F6ZXJldCBNb25vJywgdWktbW9ub3NwYWNlLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9IiMwMEU1RDgiIGxldHRlci1zcGFjaW5nPSI4Ij4vLyBOTyBTSUdOQUw8L3RleHQ+CgogIDwhLS0gVkhTIHRlYXIgYmFuZCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDMzMCkiPgogICAgPHJlY3QgeD0iNjYiIHk9IjAiIHdpZHRoPSI2MjAiIGhlaWdodD0iMTAiIGZpbGw9IiNFREVERUQiIG9wYWNpdHk9IjAuMTIiIC8+CiAgICA8cmVjdCB4PSIxMjAiIHk9IjAiIHdpZHRoPSIxODAiIGhlaWdodD0iMTAiIGZpbGw9IiNGRjJFNEMiIG9wYWNpdHk9IjAuNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOCwwKSIgLz4KICA8L2c+CgogIDwhLS0gUkVDIGluZGljYXRvciArIGNhcmQgKyBidXR0b24gKGJvdHRvbSkgLS0+CiAgPGcgZm9udC1mYW1pbHk9IidBemVyZXQgTW9ubycsIHVpLW1vbm9zcGFjZSwgbW9ub3NwYWNlIj4KICAgIDxjaXJjbGUgY3g9Ijc4IiBjeT0iNDcwIiByPSI5IiBmaWxsPSIjRkYyRTRDIiAvPgogICAgPHRleHQgeD0iOTgiIHk9IjQ3NyIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0ZGMkU0QyIgbGV0dGVyLXNwYWNpbmc9IjQiPlJFQzwvdGV4dD4KCiAgICA8IS0tIENSVCBjYXJkIC0tPgogICAgPHJlY3QgeD0iNjYiIHk9IjUwMCIgd2lkdGg9IjM2MCIgaGVpZ2h0PSI5NiIgZmlsbD0iIzEwMTAxNCIgc3Ryb2tlPSIjRURFREVEIiBzdHJva2Utb3BhY2l0eT0iMC4zIiBzdHJva2Utd2lkdGg9IjIiIC8+CiAgICA8cmVjdCB4PSI2NiIgeT0iNTAwIiB3aWR0aD0iMzYwIiBoZWlnaHQ9IjgiIGZpbGw9IiMwMEU1RDgiIC8+CiAgICA8dGV4dCB4PSI4NCIgeT0iNTQwIiBmb250LXNpemU9IjE1IiBmaWxsPSIjMDBFNUQ4IiBsZXR0ZXItc3BhY2luZz0iMiI+Q0gtMDEgLyBMSVZFPC90ZXh0PgogICAgPHRleHQgeD0iODQiIHk9IjU3MiIgZm9udC1zaXplPSIyNCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0VERURFRCIgbGV0dGVyLXNwYWNpbmc9IjEiPlNJR05BTCBMT1NUPC90ZXh0PgoKICAgIDwhLS0gQnV0dG9uIC0tPgogICAgPHJlY3QgeD0iNDUyIiB5PSI1MjQiIHdpZHRoPSIyMjAiIGhlaWdodD0iNTIiIGZpbGw9IiNGRjJFNEMiIHN0cm9rZT0iI0VERURFRCIgc3Ryb2tlLXdpZHRoPSIyIiAvPgogICAgPHRleHQgeD0iNTYyIiB5PSI1NTgiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwQjBCMEUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIzIj4mIzk2NTQ7IFRSQU5TTUlUPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBTY2FubGluZSBvdmVybGF5IGFjcm9zcyBldmVyeXRoaW5nIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0idXJsKCNnbGl0Y2hTY2FuKSIgb3BhY2l0eT0iMC41IiAvPgo8L3N2Zz4K
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="glitchScan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="transparent" />
+      <rect y="2" width="4" height="1.4" fill="#000000" opacity="0.6" />
+    </pattern>
+  </defs>
+
+  <!-- CRT black stage -->
+  <rect width="1200" height="630" fill="#0B0B0E" />
+
+  <!-- SMPTE color bars, top-right corner -->
+  <g>
+    <rect x="944" y="0" width="36.6" height="200" fill="#EDEDED" />
+    <rect x="980.6" y="0" width="36.6" height="200" fill="#F5E000" />
+    <rect x="1017.2" y="0" width="36.6" height="200" fill="#00E5D8" />
+    <rect x="1053.8" y="0" width="36.6" height="200" fill="#3DFF6E" />
+    <rect x="1090.4" y="0" width="36.6" height="200" fill="#FF2E9A" />
+    <rect x="1127" y="0" width="36.6" height="200" fill="#FF2E4C" />
+    <rect x="1163.6" y="0" width="36.4" height="200" fill="#2E6BFF" />
+  </g>
+
+  <!-- Channel-split title: cyan + red offsets under white -->
+  <g font-family="'Azeret Mono', ui-monospace, monospace" font-weight="700" font-size="128" letter-spacing="-2">
+    <text x="66" y="270" fill="#00E5D8" opacity="0.9" transform="translate(6,0)">PLEASE</text>
+    <text x="66" y="270" fill="#FF2E4C" opacity="0.9" transform="translate(-6,0)">PLEASE</text>
+    <text x="66" y="270" fill="#EDEDED">PLEASE</text>
+    <text x="66" y="400" fill="#00E5D8" opacity="0.9" transform="translate(6,0)">STAND BY</text>
+    <text x="66" y="400" fill="#FF2E4C" opacity="0.9" transform="translate(-6,0)">STAND BY</text>
+    <text x="66" y="400" fill="#EDEDED">STAND BY</text>
+  </g>
+
+  <!-- Mono label -->
+  <text x="68" y="150" font-family="'Azeret Mono', ui-monospace, monospace" font-size="20" fill="#00E5D8" letter-spacing="8">// NO SIGNAL</text>
+
+  <!-- VHS tear band -->
+  <g transform="translate(0,330)">
+    <rect x="66" y="0" width="620" height="10" fill="#EDEDED" opacity="0.12" />
+    <rect x="120" y="0" width="180" height="10" fill="#FF2E4C" opacity="0.5" transform="translate(8,0)" />
+  </g>
+
+  <!-- REC indicator + card + button (bottom) -->
+  <g font-family="'Azeret Mono', ui-monospace, monospace">
+    <circle cx="78" cy="470" r="9" fill="#FF2E4C" />
+    <text x="98" y="477" font-size="20" font-weight="700" fill="#FF2E4C" letter-spacing="4">REC</text>
+
+    <!-- CRT card -->
+    <rect x="66" y="500" width="360" height="96" fill="#101014" stroke="#EDEDED" stroke-opacity="0.3" stroke-width="2" />
+    <rect x="66" y="500" width="360" height="8" fill="#00E5D8" />
+    <text x="84" y="540" font-size="15" fill="#00E5D8" letter-spacing="2">CH-01 / LIVE</text>
+    <text x="84" y="572" font-size="24" font-weight="700" fill="#EDEDED" letter-spacing="1">SIGNAL LOST</text>
+
+    <!-- Button -->
+    <rect x="452" y="524" width="220" height="52" fill="#FF2E4C" stroke="#EDEDED" stroke-width="2" />
+    <text x="562" y="558" font-size="18" font-weight="700" fill="#0B0B0E" text-anchor="middle" letter-spacing="3">&#9654; TRANSMIT</text>
+  </g>
+
+  <!-- Scanline overlay across everything -->
+  <rect width="1200" height="630" fill="url(#glitchScan)" opacity="0.5" />
+</svg>

@@ -1,1 +1,109 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+DQogIDxkZWZzPg0KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciPjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMiIHJlc3VsdD0iYmx1ciIvPjxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT48L2ZpbHRlcj4NCiAgICA8ZmlsdGVyIGlkPSJnbG93MiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNiIgcmVzdWx0PSJibHVyIi8+PGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJibHVyIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPjwvZmlsdGVyPg0KICA8L2RlZnM+DQogIDwhLS0gQmFja2dyb3VuZCAtLT4NCiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjMDIwNjE3Ii8+DQogIDwhLS0gU2NhbmxpbmVzIC0tPg0KICA8ZGVmcz48cGF0dGVybiBpZD0ic2NhbiIgd2lkdGg9IjEiIGhlaWdodD0iNCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHJlY3Qgd2lkdGg9IjEiIGhlaWdodD0iMiIgZmlsbD0icmdiYSgxNDgsMTYzLDE4NCwwLjAyKSIvPjwvcGF0dGVybj48L2RlZnM+DQogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0idXJsKCNzY2FuKSIvPg0KICA8IS0tIEdyaWQgLS0+DQogIDxnIHN0cm9rZT0iIzA2QjZENCIgc3Ryb2tlLXdpZHRoPSIuMyIgb3BhY2l0eT0iLjA2Ij4NCiAgICA8bGluZSB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iNjMwIi8+PGxpbmUgeDE9IjYwIiB5MT0iMCIgeDI9IjYwIiB5Mj0iNjMwIi8+PGxpbmUgeDE9IjEyMCIgeTE9IjAiIHgyPSIxMjAiIHkyPSI2MzAiLz4NCiAgICA8bGluZSB4MT0iMTgwIiB5MT0iMCIgeDI9IjE4MCIgeTI9IjYzMCIvPjxsaW5lIHgxPSIyNDAiIHkxPSIwIiB4Mj0iMjQwIiB5Mj0iNjMwIi8+DQogICAgPGxpbmUgeDE9IjAiIHkxPSI2MCIgeDI9IjEyMDAiIHkyPSI2MCIvPjxsaW5lIHgxPSIwIiB5MT0iMTIwIiB4Mj0iMTIwMCIgeTI9IjEyMCIvPg0KICAgIDxsaW5lIHgxPSIwIiB5MT0iMTgwIiB4Mj0iMTIwMCIgeTI9IjE4MCIvPjxsaW5lIHgxPSIwIiB5MT0iMjQwIiB4Mj0iMTIwMCIgeTI9IjI0MCIvPg0KICA8L2c+DQogIDwhLS0gTmF2IGJhciAtLT4NCiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNTAiIGZpbGw9IiMwMjA2MTciIG9wYWNpdHk9Ii45NSIvPg0KICA8bGluZSB4MT0iMCIgeTE9IjUwIiB4Mj0iMTIwMCIgeTI9IjUwIiBzdHJva2U9IiMwNkI2RDQiIHN0cm9rZS13aWR0aD0iLjUiIG9wYWNpdHk9Ii4zIi8+DQogIDxyZWN0IHg9IjQwIiB5PSIxMiIgd2lkdGg9IjQwIiBoZWlnaHQ9IjI2IiByeD0iMyIgZmlsbD0icmdiYSg2LDE4MiwyMTIsMC4xKSIgc3Ryb2tlPSIjMDZCNkQ0IiBzdHJva2Utd2lkdGg9IjEiLz4NCiAgPHRleHQgeD0iNDciIHk9IjMwIiBmaWxsPSIjMjJEM0VFIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmb250LXdlaWdodD0iNzAwIj5IVUQ8L3RleHQ+DQogIDx0ZXh0IHg9Ijk1IiB5PSIzMiIgZmlsbD0iI0U1RjJGRiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMiIgbGV0dGVyLXNwYWNpbmc9IjIiPlNUWUxFS0lUIENPTU1BTkQ8L3RleHQ+DQogIDxjaXJjbGUgY3g9IjEwNTAiIGN5PSIyNSIgcj0iNCIgZmlsbD0iIzIyQzU1RSIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+DQogIDx0ZXh0IHg9IjEwNjAiIHk9IjI5IiBmaWxsPSIjOTRBM0I4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGxldHRlci1zcGFjaW5nPSIxLjUiPk9OTElORTwvdGV4dD4NCiAgPHJlY3QgeD0iOTIwIiB5PSIxNCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIyMiIgcng9IjMiIGZpbGw9InJnYmEoNiwxODIsMjEyLDAuMSkiIHN0cm9rZT0icmdiYSg2LDE4MiwyMTIsMC4zKSIvPg0KICA8dGV4dCB4PSI5NDAiIHk9IjI5IiBmaWxsPSIjMjJEM0VFIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEwIj4xNDozMjowNyBVVEM8L3RleHQ+DQogIDwhLS0gSGVybyAtLT4NCiAgPHRleHQgeD0iODAiIHk9IjEwMCIgZmlsbD0iIzIyRDNFRSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgbGV0dGVyLXNwYWNpbmc9IjQiIG9wYWNpdHk9Ii43Ij4vLyBERVNJR04gU1lTVEVNIElOVEVSRkFDRTwvdGV4dD4NCiAgPHRleHQgeD0iODAiIHk9IjE3MCIgZmlsbD0iI0U1RjJGRiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI2NCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsdGVyPSJ1cmwoI2dsb3cyKSI+U0NJLUZJIEhVRDwvdGV4dD4NCiAgPHRleHQgeD0iODAiIHk9IjIxMCIgZmlsbD0iIzk0QTNCOCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyI+Q29tbWFuZCBjZW50ZXIgaW50ZXJmYWNlLiBTZW1pLXRyYW5zcGFyZW50IGdsYXNzIHBhbmVscywgZ2xvd2luZyBhY2NlbnRzLjwvdGV4dD4NCiAgPCEtLSBNYWluIEhVRCBQYW5lbCAtLT4NCiAgPHJlY3QgeD0iODAiIHk9IjI1MCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIyODAiIHJ4PSI2IiBmaWxsPSJyZ2JhKDE1LDIzLDQyLDAuODUpIiBzdHJva2U9InJnYmEoNiwxODIsMjEyLDAuMykiLz4NCiAgPCEtLSBDb3JuZXIgZGVjb3JhdGlvbnMgLS0+DQogIDxwYXRoIGQ9Ik04MCAyNTh2LThoOCIgc3Ryb2tlPSIjMjJEM0VFIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4NCiAgPHBhdGggZD0iTTU3MiAyNTh2LThoLTgiIHN0cm9rZT0iIzIyRDNFRSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+DQogIDxwYXRoIGQ9Ik04MCA1MjJ2OGg4IiBzdHJva2U9IiMyMkQzRUUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPg0KICA8cGF0aCBkPSJNNTcyIDUyMnY4aC04IiBzdHJva2U9IiMyMkQzRUUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPg0KICA8IS0tIFBhbmVsIGxhYmVsIC0tPg0KICA8cmVjdCB4PSIxMTAiIHk9IjI0NCIgd2lkdGg9IjExMCIgaGVpZ2h0PSIxNiIgcng9IjMiIGZpbGw9IiMwMjA2MTciIHN0cm9rZT0icmdiYSg2LDE4MiwyMTIsMC4zKSIvPg0KICA8dGV4dCB4PSIxMjUiIHk9IjI1NSIgZmlsbD0iIzIyRDNFRSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMiI+U1lTVEVNIFNUQVRVUzwvdGV4dD4NCiAgPCEtLSBQcm9ncmVzcyBiYXJzIC0tPg0KICA8dGV4dCB4PSIxMDUiIHk9IjI5MCIgZmlsbD0iIzk0QTNCOCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iMS41Ij5QT1dFUiBDT1JFPC90ZXh0Pg0KICA8dGV4dCB4PSI1MTAiIHk9IjI5MCIgZmlsbD0iIzIyRDNFRSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjcwMCIgdGV4dC1hbmNob3I9ImVuZCI+OTIlPC90ZXh0Pg0KICA8cmVjdCB4PSIxMDUiIHk9IjI5OCIgd2lkdGg9IjQ1MCIgaGVpZ2h0PSI4IiByeD0iMSIgZmlsbD0iIzFlMjkzYiIgc3Ryb2tlPSJyZ2JhKDUxLDY1LDg1LDAuNSkiLz4NCiAgPHJlY3QgeD0iMTA1IiB5PSIyOTgiIHdpZHRoPSI0MTQiIGhlaWdodD0iOCIgcng9IjEiIGZpbGw9InVybCgjY3lhbkdyYWQpIi8+DQogIDx0ZXh0IHg9IjEwNSIgeT0iMzM1IiBmaWxsPSIjOTRBM0I4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGxldHRlci1zcGFjaW5nPSIxLjUiPlNISUVMRCBBUlJBWTwvdGV4dD4NCiAgPHRleHQgeD0iNTEwIiB5PSIzMzUiIGZpbGw9IiMyMkQzRUUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJlbmQiPjc4JTwvdGV4dD4NCiAgPHJlY3QgeD0iMTA1IiB5PSIzNDMiIHdpZHRoPSI0NTAiIGhlaWdodD0iOCIgcng9IjEiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0icmdiYSg1MSw2NSw4NSwwLjUpIi8+DQogIDxyZWN0IHg9IjEwNSIgeT0iMzQzIiB3aWR0aD0iMzUxIiBoZWlnaHQ9IjgiIHJ4PSIxIiBmaWxsPSJ1cmwoI2dyZWVuR3JhZCkiLz4NCiAgPHRleHQgeD0iMTA1IiB5PSIzODAiIGZpbGw9IiM5NEEzQjgiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOSIgbGV0dGVyLXNwYWNpbmc9IjEuNSI+Q09NTSBCQU5EV0lEVEg8L3RleHQ+DQogIDx0ZXh0IHg9IjUxMCIgeT0iMzgwIiBmaWxsPSIjMjJEM0VFIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNzAwIiB0ZXh0LWFuY2hvcj0iZW5kIj42NCU8L3RleHQ+DQogIDxyZWN0IHg9IjEwNSIgeT0iMzg4IiB3aWR0aD0iNDUwIiBoZWlnaHQ9IjgiIHJ4PSIxIiBmaWxsPSIjMWUyOTNiIiBzdHJva2U9InJnYmEoNTEsNjUsODUsMC41KSIvPg0KICA8cmVjdCB4PSIxMDUiIHk9IjM4OCIgd2lkdGg9IjI4OCIgaGVpZ2h0PSI4IiByeD0iMSIgZmlsbD0idXJsKCN5ZWxsb3dHcmFkKSIvPg0KICA8dGV4dCB4PSIxMDUiIHk9IjQyNSIgZmlsbD0iIzk0QTNCOCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iMS41Ij5IVUxMIElOVEVHUklUWTwvdGV4dD4NCiAgPHRleHQgeD0iNTEwIiB5PSI0MjUiIGZpbGw9IiMyMkQzRUUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJlbmQiPjQ1JTwvdGV4dD4NCiAgPHJlY3QgeD0iMTA1IiB5PSI0MzMiIHdpZHRoPSI0NTAiIGhlaWdodD0iOCIgcng9IjEiIGZpbGw9IiMxZTI5M2IiIHN0cm9rZT0icmdiYSg1MSw2NSw4NSwwLjUpIi8+DQogIDxyZWN0IHg9IjEwNSIgeT0iNDMzIiB3aWR0aD0iMjAyIiBoZWlnaHQ9IjgiIHJ4PSIxIiBmaWxsPSJ1cmwoI3JlZEdyYWQpIi8+DQogIDwhLS0gR3JhZGllbnRzIC0tPg0KICA8ZGVmcz4NCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImN5YW5HcmFkIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDZCNkQ0Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMzhCREY4Ii8+PC9saW5lYXJHcmFkaWVudD4NCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyZWVuR3JhZCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzEwQjk4MSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzM0RDM5OSIvPjwvbGluZWFyR3JhZGllbnQ+DQogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ5ZWxsb3dHcmFkIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRjU5RTBCIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRkJCRjI0Ii8+PC9saW5lYXJHcmFkaWVudD4NCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InJlZEdyYWQiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNEQzI2MjYiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGODcxNzEiLz48L2xpbmVhckdyYWRpZW50Pg0KICA8L2RlZnM+DQogIDwhLS0gQnV0dG9ucyAtLT4NCiAgPHJlY3QgeD0iMTA1IiB5PSI0NzAiIHdpZHRoPSIxMTAiIGhlaWdodD0iMzQiIHJ4PSI0IiBmaWxsPSJyZ2JhKDE1LDIzLDQyLDAuOCkiIHN0cm9rZT0icmdiYSg2LDE4MiwyMTIsMC40KSIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+DQogIDx0ZXh0IHg9IjEzMCIgeT0iNDkxIiBmaWxsPSIjMjJEM0VFIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGxldHRlci1zcGFjaW5nPSIyIj5JTklUSUFMSVpFPC90ZXh0Pg0KICA8cmVjdCB4PSIyMzAiIHk9IjQ3MCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIzNCIgcng9IjQiIGZpbGw9InJnYmEoNiwxODIsMjEyLDAuMikiIHN0cm9rZT0iIzY3RThGOSIvPg0KICA8dGV4dCB4PSIyNTgiIHk9IjQ5MSIgZmlsbD0iIzY3RThGOSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iMiI+QUNUSVZFPC90ZXh0Pg0KICA8cmVjdCB4PSIzNDUiIHk9IjQ3MCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIzNCIgcng9IjQiIGZpbGw9InJnYmEoMTUsMjMsNDIsMC44KSIgc3Ryb2tlPSJyZ2JhKDIzOSw2OCw2OCwwLjQpIi8+DQogIDx0ZXh0IHg9IjM2NSIgeT0iNDkxIiBmaWxsPSIjRjg3MTcxIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjkiIGxldHRlci1zcGFjaW5nPSIyIj5PVkVSUklERTwvdGV4dD4NCiAgPCEtLSBSYWRhciBQYW5lbCAtLT4NCiAgPHJlY3QgeD0iNjIwIiB5PSIyNTAiIHdpZHRoPSIyODAiIGhlaWdodD0iMjgwIiByeD0iNiIgZmlsbD0icmdiYSgxNSwyMyw0MiwwLjg1KSIgc3Ryb2tlPSJyZ2JhKDYsMTgyLDIxMiwwLjMpIi8+DQogIDxwYXRoIGQ9Ik02MjAgMjU4di04aDgiIHN0cm9rZT0iIzIyRDNFRSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+DQogIDxwYXRoIGQ9Ik04OTIgMjU4di04aC04IiBzdHJva2U9IiMyMkQzRUUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPg0KICA8cGF0aCBkPSJNNjIwIDUyMnY4aDgiIHN0cm9rZT0iIzIyRDNFRSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+DQogIDxwYXRoIGQ9Ik04OTIgNTIydjhoLTgiIHN0cm9rZT0iIzIyRDNFRSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIi8+DQogIDxyZWN0IHg9IjY1MCIgeT0iMjQ0IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzAyMDYxNyIgc3Ryb2tlPSJyZ2JhKDYsMTgyLDIxMiwwLjMpIi8+DQogIDx0ZXh0IHg9IjY2NSIgeT0iMjU1IiBmaWxsPSIjMjJEM0VFIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIyIj5UQUNUSUNBTCBSQURBUjwvdGV4dD4NCiAgPCEtLSBSYWRhciBjaXJjbGVzIC0tPg0KICA8Y2lyY2xlIGN4PSI3NjAiIGN5PSI0MDAiIHI9IjgwIiBmaWxsPSJub25lIiBzdHJva2U9InJnYmEoMTQsMTY1LDIzMywwLjE1KSIvPg0KICA8Y2lyY2xlIGN4PSI3NjAiIGN5PSI0MDAiIHI9IjU1IiBmaWxsPSJub25lIiBzdHJva2U9InJnYmEoMTQsMTY1LDIzMywwLjEyKSIvPg0KICA8Y2lyY2xlIGN4PSI3NjAiIGN5PSI0MDAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9InJnYmEoMTQsMTY1LDIzMywwLjEpIi8+DQogIDxsaW5lIHgxPSI3NjAiIHkxPSIzMTAiIHgyPSI3NjAiIHkyPSI0OTAiIHN0cm9rZT0icmdiYSgxNCwxNjUsMjMzLDAuMDgpIi8+DQogIDxsaW5lIHgxPSI2NzAiIHkxPSI0MDAiIHgyPSI4NTAiIHkyPSI0MDAiIHN0cm9rZT0icmdiYSgxNCwxNjUsMjMzLDAuMDgpIi8+DQogIDwhLS0gUmFkYXIgYmxpcHMgLS0+DQogIDxjaXJjbGUgY3g9Ijc5MCIgY3k9IjM2MCIgcj0iMyIgZmlsbD0iIzIyRDNFRSIgb3BhY2l0eT0iLjgiLz4NCiAgPGNpcmNsZSBjeD0iNzMwIiBjeT0iNDMwIiByPSIzIiBmaWxsPSIjMjJEM0VFIiBvcGFjaXR5PSIuNiIvPg0KICA8Y2lyY2xlIGN4PSI4MDAiIGN5PSI0MjAiIHI9IjMiIGZpbGw9IiMyMkM1NUUiIG9wYWNpdHk9Ii43Ii8+DQogIDxjaXJjbGUgY3g9Ijc2MCIgY3k9IjQwMCIgcj0iNCIgZmlsbD0iIzIyRDNFRSIvPg0KICA8IS0tIE1ldHJpYyBjYXJkcyAtLT4NCiAgPHJlY3QgeD0iOTQwIiB5PSIyNTAiIHdpZHRoPSIyMjAiIGhlaWdodD0iNjAiIHJ4PSI0IiBmaWxsPSJyZ2JhKDMwLDQxLDU5LDAuMykiIHN0cm9rZT0icmdiYSg1MSw2NSw4NSwwLjUpIi8+DQogIDx0ZXh0IHg9Ijk2MCIgeT0iMjcyIiBmaWxsPSIjOTRBM0I4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjgiIGxldHRlci1zcGFjaW5nPSIyIj5DUkVXPC90ZXh0Pg0KICA8dGV4dCB4PSI5NjAiIHk9IjI5OCIgZmlsbD0iIzIyRDNFRSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9IjcwMCI+ODQ3PC90ZXh0Pg0KICA8cmVjdCB4PSI5NDAiIHk9IjMyMCIgd2lkdGg9IjIyMCIgaGVpZ2h0PSI2MCIgcng9IjQiIGZpbGw9InJnYmEoMzAsNDEsNTksMC4zKSIgc3Ryb2tlPSJyZ2JhKDUxLDY1LDg1LDAuNSkiLz4NCiAgPHRleHQgeD0iOTYwIiB5PSIzNDIiIGZpbGw9IiM5NEEzQjgiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iOCIgbGV0dGVyLXNwYWNpbmc9IjIiPkNBUkdPPC90ZXh0Pg0KICA8dGV4dCB4PSI5NjAiIHk9IjM2OCIgZmlsbD0iIzIyRDNFRSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9IjcwMCI+NzIuNFQ8L3RleHQ+DQogIDxyZWN0IHg9Ijk0MCIgeT0iMzkwIiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjYwIiByeD0iNCIgZmlsbD0icmdiYSgzMCw0MSw1OSwwLjMpIiBzdHJva2U9InJnYmEoNTEsNjUsODUsMC41KSIvPg0KICA8dGV4dCB4PSI5NjAiIHk9IjQxMiIgZmlsbD0iIzk0QTNCOCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMiI+UkFOR0U8L3RleHQ+DQogIDx0ZXh0IHg9Ijk2MCIgeT0iNDM4IiBmaWxsPSIjMjJEM0VFIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjIyIiBmb250LXdlaWdodD0iNzAwIj40LjIgTFk8L3RleHQ+DQogIDxyZWN0IHg9Ijk0MCIgeT0iNDYwIiB3aWR0aD0iMjIwIiBoZWlnaHQ9IjYwIiByeD0iNCIgZmlsbD0icmdiYSgzMCw0MSw1OSwwLjMpIiBzdHJva2U9InJnYmEoNTEsNjUsODUsMC41KSIvPg0KICA8dGV4dCB4PSI5NjAiIHk9IjQ4MiIgZmlsbD0iIzk0QTNCOCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI4IiBsZXR0ZXItc3BhY2luZz0iMiI+VVBUSU1FPC90ZXh0Pg0KICA8dGV4dCB4PSI5NjAiIHk9IjUwOCIgZmlsbD0iIzIyRDNFRSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9IjcwMCI+OTkuOTclPC90ZXh0Pg0KICA8IS0tIEZvb3RlciAtLT4NCiAgPGxpbmUgeDE9IjAiIHkxPSI1ODAiIHgyPSIxMjAwIiB5Mj0iNTgwIiBzdHJva2U9InJnYmEoNiwxODIsMjEyLDAuMikiLz4NCiAgPHRleHQgeD0iODAiIHk9IjYwNSIgZmlsbD0iIzY0NzQ4QiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCI+U2NpLUZpIEhVRCBEZXNpZ24gU3lzdGVtIC8vIFN0eWxlS2l0PC90ZXh0Pg0KICA8dGV4dCB4PSIxMDAwIiB5PSI2MDUiIGZpbGw9IiMyMkQzRUUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGxldHRlci1zcGFjaW5nPSIxIj5ET0NVTUVOVEFUSU9OPC90ZXh0Pg0KPC9zdmc+
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1200 630">
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow2"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#020617"/>
+  <!-- Scanlines -->
+  <defs><pattern id="scan" width="1" height="4" patternUnits="userSpaceOnUse"><rect width="1" height="2" fill="rgba(148,163,184,0.02)"/></pattern></defs>
+  <rect width="1200" height="630" fill="url(#scan)"/>
+  <!-- Grid -->
+  <g stroke="#06B6D4" stroke-width=".3" opacity=".06">
+    <line x1="0" y1="0" x2="0" y2="630"/><line x1="60" y1="0" x2="60" y2="630"/><line x1="120" y1="0" x2="120" y2="630"/>
+    <line x1="180" y1="0" x2="180" y2="630"/><line x1="240" y1="0" x2="240" y2="630"/>
+    <line x1="0" y1="60" x2="1200" y2="60"/><line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/><line x1="0" y1="240" x2="1200" y2="240"/>
+  </g>
+  <!-- Nav bar -->
+  <rect x="0" y="0" width="1200" height="50" fill="#020617" opacity=".95"/>
+  <line x1="0" y1="50" x2="1200" y2="50" stroke="#06B6D4" stroke-width=".5" opacity=".3"/>
+  <rect x="40" y="12" width="40" height="26" rx="3" fill="rgba(6,182,212,0.1)" stroke="#06B6D4" stroke-width="1"/>
+  <text x="47" y="30" fill="#22D3EE" font-family="monospace" font-size="10" font-weight="700">HUD</text>
+  <text x="95" y="32" fill="#E5F2FF" font-family="monospace" font-size="12" letter-spacing="2">STYLEKIT COMMAND</text>
+  <circle cx="1050" cy="25" r="4" fill="#22C55E" filter="url(#glow)"/>
+  <text x="1060" y="29" fill="#94A3B8" font-family="monospace" font-size="9" letter-spacing="1.5">ONLINE</text>
+  <rect x="920" y="14" width="100" height="22" rx="3" fill="rgba(6,182,212,0.1)" stroke="rgba(6,182,212,0.3)"/>
+  <text x="940" y="29" fill="#22D3EE" font-family="monospace" font-size="10">14:32:07 UTC</text>
+  <!-- Hero -->
+  <text x="80" y="100" fill="#22D3EE" font-family="monospace" font-size="10" letter-spacing="4" opacity=".7">// DESIGN SYSTEM INTERFACE</text>
+  <text x="80" y="170" fill="#E5F2FF" font-family="monospace" font-size="64" font-weight="700" filter="url(#glow2)">SCI-FI HUD</text>
+  <text x="80" y="210" fill="#94A3B8" font-family="monospace" font-size="13">Command center interface. Semi-transparent glass panels, glowing accents.</text>
+  <!-- Main HUD Panel -->
+  <rect x="80" y="250" width="500" height="280" rx="6" fill="rgba(15,23,42,0.85)" stroke="rgba(6,182,212,0.3)"/>
+  <!-- Corner decorations -->
+  <path d="M80 258v-8h8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <path d="M572 258v-8h-8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <path d="M80 522v8h8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <path d="M572 522v8h-8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <!-- Panel label -->
+  <rect x="110" y="244" width="110" height="16" rx="3" fill="#020617" stroke="rgba(6,182,212,0.3)"/>
+  <text x="125" y="255" fill="#22D3EE" font-family="monospace" font-size="8" letter-spacing="2">SYSTEM STATUS</text>
+  <!-- Progress bars -->
+  <text x="105" y="290" fill="#94A3B8" font-family="monospace" font-size="9" letter-spacing="1.5">POWER CORE</text>
+  <text x="510" y="290" fill="#22D3EE" font-family="monospace" font-size="11" font-weight="700" text-anchor="end">92%</text>
+  <rect x="105" y="298" width="450" height="8" rx="1" fill="#1e293b" stroke="rgba(51,65,85,0.5)"/>
+  <rect x="105" y="298" width="414" height="8" rx="1" fill="url(#cyanGrad)"/>
+  <text x="105" y="335" fill="#94A3B8" font-family="monospace" font-size="9" letter-spacing="1.5">SHIELD ARRAY</text>
+  <text x="510" y="335" fill="#22D3EE" font-family="monospace" font-size="11" font-weight="700" text-anchor="end">78%</text>
+  <rect x="105" y="343" width="450" height="8" rx="1" fill="#1e293b" stroke="rgba(51,65,85,0.5)"/>
+  <rect x="105" y="343" width="351" height="8" rx="1" fill="url(#greenGrad)"/>
+  <text x="105" y="380" fill="#94A3B8" font-family="monospace" font-size="9" letter-spacing="1.5">COMM BANDWIDTH</text>
+  <text x="510" y="380" fill="#22D3EE" font-family="monospace" font-size="11" font-weight="700" text-anchor="end">64%</text>
+  <rect x="105" y="388" width="450" height="8" rx="1" fill="#1e293b" stroke="rgba(51,65,85,0.5)"/>
+  <rect x="105" y="388" width="288" height="8" rx="1" fill="url(#yellowGrad)"/>
+  <text x="105" y="425" fill="#94A3B8" font-family="monospace" font-size="9" letter-spacing="1.5">HULL INTEGRITY</text>
+  <text x="510" y="425" fill="#22D3EE" font-family="monospace" font-size="11" font-weight="700" text-anchor="end">45%</text>
+  <rect x="105" y="433" width="450" height="8" rx="1" fill="#1e293b" stroke="rgba(51,65,85,0.5)"/>
+  <rect x="105" y="433" width="202" height="8" rx="1" fill="url(#redGrad)"/>
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="cyanGrad"><stop offset="0%" stop-color="#06B6D4"/><stop offset="100%" stop-color="#38BDF8"/></linearGradient>
+    <linearGradient id="greenGrad"><stop offset="0%" stop-color="#10B981"/><stop offset="100%" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="yellowGrad"><stop offset="0%" stop-color="#F59E0B"/><stop offset="100%" stop-color="#FBBF24"/></linearGradient>
+    <linearGradient id="redGrad"><stop offset="0%" stop-color="#DC2626"/><stop offset="100%" stop-color="#F87171"/></linearGradient>
+  </defs>
+  <!-- Buttons -->
+  <rect x="105" y="470" width="110" height="34" rx="4" fill="rgba(15,23,42,0.8)" stroke="rgba(6,182,212,0.4)" filter="url(#glow)"/>
+  <text x="130" y="491" fill="#22D3EE" font-family="monospace" font-size="9" letter-spacing="2">INITIALIZE</text>
+  <rect x="230" y="470" width="100" height="34" rx="4" fill="rgba(6,182,212,0.2)" stroke="#67E8F9"/>
+  <text x="258" y="491" fill="#67E8F9" font-family="monospace" font-size="9" letter-spacing="2">ACTIVE</text>
+  <rect x="345" y="470" width="100" height="34" rx="4" fill="rgba(15,23,42,0.8)" stroke="rgba(239,68,68,0.4)"/>
+  <text x="365" y="491" fill="#F87171" font-family="monospace" font-size="9" letter-spacing="2">OVERRIDE</text>
+  <!-- Radar Panel -->
+  <rect x="620" y="250" width="280" height="280" rx="6" fill="rgba(15,23,42,0.85)" stroke="rgba(6,182,212,0.3)"/>
+  <path d="M620 258v-8h8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <path d="M892 258v-8h-8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <path d="M620 522v8h8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <path d="M892 522v8h-8" stroke="#22D3EE" stroke-width="2" fill="none"/>
+  <rect x="650" y="244" width="120" height="16" rx="3" fill="#020617" stroke="rgba(6,182,212,0.3)"/>
+  <text x="665" y="255" fill="#22D3EE" font-family="monospace" font-size="8" letter-spacing="2">TACTICAL RADAR</text>
+  <!-- Radar circles -->
+  <circle cx="760" cy="400" r="80" fill="none" stroke="rgba(14,165,233,0.15)"/>
+  <circle cx="760" cy="400" r="55" fill="none" stroke="rgba(14,165,233,0.12)"/>
+  <circle cx="760" cy="400" r="30" fill="none" stroke="rgba(14,165,233,0.1)"/>
+  <line x1="760" y1="310" x2="760" y2="490" stroke="rgba(14,165,233,0.08)"/>
+  <line x1="670" y1="400" x2="850" y2="400" stroke="rgba(14,165,233,0.08)"/>
+  <!-- Radar blips -->
+  <circle cx="790" cy="360" r="3" fill="#22D3EE" opacity=".8"/>
+  <circle cx="730" cy="430" r="3" fill="#22D3EE" opacity=".6"/>
+  <circle cx="800" cy="420" r="3" fill="#22C55E" opacity=".7"/>
+  <circle cx="760" cy="400" r="4" fill="#22D3EE"/>
+  <!-- Metric cards -->
+  <rect x="940" y="250" width="220" height="60" rx="4" fill="rgba(30,41,59,0.3)" stroke="rgba(51,65,85,0.5)"/>
+  <text x="960" y="272" fill="#94A3B8" font-family="monospace" font-size="8" letter-spacing="2">CREW</text>
+  <text x="960" y="298" fill="#22D3EE" font-family="monospace" font-size="22" font-weight="700">847</text>
+  <rect x="940" y="320" width="220" height="60" rx="4" fill="rgba(30,41,59,0.3)" stroke="rgba(51,65,85,0.5)"/>
+  <text x="960" y="342" fill="#94A3B8" font-family="monospace" font-size="8" letter-spacing="2">CARGO</text>
+  <text x="960" y="368" fill="#22D3EE" font-family="monospace" font-size="22" font-weight="700">72.4T</text>
+  <rect x="940" y="390" width="220" height="60" rx="4" fill="rgba(30,41,59,0.3)" stroke="rgba(51,65,85,0.5)"/>
+  <text x="960" y="412" fill="#94A3B8" font-family="monospace" font-size="8" letter-spacing="2">RANGE</text>
+  <text x="960" y="438" fill="#22D3EE" font-family="monospace" font-size="22" font-weight="700">4.2 LY</text>
+  <rect x="940" y="460" width="220" height="60" rx="4" fill="rgba(30,41,59,0.3)" stroke="rgba(51,65,85,0.5)"/>
+  <text x="960" y="482" fill="#94A3B8" font-family="monospace" font-size="8" letter-spacing="2">UPTIME</text>
+  <text x="960" y="508" fill="#22D3EE" font-family="monospace" font-size="22" font-weight="700">99.97%</text>
+  <!-- Footer -->
+  <line x1="0" y1="580" x2="1200" y2="580" stroke="rgba(6,182,212,0.2)"/>
+  <text x="80" y="605" fill="#64748B" font-family="monospace" font-size="10">Sci-Fi HUD Design System // StyleKit</text>
+  <text x="1000" y="605" fill="#22D3EE" font-family="monospace" font-size="10" letter-spacing="1">DOCUMENTATION</text>
+</svg>

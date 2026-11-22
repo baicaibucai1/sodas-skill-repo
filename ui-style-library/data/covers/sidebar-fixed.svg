@@ -1,1 +1,183 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIj4KICA8ZGVmcz4KICAgIDxmaWx0ZXIgaWQ9InNoYWRvdy1iYXIiPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iMiIgc3RkRGV2aWF0aW9uPSIzIiBmbG9vZC1jb2xvcj0iIzAwMDAwMDEyIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9ImNhcmQtc2hhZG93Ij4KICAgICAgPGZlRHJvcFNoYWRvdyBkeD0iMCIgZHk9IjIiIHN0ZERldmlhdGlvbj0iNiIgZmxvb2QtY29sb3I9IiMwMDAwMDAxYSIvPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgoKICA8IS0tIENvbnRlbnQgYmFja2dyb3VuZCAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiNmOGZhZmMiLz4KCiAgPCEtLSBGaXhlZCBTaWRlYmFyIC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIyNDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjMWUyOTNiIi8+CgogIDwhLS0gTG9nbyBhcmVhIC0tPgogIDxjaXJjbGUgY3g9IjM2IiBjeT0iNDAiIHI9IjE0IiBmaWxsPSIjM2I4MmY2Ii8+CiAgPHRleHQgeD0iNTgiIHk9IjQ2IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIj5BcHA8L3RleHQ+CiAgPGxpbmUgeDE9IjAiIHkxPSI3MCIgeDI9IjI0MCIgeTI9IjcwIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMSIvPgoKICA8IS0tIE5hdiBpdGVtOiBEYXNoYm9hcmQgKGFjdGl2ZSkgLS0+CiAgPHJlY3QgeD0iMCIgeT0iODYiIHdpZHRoPSIyNDAiIGhlaWdodD0iNDQiIGZpbGw9IiMzYjgyZjYiIGZpbGwtb3BhY2l0eT0iMC4xNSIvPgogIDxyZWN0IHg9IjAiIHk9Ijg2IiB3aWR0aD0iNCIgaGVpZ2h0PSI0NCIgZmlsbD0iIzNiODJmNiIvPgogIDxyZWN0IHg9IjIwIiB5PSIxMDAiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNCIgcng9IjMiIGZpbGw9IiMzYjgyZjYiLz4KICA8dGV4dCB4PSI0NiIgeT0iMTEzIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjM2I4MmY2Ij5EYXNoYm9hcmQ8L3RleHQ+CgogIDwhLS0gTmF2IGl0ZW06IEFuYWx5dGljcyAtLT4KICA8cmVjdCB4PSIyMCIgeT0iMTQ2IiB3aWR0aD0iMTYiIGhlaWdodD0iMTQiIHJ4PSIzIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuNCIvPgogIDx0ZXh0IHg9IjQ2IiB5PSIxNTkiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuNiI+QW5hbHl0aWNzPC90ZXh0PgogIDxjaXJjbGUgY3g9IjIxMCIgY3k9IjE1MyIgcj0iOSIgZmlsbD0iI2VmNDQ0NCIvPgogIDx0ZXh0IHg9IjIxMCIgeT0iMTU3IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjM8L3RleHQ+CgogIDwhLS0gTmF2IGl0ZW06IFByb2plY3RzIC0tPgogIDxyZWN0IHg9IjIwIiB5PSIxODYiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNCIgcng9IjMiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC40Ii8+CiAgPHRleHQgeD0iNDYiIHk9IjE5OSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC42Ij5Qcm9qZWN0czwvdGV4dD4KICA8Y2lyY2xlIGN4PSIyMTAiIGN5PSIxOTMiIHI9IjkiIGZpbGw9IiNmNTllMGIiLz4KICA8dGV4dCB4PSIyMTAiIHk9IjE5NyIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj43PC90ZXh0PgoKICA8IS0tIE5hdiBpdGVtOiBUZWFtIC0tPgogIDxyZWN0IHg9IjIwIiB5PSIyMjYiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNCIgcng9IjMiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC40Ii8+CiAgPHRleHQgeD0iNDYiIHk9IjIzOSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC42Ij5UZWFtPC90ZXh0PgoKICA8IS0tIE5hdiBpdGVtOiBSZXBvcnRzIC0tPgogIDxyZWN0IHg9IjIwIiB5PSIyNjYiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNCIgcng9IjMiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC40Ii8+CiAgPHRleHQgeD0iNDYiIHk9IjI3OSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC42Ij5SZXBvcnRzPC90ZXh0PgoKICA8IS0tIE5hdiBpdGVtOiBTZXR0aW5ncyAtLT4KICA8cmVjdCB4PSIyMCIgeT0iMzA2IiB3aWR0aD0iMTYiIGhlaWdodD0iMTQiIHJ4PSIzIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuNCIvPgogIDx0ZXh0IHg9IjQ2IiB5PSIzMTkiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuNiI+U2V0dGluZ3M8L3RleHQ+CgogIDwhLS0gU2lkZWJhciBkaXZpZGVyIC0tPgogIDxsaW5lIHgxPSIxNiIgeTE9IjM1MCIgeDI9IjIyNCIgeTI9IjM1MCIgc3Ryb2tlPSIjMzM0MTU1IiBzdHJva2Utd2lkdGg9IjEiLz4KCiAgPCEtLSBVc2VyIGF2YXRhciBhdCBib3R0b20gLS0+CiAgPGNpcmNsZSBjeD0iMzYiIGN5PSI1OTAiIHI9IjE4IiBmaWxsPSIjNDc1NTY5Ii8+CiAgPGNpcmNsZSBjeD0iMzYiIGN5PSI1ODIiIHI9IjciIGZpbGw9IiM5NGEzYjgiLz4KICA8ZWxsaXBzZSBjeD0iMzYiIGN5PSI2MDEiIHJ4PSIxMiIgcnk9IjciIGZpbGw9IiM5NGEzYjgiLz4KICA8dGV4dCB4PSI2MiIgeT0iNTg3IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjZmZmZmZmIj5BbGV4IEpvaG5zb248L3RleHQ+CiAgPHRleHQgeD0iNjIiIHk9IjYwMiIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzk0YTNiOCI+QWRtaW48L3RleHQ+CgogIDwhLS0gVG9wIGJhciAtLT4KICA8cmVjdCB4PSIyNDAiIHk9IjAiIHdpZHRoPSI5NjAiIGhlaWdodD0iNjQiIGZpbGw9IiNmZmZmZmYiIGZpbHRlcj0idXJsKCNzaGFkb3ctYmFyKSIvPgogIDxsaW5lIHgxPSIyNDAiIHkxPSI2NCIgeDI9IjEyMDAiIHkyPSI2NCIgc3Ryb2tlPSIjZTJlOGYwIiBzdHJva2Utd2lkdGg9IjEiLz4KCiAgPCEtLSBCcmVhZGNydW1iIC0tPgogIDx0ZXh0IHg9IjI2OCIgeT0iMzYiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiM5NGEzYjgiPkhvbWU8L3RleHQ+CiAgPHRleHQgeD0iMzEwIiB5PSIzNiIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2NiZDVlMSI+LzwvdGV4dD4KICA8dGV4dCB4PSIzMjIiIHk9IjM2IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmaWxsPSIjMWUyOTNiIiBmb250LXdlaWdodD0iNjAwIj5EYXNoYm9hcmQ8L3RleHQ+CgogIDwhLS0gTm90aWZpY2F0aW9uIGljb24gLS0+CiAgPHJlY3QgeD0iMTEyMCIgeT0iMjAiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyMCIgcng9IjQiIGZpbGw9IiNmMWY1ZjkiLz4KICA8Y2lyY2xlIGN4PSIxMTQyIiBjeT0iMjAiIHI9IjUiIGZpbGw9IiNlZjQ0NDQiLz4KCiAgPCEtLSBUb3AgYmFyIGF2YXRhciAtLT4KICA8Y2lyY2xlIGN4PSIxMTY0IiBjeT0iMzIiIHI9IjE4IiBmaWxsPSIjM2I4MmY2Ii8+CiAgPGNpcmNsZSBjeD0iMTE2NCIgY3k9IjI0IiByPSI3IiBmaWxsPSIjYmZkYmZlIi8+CiAgPGVsbGlwc2UgY3g9IjExNjQiIGN5PSI0MyIgcng9IjEyIiByeT0iNyIgZmlsbD0iI2JmZGJmZSIvPgoKICA8IS0tIFN0YXQgQ2FyZHMgUm93IC0tPgogIDwhLS0gQ2FyZCAxOiBCbHVlIC0tPgogIDxyZWN0IHg9IjI2OCIgeT0iODQiIHdpZHRoPSIyNjgiIGhlaWdodD0iMTIwIiByeD0iOCIgZmlsbD0iI2ZmZmZmZiIgZmlsdGVyPSJ1cmwoI2NhcmQtc2hhZG93KSIvPgogIDxyZWN0IHg9IjI4NCIgeT0iMTAwIiB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjZWZmNmZmIi8+CiAgPHJlY3QgeD0iMjkyIiB5PSIxMDgiIHdpZHRoPSI4IiBoZWlnaHQ9IjIwIiByeD0iMiIgZmlsbD0iIzNiODJmNiIvPgogIDxyZWN0IHg9IjMwNCIgeT0iMTE0IiB3aWR0aD0iOCIgaGVpZ2h0PSIxNCIgcng9IjIiIGZpbGw9IiMzYjgyZjYiLz4KICA8dGV4dCB4PSIzMzIiIHk9IjExOCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzY0NzQ4YiI+VG90YWwgUmV2ZW51ZTwvdGV4dD4KICA8dGV4dCB4PSIzMzIiIHk9IjE0MCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzFlMjkzYiI+JDg0LDIzMDwvdGV4dD4KICA8dGV4dCB4PSIyODQiIHk9IjE4NiIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzEwYjk4MSI+KzEyLjUlIHRoaXMgbW9udGg8L3RleHQ+CgogIDwhLS0gQ2FyZCAyOiBHcmVlbiAtLT4KICA8cmVjdCB4PSI1NTYiIHk9Ijg0IiB3aWR0aD0iMjY4IiBoZWlnaHQ9IjEyMCIgcng9IjgiIGZpbGw9IiNmZmZmZmYiIGZpbHRlcj0idXJsKCNjYXJkLXNoYWRvdykiLz4KICA8cmVjdCB4PSI1NzIiIHk9IjEwMCIgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiByeD0iOCIgZmlsbD0iI2YwZmRmNCIvPgogIDxjaXJjbGUgY3g9IjU5MCIgY3k9IjExOCIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzEwYjk4MSIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPHRleHQgeD0iNjIwIiB5PSIxMTgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM2NDc0OGIiPkFjdGl2ZSBVc2VyczwvdGV4dD4KICA8dGV4dCB4PSI2MjAiIHk9IjE0MCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzFlMjkzYiI+NCwxOTI8L3RleHQ+CiAgPHRleHQgeD0iNTcyIiB5PSIxODYiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMxMGI5ODEiPis4LjElIHRoaXMgd2VlazwvdGV4dD4KCiAgPCEtLSBDYXJkIDM6IEFtYmVyIC0tPgogIDxyZWN0IHg9Ijg0NCIgeT0iODQiIHdpZHRoPSIyNjgiIGhlaWdodD0iMTIwIiByeD0iOCIgZmlsbD0iI2ZmZmZmZiIgZmlsdGVyPSJ1cmwoI2NhcmQtc2hhZG93KSIvPgogIDxyZWN0IHg9Ijg2MCIgeT0iMTAwIiB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjZmZmYmViIi8+CiAgPHBvbHlnb24gcG9pbnRzPSI4NzgsMTA2IDg4NiwxMjIgODcwLDEyMiIgZmlsbD0iI2Y1OWUwYiIvPgogIDx0ZXh0IHg9IjkwOCIgeT0iMTE4IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjNjQ3NDhiIj5PcGVuIFRpY2tldHM8L3RleHQ+CiAgPHRleHQgeD0iOTA4IiB5PSIxNDAiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMxZTI5M2IiPjIzNzwvdGV4dD4KICA8dGV4dCB4PSI4NjAiIHk9IjE4NiIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iI2VmNDQ0NCI+KzMgc2luY2UgeWVzdGVyZGF5PC90ZXh0PgoKICA8IS0tIFRhYmxlIHBhbmVsIC0tPgogIDxyZWN0IHg9IjI2OCIgeT0iMjI0IiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjI0MCIgcng9IjgiIGZpbGw9IiNmZmZmZmYiIGZpbHRlcj0idXJsKCNjYXJkLXNoYWRvdykiLz4KICA8dGV4dCB4PSIyODQiIHk9IjI0OCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iIzFlMjkzYiI+UmVjZW50IEFjdGl2aXR5PC90ZXh0PgogIDwhLS0gVGFibGUgaGVhZGVyIC0tPgogIDxyZWN0IHg9IjI2OCIgeT0iMjU4IiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjI4IiBmaWxsPSIjZjhmYWZjIi8+CiAgPGxpbmUgeDE9IjI2OCIgeTE9IjI4NiIgeDI9IjgyOCIgeTI9IjI4NiIgc3Ryb2tlPSIjZTJlOGYwIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8dGV4dCB4PSIyODQiIHk9IjI3NyIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iIzY0NzQ4YiI+TkFNRTwvdGV4dD4KICA8dGV4dCB4PSI0MzAiIHk9IjI3NyIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iIzY0NzQ4YiI+U1RBVFVTPC90ZXh0PgogIDx0ZXh0IHg9IjU1NiIgeT0iMjc3IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjNjQ3NDhiIj5EQVRFPC90ZXh0PgogIDx0ZXh0IHg9IjY4OCIgeT0iMjc3IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjNjQ3NDhiIj5BTU9VTlQ8L3RleHQ+CiAgPCEtLSBSb3cgMSAtLT4KICA8Y2lyY2xlIGN4PSIyOTYiIGN5PSIzMDQiIHI9IjEwIiBmaWxsPSIjZGJlYWZlIi8+CiAgPHRleHQgeD0iMzE0IiB5PSIzMDgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMxZTI5M2IiPlByb2plY3QgQWxwaGE8L3RleHQ+CiAgPHJlY3QgeD0iNDIwIiB5PSIyOTYiIHdpZHRoPSI1OCIgaGVpZ2h0PSIxOCIgcng9IjkiIGZpbGw9IiNkY2ZjZTciLz4KICA8dGV4dCB4PSI0NDkiIHk9IjMwOSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzE2YTM0YSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWN0aXZlPC90ZXh0PgogIDx0ZXh0IHg9IjU1NiIgeT0iMzA4IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjNjQ3NDhiIj5KYW4gMTI8L3RleHQ+CiAgPHRleHQgeD0iNjg4IiB5PSIzMDgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IiMxZTI5M2IiPiQzLDIwMDwvdGV4dD4KICA8bGluZSB4MT0iMjY4IiB5MT0iMzIwIiB4Mj0iODI4IiB5Mj0iMzIwIiBzdHJva2U9IiNmMWY1ZjkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDwhLS0gUm93IDIgLS0+CiAgPHJlY3QgeD0iMjY4IiB5PSIzMjAiIHdpZHRoPSI1NjAiIGhlaWdodD0iMzYiIGZpbGw9IiNmOGZhZmMiIGZpbGwtb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMjk2IiBjeT0iMzM4IiByPSIxMCIgZmlsbD0iI2ZlZjNjNyIvPgogIDx0ZXh0IHg9IjMxNCIgeT0iMzQyIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjMWUyOTNiIj5Qcm9qZWN0IEJldGE8L3RleHQ+CiAgPHJlY3QgeD0iNDIwIiB5PSIzMzAiIHdpZHRoPSI1OCIgaGVpZ2h0PSIxOCIgcng9IjkiIGZpbGw9IiNmZWYzYzciLz4KICA8dGV4dCB4PSI0NDkiIHk9IjM0MyIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2Q5NzcwNiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UGVuZGluZzwvdGV4dD4KICA8dGV4dCB4PSI1NTYiIHk9IjM0MiIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzY0NzQ4YiI+SmFuIDEwPC90ZXh0PgogIDx0ZXh0IHg9IjY4OCIgeT0iMzQyIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjMWUyOTNiIj4kMSw4NDA8L3RleHQ+CiAgPGxpbmUgeDE9IjI2OCIgeTE9IjM1NiIgeDI9IjgyOCIgeTI9IjM1NiIgc3Ryb2tlPSIjZjFmNWY5IiBzdHJva2Utd2lkdGg9IjEiLz4KICA8IS0tIFJvdyAzIC0tPgogIDxjaXJjbGUgY3g9IjI5NiIgY3k9IjM3NCIgcj0iMTAiIGZpbGw9IiNmZWUyZTIiLz4KICA8dGV4dCB4PSIzMTQiIHk9IjM3OCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzFlMjkzYiI+UHJvamVjdCBHYW1tYTwvdGV4dD4KICA8cmVjdCB4PSI0MjAiIHk9IjM2NiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjE4IiByeD0iOSIgZmlsbD0iI2ZlZTJlMiIvPgogIDx0ZXh0IHg9IjQ0OSIgeT0iMzc5IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBmaWxsPSIjZGMyNjI2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5DbG9zZWQ8L3RleHQ+CiAgPHRleHQgeD0iNTU2IiB5PSIzNzgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM2NDc0OGIiPkphbiAwODwvdGV4dD4KICA8dGV4dCB4PSI2ODgiIHk9IjM3OCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjYwMCIgZmlsbD0iIzFlMjkzYiI+JDUsMTAwPC90ZXh0PgogIDxsaW5lIHgxPSIyNjgiIHkxPSIzOTIiIHgyPSI4MjgiIHkyPSIzOTIiIHN0cm9rZT0iI2YxZjVmOSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPCEtLSBSb3cgNCAtLT4KICA8cmVjdCB4PSIyNjgiIHk9IjM5MiIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzNiIgZmlsbD0iI2Y4ZmFmYyIgZmlsbC1vcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSIyOTYiIGN5PSI0MTAiIHI9IjEwIiBmaWxsPSIjZGJlYWZlIi8+CiAgPHRleHQgeD0iMzE0IiB5PSI0MTQiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMxZTI5M2IiPlByb2plY3QgRGVsdGE8L3RleHQ+CiAgPHJlY3QgeD0iNDIwIiB5PSI0MDIiIHdpZHRoPSI1OCIgaGVpZ2h0PSIxOCIgcng9IjkiIGZpbGw9IiNkY2ZjZTciLz4KICA8dGV4dCB4PSI0NDkiIHk9IjQxNSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzE2YTM0YSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QWN0aXZlPC90ZXh0PgogIDx0ZXh0IHg9IjU1NiIgeT0iNDE0IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjNjQ3NDhiIj5KYW4gMDU8L3RleHQ+CiAgPHRleHQgeD0iNjg4IiB5PSI0MTQiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IiMxZTI5M2IiPiQyLDc2MDwvdGV4dD4KICA8bGluZSB4MT0iMjY4IiB5MT0iNDI4IiB4Mj0iODI4IiB5Mj0iNDI4IiBzdHJva2U9IiNmMWY1ZjkiIHN0cm9rZS13aWR0aD0iMSIvPgogIDwhLS0gUm93IDUgLS0+CiAgPGNpcmNsZSBjeD0iMjk2IiBjeT0iNDQ2IiByPSIxMCIgZmlsbD0iI2ZlZjNjNyIvPgogIDx0ZXh0IHg9IjMxNCIgeT0iNDUwIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjMWUyOTNiIj5Qcm9qZWN0IEVwc2lsb248L3RleHQ+CiAgPHJlY3QgeD0iNDIwIiB5PSI0MzgiIHdpZHRoPSI1OCIgaGVpZ2h0PSIxOCIgcng9IjkiIGZpbGw9IiNmZWYzYzciLz4KICA8dGV4dCB4PSI0NDkiIHk9IjQ1MSIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2Q5NzcwNiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UGVuZGluZzwvdGV4dD4KICA8dGV4dCB4PSI1NTYiIHk9IjQ1MCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzY0NzQ4YiI+SmFuIDAzPC90ZXh0PgogIDx0ZXh0IHg9IjY4OCIgeT0iNDUwIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjMWUyOTNiIj4kOTIwPC90ZXh0PgoKICA8IS0tIEJhciBjaGFydCBwYW5lbCAtLT4KICA8cmVjdCB4PSI4NDgiIHk9IjIyNCIgd2lkdGg9IjI2NCIgaGVpZ2h0PSIyNDAiIHJ4PSI4IiBmaWxsPSIjZmZmZmZmIiBmaWx0ZXI9InVybCgjY2FyZC1zaGFkb3cpIi8+CiAgPHRleHQgeD0iODY0IiB5PSIyNDgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IiMxZTI5M2IiPk1vbnRobHkgT3ZlcnZpZXc8L3RleHQ+CiAgPCEtLSBCYXNlbGluZSAtLT4KICA8bGluZSB4MT0iODY0IiB5MT0iNDM0IiB4Mj0iMTA5NiIgeTI9IjQzNCIgc3Ryb2tlPSIjZTJlOGYwIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8IS0tIEJhcnMgLS0+CiAgPHJlY3QgeD0iODcyIiB5PSIzNzQiIHdpZHRoPSIyMiIgaGVpZ2h0PSI2MCIgcng9IjMiIGZpbGw9IiNiZmRiZmUiLz4KICA8cmVjdCB4PSI5MDQiIHk9IjM0NCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjkwIiByeD0iMyIgZmlsbD0iIzNiODJmNiIvPgogIDxyZWN0IHg9IjkzNiIgeT0iMzU5IiB3aWR0aD0iMjIiIGhlaWdodD0iNzUiIHJ4PSIzIiBmaWxsPSIjYmZkYmZlIi8+CiAgPHJlY3QgeD0iOTY4IiB5PSIzMjQiIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMTAiIHJ4PSIzIiBmaWxsPSIjM2I4MmY2Ii8+CiAgPHJlY3QgeD0iMTAwMCIgeT0iMzQ5IiB3aWR0aD0iMjIiIGhlaWdodD0iODUiIHJ4PSIzIiBmaWxsPSIjYmZkYmZlIi8+CiAgPHJlY3QgeD0iMTAzMiIgeT0iMzM0IiB3aWR0aD0iMjIiIGhlaWdodD0iMTAwIiByeD0iMyIgZmlsbD0iIzNiODJmNiIvPgogIDxyZWN0IHg9IjEwNjQiIHk9IjMxNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjEyMCIgcng9IjMiIGZpbGw9IiMxZDRlZDgiLz4KICA8IS0tIFgtYXhpcyBsYWJlbHMgLS0+CiAgPHRleHQgeD0iODc2IiB5PSI0NDgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzk0YTNiOCI+SnVsPC90ZXh0PgogIDx0ZXh0IHg9IjkwOCIgeT0iNDQ4IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiM5NGEzYjgiPkF1ZzwvdGV4dD4KICA8dGV4dCB4PSI5NDAiIHk9IjQ0OCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSIjOTRhM2I4Ij5TZXA8L3RleHQ+CiAgPHRleHQgeD0iOTcyIiB5PSI0NDgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzk0YTNiOCI+T2N0PC90ZXh0PgogIDx0ZXh0IHg9IjEwMDQiIHk9IjQ0OCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBmaWxsPSIjOTRhM2I4Ij5Ob3Y8L3RleHQ+CiAgPHRleHQgeD0iMTAzNiIgeT0iNDQ4IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZpbGw9IiM5NGEzYjgiPkRlYzwvdGV4dD4KICA8dGV4dCB4PSIxMDY4IiB5PSI0NDgiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzk0YTNiOCI+SmFuPC90ZXh0PgoKICA8IS0tIFR5cG9ncmFwaHkgb3ZlcmxheSAtLT4KICA8dGV4dCB4PSIyNjgiIHk9IjU0OCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzFlMjkzYiI+U2lkZWJhciBGaXhlZDwvdGV4dD4KICA8dGV4dCB4PSIyNjgiIHk9IjU3OCIgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxOCIgZmlsbD0iIzY0NzQ4YiI+TmF2aWdhdGlvbi1maXJzdCBkYXNoYm9hcmQgbGF5b3V0PC90ZXh0Pgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <filter id="shadow-bar">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00000012"/>
+    </filter>
+    <filter id="card-shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#0000001a"/>
+    </filter>
+  </defs>
+
+  <!-- Content background -->
+  <rect x="0" y="0" width="1200" height="630" fill="#f8fafc"/>
+
+  <!-- Fixed Sidebar -->
+  <rect x="0" y="0" width="240" height="630" fill="#1e293b"/>
+
+  <!-- Logo area -->
+  <circle cx="36" cy="40" r="14" fill="#3b82f6"/>
+  <text x="58" y="46" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#ffffff">App</text>
+  <line x1="0" y1="70" x2="240" y2="70" stroke="#334155" stroke-width="1"/>
+
+  <!-- Nav item: Dashboard (active) -->
+  <rect x="0" y="86" width="240" height="44" fill="#3b82f6" fill-opacity="0.15"/>
+  <rect x="0" y="86" width="4" height="44" fill="#3b82f6"/>
+  <rect x="20" y="100" width="16" height="14" rx="3" fill="#3b82f6"/>
+  <text x="46" y="113" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#3b82f6">Dashboard</text>
+
+  <!-- Nav item: Analytics -->
+  <rect x="20" y="146" width="16" height="14" rx="3" fill="#ffffff" fill-opacity="0.4"/>
+  <text x="46" y="159" font-family="system-ui, sans-serif" font-size="13" fill="#ffffff" opacity="0.6">Analytics</text>
+  <circle cx="210" cy="153" r="9" fill="#ef4444"/>
+  <text x="210" y="157" font-family="system-ui, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+
+  <!-- Nav item: Projects -->
+  <rect x="20" y="186" width="16" height="14" rx="3" fill="#ffffff" fill-opacity="0.4"/>
+  <text x="46" y="199" font-family="system-ui, sans-serif" font-size="13" fill="#ffffff" opacity="0.6">Projects</text>
+  <circle cx="210" cy="193" r="9" fill="#f59e0b"/>
+  <text x="210" y="197" font-family="system-ui, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+
+  <!-- Nav item: Team -->
+  <rect x="20" y="226" width="16" height="14" rx="3" fill="#ffffff" fill-opacity="0.4"/>
+  <text x="46" y="239" font-family="system-ui, sans-serif" font-size="13" fill="#ffffff" opacity="0.6">Team</text>
+
+  <!-- Nav item: Reports -->
+  <rect x="20" y="266" width="16" height="14" rx="3" fill="#ffffff" fill-opacity="0.4"/>
+  <text x="46" y="279" font-family="system-ui, sans-serif" font-size="13" fill="#ffffff" opacity="0.6">Reports</text>
+
+  <!-- Nav item: Settings -->
+  <rect x="20" y="306" width="16" height="14" rx="3" fill="#ffffff" fill-opacity="0.4"/>
+  <text x="46" y="319" font-family="system-ui, sans-serif" font-size="13" fill="#ffffff" opacity="0.6">Settings</text>
+
+  <!-- Sidebar divider -->
+  <line x1="16" y1="350" x2="224" y2="350" stroke="#334155" stroke-width="1"/>
+
+  <!-- User avatar at bottom -->
+  <circle cx="36" cy="590" r="18" fill="#475569"/>
+  <circle cx="36" cy="582" r="7" fill="#94a3b8"/>
+  <ellipse cx="36" cy="601" rx="12" ry="7" fill="#94a3b8"/>
+  <text x="62" y="587" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Alex Johnson</text>
+  <text x="62" y="602" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Admin</text>
+
+  <!-- Top bar -->
+  <rect x="240" y="0" width="960" height="64" fill="#ffffff" filter="url(#shadow-bar)"/>
+  <line x1="240" y1="64" x2="1200" y2="64" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Breadcrumb -->
+  <text x="268" y="36" font-family="system-ui, sans-serif" font-size="13" fill="#94a3b8">Home</text>
+  <text x="310" y="36" font-family="system-ui, sans-serif" font-size="13" fill="#cbd5e1">/</text>
+  <text x="322" y="36" font-family="system-ui, sans-serif" font-size="13" fill="#1e293b" font-weight="600">Dashboard</text>
+
+  <!-- Notification icon -->
+  <rect x="1120" y="20" width="22" height="20" rx="4" fill="#f1f5f9"/>
+  <circle cx="1142" cy="20" r="5" fill="#ef4444"/>
+
+  <!-- Top bar avatar -->
+  <circle cx="1164" cy="32" r="18" fill="#3b82f6"/>
+  <circle cx="1164" cy="24" r="7" fill="#bfdbfe"/>
+  <ellipse cx="1164" cy="43" rx="12" ry="7" fill="#bfdbfe"/>
+
+  <!-- Stat Cards Row -->
+  <!-- Card 1: Blue -->
+  <rect x="268" y="84" width="268" height="120" rx="8" fill="#ffffff" filter="url(#card-shadow)"/>
+  <rect x="284" y="100" width="36" height="36" rx="8" fill="#eff6ff"/>
+  <rect x="292" y="108" width="8" height="20" rx="2" fill="#3b82f6"/>
+  <rect x="304" y="114" width="8" height="14" rx="2" fill="#3b82f6"/>
+  <text x="332" y="118" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">Total Revenue</text>
+  <text x="332" y="140" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#1e293b">$84,230</text>
+  <text x="284" y="186" font-family="system-ui, sans-serif" font-size="11" fill="#10b981">+12.5% this month</text>
+
+  <!-- Card 2: Green -->
+  <rect x="556" y="84" width="268" height="120" rx="8" fill="#ffffff" filter="url(#card-shadow)"/>
+  <rect x="572" y="100" width="36" height="36" rx="8" fill="#f0fdf4"/>
+  <circle cx="590" cy="118" r="10" fill="none" stroke="#10b981" stroke-width="3"/>
+  <text x="620" y="118" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">Active Users</text>
+  <text x="620" y="140" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#1e293b">4,192</text>
+  <text x="572" y="186" font-family="system-ui, sans-serif" font-size="11" fill="#10b981">+8.1% this week</text>
+
+  <!-- Card 3: Amber -->
+  <rect x="844" y="84" width="268" height="120" rx="8" fill="#ffffff" filter="url(#card-shadow)"/>
+  <rect x="860" y="100" width="36" height="36" rx="8" fill="#fffbeb"/>
+  <polygon points="878,106 886,122 870,122" fill="#f59e0b"/>
+  <text x="908" y="118" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">Open Tickets</text>
+  <text x="908" y="140" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#1e293b">237</text>
+  <text x="860" y="186" font-family="system-ui, sans-serif" font-size="11" fill="#ef4444">+3 since yesterday</text>
+
+  <!-- Table panel -->
+  <rect x="268" y="224" width="560" height="240" rx="8" fill="#ffffff" filter="url(#card-shadow)"/>
+  <text x="284" y="248" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#1e293b">Recent Activity</text>
+  <!-- Table header -->
+  <rect x="268" y="258" width="560" height="28" fill="#f8fafc"/>
+  <line x1="268" y1="286" x2="828" y2="286" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="284" y="277" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#64748b">NAME</text>
+  <text x="430" y="277" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#64748b">STATUS</text>
+  <text x="556" y="277" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#64748b">DATE</text>
+  <text x="688" y="277" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#64748b">AMOUNT</text>
+  <!-- Row 1 -->
+  <circle cx="296" cy="304" r="10" fill="#dbeafe"/>
+  <text x="314" y="308" font-family="system-ui, sans-serif" font-size="12" fill="#1e293b">Project Alpha</text>
+  <rect x="420" y="296" width="58" height="18" rx="9" fill="#dcfce7"/>
+  <text x="449" y="309" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle">Active</text>
+  <text x="556" y="308" font-family="system-ui, sans-serif" font-size="12" fill="#64748b">Jan 12</text>
+  <text x="688" y="308" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#1e293b">$3,200</text>
+  <line x1="268" y1="320" x2="828" y2="320" stroke="#f1f5f9" stroke-width="1"/>
+  <!-- Row 2 -->
+  <rect x="268" y="320" width="560" height="36" fill="#f8fafc" fill-opacity="0.6"/>
+  <circle cx="296" cy="338" r="10" fill="#fef3c7"/>
+  <text x="314" y="342" font-family="system-ui, sans-serif" font-size="12" fill="#1e293b">Project Beta</text>
+  <rect x="420" y="330" width="58" height="18" rx="9" fill="#fef3c7"/>
+  <text x="449" y="343" font-family="system-ui, sans-serif" font-size="10" fill="#d97706" text-anchor="middle">Pending</text>
+  <text x="556" y="342" font-family="system-ui, sans-serif" font-size="12" fill="#64748b">Jan 10</text>
+  <text x="688" y="342" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#1e293b">$1,840</text>
+  <line x1="268" y1="356" x2="828" y2="356" stroke="#f1f5f9" stroke-width="1"/>
+  <!-- Row 3 -->
+  <circle cx="296" cy="374" r="10" fill="#fee2e2"/>
+  <text x="314" y="378" font-family="system-ui, sans-serif" font-size="12" fill="#1e293b">Project Gamma</text>
+  <rect x="420" y="366" width="58" height="18" rx="9" fill="#fee2e2"/>
+  <text x="449" y="379" font-family="system-ui, sans-serif" font-size="10" fill="#dc2626" text-anchor="middle">Closed</text>
+  <text x="556" y="378" font-family="system-ui, sans-serif" font-size="12" fill="#64748b">Jan 08</text>
+  <text x="688" y="378" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#1e293b">$5,100</text>
+  <line x1="268" y1="392" x2="828" y2="392" stroke="#f1f5f9" stroke-width="1"/>
+  <!-- Row 4 -->
+  <rect x="268" y="392" width="560" height="36" fill="#f8fafc" fill-opacity="0.6"/>
+  <circle cx="296" cy="410" r="10" fill="#dbeafe"/>
+  <text x="314" y="414" font-family="system-ui, sans-serif" font-size="12" fill="#1e293b">Project Delta</text>
+  <rect x="420" y="402" width="58" height="18" rx="9" fill="#dcfce7"/>
+  <text x="449" y="415" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle">Active</text>
+  <text x="556" y="414" font-family="system-ui, sans-serif" font-size="12" fill="#64748b">Jan 05</text>
+  <text x="688" y="414" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#1e293b">$2,760</text>
+  <line x1="268" y1="428" x2="828" y2="428" stroke="#f1f5f9" stroke-width="1"/>
+  <!-- Row 5 -->
+  <circle cx="296" cy="446" r="10" fill="#fef3c7"/>
+  <text x="314" y="450" font-family="system-ui, sans-serif" font-size="12" fill="#1e293b">Project Epsilon</text>
+  <rect x="420" y="438" width="58" height="18" rx="9" fill="#fef3c7"/>
+  <text x="449" y="451" font-family="system-ui, sans-serif" font-size="10" fill="#d97706" text-anchor="middle">Pending</text>
+  <text x="556" y="450" font-family="system-ui, sans-serif" font-size="12" fill="#64748b">Jan 03</text>
+  <text x="688" y="450" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#1e293b">$920</text>
+
+  <!-- Bar chart panel -->
+  <rect x="848" y="224" width="264" height="240" rx="8" fill="#ffffff" filter="url(#card-shadow)"/>
+  <text x="864" y="248" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#1e293b">Monthly Overview</text>
+  <!-- Baseline -->
+  <line x1="864" y1="434" x2="1096" y2="434" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Bars -->
+  <rect x="872" y="374" width="22" height="60" rx="3" fill="#bfdbfe"/>
+  <rect x="904" y="344" width="22" height="90" rx="3" fill="#3b82f6"/>
+  <rect x="936" y="359" width="22" height="75" rx="3" fill="#bfdbfe"/>
+  <rect x="968" y="324" width="22" height="110" rx="3" fill="#3b82f6"/>
+  <rect x="1000" y="349" width="22" height="85" rx="3" fill="#bfdbfe"/>
+  <rect x="1032" y="334" width="22" height="100" rx="3" fill="#3b82f6"/>
+  <rect x="1064" y="314" width="22" height="120" rx="3" fill="#1d4ed8"/>
+  <!-- X-axis labels -->
+  <text x="876" y="448" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Jul</text>
+  <text x="908" y="448" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Aug</text>
+  <text x="940" y="448" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Sep</text>
+  <text x="972" y="448" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Oct</text>
+  <text x="1004" y="448" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Nov</text>
+  <text x="1036" y="448" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Dec</text>
+  <text x="1068" y="448" font-family="system-ui, sans-serif" font-size="9" fill="#94a3b8">Jan</text>
+
+  <!-- Typography overlay -->
+  <text x="268" y="548" font-family="system-ui, sans-serif" font-size="52" font-weight="700" fill="#1e293b">Sidebar Fixed</text>
+  <text x="268" y="578" font-family="system-ui, sans-serif" font-size="18" fill="#64748b">Navigation-first dashboard layout</text>
+</svg>

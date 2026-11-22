@@ -1,1 +1,32 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9Im1hcmJsZS1iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZjhmNmYzIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjZWNlOGUzIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Y4ZjZmMyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSJ1cmwoI21hcmJsZS1iZykiLz4KICA8ZyB0cmFuc2Zvcm09InNjYWxlKDEuNSwgMS41NzUpIj4KICA8IS0tIE1hcmJsZSB2ZWluaW5nIC0tPgogIDxwYXRoIGQ9Ik0wIDgwIFExMDAgNjAgMjAwIDEwMCBRMzUwIDE1MCA0MDAgOTAgUTUwMCAyMCA2MDAgODAgUTcwMCAxMzAgODAwIDcwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkNWNmYzkiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjYiLz4KICA8cGF0aCBkPSJNMCAxMjAgUTE1MCAxMDAgMjUwIDE0MCBRNDAwIDE5MCA1MDAgMTIwIFE2MDAgNjAgNzAwIDExMCBRNzUwIDE0MCA4MDAgMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiNjOGMwYjYiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC41Ii8+CiAgPHBhdGggZD0iTTAgMjAwIFE4MCAxNzAgMjAwIDIxMCBRMzAwIDI1MCA0NTAgMTgwIFE1NTAgMTMwIDY1MCAyMDAgUTcyMCAyNDAgODAwIDE5MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDVjZmM5IiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9IjAuNCIvPgogIDxwYXRoIGQ9Ik0wIDI1MCBRMTIwIDIzMCAyNTAgMjcwIFEzODAgMzEwIDUwMCAyNDAgUTYyMCAxNzAgNzAwIDI1MCBRNzYwIDI5MCA4MDAgMjYwIiBmaWxsPSJub25lIiBzdHJva2U9IiNjOGMwYjYiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC41Ii8+CiAgPHBhdGggZD0iTTAgMzIwIFExMDAgMzAwIDIyMCAzNDAgUTM1MCAzODAgNDgwIDMxMCBRNTgwIDI2MCA2ODAgMzIwIFE3NDAgMzUwIDgwMCAzMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q1Y2ZjOSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuNCIvPgogIDxwYXRoIGQ9Ik0wIDM2MCBRMTgwIDM0MCAzMDAgMzcwIFE0NTAgNDAwIDU1MCAzNTAgUTY2MCAzMDAgODAwIDM4MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzhjMGI2IiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuMyIvPgogIDwhLS0gR29sZCBhY2NlbnQgbGluZXMgLS0+CiAgPGxpbmUgeDE9IjEwMCIgeTE9IjAiIHgyPSIxMDAiIHkyPSI0MDAiIHN0cm9rZT0iI2M5YTk2ZSIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMyIvPgogIDxsaW5lIHgxPSI3MDAiIHkxPSIwIiB4Mj0iNzAwIiB5Mj0iNDAwIiBzdHJva2U9IiNjOWE5NmUiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjMiLz4KICA8IS0tIEdvbGQgZnJhbWUgY29ybmVycyAtLT4KICA8cGF0aCBkPSJNNjAgNTAgTDYwIDMwIEw4MCAzMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhOTZlIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNNzQwIDUwIEw3NDAgMzAgTDcyMCAzMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhOTZlIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNNjAgMzUwIEw2MCAzNzAgTDgwIDM3MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhOTZlIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNNzQwIDM1MCBMNzQwIDM3MCBMNzIwIDM3MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhOTZlIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8IS0tIEdvbGQgZGlhbW9uZCBhY2NlbnQgLS0+CiAgPHJlY3QgeD0iMzg1IiB5PSIxMDAiIHdpZHRoPSIzMCIgaGVpZ2h0PSIzMCIgdHJhbnNmb3JtPSJyb3RhdGUoNDUgNDAwIDExNSkiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2M5YTk2ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8IS0tIFN0eWxlIG5hbWUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIyMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI0OCIgZmlsbD0iIzFhMWExYSIgbGV0dGVyLXNwYWNpbmc9IjEyIj5NQVJCTEU8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIyNjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOCIgZmlsbD0iI2M5YTk2ZSIgbGV0dGVyLXNwYWNpbmc9IjE2Ij5MVVhVUlk8L3RleHQ+CiAgPC9nPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="marble-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f6f3"/>
+      <stop offset="50%" stop-color="#ece8e3"/>
+      <stop offset="100%" stop-color="#f8f6f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#marble-bg)"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Marble veining -->
+  <path d="M0 80 Q100 60 200 100 Q350 150 400 90 Q500 20 600 80 Q700 130 800 70" fill="none" stroke="#d5cfc9" stroke-width="1.5" opacity="0.6"/>
+  <path d="M0 120 Q150 100 250 140 Q400 190 500 120 Q600 60 700 110 Q750 140 800 100" fill="none" stroke="#c8c0b6" stroke-width="1" opacity="0.5"/>
+  <path d="M0 200 Q80 170 200 210 Q300 250 450 180 Q550 130 650 200 Q720 240 800 190" fill="none" stroke="#d5cfc9" stroke-width="2" opacity="0.4"/>
+  <path d="M0 250 Q120 230 250 270 Q380 310 500 240 Q620 170 700 250 Q760 290 800 260" fill="none" stroke="#c8c0b6" stroke-width="1" opacity="0.5"/>
+  <path d="M0 320 Q100 300 220 340 Q350 380 480 310 Q580 260 680 320 Q740 350 800 330" fill="none" stroke="#d5cfc9" stroke-width="1.5" opacity="0.4"/>
+  <path d="M0 360 Q180 340 300 370 Q450 400 550 350 Q660 300 800 380" fill="none" stroke="#c8c0b6" stroke-width="1" opacity="0.3"/>
+  <!-- Gold accent lines -->
+  <line x1="100" y1="0" x2="100" y2="400" stroke="#c9a96e" stroke-width="0.5" opacity="0.3"/>
+  <line x1="700" y1="0" x2="700" y2="400" stroke="#c9a96e" stroke-width="0.5" opacity="0.3"/>
+  <!-- Gold frame corners -->
+  <path d="M60 50 L60 30 L80 30" fill="none" stroke="#c9a96e" stroke-width="2"/>
+  <path d="M740 50 L740 30 L720 30" fill="none" stroke="#c9a96e" stroke-width="2"/>
+  <path d="M60 350 L60 370 L80 370" fill="none" stroke="#c9a96e" stroke-width="2"/>
+  <path d="M740 350 L740 370 L720 370" fill="none" stroke="#c9a96e" stroke-width="2"/>
+  <!-- Gold diamond accent -->
+  <rect x="385" y="100" width="30" height="30" transform="rotate(45 400 115)" fill="none" stroke="#c9a96e" stroke-width="1.5"/>
+  <!-- Style name -->
+  <text x="400" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#1a1a1a" letter-spacing="12">MARBLE</text>
+  <text x="400" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#c9a96e" letter-spacing="16">LUXURY</text>
+  </g>
+</svg>

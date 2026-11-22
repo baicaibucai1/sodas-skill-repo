@@ -1,1 +1,190 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPGRlZnM+CiAgICA8IS0tIE5vaXNlIHRleHR1cmUgLS0+CiAgICA8cGF0dGVybiBpZD0ibm9pc2UiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJub25lIi8+CiAgICAgIDxjaXJjbGUgY3g9IjEiIGN5PSIxIiByPSIwLjQiIGZpbGw9IiMzZDIwMTAiIG9wYWNpdHk9IjAuMzUiLz4KICAgICAgPGNpcmNsZSBjeD0iMyIgY3k9IjMiIHI9IjAuMzUiIGZpbGw9IiMyYzE4MTAiIG9wYWNpdHk9IjAuMjgiLz4KICAgICAgPGNpcmNsZSBjeD0iMiIgY3k9IjAuNSIgcj0iMC4zIiBmaWxsPSIjM2QyMDEwIiBvcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjAuNSIgY3k9IjMiIHI9IjAuMyIgZmlsbD0iIzJjMTgxMCIgb3BhY2l0eT0iMC4yIi8+CiAgICA8L3BhdHRlcm4+CgogICAgPCEtLSBDYW5kbGVsaWdodCBhbWJpZW50IGdsb3cgLS0+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImFtYmllbnRHbG93IiBjeD0iNTAlIiBjeT0iNTIlIiByPSI1MiUiIGZ4PSI1MCUiIGZ5PSI1MiUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODVjIiBzdG9wLW9wYWNpdHk9IjAuMjIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIzMCUiIHN0b3AtY29sb3I9IiM4YjY5MTQiIHN0b3Atb3BhY2l0eT0iMC4xMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjY1JSIgc3RvcC1jb2xvcj0iIzRhMmEwYSIgc3RvcC1vcGFjaXR5PSIwLjA2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFhMGUwOCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgoKICAgIDwhLS0gQ2FuZGxlIGZsYW1lIGdyYWRpZW50IC0tPgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJmbGFtZUNvcmUiIGN4PSI1MCUiIGN5PSI3MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmY4ZTAiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjQwJSIgc3RvcC1jb2xvcj0iI2ZmY2M0NCIgc3RvcC1vcGFjaXR5PSIwLjk1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmNjYwMCIgc3RvcC1vcGFjaXR5PSIwLjciLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CgogICAgPCEtLSBDYW5kbGUgaGFsbyAtLT4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZmxhbWVIYWxvIiBjeD0iNTAlIiBjeT0iNjAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzlhODVjIiBzdG9wLW9wYWNpdHk9IjAuNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzhiNjkxNCIgc3RvcC1vcGFjaXR5PSIwLjE1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFhMGUwOCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgoKICAgIDwhLS0gRHJvcCBzaGFkb3cgZmlsdGVyIC0tPgogICAgPGZpbHRlciBpZD0iYm9va1NoYWRvdyIgeD0iLTUlIiB5PSItNSUiIHdpZHRoPSIxMTUlIiBoZWlnaHQ9IjEyMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgaW49IlNvdXJjZUFscGhhIiBzdGREZXZpYXRpb249IjMiLz4KICAgICAgPGZlT2Zmc2V0IGR4PSIyIiBkeT0iMyIgcmVzdWx0PSJzaGFkb3ciLz4KICAgICAgPGZlRmxvb2QgZmxvb2QtY29sb3I9IiMwYTA2MDIiIGZsb29kLW9wYWNpdHk9IjAuNiIvPgogICAgICA8ZmVDb21wb3NpdGUgaW4yPSJzaGFkb3ciIG9wZXJhdG9yPSJpbiIvPgogICAgICA8ZmVNZXJnZT48ZmVNZXJnZU5vZGUvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgoKICAgIDwhLS0gUGFyY2htZW50IHRleHR1cmUgLS0+CiAgICA8ZmlsdGVyIGlkPSJwYXJjaG1lbnRGaWx0ZXIiPgogICAgICA8ZmVUdXJidWxlbmNlIHR5cGU9ImZyYWN0YWxOb2lzZSIgYmFzZUZyZXF1ZW5jeT0iMC42NSIgbnVtT2N0YXZlcz0iMyIgc3RpdGNoVGlsZXM9InN0aXRjaCIgcmVzdWx0PSJub2lzZSIvPgogICAgICA8ZmVDb2xvck1hdHJpeCB0eXBlPSJzYXR1cmF0ZSIgdmFsdWVzPSIwIiBpbj0ibm9pc2UiIHJlc3VsdD0iZ3JheU5vaXNlIi8+CiAgICAgIDxmZUJsZW5kIGluPSJTb3VyY2VHcmFwaGljIiBpbjI9ImdyYXlOb2lzZSIgbW9kZT0ibXVsdGlwbHkiIHJlc3VsdD0iYmxlbmQiLz4KICAgICAgPGZlQ29tcG9uZW50VHJhbnNmZXIgaW49ImJsZW5kIj4KICAgICAgICA8ZmVGdW5jQSB0eXBlPSJsaW5lYXIiIHNsb3BlPSIxIi8+CiAgICAgIDwvZmVDb21wb25lbnRUcmFuc2Zlcj4KICAgIDwvZmlsdGVyPgoKICAgIDwhLS0gU29mdCBnbG93IGZpbHRlciAtLT4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii00MCUiIHk9Ii00MCUiIHdpZHRoPSIxODAlIiBoZWlnaHQ9IjE4MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgaW49IlNvdXJjZUdyYXBoaWMiIHN0ZERldmlhdGlvbj0iOCIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPjxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPjxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPjwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgoKICAgIDwhLS0gQXJjaCBjbGlwIC0tPgogICAgPGNsaXBQYXRoIGlkPSJhcmNoQ2xpcCI+CiAgICAgIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjMyMCIvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CgogIDwhLS0gQmFzZSBiYWNrZ3JvdW5kIC0tPgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgZmlsbD0iIzFhMGUwOCIvPgogIDwhLS0gTm9pc2Ugb3ZlcmxheSAtLT4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9InVybCgjbm9pc2UpIiBvcGFjaXR5PSIwLjgiLz4KCiAgPCEtLSBBdG1vc3BoZXJpYyBmb2cg4oCUIHdpZGUgYW1iZXIgZWxsaXBzZXMgYXQgdmVyeSBsb3cgb3BhY2l0eSAtLT4KICA8ZWxsaXBzZSBjeD0iNjAwIiBjeT0iMzEwIiByeD0iNTIwIiByeT0iMjIwIiBmaWxsPSIjYzlhODVjIiBvcGFjaXR5PSIwLjA0NSIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+CiAgPGVsbGlwc2UgY3g9IjYwMCIgY3k9IjM0MCIgcng9IjM2MCIgcnk9IjE2MCIgZmlsbD0iIzhiNjkxNCIgb3BhY2l0eT0iMC4wNiIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+CgogIDwhLS0gR290aGljIGFyY2ggbGVmdCAtLT4KICA8cGF0aCBkPSJNNjAsMzIwIEw2MCwxNjAgUTYwLDYwIDE2MCw2MCBRMjYwLDYwIDI2MCwxNjAgTDI2MCwzMjAgWiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMmMxODEwIiBzdHJva2Utd2lkdGg9IjE4IiBvcGFjaXR5PSIwLjkiLz4KICA8cGF0aCBkPSJNNjAsMzIwIEw2MCwxNjAgUTYwLDYwIDE2MCw2MCBRMjYwLDYwIDI2MCwxNjAgTDI2MCwzMjAgWiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhODVjIiBzdHJva2Utd2lkdGg9IjEuMiIgb3BhY2l0eT0iMC4zNSIvPgogIDwhLS0gQXJjaCBpbm5lciBkZXRhaWwgbGVmdCAtLT4KICA8cGF0aCBkPSJNODIsMzIwIEw4MiwxNjggUTgyLDgyIDE2MCw4MiBRMjM4LDgyIDIzOCwxNjggTDIzOCwzMjAgWiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhODVjIiBzdHJva2Utd2lkdGg9IjAuNiIgb3BhY2l0eT0iMC4yIi8+CgogIDwhLS0gR290aGljIGFyY2ggcmlnaHQgLS0+CiAgPHBhdGggZD0iTTk0MCwzMjAgTDk0MCwxNjAgUTk0MCw2MCAxMDQwLDYwIFExMTQwLDYwIDExNDAsMTYwIEwxMTQwLDMyMCBaIiBmaWxsPSJub25lIiBzdHJva2U9IiMyYzE4MTAiIHN0cm9rZS13aWR0aD0iMTgiIG9wYWNpdHk9IjAuOSIvPgogIDxwYXRoIGQ9Ik05NDAsMzIwIEw5NDAsMTYwIFE5NDAsNjAgMTA0MCw2MCBRMTE0MCw2MCAxMTQwLDE2MCBMMTE0MCwzMjAgWiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzlhODVjIiBzdHJva2Utd2lkdGg9IjEuMiIgb3BhY2l0eT0iMC4zNSIvPgogIDwhLS0gQXJjaCBpbm5lciBkZXRhaWwgcmlnaHQgLS0+CiAgPHBhdGggZD0iTTk2MiwzMjAgTDk2MiwxNjggUTk2Miw4MiAxMDQwLDgyIFExMTE4LDgyIDExMTgsMTY4IEwxMTE4LDMyMCBaIiBmaWxsPSJub25lIiBzdHJva2U9IiNjOWE4NWMiIHN0cm9rZS13aWR0aD0iMC42IiBvcGFjaXR5PSIwLjIiLz4KCiAgPCEtLSBTdG9uZSBjb2x1bW5zIOKAlCB0YWxsIHRoaW4gcmVjdHMgLS0+CiAgPHJlY3QgeD0iNDgiIHk9IjAiIHdpZHRoPSIyNCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiMwZDBkMGQiIG9wYWNpdHk9IjAuNzUiLz4KICA8cmVjdCB4PSI2OCIgeT0iMCIgd2lkdGg9IjQiIGhlaWdodD0iNjMwIiBmaWxsPSIjMWExMjEwIiBvcGFjaXR5PSIwLjUiLz4KICA8cmVjdCB4PSIxMTI4IiB5PSIwIiB3aWR0aD0iMjQiIGhlaWdodD0iNjMwIiBmaWxsPSIjMGQwZDBkIiBvcGFjaXR5PSIwLjc1Ii8+CiAgPHJlY3QgeD0iMTEyOCIgeT0iMCIgd2lkdGg9IjQiIGhlaWdodD0iNjMwIiBmaWxsPSIjMWExMjEwIiBvcGFjaXR5PSIwLjUiLz4KCiAgPCEtLSBCb29rc2hlbGYgZmxvb3IgbGluZSAtLT4KICA8cmVjdCB4PSIwIiB5PSI1OTIiIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjM4IiBmaWxsPSIjMGQwODA1Ii8+CiAgPCEtLSBTaGVsZiBwbGFuayAtLT4KICA8cmVjdCB4PSIwIiB5PSI1ODAiIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjE0IiBmaWxsPSIjMmMxODEwIi8+CiAgPHJlY3QgeD0iMCIgeT0iNTgwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyIiBmaWxsPSIjYzlhODVjIiBvcGFjaXR5PSIwLjE1Ii8+CgogIDwhLS0gPT09IEJPT0tTID09PSAtLT4KICA8IS0tIEJvb2sgZ3JvdXAgbGVmdCBjbHVzdGVyIC0tPgogIDxyZWN0IHg9IjkwIiB5PSIzNTAiIHdpZHRoPSIyOCIgaGVpZ2h0PSIyMzUiIGZpbGw9IiM1YzFhMWEiIGZpbHRlcj0idXJsKCNib29rU2hhZG93KSIvPgogIDxyZWN0IHg9IjkxIiB5PSIzNTIiIHdpZHRoPSIyIiBoZWlnaHQ9IjIzMSIgZmlsbD0iI2M5YTg1YyIgb3BhY2l0eT0iMC4xOCIvPgogIDxyZWN0IHg9IjEwNSIgeT0iMzUyIiB3aWR0aD0iMSIgaGVpZ2h0PSIyMzEiIGZpbGw9IiNjOWE4NWMiIG9wYWNpdHk9IjAuMSIvPgoKICA8cmVjdCB4PSIxMjAiIHk9IjM3MCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIxNSIgZmlsbD0iIzFhM2QyYiIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CiAgPHJlY3QgeD0iMTIxIiB5PSIzNzIiIHdpZHRoPSIyIiBoZWlnaHQ9IjIxMSIgZmlsbD0iI2M5YTg1YyIgb3BhY2l0eT0iMC4xNSIvPgoKICA8cmVjdCB4PSIxNDQiIHk9IjM0MCIgd2lkdGg9IjMyIiBoZWlnaHQ9IjI0NSIgZmlsbD0iIzRhMmEwYSIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CiAgPHJlY3QgeD0iMTQ1IiB5PSIzNDIiIHdpZHRoPSIzIiBoZWlnaHQ9IjI0MSIgZmlsbD0iIzhiNjkxNCIgb3BhY2l0eT0iMC4yIi8+CiAgPHJlY3QgeD0iMTU4IiB5PSIzNDIiIHdpZHRoPSIxIiBoZWlnaHQ9IjI0MSIgZmlsbD0iI2M5YTg1YyIgb3BhY2l0eT0iMC4xMiIvPgoKICA8cmVjdCB4PSIxNzgiIHk9IjM5NSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE5MCIgZmlsbD0iIzBhMGEwYSIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CiAgPHJlY3QgeD0iMTc5IiB5PSIzOTciIHdpZHRoPSIxLjUiIGhlaWdodD0iMTg2IiBmaWxsPSIjYzlhODVjIiBvcGFjaXR5PSIwLjEiLz4KCiAgPHJlY3QgeD0iMTk4IiB5PSIzNjAiIHdpZHRoPSIyNiIgaGVpZ2h0PSIyMjUiIGZpbGw9IiM1YzFhMWEiIG9wYWNpdHk9IjAuODUiIGZpbHRlcj0idXJsKCNib29rU2hhZG93KSIvPgogIDxyZWN0IHg9IjE5OSIgeT0iMzYyIiB3aWR0aD0iMiIgaGVpZ2h0PSIyMjEiIGZpbGw9IiNjOWE4NWMiIG9wYWNpdHk9IjAuMTQiLz4KCiAgPHJlY3QgeD0iMjI2IiB5PSIzODAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMDUiIGZpbGw9IiMyYTFhM2QiIGZpbHRlcj0idXJsKCNib29rU2hhZG93KSIvPgoKICA8cmVjdCB4PSIyNDgiIHk9IjM0NSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjI0MCIgZmlsbD0iIzNkMWEwMCIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CiAgPHJlY3QgeD0iMjQ5IiB5PSIzNDciIHdpZHRoPSIzIiBoZWlnaHQ9IjIzNiIgZmlsbD0iIzhiNjkxNCIgb3BhY2l0eT0iMC4yMiIvPgoKICA8IS0tIEJvb2sgZ3JvdXAgcmlnaHQgY2x1c3RlciAtLT4KICA8cmVjdCB4PSI4ODIiIHk9IjM0NSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjI0MCIgZmlsbD0iIzFhM2QyYiIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CiAgPHJlY3QgeD0iODgzIiB5PSIzNDciIHdpZHRoPSIzIiBoZWlnaHQ9IjIzNiIgZmlsbD0iI2M5YTg1YyIgb3BhY2l0eT0iMC4xNiIvPgogIDxyZWN0IHg9Ijg5NiIgeT0iMzQ3IiB3aWR0aD0iMSIgaGVpZ2h0PSIyMzYiIGZpbGw9IiNjOWE4NWMiIG9wYWNpdHk9IjAuMSIvPgoKICA8cmVjdCB4PSI5MTQiIHk9IjM2NSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjIyMCIgZmlsbD0iIzVjMWExYSIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CiAgPHJlY3QgeD0iOTE1IiB5PSIzNjciIHdpZHRoPSIyIiBoZWlnaHQ9IjIxNiIgZmlsbD0iI2M5YTg1YyIgb3BhY2l0eT0iMC4xNSIvPgoKICA8cmVjdCB4PSI5NDAiIHk9IjM1MCIgd2lkdGg9IjI4IiBoZWlnaHQ9IjIzNSIgZmlsbD0iIzRhMmEwYSIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CiAgPHJlY3QgeD0iOTQxIiB5PSIzNTIiIHdpZHRoPSIzIiBoZWlnaHQ9IjIzMSIgZmlsbD0iIzhiNjkxNCIgb3BhY2l0eT0iMC4yIi8+CgogIDxyZWN0IHg9Ijk3MCIgeT0iMzkwIiB3aWR0aD0iMjAiIGhlaWdodD0iMTk1IiBmaWxsPSIjMGEwYTBhIiBmaWx0ZXI9InVybCgjYm9va1NoYWRvdykiLz4KICA8cmVjdCB4PSI5NzEiIHk9IjM5MiIgd2lkdGg9IjEuNSIgaGVpZ2h0PSIxOTEiIGZpbGw9IiNjOWE4NWMiIG9wYWNpdHk9IjAuMDgiLz4KCiAgPHJlY3QgeD0iOTkyIiB5PSIzNTUiIHdpZHRoPSIyNiIgaGVpZ2h0PSIyMzAiIGZpbGw9IiM1YzFhMWEiIG9wYWNpdHk9IjAuODUiIGZpbHRlcj0idXJsKCNib29rU2hhZG93KSIvPgogIDxyZWN0IHg9Ijk5MyIgeT0iMzU3IiB3aWR0aD0iMiIgaGVpZ2h0PSIyMjYiIGZpbGw9IiNjOWE4NWMiIG9wYWNpdHk9IjAuMTQiLz4KCiAgPHJlY3QgeD0iMTAyMCIgeT0iMzc1IiB3aWR0aD0iMjIiIGhlaWdodD0iMjEwIiBmaWxsPSIjMmEzZDFhIiBmaWx0ZXI9InVybCgjYm9va1NoYWRvdykiLz4KCiAgPHJlY3QgeD0iMTA0NCIgeT0iMzQwIiB3aWR0aD0iMzIiIGhlaWdodD0iMjQ1IiBmaWxsPSIjM2QxYTAwIiBmaWx0ZXI9InVybCgjYm9va1NoYWRvdykiLz4KICA8cmVjdCB4PSIxMDQ1IiB5PSIzNDIiIHdpZHRoPSIzIiBoZWlnaHQ9IjI0MSIgZmlsbD0iIzhiNjkxNCIgb3BhY2l0eT0iMC4yIi8+CgogIDxyZWN0IHg9IjEwNzgiIHk9IjM3MCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIxNSIgZmlsbD0iIzFhMWEzZCIgZmlsdGVyPSJ1cmwoI2Jvb2tTaGFkb3cpIi8+CgogIDwhLS0gQW1iaWVudCBjYW5kbGVsaWdodCByYWRpYWwgb3ZlciBzY2VuZSAtLT4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9InVybCgjYW1iaWVudEdsb3cpIi8+CgogIDwhLS0gQ2FuZGxlIGJvZHkgKGNlbnRlcikgLS0+CiAgPHJlY3QgeD0iNTkyIiB5PSI1MDAiIHdpZHRoPSIxNiIgaGVpZ2h0PSI2OCIgZmlsbD0iI2Q0Yjg5NiIgcng9IjEiLz4KICA8IS0tIFdheCBkcmlwIC0tPgogIDxwYXRoIGQ9Ik01OTYgNTAwIFE1OTQgNDkyIDU5NSA0ODgiIHN0cm9rZT0iI2Q0Yjg5NiIgc3Ryb2tlLXdpZHRoPSIyLjUiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuNiIvPgogIDwhLS0gV2ljayAtLT4KICA8bGluZSB4MT0iNjAwIiB5MT0iNTAwIiB4Mj0iNjAwIiB5Mj0iNDkyIiBzdHJva2U9IiMyYzE4MTAiIHN0cm9rZS13aWR0aD0iMS41Ii8+CgogIDwhLS0gQ2FuZGxlIGZsYW1lIGhhbG8gKGxhcmdlLCBibHVycmVkKSAtLT4KICA8ZWxsaXBzZSBjeD0iNjAwIiBjeT0iNDgwIiByeD0iODAiIHJ5PSI3MCIgZmlsbD0idXJsKCNmbGFtZUhhbG8pIiBvcGFjaXR5PSIwLjkiLz4KCiAgPCEtLSBDYW5kbGUgZmxhbWUgc2hhcGUgLS0+CiAgPHBhdGggZD0iTTYwMCw0NjYgQzU5NCw0NzQgNTkwLDQ4MiA1OTUsNDkwIEM1OTcsNDkzIDYwMyw0OTMgNjA1LDQ5MCBDNjEwLDQ4MiA2MDYsNDc0IDYwMCw0NjYgWiIgZmlsbD0idXJsKCNmbGFtZUNvcmUpIiBmaWx0ZXI9InVybCgjZ2xvdykiIG9wYWNpdHk9IjAuOTUiLz4KICA8IS0tIEZsYW1lIGlubmVyIGJyaWdodCBjb3JlIC0tPgogIDxlbGxpcHNlIGN4PSI2MDAiIGN5PSI0ODciIHJ4PSIzIiByeT0iNCIgZmlsbD0iI2ZmZmJlOCIgb3BhY2l0eT0iMC45Ii8+CgogIDwhLS0gUGFyY2htZW50IHRleHQgY2FyZCAtLT4KICA8cmVjdCB4PSIzNDAiIHk9IjE4OCIgd2lkdGg9IjUyMCIgaGVpZ2h0PSIxOTAiIGZpbGw9IiNkNGI4OTYiIHJ4PSIyIiBvcGFjaXR5PSIwLjkzIiBmaWx0ZXI9InVybCgjYm9va1NoYWRvdykiLz4KICA8IS0tIFBhcmNobWVudCBvdXRlciBib3JkZXIgLS0+CiAgPHJlY3QgeD0iMzQwIiB5PSIxODgiIHdpZHRoPSI1MjAiIGhlaWdodD0iMTkwIiBmaWxsPSJub25lIiBzdHJva2U9IiM0YTM1MjAiIHN0cm9rZS13aWR0aD0iMi41IiByeD0iMiIgb3BhY2l0eT0iMC43Ii8+CiAgPCEtLSBQYXJjaG1lbnQgaW5uZXIgYm9yZGVyIC0tPgogIDxyZWN0IHg9IjM1MiIgeT0iMjAwIiB3aWR0aD0iNDk2IiBoZWlnaHQ9IjE2NiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOGI2OTE0IiBzdHJva2Utd2lkdGg9IjAuOCIgcng9IjEiIG9wYWNpdHk9IjAuNSIvPgogIDwhLS0gUGFyY2htZW50IGNvcm5lciBvcm5hbWVudHMgLS0+CiAgPHBhdGggZD0iTTM1MiwyMDAgTDM2OCwyMDAgTTM1MiwyMDAgTDM1MiwyMTYiIHN0cm9rZT0iIzhiNjkxNCIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuNTUiLz4KICA8cGF0aCBkPSJNODQ4LDIwMCBMODMyLDIwMCBNODQ4LDIwMCBMODQ4LDIxNiIgc3Ryb2tlPSIjOGI2OTE0IiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMC41NSIvPgogIDxwYXRoIGQ9Ik0zNTIsMzY2IEwzNjgsMzY2IE0zNTIsMzY2IEwzNTIsMzUwIiBzdHJva2U9IiM4YjY5MTQiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjU1Ii8+CiAgPHBhdGggZD0iTTg0OCwzNjYgTDgzMiwzNjYgTTg0OCwzNjYgTDg0OCwzNTAiIHN0cm9rZT0iIzhiNjkxNCIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuNTUiLz4KCiAgPCEtLSBNYWluIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjYwMCIgeT0iMjY3IiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMyYzE4MTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSI0Ij5EQVJLIEFDQURFTUlBPC90ZXh0PgogIDwhLS0gRGVjb3JhdGl2ZSBydWxlIC0tPgogIDxsaW5lIHgxPSIzODAiIHkxPSIyODQiIHgyPSI4MjAiIHkyPSIyODQiIHN0cm9rZT0iIzhiNjkxNCIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI2MDAiIGN5PSIyODQiIHI9IjMiIGZpbGw9IiM4YjY5MTQiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjQ0MCIgY3k9IjI4NCIgcj0iMS41IiBmaWxsPSIjOGI2OTE0IiBvcGFjaXR5PSIwLjQiLz4KICA8Y2lyY2xlIGN4PSI3NjAiIGN5PSIyODQiIHI9IjEuNSIgZmlsbD0iIzhiNjkxNCIgb3BhY2l0eT0iMC40Ii8+CiAgPCEtLSBTdWJ0aXRsZSAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjMyMCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjE4IiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiM0YTM1MjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIiBvcGFjaXR5PSIwLjg1Ij5Lbm93bGVkZ2UgaW4gQ2FuZGxlbGlnaHQ8L3RleHQ+CiAgPCEtLSBCb3R0b20gcnVsZSAtLT4KICA8bGluZSB4MT0iNDIwIiB5MT0iMzQyIiB4Mj0iNzgwIiB5Mj0iMzQyIiBzdHJva2U9IiM4YjY5MTQiIHN0cm9rZS13aWR0aD0iMC43IiBvcGFjaXR5PSIwLjQ1Ii8+CgogIDwhLS0gT3V0ZXIgZnJhbWUgLS0+CiAgPHJlY3QgeD0iMjIiIHk9IjIyIiB3aWR0aD0iMTE1NiIgaGVpZ2h0PSI1ODYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2M5YTg1YyIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjE4IiByeD0iMSIvPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <!-- Noise texture -->
+    <pattern id="noise" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="none"/>
+      <circle cx="1" cy="1" r="0.4" fill="#3d2010" opacity="0.35"/>
+      <circle cx="3" cy="3" r="0.35" fill="#2c1810" opacity="0.28"/>
+      <circle cx="2" cy="0.5" r="0.3" fill="#3d2010" opacity="0.22"/>
+      <circle cx="0.5" cy="3" r="0.3" fill="#2c1810" opacity="0.2"/>
+    </pattern>
+
+    <!-- Candlelight ambient glow -->
+    <radialGradient id="ambientGlow" cx="50%" cy="52%" r="52%" fx="50%" fy="52%">
+      <stop offset="0%" stop-color="#c9a85c" stop-opacity="0.22"/>
+      <stop offset="30%" stop-color="#8b6914" stop-opacity="0.12"/>
+      <stop offset="65%" stop-color="#4a2a0a" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#1a0e08" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Candle flame gradient -->
+    <radialGradient id="flameCore" cx="50%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#fff8e0" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#ffcc44" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0.7"/>
+    </radialGradient>
+
+    <!-- Candle halo -->
+    <radialGradient id="flameHalo" cx="50%" cy="60%" r="50%">
+      <stop offset="0%" stop-color="#c9a85c" stop-opacity="0.5"/>
+      <stop offset="60%" stop-color="#8b6914" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1a0e08" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Drop shadow filter -->
+    <filter id="bookShadow" x="-5%" y="-5%" width="115%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="2" dy="3" result="shadow"/>
+      <feFlood flood-color="#0a0602" flood-opacity="0.6"/>
+      <feComposite in2="shadow" operator="in"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Parchment texture -->
+    <filter id="parchmentFilter">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="grayNoise"/>
+      <feBlend in="SourceGraphic" in2="grayNoise" mode="multiply" result="blend"/>
+      <feComponentTransfer in="blend">
+        <feFuncA type="linear" slope="1"/>
+      </feComponentTransfer>
+    </filter>
+
+    <!-- Soft glow filter -->
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Arch clip -->
+    <clipPath id="archClip">
+      <rect x="0" y="0" width="1200" height="320"/>
+    </clipPath>
+  </defs>
+
+  <!-- Base background -->
+  <rect width="1200" height="630" fill="#1a0e08"/>
+  <!-- Noise overlay -->
+  <rect width="1200" height="630" fill="url(#noise)" opacity="0.8"/>
+
+  <!-- Atmospheric fog — wide amber ellipses at very low opacity -->
+  <ellipse cx="600" cy="310" rx="520" ry="220" fill="#c9a85c" opacity="0.045" filter="url(#glow)"/>
+  <ellipse cx="600" cy="340" rx="360" ry="160" fill="#8b6914" opacity="0.06" filter="url(#glow)"/>
+
+  <!-- Gothic arch left -->
+  <path d="M60,320 L60,160 Q60,60 160,60 Q260,60 260,160 L260,320 Z" fill="none" stroke="#2c1810" stroke-width="18" opacity="0.9"/>
+  <path d="M60,320 L60,160 Q60,60 160,60 Q260,60 260,160 L260,320 Z" fill="none" stroke="#c9a85c" stroke-width="1.2" opacity="0.35"/>
+  <!-- Arch inner detail left -->
+  <path d="M82,320 L82,168 Q82,82 160,82 Q238,82 238,168 L238,320 Z" fill="none" stroke="#c9a85c" stroke-width="0.6" opacity="0.2"/>
+
+  <!-- Gothic arch right -->
+  <path d="M940,320 L940,160 Q940,60 1040,60 Q1140,60 1140,160 L1140,320 Z" fill="none" stroke="#2c1810" stroke-width="18" opacity="0.9"/>
+  <path d="M940,320 L940,160 Q940,60 1040,60 Q1140,60 1140,160 L1140,320 Z" fill="none" stroke="#c9a85c" stroke-width="1.2" opacity="0.35"/>
+  <!-- Arch inner detail right -->
+  <path d="M962,320 L962,168 Q962,82 1040,82 Q1118,82 1118,168 L1118,320 Z" fill="none" stroke="#c9a85c" stroke-width="0.6" opacity="0.2"/>
+
+  <!-- Stone columns — tall thin rects -->
+  <rect x="48" y="0" width="24" height="630" fill="#0d0d0d" opacity="0.75"/>
+  <rect x="68" y="0" width="4" height="630" fill="#1a1210" opacity="0.5"/>
+  <rect x="1128" y="0" width="24" height="630" fill="#0d0d0d" opacity="0.75"/>
+  <rect x="1128" y="0" width="4" height="630" fill="#1a1210" opacity="0.5"/>
+
+  <!-- Bookshelf floor line -->
+  <rect x="0" y="592" width="1200" height="38" fill="#0d0805"/>
+  <!-- Shelf plank -->
+  <rect x="0" y="580" width="1200" height="14" fill="#2c1810"/>
+  <rect x="0" y="580" width="1200" height="2" fill="#c9a85c" opacity="0.15"/>
+
+  <!-- === BOOKS === -->
+  <!-- Book group left cluster -->
+  <rect x="90" y="350" width="28" height="235" fill="#5c1a1a" filter="url(#bookShadow)"/>
+  <rect x="91" y="352" width="2" height="231" fill="#c9a85c" opacity="0.18"/>
+  <rect x="105" y="352" width="1" height="231" fill="#c9a85c" opacity="0.1"/>
+
+  <rect x="120" y="370" width="22" height="215" fill="#1a3d2b" filter="url(#bookShadow)"/>
+  <rect x="121" y="372" width="2" height="211" fill="#c9a85c" opacity="0.15"/>
+
+  <rect x="144" y="340" width="32" height="245" fill="#4a2a0a" filter="url(#bookShadow)"/>
+  <rect x="145" y="342" width="3" height="241" fill="#8b6914" opacity="0.2"/>
+  <rect x="158" y="342" width="1" height="241" fill="#c9a85c" opacity="0.12"/>
+
+  <rect x="178" y="395" width="18" height="190" fill="#0a0a0a" filter="url(#bookShadow)"/>
+  <rect x="179" y="397" width="1.5" height="186" fill="#c9a85c" opacity="0.1"/>
+
+  <rect x="198" y="360" width="26" height="225" fill="#5c1a1a" opacity="0.85" filter="url(#bookShadow)"/>
+  <rect x="199" y="362" width="2" height="221" fill="#c9a85c" opacity="0.14"/>
+
+  <rect x="226" y="380" width="20" height="205" fill="#2a1a3d" filter="url(#bookShadow)"/>
+
+  <rect x="248" y="345" width="30" height="240" fill="#3d1a00" filter="url(#bookShadow)"/>
+  <rect x="249" y="347" width="3" height="236" fill="#8b6914" opacity="0.22"/>
+
+  <!-- Book group right cluster -->
+  <rect x="882" y="345" width="30" height="240" fill="#1a3d2b" filter="url(#bookShadow)"/>
+  <rect x="883" y="347" width="3" height="236" fill="#c9a85c" opacity="0.16"/>
+  <rect x="896" y="347" width="1" height="236" fill="#c9a85c" opacity="0.1"/>
+
+  <rect x="914" y="365" width="24" height="220" fill="#5c1a1a" filter="url(#bookShadow)"/>
+  <rect x="915" y="367" width="2" height="216" fill="#c9a85c" opacity="0.15"/>
+
+  <rect x="940" y="350" width="28" height="235" fill="#4a2a0a" filter="url(#bookShadow)"/>
+  <rect x="941" y="352" width="3" height="231" fill="#8b6914" opacity="0.2"/>
+
+  <rect x="970" y="390" width="20" height="195" fill="#0a0a0a" filter="url(#bookShadow)"/>
+  <rect x="971" y="392" width="1.5" height="191" fill="#c9a85c" opacity="0.08"/>
+
+  <rect x="992" y="355" width="26" height="230" fill="#5c1a1a" opacity="0.85" filter="url(#bookShadow)"/>
+  <rect x="993" y="357" width="2" height="226" fill="#c9a85c" opacity="0.14"/>
+
+  <rect x="1020" y="375" width="22" height="210" fill="#2a3d1a" filter="url(#bookShadow)"/>
+
+  <rect x="1044" y="340" width="32" height="245" fill="#3d1a00" filter="url(#bookShadow)"/>
+  <rect x="1045" y="342" width="3" height="241" fill="#8b6914" opacity="0.2"/>
+
+  <rect x="1078" y="370" width="22" height="215" fill="#1a1a3d" filter="url(#bookShadow)"/>
+
+  <!-- Ambient candlelight radial over scene -->
+  <rect width="1200" height="630" fill="url(#ambientGlow)"/>
+
+  <!-- Candle body (center) -->
+  <rect x="592" y="500" width="16" height="68" fill="#d4b896" rx="1"/>
+  <!-- Wax drip -->
+  <path d="M596 500 Q594 492 595 488" stroke="#d4b896" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <!-- Wick -->
+  <line x1="600" y1="500" x2="600" y2="492" stroke="#2c1810" stroke-width="1.5"/>
+
+  <!-- Candle flame halo (large, blurred) -->
+  <ellipse cx="600" cy="480" rx="80" ry="70" fill="url(#flameHalo)" opacity="0.9"/>
+
+  <!-- Candle flame shape -->
+  <path d="M600,466 C594,474 590,482 595,490 C597,493 603,493 605,490 C610,482 606,474 600,466 Z" fill="url(#flameCore)" filter="url(#glow)" opacity="0.95"/>
+  <!-- Flame inner bright core -->
+  <ellipse cx="600" cy="487" rx="3" ry="4" fill="#fffbe8" opacity="0.9"/>
+
+  <!-- Parchment text card -->
+  <rect x="340" y="188" width="520" height="190" fill="#d4b896" rx="2" opacity="0.93" filter="url(#bookShadow)"/>
+  <!-- Parchment outer border -->
+  <rect x="340" y="188" width="520" height="190" fill="none" stroke="#4a3520" stroke-width="2.5" rx="2" opacity="0.7"/>
+  <!-- Parchment inner border -->
+  <rect x="352" y="200" width="496" height="166" fill="none" stroke="#8b6914" stroke-width="0.8" rx="1" opacity="0.5"/>
+  <!-- Parchment corner ornaments -->
+  <path d="M352,200 L368,200 M352,200 L352,216" stroke="#8b6914" stroke-width="1.5" opacity="0.55"/>
+  <path d="M848,200 L832,200 M848,200 L848,216" stroke="#8b6914" stroke-width="1.5" opacity="0.55"/>
+  <path d="M352,366 L368,366 M352,366 L352,350" stroke="#8b6914" stroke-width="1.5" opacity="0.55"/>
+  <path d="M848,366 L832,366 M848,366 L848,350" stroke="#8b6914" stroke-width="1.5" opacity="0.55"/>
+
+  <!-- Main title -->
+  <text x="600" y="267" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#2c1810" text-anchor="middle" letter-spacing="4">DARK ACADEMIA</text>
+  <!-- Decorative rule -->
+  <line x1="380" y1="284" x2="820" y2="284" stroke="#8b6914" stroke-width="1" opacity="0.6"/>
+  <circle cx="600" cy="284" r="3" fill="#8b6914" opacity="0.6"/>
+  <circle cx="440" cy="284" r="1.5" fill="#8b6914" opacity="0.4"/>
+  <circle cx="760" cy="284" r="1.5" fill="#8b6914" opacity="0.4"/>
+  <!-- Subtitle -->
+  <text x="600" y="320" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#4a3520" text-anchor="middle" letter-spacing="2" opacity="0.85">Knowledge in Candlelight</text>
+  <!-- Bottom rule -->
+  <line x1="420" y1="342" x2="780" y2="342" stroke="#8b6914" stroke-width="0.7" opacity="0.45"/>
+
+  <!-- Outer frame -->
+  <rect x="22" y="22" width="1156" height="586" fill="none" stroke="#c9a85c" stroke-width="1" opacity="0.18" rx="1"/>
+</svg>

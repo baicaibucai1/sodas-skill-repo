@@ -1,1 +1,72 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgdmlld0JveD0iMCAwIDEyMDAgNjMwIj4KICA8ZGVmcz4KICAgIDxwYXR0ZXJuIGlkPSJwYXBlci1kb3QiIHdpZHRoPSI4IiBoZWlnaHQ9IjgiIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8Y2lyY2xlIGN4PSIxIiBjeT0iMSIgcj0iLjU1IiBmaWxsPSIjNTU1NzUwIiBvcGFjaXR5PSIuMjgiLz4KICAgIDwvcGF0dGVybj4KICAgIDxwYXR0ZXJuIGlkPSJydWxlLWdyaWQiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxwYXRoIGQ9Ik0zMiAwSDB2MzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2JhYjliMCIgc3Ryb2tlLXdpZHRoPSIuOCIvPgogICAgPC9wYXR0ZXJuPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiNmNWYzZWEiLz4KICA8cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMTE5OCIgaGVpZ2h0PSI2MjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIwMjExZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHJlY3QgeD0iMjQiIHk9IjI0IiB3aWR0aD0iMTE1MiIgaGVpZ2h0PSI1ODIiIGZpbGw9InVybCgjcGFwZXItZG90KSIgb3BhY2l0eT0iLjE4Ii8+CgogIDwhLS0gVG9wLWxlZnQ6IGFsaWduZWQgcmVhZGluZyByb3cuIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDU4IDU0KSI+CiAgICA8cmVjdCB3aWR0aD0iMzM4IiBoZWlnaHQ9IjE5MCIgZmlsbD0iI2U2ZTRkYSIgc3Ryb2tlPSIjNzc3ODZmIi8+CiAgICA8cmVjdCB4PSIxNiIgeT0iMTYiIHdpZHRoPSI0IiBoZWlnaHQ9IjE1OCIgZmlsbD0iIzIwMjExZSIvPgogICAgPHRleHQgeD0iMzQiIHk9IjQyIiBmaWxsPSIjNTU1NzUwIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNjAwIj5SRUFESU5HIFFVRVVFIC8gU0FNUExFPC90ZXh0PgogICAgPHBhdGggZD0iTTM0IDU4SDMxOCIgc3Ryb2tlPSIjYmFiOWIwIi8+CiAgICA8dGV4dCB4PSIzNCIgeT0iOTIiIGZpbGw9IiMyMDIxMWUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTciIGZvbnQtd2VpZ2h0PSI2MDAiPjAxPC90ZXh0PgogICAgPHRleHQgeD0iNzgiIHk9IjkyIiBmaWxsPSIjMjAyMTFlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNiI+S2VlcCB2YWx1ZXMgbGVnaWJsZTwvdGV4dD4KICAgIDx0ZXh0IHg9IjM0IiB5PSIxMzAiIGZpbGw9IiM1NTU3NTAiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTciPjAyPC90ZXh0PgogICAgPHRleHQgeD0iNzgiIHk9IjEzMCIgZmlsbD0iIzU1NTc1MCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiPk5hbWUgZWFjaCBzdGF0ZTwvdGV4dD4KICAgIDxwYXRoIGQ9Ik0zNCAxNTBIMzE4IiBzdHJva2U9IiNiYWI5YjAiLz4KICAgIDx0ZXh0IHg9IjM0IiB5PSIxNzIiIGZpbGw9IiMyMDIxMWUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiPlBBR0UgMDQgLyAxMjwvdGV4dD4KICA8L2c+CgogIDwhLS0gVG9wLXJpZ2h0OiBzYW1wbGUgc2Vuc29yIHZhbHVlcyB3aXRoIGFsaWduZWQgdW5pdHMuIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDgwNCA1NCkiPgogICAgPHJlY3Qgd2lkdGg9IjMzOCIgaGVpZ2h0PSIxOTAiIGZpbGw9IiNmNWYzZWEiIHN0cm9rZT0iIzc3Nzg2ZiIvPgogICAgPHRleHQgeD0iMTgiIHk9IjMxIiBmaWxsPSIjNTU1NzUwIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iNjAwIj5ERVZJQ0UgU1RBVFVTIC8gRVhBTVBMRSBEQVRBPC90ZXh0PgogICAgPHBhdGggZD0iTTE4IDQ1SDMyME0xOCA4OEgzMjBNMTggMTMxSDMyMCIgc3Ryb2tlPSIjYmFiOWIwIi8+CiAgICA8Y2lyY2xlIGN4PSIyNSIgY3k9IjY2IiByPSI1IiBmaWxsPSIjMjAyMTFlIi8+CiAgICA8dGV4dCB4PSI0MCIgeT0iNzEiIGZpbGw9IiMyMDIxMWUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1Ij5Sb29tIHRlbXBlcmF0dXJlPC90ZXh0PgogICAgPHRleHQgeD0iMzE2IiB5PSI3MSIgdGV4dC1hbmNob3I9ImVuZCIgZmlsbD0iIzIwMjExZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9IjYwMCI+MjEuNCDCsEM8L3RleHQ+CiAgICA8Y2lyY2xlIGN4PSIyNSIgY3k9IjEwOSIgcj0iNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjAyMTFlIiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDx0ZXh0IHg9IjQwIiB5PSIxMTQiIGZpbGw9IiMyMDIxMWUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE1Ij5OZXR3b3JrPC90ZXh0PgogICAgPHRleHQgeD0iMzE2IiB5PSIxMTQiIHRleHQtYW5jaG9yPSJlbmQiIGZpbGw9IiMyMDIxMWUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiPlNBTVBMRTwvdGV4dD4KICAgIDx0ZXh0IHg9IjE4IiB5PSIxNjAiIGZpbGw9IiM1NTU3NTAiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiPlVQREFURUQgMDk6NDIgLyBTVEFUSUM8L3RleHQ+CiAgPC9nPgoKICA8IS0tIEJvdHRvbS1sZWZ0OiBzdGF0dXMgYW5kIGFjdGlvbiBpbiBtb25vY2hyb21lLiAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1OCAzOTQpIj4KICAgIDxyZWN0IHdpZHRoPSIzMzgiIGhlaWdodD0iMTcyIiBmaWxsPSIjZjVmM2VhIiBzdHJva2U9IiM3Nzc4NmYiLz4KICAgIDx0ZXh0IHg9IjE4IiB5PSIyOSIgZmlsbD0iIzU1NTc1MCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9IjYwMCI+QUNUSU9OUzwvdGV4dD4KICAgIDxyZWN0IHg9IjE4IiB5PSI0NCIgd2lkdGg9IjE0MiIgaGVpZ2h0PSI0MiIgZmlsbD0iIzIwMjExZSIvPgogICAgPHRleHQgeD0iODkiIHk9IjcwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZjVmM2VhIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNjAwIj5PUEVOIElURU08L3RleHQ+CiAgICA8cmVjdCB4PSIxNzQiIHk9IjQ0IiB3aWR0aD0iMTQ2IiBoZWlnaHQ9IjQyIiBmaWxsPSIjZjVmM2VhIiBzdHJva2U9IiM1NTU3NTAiLz4KICAgIDx0ZXh0IHg9IjI0NyIgeT0iNzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMyMDIxMWUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiPlNFVFRJTkdTPC90ZXh0PgogICAgPHBhdGggZD0iTTE4IDEwN0gzMjAiIHN0cm9rZT0iI2JhYjliMCIvPgogICAgPHJlY3QgeD0iMjAiIHk9IjEyNCIgd2lkdGg9IjExIiBoZWlnaHQ9IjExIiBmaWxsPSIjMjAyMTFlIi8+CiAgICA8dGV4dCB4PSI0MCIgeT0iMTM1IiBmaWxsPSIjMjAyMTFlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyI+UmVhZCBzdGF0dXMgaW4gdGV4dCwgdG9vPC90ZXh0PgogIDwvZz4KCiAgPCEtLSBCb3R0b20tcmlnaHQ6IGNoYXJ0IGdyb3VwaW5nIGJ5IHN0cm9rZXMgYW5kIHN0aXBwbGUsIHdpdGggbGFiZWxzLiAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4MDQgMzk0KSI+CiAgICA8cmVjdCB3aWR0aD0iMzM4IiBoZWlnaHQ9IjE3MiIgZmlsbD0iI2Y1ZjNlYSIgc3Ryb2tlPSIjNzc3ODZmIi8+CiAgICA8dGV4dCB4PSIxOCIgeT0iMjkiIGZpbGw9IiM1NTU3NTAiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSI2MDAiPkhPVVJMWSAvIFNBTVBMRTwvdGV4dD4KICAgIDxyZWN0IHg9IjIwIiB5PSI0NSIgd2lkdGg9IjI5OCIgaGVpZ2h0PSI3MiIgZmlsbD0idXJsKCNydWxlLWdyaWQpIi8+CiAgICA8cGF0aCBkPSJNMzIgOTlMNzIgODMgMTEyIDg4IDE1MiA2OCAxOTIgNzggMjMyIDU5IDI3MiA2OCAzMDYgNTMiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzIwMjExZSIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgICA8Y2lyY2xlIGN4PSIyMzIiIGN5PSI1OSIgcj0iNSIgZmlsbD0iI2Y1ZjNlYSIgc3Ryb2tlPSIjMjAyMTFlIiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDx0ZXh0IHg9IjIwIiB5PSIxMzkiIGZpbGw9IiM1NTU3NTAiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiPjA2OjAwPC90ZXh0PgogICAgPHRleHQgeD0iMTYwIiB5PSIxMzkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM1NTU3NTAiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiPjEyOjAwPC90ZXh0PgogICAgPHRleHQgeD0iMzE4IiB5PSIxMzkiIHRleHQtYW5jaG9yPSJlbmQiIGZpbGw9IiM1NTU3NTAiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiPjE4OjAwPC90ZXh0PgogIDwvZz4KCiAgPHBhdGggZD0iTTQ0NCA3Nkg3NTZNNDQ0IDU1NEg3NTYiIHN0cm9rZT0iI2JhYjliMCIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iNjAwIiB5PSIyMTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM1NTU3NTAiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI2MDAiIGxldHRlci1zcGFjaW5nPSIzIj5EQUlMWSBCUklFRjwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzIwMjExZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI3MCIgZm9udC13ZWlnaHQ9IjYwMCIgbGV0dGVyLXNwYWNpbmc9Ii0yIj4wOTo0MjwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjMzMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzU1NTc1MCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTkiPjQgaXRlbXMgcmVhZHkgdG8gcmVhZDwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjM3MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzU1NTc1MCIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxMiIgbGV0dGVyLXNwYWNpbmc9IjEiPkxPQ0FMIEFSQ0hJVkUgLyBTQU1QTEU8L3RleHQ+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="paper-dot" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".55" fill="#555750" opacity=".28"/>
+    </pattern>
+    <pattern id="rule-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" fill="none" stroke="#bab9b0" stroke-width=".8"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#f5f3ea"/>
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#20211e" stroke-width="2"/>
+  <rect x="24" y="24" width="1152" height="582" fill="url(#paper-dot)" opacity=".18"/>
+
+  <!-- Top-left: aligned reading row. -->
+  <g transform="translate(58 54)">
+    <rect width="338" height="190" fill="#e6e4da" stroke="#77786f"/>
+    <rect x="16" y="16" width="4" height="158" fill="#20211e"/>
+    <text x="34" y="42" fill="#555750" font-family="monospace" font-size="13" font-weight="600">READING QUEUE / SAMPLE</text>
+    <path d="M34 58H318" stroke="#bab9b0"/>
+    <text x="34" y="92" fill="#20211e" font-family="monospace" font-size="17" font-weight="600">01</text>
+    <text x="78" y="92" fill="#20211e" font-family="sans-serif" font-size="16">Keep values legible</text>
+    <text x="34" y="130" fill="#555750" font-family="monospace" font-size="17">02</text>
+    <text x="78" y="130" fill="#555750" font-family="sans-serif" font-size="16">Name each state</text>
+    <path d="M34 150H318" stroke="#bab9b0"/>
+    <text x="34" y="172" fill="#20211e" font-family="monospace" font-size="13">PAGE 04 / 12</text>
+  </g>
+
+  <!-- Top-right: sample sensor values with aligned units. -->
+  <g transform="translate(804 54)">
+    <rect width="338" height="190" fill="#f5f3ea" stroke="#77786f"/>
+    <text x="18" y="31" fill="#555750" font-family="monospace" font-size="12" font-weight="600">DEVICE STATUS / EXAMPLE DATA</text>
+    <path d="M18 45H320M18 88H320M18 131H320" stroke="#bab9b0"/>
+    <circle cx="25" cy="66" r="5" fill="#20211e"/>
+    <text x="40" y="71" fill="#20211e" font-family="sans-serif" font-size="15">Room temperature</text>
+    <text x="316" y="71" text-anchor="end" fill="#20211e" font-family="monospace" font-size="16" font-weight="600">21.4 °C</text>
+    <circle cx="25" cy="109" r="5" fill="none" stroke="#20211e" stroke-width="2"/>
+    <text x="40" y="114" fill="#20211e" font-family="sans-serif" font-size="15">Network</text>
+    <text x="316" y="114" text-anchor="end" fill="#20211e" font-family="monospace" font-size="14">SAMPLE</text>
+    <text x="18" y="160" fill="#555750" font-family="monospace" font-size="12">UPDATED 09:42 / STATIC</text>
+  </g>
+
+  <!-- Bottom-left: status and action in monochrome. -->
+  <g transform="translate(58 394)">
+    <rect width="338" height="172" fill="#f5f3ea" stroke="#77786f"/>
+    <text x="18" y="29" fill="#555750" font-family="monospace" font-size="12" font-weight="600">ACTIONS</text>
+    <rect x="18" y="44" width="142" height="42" fill="#20211e"/>
+    <text x="89" y="70" text-anchor="middle" fill="#f5f3ea" font-family="monospace" font-size="13" font-weight="600">OPEN ITEM</text>
+    <rect x="174" y="44" width="146" height="42" fill="#f5f3ea" stroke="#555750"/>
+    <text x="247" y="70" text-anchor="middle" fill="#20211e" font-family="monospace" font-size="13">SETTINGS</text>
+    <path d="M18 107H320" stroke="#bab9b0"/>
+    <rect x="20" y="124" width="11" height="11" fill="#20211e"/>
+    <text x="40" y="135" fill="#20211e" font-family="sans-serif" font-size="13">Read status in text, too</text>
+  </g>
+
+  <!-- Bottom-right: chart grouping by strokes and stipple, with labels. -->
+  <g transform="translate(804 394)">
+    <rect width="338" height="172" fill="#f5f3ea" stroke="#77786f"/>
+    <text x="18" y="29" fill="#555750" font-family="monospace" font-size="12" font-weight="600">HOURLY / SAMPLE</text>
+    <rect x="20" y="45" width="298" height="72" fill="url(#rule-grid)"/>
+    <path d="M32 99L72 83 112 88 152 68 192 78 232 59 272 68 306 53" fill="none" stroke="#20211e" stroke-width="3"/>
+    <circle cx="232" cy="59" r="5" fill="#f5f3ea" stroke="#20211e" stroke-width="2"/>
+    <text x="20" y="139" fill="#555750" font-family="monospace" font-size="11">06:00</text>
+    <text x="160" y="139" text-anchor="middle" fill="#555750" font-family="monospace" font-size="11">12:00</text>
+    <text x="318" y="139" text-anchor="end" fill="#555750" font-family="monospace" font-size="11">18:00</text>
+  </g>
+
+  <path d="M444 76H756M444 554H756" stroke="#bab9b0" stroke-width="1"/>
+  <text x="600" y="217" text-anchor="middle" fill="#555750" font-family="monospace" font-size="13" font-weight="600" letter-spacing="3">DAILY BRIEF</text>
+  <text x="600" y="290" text-anchor="middle" fill="#20211e" font-family="monospace" font-size="70" font-weight="600" letter-spacing="-2">09:42</text>
+  <text x="600" y="330" text-anchor="middle" fill="#555750" font-family="sans-serif" font-size="19">4 items ready to read</text>
+  <text x="600" y="370" text-anchor="middle" fill="#555750" font-family="monospace" font-size="12" letter-spacing="1">LOCAL ARCHIVE / SAMPLE</text>
+</svg>

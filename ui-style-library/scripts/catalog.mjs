@@ -1,1 +1,144 @@
-aW1wb3J0IHtleGlzdHNTeW5jLCByZWFkZGlyU3luYywgcmVhZEZpbGVTeW5jLCBzdGF0U3luY30gZnJvbSAnbm9kZTpmcyc7CmltcG9ydCB7ZGlybmFtZSwgaXNBYnNvbHV0ZSwgcmVzb2x2ZX0gZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHtmaWxlVVJMVG9QYXRofSBmcm9tICdub2RlOnVybCc7CgovLyDmnKzohJrmnKzlj6rmo4DntKLnm67lvZXlv6vnhafkuI7pobnnm67np4HmnInmnaHnm67vvIzkuI3ogZTnvZHjgIHkuI3lhpnmlofku7bjgIIKLy8g6aOO5qC85q2j5paH55SxIFN0eWxlS2l0IOaMiSBzbHVnIOaPkOS+m++8m+ingSBTS0lMTC5tZCDkuI4gcmVmZXJlbmNlcy9jYXRhbG9nLm1k44CCCmNvbnN0IHNraWxsID0gcmVzb2x2ZShkaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSksICcuLicpOwpjb25zdCBjYXRhbG9nRmlsZSA9IHJlc29sdmUoc2tpbGwsICdkYXRhL2NhdGFsb2cuanNvbicpOwpjb25zdCBzbHVnUGF0dGVybiA9IC9eW2EtejAtOV0rKD86LVthLXowLTldKykqJC87CmNvbnN0IG5vbmJsYW5rID0gdmFsdWUgPT4gdHlwZW9mIHZhbHVlID09PSAnc3RyaW5nJyAmJiB2YWx1ZS50cmltKCkubGVuZ3RoID4gMDsKY29uc3QgVFlQRVMgPSBbJ3Zpc3VhbCcsICdsYXlvdXQnXTsKCmZ1bmN0aW9uIHJlYWRKc29uKGZpbGUpIHsKICByZXR1cm4gSlNPTi5wYXJzZShyZWFkRmlsZVN5bmMoZmlsZSwgJ3V0ZjgnKS5yZXBsYWNlKC9eXHVGRUZGLywgJycpKTsKfQoKZnVuY3Rpb24gbG9hZENhdGFsb2coZXJyb3JzKSB7CiAgY29uc3QgaXRlbXMgPSBbXTsKICB0cnkgewogICAgY29uc3QgZGF0YSA9IHJlYWRKc29uKGNhdGFsb2dGaWxlKTsKICAgIGlmICghQXJyYXkuaXNBcnJheShkYXRhLnN0eWxlcykpIHRocm93IEVycm9yKCdzdHlsZXMg5b+F6aG75piv5pWw57uEJyk7CiAgICBpZiAoZGF0YS50b3RhbCAhPT0gZGF0YS5zdHlsZXMubGVuZ3RoKSB0aHJvdyBFcnJvcihgdG90YWwgJHtkYXRhLnRvdGFsfSDkuI7mnaHnm67mlbAgJHtkYXRhLnN0eWxlcy5sZW5ndGh9IOS4jeS4gOiHtGApOwogICAgY29uc3Qgc2VlbiA9IG5ldyBTZXQoKTsKICAgIGZvciAoY29uc3Qgc3R5bGUgb2YgZGF0YS5zdHlsZXMpIHsKICAgICAgaWYgKCFzbHVnUGF0dGVybi50ZXN0KHN0eWxlLnNsdWcgPz8gJycpKSB0aHJvdyBFcnJvcihg5peg5pWIIHNsdWfvvJoke3N0eWxlLnNsdWd9YCk7CiAgICAgIGlmIChzZWVuLmhhcyhzdHlsZS5zbHVnKSkgdGhyb3cgRXJyb3IoYOmHjeWkjSBzbHVn77yaJHtzdHlsZS5zbHVnfWApOwogICAgICBzZWVuLmFkZChzdHlsZS5zbHVnKTsKICAgICAgaWYgKCFub25ibGFuayhzdHlsZS5uYW1lKSB8fCAhbm9uYmxhbmsoc3R5bGUuZGVzY3JpcHRpb24pKSB0aHJvdyBFcnJvcihg57y65bCR5ZCN56ew5oiW6K+05piO77yaJHtzdHlsZS5zbHVnfWApOwogICAgICBpZiAoIVRZUEVTLmluY2x1ZGVzKHN0eWxlLnN0eWxlVHlwZSkpIHRocm93IEVycm9yKGDml6DmlYggc3R5bGVUeXBl77yaJHtzdHlsZS5zbHVnfWApOwogICAgICBpZiAoc3R5bGUudGFncyAhPT0gdW5kZWZpbmVkICYmICghQXJyYXkuaXNBcnJheShzdHlsZS50YWdzKSB8fCAhc3R5bGUudGFncy5ldmVyeShub25ibGFuaykpKSB0aHJvdyBFcnJvcihg5peg5pWIIHRhZ3PvvJoke3N0eWxlLnNsdWd9YCk7CiAgICAgIGlmIChzdHlsZS5jb2xvcnMgIT09IHVuZGVmaW5lZCAmJiAhc3R5bGUuY29sb3JzLnByaW1hcnkpIHRocm93IEVycm9yKGDnvLrlsJHkuLvoibLvvJoke3N0eWxlLnNsdWd9YCk7CiAgICAgIGl0ZW1zLnB1c2goewogICAgICAgIHNsdWc6IHN0eWxlLnNsdWcsCiAgICAgICAgbmFtZTogc3R5bGUubmFtZSwKICAgICAgICBuYW1lRW46IHN0eWxlLm5hbWVFbiA/PyAnJywKICAgICAgICBzdW1tYXJ5OiBzdHlsZS5kZXNjcmlwdGlvbiwKICAgICAgICBzdHlsZVR5cGU6IHN0eWxlLnN0eWxlVHlwZSwKICAgICAgICBjYXRlZ29yeTogc3R5bGUuY2F0ZWdvcnkgPz8gJycsCiAgICAgICAgdGFnczogc3R5bGUudGFncyA/PyBbXSwKICAgICAgICBjb2xvcnM6IHN0eWxlLmNvbG9ycywKICAgICAgICBzb3VyY2U6ICdzdHlsZWtpdCcKICAgICAgfSk7CiAgICB9CiAgICBpZiAodHlwZW9mIGRhdGEuZmV0Y2hlZEF0ICE9PSAnc3RyaW5nJyB8fCAhL15cZHs0fS1cZHsyfS1cZHsyfSQvLnRlc3QoZGF0YS5mZXRjaGVkQXQpKSB0aHJvdyBFcnJvcign57y65bCRIGZldGNoZWRBdO+8iFlZWVktTU0tRETvvIknKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgZXJyb3JzLnB1c2goYGRhdGEvY2F0YWxvZy5qc29uOiAke2Vycm9yLm1lc3NhZ2V9YCk7CiAgfQogIHJldHVybiBpdGVtczsKfQoKZnVuY3Rpb24gbG9hZFByb2plY3QocHJvamVjdFJvb3QsIGVycm9ycykgewogIGNvbnN0IGl0ZW1zID0gW107CiAgY29uc3Qgcm9vdCA9IHJlc29sdmUocHJvamVjdFJvb3QsICcudWktc3R5bGVzJyk7CiAgaWYgKCFleGlzdHNTeW5jKHJvb3QpKSByZXR1cm4gaXRlbXM7CiAgZm9yIChjb25zdCBzbHVnIG9mIHJlYWRkaXJTeW5jKHJvb3QsIHt3aXRoRmlsZVR5cGVzOiB0cnVlfSkuZmlsdGVyKGVudHJ5ID0+IGVudHJ5LmlzRGlyZWN0b3J5KCkpLm1hcChlbnRyeSA9PiBlbnRyeS5uYW1lKS5zb3J0KCkpIHsKICAgIGNvbnN0IGRpcmVjdG9yeSA9IHJlc29sdmUocm9vdCwgc2x1Zyk7CiAgICB0cnkgewogICAgICBjb25zdCByZWNvcmQgPSByZWFkSnNvbihyZXNvbHZlKGRpcmVjdG9yeSwgJ3N0eWxlLmpzb24nKSk7CiAgICAgIGlmICghc2x1Z1BhdHRlcm4udGVzdChzbHVnKSB8fCByZWNvcmQuc2x1ZyAhPT0gc2x1ZykgdGhyb3cgRXJyb3IoJ3NsdWcg5LiO55uu5b2V5ZCN5LiN5LiA6Ie0Jyk7CiAgICAgIGlmICghbm9uYmxhbmsocmVjb3JkLm5hbWUpIHx8ICFub25ibGFuayhyZWNvcmQuc3VtbWFyeSkpIHRocm93IEVycm9yKCfnvLrlsJEgbmFtZSDmiJYgc3VtbWFyeScpOwogICAgICBpZiAoIW5vbmJsYW5rKHJlY29yZC5ndWlkZSkgfHwgaXNBYnNvbHV0ZShyZWNvcmQuZ3VpZGUpKSB0aHJvdyBFcnJvcignZ3VpZGUg5b+F6aG75piv55u45a+56Lev5b6EJyk7CiAgICAgIGNvbnN0IGd1aWRlID0gcmVzb2x2ZShkaXJlY3RvcnksIHJlY29yZC5ndWlkZSk7CiAgICAgIGlmICghZ3VpZGUuc3RhcnRzV2l0aChkaXJlY3RvcnkpIHx8ICFzdGF0U3luYyhndWlkZSkuaXNGaWxlKCkpIHRocm93IEVycm9yKGBndWlkZSDmlofku7bkuI3lrZjlnKjvvJoke3JlY29yZC5ndWlkZX1gKTsKICAgICAgaWYgKCFbJ3JlZmVyZW5jZScsICdyZXByb2R1Y2libGUnXS5pbmNsdWRlcyhyZWNvcmQubGV2ZWwpKSB0aHJvdyBFcnJvcignbGV2ZWwg5b+F6aG75pivIHJlZmVyZW5jZSDmiJYgcmVwcm9kdWNpYmxlJyk7CiAgICAgIGlmIChyZWNvcmQudGFncyAhPT0gdW5kZWZpbmVkICYmICghQXJyYXkuaXNBcnJheShyZWNvcmQudGFncykgfHwgIXJlY29yZC50YWdzLmV2ZXJ5KG5vbmJsYW5rKSkpIHRocm93IEVycm9yKCd0YWdzIOaXoOaViCcpOwogICAgICBpdGVtcy5wdXNoKHsKICAgICAgICBzbHVnLAogICAgICAgIG5hbWU6IHJlY29yZC5uYW1lLAogICAgICAgIG5hbWVFbjogcmVjb3JkLm5hbWVFbiA/PyAnJywKICAgICAgICBzdW1tYXJ5OiByZWNvcmQuc3VtbWFyeSwKICAgICAgICBzdHlsZVR5cGU6IHJlY29yZC5zdHlsZVR5cGUgPz8gJ3Zpc3VhbCcsCiAgICAgICAgY2F0ZWdvcnk6IHJlY29yZC5jYXRlZ29yeSA/PyAnJywKICAgICAgICB0YWdzOiByZWNvcmQudGFncyA/PyBbXSwKICAgICAgICBsZXZlbDogcmVjb3JkLmxldmVsLAogICAgICAgIHNvdXJjZTogJ3Byb2plY3QnCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgZXJyb3JzLnB1c2goYCR7c2x1Z306ICR7ZXJyb3IubWVzc2FnZX1gKTsKICAgIH0KICB9CiAgcmV0dXJuIGl0ZW1zOwp9CgpmdW5jdGlvbiBwYXJzZShhcmdzLCBhbGxvd2VkKSB7CiAgY29uc3Qgb3B0cyA9IG5ldyBNYXAoKTsKICBmb3IgKGxldCBpID0gMDsgaSA8IGFyZ3MubGVuZ3RoOyBpICs9IDIpIHsKICAgIGNvbnN0IGtleSA9IGFyZ3NbaV0sIHZhbHVlID0gYXJnc1tpICsgMV07CiAgICBpZiAoIWFsbG93ZWQuaW5jbHVkZXMoa2V5KSB8fCBvcHRzLmhhcyhrZXkpIHx8ICFub25ibGFuayh2YWx1ZSkgfHwgdmFsdWUuc3RhcnRzV2l0aCgnLS0nKSkgdGhyb3cgRXJyb3IoYOaXoOaViOmAiemhue+8miR7a2V5fSAke3ZhbHVlID8/ICcnfWAudHJpbSgpKTsKICAgIG9wdHMuc2V0KGtleSwgdmFsdWUpOwogIH0KICByZXR1cm4gb3B0czsKfQoKZnVuY3Rpb24gbGlzdChhcmdzKSB7CiAgY29uc3Qgb3B0cyA9IHBhcnNlKGFyZ3MsIFsnLS1wcm9qZWN0JywgJy0tcXVlcnknLCAnLS10eXBlJywgJy0tY2F0ZWdvcnknLCAnLS10YWcnLCAnLS1vZmZzZXQnLCAnLS1saW1pdCddKTsKICBjb25zdCBvZmZzZXQgPSBOdW1iZXIob3B0cy5nZXQoJy0tb2Zmc2V0JykgPz8gMCk7CiAgY29uc3QgbGltaXQgPSBOdW1iZXIob3B0cy5nZXQoJy0tbGltaXQnKSA/PyAxMik7CiAgaWYgKCFOdW1iZXIuaXNTYWZlSW50ZWdlcihvZmZzZXQpIHx8IG9mZnNldCA8IDApIHRocm93IEVycm9yKCdvZmZzZXQg5b+F6aG75piv6Z2e6LSf5pW05pWwJyk7CiAgaWYgKCFOdW1iZXIuaXNTYWZlSW50ZWdlcihsaW1pdCkgfHwgbGltaXQgPCAxIHx8IGxpbWl0ID4gNTApIHRocm93IEVycm9yKCdsaW1pdCDlv4XpobvmmK8gMeKAkzUwIOeahOaVtOaVsCcpOwogIGlmIChvcHRzLmhhcygnLS10eXBlJykgJiYgIVRZUEVTLmluY2x1ZGVzKG9wdHMuZ2V0KCctLXR5cGUnKSkpIHRocm93IEVycm9yKCd0eXBlIOWPquiDveaYryB2aXN1YWwg5oiWIGxheW91dCcpOwogIGNvbnN0IGVycm9ycyA9IFtdOwogIGNvbnN0IGl0ZW1zID0gWy4uLmxvYWRDYXRhbG9nKGVycm9ycyksIC4uLihvcHRzLmhhcygnLS1wcm9qZWN0JykgPyBsb2FkUHJvamVjdChvcHRzLmdldCgnLS1wcm9qZWN0JyksIGVycm9ycykgOiBbXSldOwogIGlmIChlcnJvcnMubGVuZ3RoKSB0aHJvdyBFcnJvcihlcnJvcnMuam9pbignXG4nKSk7CiAgY29uc3Qgd29yZHMgPSAob3B0cy5nZXQoJy0tcXVlcnknKSA/PyAnJykudG9Mb3dlckNhc2UoKS5zcGxpdCgvXHMrLykuZmlsdGVyKEJvb2xlYW4pOwogIGNvbnN0IG1hdGNoZXMgPSBpdGVtcy5maWx0ZXIoaXRlbSA9PiB7CiAgICBpZiAob3B0cy5oYXMoJy0tdHlwZScpICYmIGl0ZW0uc3R5bGVUeXBlICE9PSBvcHRzLmdldCgnLS10eXBlJykpIHJldHVybiBmYWxzZTsKICAgIGlmIChvcHRzLmhhcygnLS1jYXRlZ29yeScpICYmIGl0ZW0uY2F0ZWdvcnkgIT09IG9wdHMuZ2V0KCctLWNhdGVnb3J5JykpIHJldHVybiBmYWxzZTsKICAgIGlmIChvcHRzLmhhcygnLS10YWcnKSAmJiAhaXRlbS50YWdzLmluY2x1ZGVzKG9wdHMuZ2V0KCctLXRhZycpKSkgcmV0dXJuIGZhbHNlOwogICAgY29uc3QgdGV4dCA9IFtpdGVtLnNsdWcsIGl0ZW0ubmFtZSwgaXRlbS5uYW1lRW4sIGl0ZW0uc3VtbWFyeSwgaXRlbS5jYXRlZ29yeSwgLi4uaXRlbS50YWdzXS5qb2luKCcgJykudG9Mb3dlckNhc2UoKTsKICAgIHJldHVybiB3b3Jkcy5ldmVyeSh3b3JkID0+IHRleHQuaW5jbHVkZXMod29yZCkpOwogIH0pOwogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHsKICAgIHRvdGFsOiBtYXRjaGVzLmxlbmd0aCwKICAgIG9mZnNldCwKICAgIG5leHRPZmZzZXQ6IG1hdGNoZXMubGVuZ3RoID4gb2Zmc2V0ICsgbGltaXQgPyBvZmZzZXQgKyBsaW1pdCA6IG51bGwsCiAgICBzdHlsZXM6IG1hdGNoZXMuc2xpY2Uob2Zmc2V0LCBvZmZzZXQgKyBsaW1pdCkKICB9LCBudWxsLCAyKSk7Cn0KCmZ1bmN0aW9uIHZhbGlkYXRlKGFyZ3MpIHsKICBjb25zdCBvcHRzID0gcGFyc2UoYXJncywgWyctLXByb2plY3QnXSk7CiAgY29uc3QgZXJyb3JzID0gW107CiAgY29uc3QgY2F0YWxvZyA9IGxvYWRDYXRhbG9nKGVycm9ycyk7CiAgY29uc3QgcHJvamVjdCA9IG9wdHMuaGFzKCctLXByb2plY3QnKSA/IGxvYWRQcm9qZWN0KG9wdHMuZ2V0KCctLXByb2plY3QnKSwgZXJyb3JzKSA6IFtdOwogIGlmIChlcnJvcnMubGVuZ3RoKSB0aHJvdyBFcnJvcihlcnJvcnMuam9pbignXG4nKSk7CiAgY29uc3QgZHVwbGljYXRlID0gcHJvamVjdC5maWx0ZXIoaXRlbSA9PiBjYXRhbG9nLnNvbWUoZW50cnkgPT4gZW50cnkuc2x1ZyA9PT0gaXRlbS5zbHVnKSkubWFwKGl0ZW0gPT4gaXRlbS5zbHVnKTsKICBpZiAoZHVwbGljYXRlLmxlbmd0aCkgdGhyb3cgRXJyb3IoYOmhueebruadoeebruS4jiBTdHlsZUtpdCDlt7LmnIkgc2x1ZyDph43lpI3vvIzor7fnm7TmjqXlvJXnlKjkuIrmuLjvvJoke2R1cGxpY2F0ZS5qb2luKCcsICcpfWApOwogIGlmIChvcHRzLmhhcygnLS1wcm9qZWN0JykpIHsKICAgIGNvbnN0IHJvb3QgPSByZXNvbHZlKG9wdHMuZ2V0KCctLXByb2plY3QnKSwgJy51aS1zdHlsZXMnKTsKICAgIGNvbnN0IGNvdmVycyA9IHJlc29sdmUoc2tpbGwsICdkYXRhL2NvdmVycycpOwogICAgaWYgKCFleGlzdHNTeW5jKGNvdmVycykpIHRocm93IEVycm9yKCfnvLrlsJEgZGF0YS9jb3ZlcnMnKTsKICB9CiAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoe3ZhbGlkOiB0cnVlLCBjYXRhbG9nOiBjYXRhbG9nLmxlbmd0aCwgcHJvamVjdDogcHJvamVjdC5sZW5ndGh9LCBudWxsLCAyKSk7Cn0KCmNvbnN0IFtjb21tYW5kLCAuLi5hcmdzXSA9IHByb2Nlc3MuYXJndi5zbGljZSgyKTsKdHJ5IHsKICBpZiAoY29tbWFuZCA9PT0gJ2xpc3QnKSBsaXN0KGFyZ3MpOwogIGVsc2UgaWYgKGNvbW1hbmQgPT09ICd2YWxpZGF0ZScpIHZhbGlkYXRlKGFyZ3MpOwogIGVsc2UgdGhyb3cgRXJyb3IoJ+eUqOazle+8mmNhdGFsb2cubWpzIGxpc3R8dmFsaWRhdGUgWy0tcHJvamVjdCBQQVRIXSBbLS1xdWVyeSBXT1JEU10gWy0tdHlwZSB2aXN1YWx8bGF5b3V0XSBbLS1jYXRlZ29yeSBDXSBbLS10YWcgVF0gWy0tb2Zmc2V0IE5dIFstLWxpbWl0IE5dJyk7Cn0gY2F0Y2ggKGVycm9yKSB7CiAgY29uc29sZS5lcnJvcihlcnJvci5tZXNzYWdlKTsKICBwcm9jZXNzLmV4aXRDb2RlID0gMTsKfQo=
+import {existsSync, readdirSync, readFileSync, statSync} from 'node:fs';
+import {dirname, isAbsolute, resolve} from 'node:path';
+import {fileURLToPath} from 'node:url';
+
+// 本脚本只检索目录快照与项目私有条目，不联网、不写文件。
+// 风格正文由 StyleKit 按 slug 提供；见 SKILL.md 与 references/catalog.md。
+const skill = resolve(dirname(fileURLToPath(import.meta.url)), '..');
+const catalogFile = resolve(skill, 'data/catalog.json');
+const slugPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const nonblank = value => typeof value === 'string' && value.trim().length > 0;
+const TYPES = ['visual', 'layout'];
+
+function readJson(file) {
+  return JSON.parse(readFileSync(file, 'utf8').replace(/^\uFEFF/, ''));
+}
+
+function loadCatalog(errors) {
+  const items = [];
+  try {
+    const data = readJson(catalogFile);
+    if (!Array.isArray(data.styles)) throw Error('styles 必须是数组');
+    if (data.total !== data.styles.length) throw Error(`total ${data.total} 与条目数 ${data.styles.length} 不一致`);
+    const seen = new Set();
+    for (const style of data.styles) {
+      if (!slugPattern.test(style.slug ?? '')) throw Error(`无效 slug：${style.slug}`);
+      if (seen.has(style.slug)) throw Error(`重复 slug：${style.slug}`);
+      seen.add(style.slug);
+      if (!nonblank(style.name) || !nonblank(style.description)) throw Error(`缺少名称或说明：${style.slug}`);
+      if (!TYPES.includes(style.styleType)) throw Error(`无效 styleType：${style.slug}`);
+      if (style.tags !== undefined && (!Array.isArray(style.tags) || !style.tags.every(nonblank))) throw Error(`无效 tags：${style.slug}`);
+      if (style.colors !== undefined && !style.colors.primary) throw Error(`缺少主色：${style.slug}`);
+      items.push({
+        slug: style.slug,
+        name: style.name,
+        nameEn: style.nameEn ?? '',
+        summary: style.description,
+        styleType: style.styleType,
+        category: style.category ?? '',
+        tags: style.tags ?? [],
+        colors: style.colors,
+        source: 'stylekit'
+      });
+    }
+    if (typeof data.fetchedAt !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(data.fetchedAt)) throw Error('缺少 fetchedAt（YYYY-MM-DD）');
+  } catch (error) {
+    errors.push(`data/catalog.json: ${error.message}`);
+  }
+  return items;
+}
+
+function loadProject(projectRoot, errors) {
+  const items = [];
+  const root = resolve(projectRoot, '.ui-styles');
+  if (!existsSync(root)) return items;
+  for (const slug of readdirSync(root, {withFileTypes: true}).filter(entry => entry.isDirectory()).map(entry => entry.name).sort()) {
+    const directory = resolve(root, slug);
+    try {
+      const record = readJson(resolve(directory, 'style.json'));
+      if (!slugPattern.test(slug) || record.slug !== slug) throw Error('slug 与目录名不一致');
+      if (!nonblank(record.name) || !nonblank(record.summary)) throw Error('缺少 name 或 summary');
+      if (!nonblank(record.guide) || isAbsolute(record.guide)) throw Error('guide 必须是相对路径');
+      const guide = resolve(directory, record.guide);
+      if (!guide.startsWith(directory) || !statSync(guide).isFile()) throw Error(`guide 文件不存在：${record.guide}`);
+      if (!['reference', 'reproducible'].includes(record.level)) throw Error('level 必须是 reference 或 reproducible');
+      if (record.tags !== undefined && (!Array.isArray(record.tags) || !record.tags.every(nonblank))) throw Error('tags 无效');
+      items.push({
+        slug,
+        name: record.name,
+        nameEn: record.nameEn ?? '',
+        summary: record.summary,
+        styleType: record.styleType ?? 'visual',
+        category: record.category ?? '',
+        tags: record.tags ?? [],
+        level: record.level,
+        source: 'project'
+      });
+    } catch (error) {
+      errors.push(`${slug}: ${error.message}`);
+    }
+  }
+  return items;
+}
+
+function parse(args, allowed) {
+  const opts = new Map();
+  for (let i = 0; i < args.length; i += 2) {
+    const key = args[i], value = args[i + 1];
+    if (!allowed.includes(key) || opts.has(key) || !nonblank(value) || value.startsWith('--')) throw Error(`无效选项：${key} ${value ?? ''}`.trim());
+    opts.set(key, value);
+  }
+  return opts;
+}
+
+function list(args) {
+  const opts = parse(args, ['--project', '--query', '--type', '--category', '--tag', '--offset', '--limit']);
+  const offset = Number(opts.get('--offset') ?? 0);
+  const limit = Number(opts.get('--limit') ?? 12);
+  if (!Number.isSafeInteger(offset) || offset < 0) throw Error('offset 必须是非负整数');
+  if (!Number.isSafeInteger(limit) || limit < 1 || limit > 50) throw Error('limit 必须是 1–50 的整数');
+  if (opts.has('--type') && !TYPES.includes(opts.get('--type'))) throw Error('type 只能是 visual 或 layout');
+  const errors = [];
+  const items = [...loadCatalog(errors), ...(opts.has('--project') ? loadProject(opts.get('--project'), errors) : [])];
+  if (errors.length) throw Error(errors.join('\n'));
+  const words = (opts.get('--query') ?? '').toLowerCase().split(/\s+/).filter(Boolean);
+  const matches = items.filter(item => {
+    if (opts.has('--type') && item.styleType !== opts.get('--type')) return false;
+    if (opts.has('--category') && item.category !== opts.get('--category')) return false;
+    if (opts.has('--tag') && !item.tags.includes(opts.get('--tag'))) return false;
+    const text = [item.slug, item.name, item.nameEn, item.summary, item.category, ...item.tags].join(' ').toLowerCase();
+    return words.every(word => text.includes(word));
+  });
+  console.log(JSON.stringify({
+    total: matches.length,
+    offset,
+    nextOffset: matches.length > offset + limit ? offset + limit : null,
+    styles: matches.slice(offset, offset + limit)
+  }, null, 2));
+}
+
+function validate(args) {
+  const opts = parse(args, ['--project']);
+  const errors = [];
+  const catalog = loadCatalog(errors);
+  const project = opts.has('--project') ? loadProject(opts.get('--project'), errors) : [];
+  if (errors.length) throw Error(errors.join('\n'));
+  const duplicate = project.filter(item => catalog.some(entry => entry.slug === item.slug)).map(item => item.slug);
+  if (duplicate.length) throw Error(`项目条目与 StyleKit 已有 slug 重复，请直接引用上游：${duplicate.join(', ')}`);
+  if (opts.has('--project')) {
+    const root = resolve(opts.get('--project'), '.ui-styles');
+    const covers = resolve(skill, 'data/covers');
+    if (!existsSync(covers)) throw Error('缺少 data/covers');
+  }
+  console.log(JSON.stringify({valid: true, catalog: catalog.length, project: project.length}, null, 2));
+}
+
+const [command, ...args] = process.argv.slice(2);
+try {
+  if (command === 'list') list(args);
+  else if (command === 'validate') validate(args);
+  else throw Error('用法：catalog.mjs list|validate [--project PATH] [--query WORDS] [--type visual|layout] [--category C] [--tag T] [--offset N] [--limit N]');
+} catch (error) {
+  console.error(error.message);
+  process.exitCode = 1;
+}

@@ -1,1 +1,131 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2t5R3JhZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGQwZDI0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFhMWEzZSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Im1pc3QxIiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNDAiLz4KICAgIDwvZmlsdGVyPgogICAgPGZpbHRlciBpZD0ibWlzdDIiIHg9Ii01MCUiIHk9Ii01MCUiIHdpZHRoPSIyMDAlIiBoZWlnaHQ9IjIwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI2MCIvPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJtaXN0MyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjI1Ii8+CiAgICA8L2ZpbHRlcj4KICAgIDxjbGlwUGF0aCBpZD0iY2FudmFzQ2xpcCI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCBza3kgLS0+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSJ1cmwoI3NreUdyYWQpIi8+CgogIDwhLS0gTWlzdHkgYXRtb3NwaGVyZSBsYXllcnMgLS0+CiAgPGVsbGlwc2UgY3g9IjYwMCIgY3k9IjMwMCIgcng9IjUwMCIgcnk9IjIwMCIgZmlsbD0iI2MzOGQ5NCIgb3BhY2l0eT0iMC4wNyIgZmlsdGVyPSJ1cmwoI21pc3QyKSIvPgogIDxlbGxpcHNlIGN4PSI5MDAiIGN5PSIyMDAiIHJ4PSIzMDAiIHJ5PSIxNTAiIGZpbGw9IiNkNGE1NzQiIG9wYWNpdHk9IjAuMDYiIGZpbHRlcj0idXJsKCNtaXN0MikiLz4KICA8ZWxsaXBzZSBjeD0iMjUwIiBjeT0iMzUwIiByeD0iMjgwIiByeT0iMTIwIiBmaWxsPSIjNGEzZjZiIiBvcGFjaXR5PSIwLjE1IiBmaWx0ZXI9InVybCgjbWlzdDEpIi8+CgogIDwhLS0gR3JvdW5kIHBsYW5lIC0tPgogIDxyZWN0IHg9IjAiIHk9IjQyMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjEwIiBmaWxsPSIjMTIxMDJhIi8+CiAgPCEtLSBIb3Jpem9uIGxpbmUgLS0+CiAgPHJlY3QgeD0iMCIgeT0iNDE4IiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI1IiBmaWxsPSIjNGEzZjZiIiBvcGFjaXR5PSIwLjgiLz4KCiAgPCEtLSBMYXJnZSBzdW4vbW9vbiBwYXJ0aWFsbHkgY3V0IGJ5IGhvcml6b24gLS0+CiAgPGNpcmNsZSBjeD0iNzgwIiBjeT0iNDYwIiByPSIxMTAiIGZpbGw9IiNkNGE1NzQiIG9wYWNpdHk9IjAuMjAiLz4KICA8IS0tIE1hc2sgdGhlIHN1biBiZWxvdyBob3Jpem9uIHdpdGggZ3JvdW5kIGNvbG9yIC0tPgogIDxyZWN0IHg9IjY0MCIgeT0iNDIwIiB3aWR0aD0iMjkwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iIzEyMTAyYSIvPgogIDwhLS0gU3VuIGFyYyBvdXRsaW5lIGFib3ZlIGhvcml6b24gLS0+CiAgPHBhdGggZD0iTSA2NzAgNDIwIEEgMTEwIDExMCAwIDAgMSA4OTAgNDIwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGE1NzQiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjUiLz4KICA8IS0tIFNvZnQgZ2xvdyBiZWhpbmQgc3VuIC0tPgogIDxlbGxpcHNlIGN4PSI3ODAiIGN5PSI0MjAiIHJ4PSIxODAiIHJ5PSI2MCIgZmlsbD0iI2Q0YTU3NCIgb3BhY2l0eT0iMC4wOCIgZmlsdGVyPSJ1cmwoI21pc3QxKSIvPgoKICA8IS0tIEZsb2F0aW5nIGV5ZXMgLyBwb3J0YWxzIGluIHRoZSBza3kgLS0+CiAgPGVsbGlwc2UgY3g9IjUwMCIgY3k9IjE1NSIgcng9IjcyIiByeT0iMjgiIGZpbGw9IiNjMzhkOTQiIG9wYWNpdHk9IjAuMTQiIGZpbHRlcj0idXJsKCNtaXN0MykiLz4KICA8ZWxsaXBzZSBjeD0iNTAwIiBjeT0iMTU1IiByeD0iNTgiIHJ5PSIyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzM4ZDk0IiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuMzgiLz4KICA8ZWxsaXBzZSBjeD0iNTAwIiBjeT0iMTU1IiByeD0iMjAiIHJ5PSI4IiBmaWxsPSIjYzM4ZDk0IiBvcGFjaXR5PSIwLjIyIi8+CgogIDxlbGxpcHNlIGN4PSI5NzAiIGN5PSIxMTUiIHJ4PSI1NiIgcnk9IjIxIiBmaWxsPSIjYzM4ZDk0IiBvcGFjaXR5PSIwLjEyIiBmaWx0ZXI9InVybCgjbWlzdDMpIi8+CiAgPGVsbGlwc2UgY3g9Ijk3MCIgY3k9IjExNSIgcng9IjQ0IiByeT0iMTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2MzOGQ5NCIgc3Ryb2tlLXdpZHRoPSIxIiBvcGFjaXR5PSIwLjMyIi8+CiAgPGVsbGlwc2UgY3g9Ijk3MCIgY3k9IjExNSIgcng9IjE0IiByeT0iNiIgZmlsbD0iI2MzOGQ5NCIgb3BhY2l0eT0iMC4yMCIvPgoKICA8ZWxsaXBzZSBjeD0iMTIwIiBjeT0iMjIwIiByeD0iNDQiIHJ5PSIxNyIgZmlsbD0iI2MzOGQ5NCIgb3BhY2l0eT0iMC4xMCIgZmlsdGVyPSJ1cmwoI21pc3QzKSIvPgogIDxlbGxpcHNlIGN4PSIxMjAiIGN5PSIyMjAiIHJ4PSIzNCIgcnk9IjEzIiBmaWxsPSJub25lIiBzdHJva2U9IiNjMzhkOTQiIHN0cm9rZS13aWR0aD0iMC44IiBvcGFjaXR5PSIwLjI4Ii8+CgogIDwhLS0gTWVsdGluZyBjbG9jayDigJQgbWFpbiByZWN0YW5ndWxhciBib2R5IC0tPgogIDxyZWN0IHg9IjIwMCIgeT0iMTk1IiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEyMCIgcng9IjQiIGZpbGw9IiNkNGE1NzQiLz4KICA8IS0tIERyaXAgLyBtZWx0IHBhdGggaGFuZ2luZyBiZWxvdy1yaWdodCBvZiBjbG9jayBib2R5IC0tPgogIDxwYXRoIGQ9Ik0gMzQwIDMxNSBDIDM0MiAzMzAsIDM2MiAzNDgsIDM2MCAzNzggQyAzNTggNDA1LCAzNDUgNDI4LCAzMzAgNDM1IEMgMzE1IDQ0MiwgMzAwIDQzMiwgMjk3IDQxNCBDIDI5MyAzOTMsIDMwNSAzNjgsIDMwMyAzNDggQyAzMDEgMzMyLCAyOTIgMzIwLCAyOTAgMzE1IFoiIGZpbGw9IiNkNGE1NzQiIG9wYWNpdHk9IjAuODgiLz4KICA8IS0tIENsb2NrIGZhY2UgLS0+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMjU1IiByPSI0NiIgZmlsbD0iI2YwZWNlNCIgb3BhY2l0eT0iMC45MiIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjI1NSIgcj0iNDYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBkMGQyNCIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8IS0tIEhvdXIgdGljayBtYXJrcyAtLT4KICA8bGluZSB4MT0iMzAwIiB5MT0iMjEzIiB4Mj0iMzAwIiB5Mj0iMjIxIiBzdHJva2U9IiMwZDBkMjQiIHN0cm9rZS13aWR0aD0iMi4yIi8+CiAgPGxpbmUgeDE9IjMwMCIgeTE9IjI5MCIgeDI9IjMwMCIgeTI9IjI5OCIgc3Ryb2tlPSIjMGQwZDI0IiBzdHJva2Utd2lkdGg9IjIuMiIvPgogIDxsaW5lIHgxPSIyNTQiIHkxPSIyNTUiIHgyPSIyNjIiIHkyPSIyNTUiIHN0cm9rZT0iIzBkMGQyNCIgc3Ryb2tlLXdpZHRoPSIyLjIiLz4KICA8bGluZSB4MT0iMzM4IiB5MT0iMjU1IiB4Mj0iMzQ2IiB5Mj0iMjU1IiBzdHJva2U9IiMwZDBkMjQiIHN0cm9rZS13aWR0aD0iMi4yIi8+CiAgPGxpbmUgeDE9IjI2NyIgeTE9IjIyMiIgeDI9IjI3MyIgeTI9IjIzMCIgc3Ryb2tlPSIjMGQwZDI0IiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDxsaW5lIHgxPSIzMjciIHkxPSIyODAiIHgyPSIzMzMiIHkyPSIyODgiIHN0cm9rZT0iIzBkMGQyNCIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8bGluZSB4MT0iMjY3IiB5MT0iMjg4IiB4Mj0iMjczIiB5Mj0iMjgwIiBzdHJva2U9IiMwZDBkMjQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPGxpbmUgeDE9IjMyNyIgeTE9IjIyMiIgeDI9IjMzMyIgeTI9IjIzMCIgc3Ryb2tlPSIjMGQwZDI0IiBzdHJva2Utd2lkdGg9IjEuNSIvPgogIDwhLS0gQ2xvY2sgaGFuZHMgLS0+CiAgPGxpbmUgeDE9IjMwMCIgeTE9IjI1NSIgeDI9IjMwMCIgeTI9IjIyNiIgc3Ryb2tlPSIjMGQwZDI0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxsaW5lIHgxPSIzMDAiIHkxPSIyNTUiIHgyPSIzMjQiIHkyPSIyNzAiIHN0cm9rZT0iIzBkMGQyNCIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjI1NSIgcj0iMy41IiBmaWxsPSIjMGQwZDI0Ii8+CiAgPCEtLSBEcmlwIHRpcCBzb2Z0IHNoYWRvdyAtLT4KICA8ZWxsaXBzZSBjeD0iMzI2IiBjeT0iNDM0IiByeD0iMTYiIHJ5PSI1IiBmaWxsPSIjZDRhNTc0IiBvcGFjaXR5PSIwLjI1IiBmaWx0ZXI9InVybCgjbWlzdDMpIi8+CgogIDwhLS0gRmxvYXRpbmcgc3BoZXJlIChyaWdodCwgaW1wb3NzaWJsZSBsZXZpdGF0aW9uKSAtLT4KICA8Y2lyY2xlIGN4PSI5NTAiIGN5PSIyNzUiIHI9IjExMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzM4ZDk0IiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMC43MiIvPgogIDxjaXJjbGUgY3g9Ijk1MCIgY3k9IjI3NSIgcj0iMTEyIiBmaWxsPSIjYzM4ZDk0IiBvcGFjaXR5PSIwLjA0Ii8+CiAgPCEtLSBMYXRpdHVkZSByaW5nIC0tPgogIDxlbGxpcHNlIGN4PSI5NTAiIGN5PSIyNzUiIHJ4PSIxMTIiIHJ5PSIzMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzM4ZDk0IiBzdHJva2Utd2lkdGg9IjAuOCIgb3BhY2l0eT0iMC4zMiIvPgogIDwhLS0gTG9uZ2l0dWRlIHJpbmcgLS0+CiAgPGVsbGlwc2UgY3g9Ijk1MCIgY3k9IjI3NSIgcng9IjMwIiByeT0iMTEyIiBmaWxsPSJub25lIiBzdHJva2U9IiNjMzhkOTQiIHN0cm9rZS13aWR0aD0iMC44IiBvcGFjaXR5PSIwLjIyIi8+CiAgPCEtLSBTdWJ0bGUgaW5uZXIgZ2xvdyAtLT4KICA8Y2lyY2xlIGN4PSI5NTAiIGN5PSIyNzUiIHI9IjExMiIgZmlsbD0iI2MzOGQ5NCIgb3BhY2l0eT0iMC4wMyIgZmlsdGVyPSJ1cmwoI21pc3QzKSIvPgoKICA8IS0tIEZsb2F0aW5nIHBlcnNwZWN0aXZlIGN1YmUgLS0+CiAgPGcgb3BhY2l0eT0iMC42Ij4KICAgIDwhLS0gRnJvbnQgZmFjZSAtLT4KICAgIDxwb2x5Z29uIHBvaW50cz0iODU1LDM0MiA5NDAsMzQyIDk0MCw0MTUgODU1LDQxNSIgZmlsbD0iI2Q0YTU3NCIgb3BhY2l0eT0iMC4wNSIvPgogICAgPHBvbHlnb24gcG9pbnRzPSI4NTUsMzQyIDk0MCwzNDIgOTQwLDQxNSA4NTUsNDE1IiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGE1NzQiIHN0cm9rZS13aWR0aD0iMS4yIi8+CiAgICA8IS0tIFRvcCBmYWNlIC0tPgogICAgPHBvbHlnb24gcG9pbnRzPSI4NTUsMzQyIDg5NSwzMTIgOTgwLDMxMiA5NDAsMzQyIiBmaWxsPSIjZDRhNTc0IiBvcGFjaXR5PSIwLjA4Ii8+CiAgICA8cG9seWdvbiBwb2ludHM9Ijg1NSwzNDIgODk1LDMxMiA5ODAsMzEyIDk0MCwzNDIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q0YTU3NCIgc3Ryb2tlLXdpZHRoPSIxLjIiLz4KICAgIDwhLS0gUmlnaHQgZmFjZSAtLT4KICAgIDxwb2x5Z29uIHBvaW50cz0iOTQwLDM0MiA5ODAsMzEyIDk4MCwzODUgOTQwLDQxNSIgZmlsbD0iI2Q0YTU3NCIgb3BhY2l0eT0iMC4wNiIvPgogICAgPHBvbHlnb24gcG9pbnRzPSI5NDAsMzQyIDk4MCwzMTIgOTgwLDM4NSA5NDAsNDE1IiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGE1NzQiIHN0cm9rZS13aWR0aD0iMS4yIi8+CiAgPC9nPgoKICA8IS0tIFRpdGxlIHRleHQgLS0+CiAgPHRleHQKICAgIHg9IjYwMCIKICAgIHk9IjEwOCIKICAgIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1BhbGF0aW5vIExpbm90eXBlJywgc2VyaWYiCiAgICBmb250LXNpemU9Ijc2IgogICAgZm9udC13ZWlnaHQ9IjcwMCIKICAgIGZvbnQtc3R5bGU9Iml0YWxpYyIKICAgIGxldHRlci1zcGFjaW5nPSI2IgogICAgZmlsbD0iI2YwZWNlNCIKICAgIG9wYWNpdHk9IjAuOTUiCiAgPlNVUlJFQUxJU008L3RleHQ+CgogIDwhLS0gU3VidGl0bGUgLS0+CiAgPHRleHQKICAgIHg9IjYwMCIKICAgIHk9IjE0OCIKICAgIHRleHQtYW5jaG9yPSJtaWRkbGUiCiAgICBmb250LWZhbWlseT0iR2VvcmdpYSwgJ1BhbGF0aW5vIExpbm90eXBlJywgc2VyaWYiCiAgICBmb250LXNpemU9IjE1IgogICAgZm9udC13ZWlnaHQ9IjQwMCIKICAgIGZvbnQtc3R5bGU9Iml0YWxpYyIKICAgIGxldHRlci1zcGFjaW5nPSI0IgogICAgZmlsbD0iI2MzOGQ5NCIKICAgIG9wYWNpdHk9IjAuNjAiCiAgPndoZXJlIGRyZWFtcyBkaXNzb2x2ZSBpbnRvIGZvcm08L3RleHQ+CgogIDwhLS0gR3JvdW5kIGhvcml6b24gYXRtb3NwaGVyaWMgZ2xvdyAtLT4KICA8ZWxsaXBzZSBjeD0iNjAwIiBjeT0iNDIyIiByeD0iNjAwIiByeT0iMzgiIGZpbGw9IiM0YTNmNmIiIG9wYWNpdHk9IjAuMzAiIGZpbHRlcj0idXJsKCNtaXN0MSkiLz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d0d24"/>
+      <stop offset="100%" stop-color="#1a1a3e"/>
+    </linearGradient>
+    <filter id="mist1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <filter id="mist2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <filter id="mist3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
+    <clipPath id="canvasClip">
+      <rect width="1200" height="630"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background sky -->
+  <rect width="1200" height="630" fill="url(#skyGrad)"/>
+
+  <!-- Misty atmosphere layers -->
+  <ellipse cx="600" cy="300" rx="500" ry="200" fill="#c38d94" opacity="0.07" filter="url(#mist2)"/>
+  <ellipse cx="900" cy="200" rx="300" ry="150" fill="#d4a574" opacity="0.06" filter="url(#mist2)"/>
+  <ellipse cx="250" cy="350" rx="280" ry="120" fill="#4a3f6b" opacity="0.15" filter="url(#mist1)"/>
+
+  <!-- Ground plane -->
+  <rect x="0" y="420" width="1200" height="210" fill="#12102a"/>
+  <!-- Horizon line -->
+  <rect x="0" y="418" width="1200" height="5" fill="#4a3f6b" opacity="0.8"/>
+
+  <!-- Large sun/moon partially cut by horizon -->
+  <circle cx="780" cy="460" r="110" fill="#d4a574" opacity="0.20"/>
+  <!-- Mask the sun below horizon with ground color -->
+  <rect x="640" y="420" width="290" height="200" fill="#12102a"/>
+  <!-- Sun arc outline above horizon -->
+  <path d="M 670 420 A 110 110 0 0 1 890 420" fill="none" stroke="#d4a574" stroke-width="1.5" opacity="0.5"/>
+  <!-- Soft glow behind sun -->
+  <ellipse cx="780" cy="420" rx="180" ry="60" fill="#d4a574" opacity="0.08" filter="url(#mist1)"/>
+
+  <!-- Floating eyes / portals in the sky -->
+  <ellipse cx="500" cy="155" rx="72" ry="28" fill="#c38d94" opacity="0.14" filter="url(#mist3)"/>
+  <ellipse cx="500" cy="155" rx="58" ry="22" fill="none" stroke="#c38d94" stroke-width="1" opacity="0.38"/>
+  <ellipse cx="500" cy="155" rx="20" ry="8" fill="#c38d94" opacity="0.22"/>
+
+  <ellipse cx="970" cy="115" rx="56" ry="21" fill="#c38d94" opacity="0.12" filter="url(#mist3)"/>
+  <ellipse cx="970" cy="115" rx="44" ry="16" fill="none" stroke="#c38d94" stroke-width="1" opacity="0.32"/>
+  <ellipse cx="970" cy="115" rx="14" ry="6" fill="#c38d94" opacity="0.20"/>
+
+  <ellipse cx="120" cy="220" rx="44" ry="17" fill="#c38d94" opacity="0.10" filter="url(#mist3)"/>
+  <ellipse cx="120" cy="220" rx="34" ry="13" fill="none" stroke="#c38d94" stroke-width="0.8" opacity="0.28"/>
+
+  <!-- Melting clock — main rectangular body -->
+  <rect x="200" y="195" width="200" height="120" rx="4" fill="#d4a574"/>
+  <!-- Drip / melt path hanging below-right of clock body -->
+  <path d="M 340 315 C 342 330, 362 348, 360 378 C 358 405, 345 428, 330 435 C 315 442, 300 432, 297 414 C 293 393, 305 368, 303 348 C 301 332, 292 320, 290 315 Z" fill="#d4a574" opacity="0.88"/>
+  <!-- Clock face -->
+  <circle cx="300" cy="255" r="46" fill="#f0ece4" opacity="0.92"/>
+  <circle cx="300" cy="255" r="46" fill="none" stroke="#0d0d24" stroke-width="1.5"/>
+  <!-- Hour tick marks -->
+  <line x1="300" y1="213" x2="300" y2="221" stroke="#0d0d24" stroke-width="2.2"/>
+  <line x1="300" y1="290" x2="300" y2="298" stroke="#0d0d24" stroke-width="2.2"/>
+  <line x1="254" y1="255" x2="262" y2="255" stroke="#0d0d24" stroke-width="2.2"/>
+  <line x1="338" y1="255" x2="346" y2="255" stroke="#0d0d24" stroke-width="2.2"/>
+  <line x1="267" y1="222" x2="273" y2="230" stroke="#0d0d24" stroke-width="1.5"/>
+  <line x1="327" y1="280" x2="333" y2="288" stroke="#0d0d24" stroke-width="1.5"/>
+  <line x1="267" y1="288" x2="273" y2="280" stroke="#0d0d24" stroke-width="1.5"/>
+  <line x1="327" y1="222" x2="333" y2="230" stroke="#0d0d24" stroke-width="1.5"/>
+  <!-- Clock hands -->
+  <line x1="300" y1="255" x2="300" y2="226" stroke="#0d0d24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="300" y1="255" x2="324" y2="270" stroke="#0d0d24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="300" cy="255" r="3.5" fill="#0d0d24"/>
+  <!-- Drip tip soft shadow -->
+  <ellipse cx="326" cy="434" rx="16" ry="5" fill="#d4a574" opacity="0.25" filter="url(#mist3)"/>
+
+  <!-- Floating sphere (right, impossible levitation) -->
+  <circle cx="950" cy="275" r="112" fill="none" stroke="#c38d94" stroke-width="1.5" opacity="0.72"/>
+  <circle cx="950" cy="275" r="112" fill="#c38d94" opacity="0.04"/>
+  <!-- Latitude ring -->
+  <ellipse cx="950" cy="275" rx="112" ry="30" fill="none" stroke="#c38d94" stroke-width="0.8" opacity="0.32"/>
+  <!-- Longitude ring -->
+  <ellipse cx="950" cy="275" rx="30" ry="112" fill="none" stroke="#c38d94" stroke-width="0.8" opacity="0.22"/>
+  <!-- Subtle inner glow -->
+  <circle cx="950" cy="275" r="112" fill="#c38d94" opacity="0.03" filter="url(#mist3)"/>
+
+  <!-- Floating perspective cube -->
+  <g opacity="0.6">
+    <!-- Front face -->
+    <polygon points="855,342 940,342 940,415 855,415" fill="#d4a574" opacity="0.05"/>
+    <polygon points="855,342 940,342 940,415 855,415" fill="none" stroke="#d4a574" stroke-width="1.2"/>
+    <!-- Top face -->
+    <polygon points="855,342 895,312 980,312 940,342" fill="#d4a574" opacity="0.08"/>
+    <polygon points="855,342 895,312 980,312 940,342" fill="none" stroke="#d4a574" stroke-width="1.2"/>
+    <!-- Right face -->
+    <polygon points="940,342 980,312 980,385 940,415" fill="#d4a574" opacity="0.06"/>
+    <polygon points="940,342 980,312 980,385 940,415" fill="none" stroke="#d4a574" stroke-width="1.2"/>
+  </g>
+
+  <!-- Title text -->
+  <text
+    x="600"
+    y="108"
+    text-anchor="middle"
+    font-family="Georgia, 'Palatino Linotype', serif"
+    font-size="76"
+    font-weight="700"
+    font-style="italic"
+    letter-spacing="6"
+    fill="#f0ece4"
+    opacity="0.95"
+  >SURREALISM</text>
+
+  <!-- Subtitle -->
+  <text
+    x="600"
+    y="148"
+    text-anchor="middle"
+    font-family="Georgia, 'Palatino Linotype', serif"
+    font-size="15"
+    font-weight="400"
+    font-style="italic"
+    letter-spacing="4"
+    fill="#c38d94"
+    opacity="0.60"
+  >where dreams dissolve into form</text>
+
+  <!-- Ground horizon atmospheric glow -->
+  <ellipse cx="600" cy="422" rx="600" ry="38" fill="#4a3f6b" opacity="0.30" filter="url(#mist1)"/>
+</svg>

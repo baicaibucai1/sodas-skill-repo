@@ -1,1 +1,112 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CgogIDwhLS0gQmFja2dyb3VuZDogcHVyZSB3aGl0ZSAtLT4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiNmZmZmZmYiLz4KCiAgPCEtLSBEb21pbmFudCByZWQgbGVmdCBzdHJpcCDigJQgZnVsbCBoZWlnaHQsIH40MyUgb2YgY2FudmFzIC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI1MjAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZmYwMDAwIi8+CgogIDwhLS0gU3VidGxlIGdyaWQgbGluZXMgKHVuZGVybHlpbmcgc3RydWN0dXJlKSAtLT4KICA8bGluZSB4MT0iNTIwIiB5MT0iMCIgeDI9IjUyMCIgeTI9IjYzMCIgc3Ryb2tlPSIjMDAwMDAwMTIiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxsaW5lIHgxPSIwIiAgIHkxPSIyMTAiIHgyPSIxMjAwIiB5Mj0iMjEwIiBzdHJva2U9IiMwMDAwMDAxMiIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGxpbmUgeDE9IjAiICAgeTE9IjQyMCIgeDI9IjEyMDAiIHkyPSI0MjAiIHN0cm9rZT0iIzAwMDAwMDEyIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iODYwIiB5MT0iMCIgICB4Mj0iODYwIiAgeTI9IjYzMCIgc3Ryb2tlPSIjMDAwMDAwMTIiIHN0cm9rZS13aWR0aD0iMSIvPgoKICA8IS0tIFByaW1hcnkgdHlwb2dyYXBoeTogIlNXSVNTIiDigJQgd2hpdGUgb24gcmVkLCBmbHVzaCBsZWZ0IGluc2lkZSB0aGUgc3RyaXAgLS0+CiAgPHRleHQKICAgIHg9IjQ4IiB5PSIyNDgiCiAgICBmb250LWZhbWlseT0iJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMTcyIgogICAgZm9udC13ZWlnaHQ9IjkwMCIKICAgIGxldHRlci1zcGFjaW5nPSItNiIKICAgIGZpbGw9IiNmZmZmZmYiPlNXSVNTPC90ZXh0PgoKICA8IS0tICJQT1NURVIiIOKAlCBibGFjayBvbiB3aGl0ZSwgcmlnaHQgaGFsZiwgYW5jaG9yZWQgdG8gZ3JpZCAtLT4KICA8dGV4dAogICAgeD0iNTU2IiB5PSIyNDgiCiAgICBmb250LWZhbWlseT0iJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMTcyIgogICAgZm9udC13ZWlnaHQ9IjkwMCIKICAgIGxldHRlci1zcGFjaW5nPSItNiIKICAgIGZpbGw9IiMwMDAwMDAiPlBPU1Q8L3RleHQ+CgogIDwhLS0gU2Vjb25kIGxpbmU6ICJFUiIgY29udGludWVzIGJlbG93LCB3aGl0ZSBvbiByZWQgc3RyaXAgbGVmdCwgYmxhY2sgb24gd2hpdGUgcmlnaHQgLS0+CiAgPHRleHQKICAgIHg9IjQ4IiB5PSI0MzAiCiAgICBmb250LWZhbWlseT0iJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMTcyIgogICAgZm9udC13ZWlnaHQ9IjkwMCIKICAgIGxldHRlci1zcGFjaW5nPSItNiIKICAgIGZpbGw9IiNmZmZmZmYiPkRFPC90ZXh0PgoKICA8dGV4dAogICAgeD0iMzcyIiB5PSI0MzAiCiAgICBmb250LWZhbWlseT0iJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMTcyIgogICAgZm9udC13ZWlnaHQ9IjkwMCIKICAgIGxldHRlci1zcGFjaW5nPSItNiIKICAgIGZpbGw9IiMwMDAwMDAiPlNJR048L3RleHQ+CgogIDwhLS0gRnVsbC13aWR0aCBob3Jpem9udGFsIHJ1bGUg4oCUIGJvbGQgcmVkIGFjY2VudCBsaW5lIC0tPgogIDxsaW5lIHgxPSIwIiB5MT0iNDU2IiB4Mj0iMTIwMCIgeTI9IjQ1NiIgc3Ryb2tlPSIjZmYwMDAwIiBzdHJva2Utd2lkdGg9IjgiLz4KCiAgPCEtLSBTZWNvbmRhcnkgaG9yaXpvbnRhbCBydWxlIOKAlCB0aGluIGJsYWNrIC0tPgogIDxsaW5lIHgxPSI1MjAiIHkxPSIyNjAiIHgyPSIxMjAwIiB5Mj0iMjYwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNCIvPgoKICA8IS0tIFZlcnRpY2FsIGFjY2VudDogdGhpbiBibGFjayBydWxlIGluc2lkZSB3aGl0ZSBhcmVhIC0tPgogIDxsaW5lIHgxPSI4NjAiIHkxPSIyNjAiIHgyPSI4NjAiIHkyPSI0NTYiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSI0Ii8+CgogIDwhLS0gU21hbGwgYmxhY2sgY2lyY2xlIGFjY2VudCAoZ3JpZCBidWxsZXQpIC0tPgogIDxjaXJjbGUgY3g9IjU1NiIgY3k9IjI2MCIgcj0iMjAiIGZpbGw9IiMwMDAwMDAiLz4KCiAgPCEtLSBTbWFsbCByZWQgY2lyY2xlIGFjY2VudCAoY291bnRlci1wb2ludCkgLS0+CiAgPGNpcmNsZSBjeD0iODYwIiBjeT0iNDU2IiByPSIxMiIgZmlsbD0iI2ZmMDAwMCIvPgoKICA8IS0tIFN1cHBvcnRpbmcgdGV4dCBibG9jayDigJQgYm90dG9tIGdyaWQgcm93LCB3aGl0ZSBhcmVhIC0tPgogIDx0ZXh0CiAgICB4PSI1NTYiIHk9IjUxMCIKICAgIGZvbnQtZmFtaWx5PSInSGVsdmV0aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIgogICAgZm9udC1zaXplPSIxOCIKICAgIGZvbnQtd2VpZ2h0PSI0MDAiCiAgICBsZXR0ZXItc3BhY2luZz0iNCIKICAgIGZpbGw9IiMwMDAwMDAiPklOVEVSTkFUSU9OQUwgVFlQT0dSQVBISUMgU1RZTEU8L3RleHQ+CgogIDwhLS0gU3ViLWxhYmVsOiB5ZWFyIC8gb3JpZ2luIG1hcmtlciAtLT4KICA8dGV4dAogICAgeD0iNTU2IiB5PSI1NDAiCiAgICBmb250LWZhbWlseT0iJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMTIiCiAgICBmb250LXdlaWdodD0iNDAwIgogICAgbGV0dGVyLXNwYWNpbmc9IjMiCiAgICBmaWxsPSIjZmYwMDAwIj5aVVJJQ0gg4oCUIEJBU0VMIOKAlCAxOTUwPC90ZXh0PgoKICA8IS0tIEJvdHRvbS1yaWdodDogc21hbGwgZ3JpZC1hbGlnbmVkIGRlc2NyaXB0b3IgYmxvY2sgLS0+CiAgPHRleHQKICAgIHg9Ijg3MCIgeT0iNTEwIgogICAgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiCiAgICBmb250LXNpemU9IjEyIgogICAgZm9udC13ZWlnaHQ9IjcwMCIKICAgIGxldHRlci1zcGFjaW5nPSIyIgogICAgZmlsbD0iIzAwMDAwMCI+Rk9STSBGT0xMT1dTPC90ZXh0PgoKICA8dGV4dAogICAgeD0iODcwIiB5PSI1MzAiCiAgICBmb250LWZhbWlseT0iJ0hlbHZldGljYSBOZXVlJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMTIiCiAgICBmb250LXdlaWdodD0iNzAwIgogICAgbGV0dGVyLXNwYWNpbmc9IjIiCiAgICBmaWxsPSIjMDAwMDAwIj5GVU5DVElPTjwvdGV4dD4KCiAgPCEtLSBCb3R0b20tbGVmdCBzdHJpcDogc21hbGwgd2hpdGUgbGFiZWwgb24gcmVkIC0tPgogIDx0ZXh0CiAgICB4PSI0OCIgeT0iNTEwIgogICAgZm9udC1mYW1pbHk9IidIZWx2ZXRpY2EgTmV1ZScsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiCiAgICBmb250LXNpemU9IjEzIgogICAgZm9udC13ZWlnaHQ9IjQwMCIKICAgIGxldHRlci1zcGFjaW5nPSIzIgogICAgZmlsbD0iI2ZmZmZmZiI+R1JJRCAgLyAgVFlQRSAgLyAgRlVOQ1RJT048L3RleHQ+CgogIDwhLS0gVGhpbiBib3R0b20gYm9yZGVyIGxpbmUg4oCUIGZ1bGwgd2lkdGgsIGJsYWNrIC0tPgogIDxsaW5lIHgxPSIwIiB5MT0iNjIwIiB4Mj0iMTIwMCIgeTI9IjYyMCIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjQiLz4KCjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+
+  <!-- Background: pure white -->
+  <rect width="1200" height="630" fill="#ffffff"/>
+
+  <!-- Dominant red left strip — full height, ~43% of canvas -->
+  <rect x="0" y="0" width="520" height="630" fill="#ff0000"/>
+
+  <!-- Subtle grid lines (underlying structure) -->
+  <line x1="520" y1="0" x2="520" y2="630" stroke="#00000012" stroke-width="1"/>
+  <line x1="0"   y1="210" x2="1200" y2="210" stroke="#00000012" stroke-width="1"/>
+  <line x1="0"   y1="420" x2="1200" y2="420" stroke="#00000012" stroke-width="1"/>
+  <line x1="860" y1="0"   x2="860"  y2="630" stroke="#00000012" stroke-width="1"/>
+
+  <!-- Primary typography: "SWISS" — white on red, flush left inside the strip -->
+  <text
+    x="48" y="248"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="172"
+    font-weight="900"
+    letter-spacing="-6"
+    fill="#ffffff">SWISS</text>
+
+  <!-- "POSTER" — black on white, right half, anchored to grid -->
+  <text
+    x="556" y="248"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="172"
+    font-weight="900"
+    letter-spacing="-6"
+    fill="#000000">POST</text>
+
+  <!-- Second line: "ER" continues below, white on red strip left, black on white right -->
+  <text
+    x="48" y="430"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="172"
+    font-weight="900"
+    letter-spacing="-6"
+    fill="#ffffff">DE</text>
+
+  <text
+    x="372" y="430"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="172"
+    font-weight="900"
+    letter-spacing="-6"
+    fill="#000000">SIGN</text>
+
+  <!-- Full-width horizontal rule — bold red accent line -->
+  <line x1="0" y1="456" x2="1200" y2="456" stroke="#ff0000" stroke-width="8"/>
+
+  <!-- Secondary horizontal rule — thin black -->
+  <line x1="520" y1="260" x2="1200" y2="260" stroke="#000000" stroke-width="4"/>
+
+  <!-- Vertical accent: thin black rule inside white area -->
+  <line x1="860" y1="260" x2="860" y2="456" stroke="#000000" stroke-width="4"/>
+
+  <!-- Small black circle accent (grid bullet) -->
+  <circle cx="556" cy="260" r="20" fill="#000000"/>
+
+  <!-- Small red circle accent (counter-point) -->
+  <circle cx="860" cy="456" r="12" fill="#ff0000"/>
+
+  <!-- Supporting text block — bottom grid row, white area -->
+  <text
+    x="556" y="510"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="18"
+    font-weight="400"
+    letter-spacing="4"
+    fill="#000000">INTERNATIONAL TYPOGRAPHIC STYLE</text>
+
+  <!-- Sub-label: year / origin marker -->
+  <text
+    x="556" y="540"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="400"
+    letter-spacing="3"
+    fill="#ff0000">ZURICH — BASEL — 1950</text>
+
+  <!-- Bottom-right: small grid-aligned descriptor block -->
+  <text
+    x="870" y="510"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="700"
+    letter-spacing="2"
+    fill="#000000">FORM FOLLOWS</text>
+
+  <text
+    x="870" y="530"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="12"
+    font-weight="700"
+    letter-spacing="2"
+    fill="#000000">FUNCTION</text>
+
+  <!-- Bottom-left strip: small white label on red -->
+  <text
+    x="48" y="510"
+    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="13"
+    font-weight="400"
+    letter-spacing="3"
+    fill="#ffffff">GRID  /  TYPE  /  FUNCTION</text>
+
+  <!-- Thin bottom border line — full width, black -->
+  <line x1="0" y1="620" x2="1200" y2="620" stroke="#000000" stroke-width="4"/>
+
+</svg>

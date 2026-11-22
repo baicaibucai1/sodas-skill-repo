@@ -1,1 +1,84 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgdmlld0JveD0iMCAwIDEyMDAgNjMwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iaGctc3RvbmUiIHgxPSIwIiB5MT0iMCIgeDI9IjAuNCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNDOUM0QkEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOEY4QTdFIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJoZy1zbGF0ZSIgeDE9IjAiIHkxPSIwIiB4Mj0iMC40IiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzhFOTY5RSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM1QTYwNjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImhnLXRlcnJhIiB4MT0iMCIgeTE9IjAiIHgyPSIwLjQiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjQjg2RTRFIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzdFNDYzMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iaGctc2FuZCIgeDE9IjAiIHkxPSIwIiB4Mj0iMC40IiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI0Q5Q0ZCRSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNCMEE0OEUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImhnLXNoZWVuIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI0ZDRkNGQSIgc3RvcC1vcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0ZDRkNGQSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPCEtLSBHYWxsZXJ5IHdhbGwgLS0+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjRkNGQ0ZBIi8+CgogIDwhLS0gTmF2IC0tPgogIDx0ZXh0IHg9IjgwIiB5PSI1MiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iMjIiIGZvbnQtd2VpZ2h0PSI0MDAiIGxldHRlci1zcGFjaW5nPSIxIiBmaWxsPSIjMUExQTFBIj5XaGl0ZSBSb29tPC90ZXh0PgogIDx0ZXh0IHg9IjExMjAiIHk9IjUwIiB0ZXh0LWFuY2hvcj0iZW5kIiBmb250LWZhbWlseT0iJ0ludGVyJywnSGVsdmV0aWNhIE5ldWUnLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGxldHRlci1zcGFjaW5nPSIzIiBmaWxsPSIjOEE4QTg1Ij5XT1JLUyYjMTYwOyYjMTYwOyYjMTYwOyYjMTYwO0VYSElCSVRJT05TJiMxNjA7JiMxNjA7JiMxNjA7JiMxNjA7VklTSVQ8L3RleHQ+CiAgPHJlY3QgeD0iMTE0NiIgeT0iNDEiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIGZpbGw9IiNBODVBM0EiLz4KICA8cGF0aCBkPSJNMCA4MCBIMTIwMCIgc3Ryb2tlPSIjRThFNkUxIiBzdHJva2Utd2lkdGg9IjEiLz4KCiAgPCEtLSBUaXRsZSBibG9jayAtLT4KICA8dGV4dCB4PSI4MCIgeT0iMTMyIiBmb250LWZhbWlseT0iJ0ludGVyJywnSGVsdmV0aWNhIE5ldWUnLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGxldHRlci1zcGFjaW5nPSI0IiBmaWxsPSIjQTg1QTNBIj5OTy4gMDEgJiM4MjEyOyBMQVlPVVQgU1RZTEU8L3RleHQ+CiAgPHRleHQgeD0iODAiIHk9IjE4OCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iNTQiIGZvbnQtd2VpZ2h0PSI0MDAiIGxldHRlci1zcGFjaW5nPSIxIiBmaWxsPSIjMUExQTFBIj5Ib3Jpem9udGFsIEdhbGxlcnk8L3RleHQ+CiAgPHRleHQgeD0iODAiIHk9IjIxOCIgZm9udC1mYW1pbHk9IidJbnRlcicsJ0hlbHZldGljYSBOZXVlJyxBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBsZXR0ZXItc3BhY2luZz0iMiIgZmlsbD0iIzhBOEE4NSI+JiMyNzE3ODsmIzI4Mzc4OyYjMzAwMTE7JiMyNDI2NjsgJiM4MjEyOyBXSElURSBDVUJFLCBDVVJBVEVEIFNDUk9MTDwvdGV4dD4KICA8dGV4dCB4PSIxMTIwIiB5PSIxODgiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdIZWx2ZXRpY2EgTmV1ZScsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgbGV0dGVyLXNwYWNpbmc9IjMiIGZpbGw9IiM4QThBODUiPlNOQVAtWCAmIzE4MzsgTUFOREFUT1JZPC90ZXh0PgoKICA8IS0tIEV4aGliaXRpb24gc3RyaXA6IGJvcmRlcmxlc3Mgd29ya3MsIG5vIHJhZGl1cywgbm8gc2hhZG93IC0tPgogIDwhLS0gV29yayAwMSwgYXNwZWN0IDQ6NSAtLT4KICA8cmVjdCB4PSI4MCIgeT0iMjUyIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjIyNSIgZmlsbD0idXJsKCNoZy1zdG9uZSkiLz4KICA8cmVjdCB4PSI4MCIgeT0iMjUyIiB3aWR0aD0iMTgwIiBoZWlnaHQ9IjkwIiBmaWxsPSJ1cmwoI2hnLXNoZWVuKSIvPgogIDxwYXRoIGQ9Ik04MCA1MDIgSDI2MCIgc3Ryb2tlPSIjRThFNkUxIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8dGV4dCB4PSI4MCIgeT0iNTI0IiBmb250LWZhbWlseT0iJ0ludGVyJywnSGVsdmV0aWNhIE5ldWUnLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGxldHRlci1zcGFjaW5nPSIzIiBmaWxsPSIjQTg1QTNBIj5OTy4gMDE8L3RleHQ+CiAgPHRleHQgeD0iODAiIHk9IjU0NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiMxQTFBMUEiPlN0aWxsIEZpZWxkPC90ZXh0PgogIDx0ZXh0IHg9IjgwIiB5PSI1NjMiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdIZWx2ZXRpY2EgTmV1ZScsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iMiIgZmlsbD0iIzhBOEE4NSI+T0lMIE9OIExJTkVOLCAyMDI1PC90ZXh0PgoKICA8IS0tIFdvcmsgMDIsIGFzcGVjdCAzOjIgLS0+CiAgPHJlY3QgeD0iMzMwIiB5PSIyNTIiIHdpZHRoPSIzMTAiIGhlaWdodD0iMjA3IiBmaWxsPSJ1cmwoI2hnLXNsYXRlKSIvPgogIDxyZWN0IHg9IjMzMCIgeT0iMjUyIiB3aWR0aD0iMzEwIiBoZWlnaHQ9IjgzIiBmaWxsPSJ1cmwoI2hnLXNoZWVuKSIvPgogIDxwYXRoIGQ9Ik0zMzAgNTAyIEg2NDAiIHN0cm9rZT0iI0U4RTZFMSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iMzMwIiB5PSI1MjQiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdIZWx2ZXRpY2EgTmV1ZScsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgbGV0dGVyLXNwYWNpbmc9IjMiIGZpbGw9IiNBODVBM0EiPk5PLiAwMjwvdGV4dD4KICA8dGV4dCB4PSIzMzAiIHk9IjU0NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiMxQTFBMUEiPk5vcnRoZXJuIFdhbGw8L3RleHQ+CiAgPHRleHQgeD0iMzMwIiB5PSI1NjMiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdIZWx2ZXRpY2EgTmV1ZScsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iMiIgZmlsbD0iIzhBOEE4NSI+R0VMQVRJTiBTSUxWRVIgUFJJTlQsIDIwMjY8L3RleHQ+CgogIDwhLS0gV29yayAwMywgYXNwZWN0IDQ6NSAtLT4KICA8cmVjdCB4PSI3MTAiIHk9IjI1MiIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIyMjUiIGZpbGw9InVybCgjaGctdGVycmEpIi8+CiAgPHJlY3QgeD0iNzEwIiB5PSIyNTIiIHdpZHRoPSIxODAiIGhlaWdodD0iOTAiIGZpbGw9InVybCgjaGctc2hlZW4pIi8+CiAgPHBhdGggZD0iTTcxMCA1MDIgSDg5MCIgc3Ryb2tlPSIjRThFNkUxIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8dGV4dCB4PSI3MTAiIHk9IjUyNCIgZm9udC1mYW1pbHk9IidJbnRlcicsJ0hlbHZldGljYSBOZXVlJyxBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBsZXR0ZXItc3BhY2luZz0iMyIgZmlsbD0iI0E4NUEzQSI+Tk8uIDAzPC90ZXh0PgogIDx0ZXh0IHg9IjcxMCIgeT0iNTQ1IiBmb250LWZhbWlseT0iR2VvcmdpYSwnVGltZXMgTmV3IFJvbWFuJyxzZXJpZiIgZm9udC1zaXplPSIxNSIgZmlsbD0iIzFBMUExQSI+VGVycmEgRmlybWEgSUk8L3RleHQ+CiAgPHRleHQgeD0iNzEwIiB5PSI1NjMiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdIZWx2ZXRpY2EgTmV1ZScsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5IiBsZXR0ZXItc3BhY2luZz0iMiIgZmlsbD0iIzhBOEE4NSI+UElHTUVOVCBPTiBQQU5FTCwgMjAyNDwvdGV4dD4KCiAgPCEtLSBXb3JrIDA0LCBhc3BlY3QgMzoyLCBjbGlwcGVkIGF0IHJpZ2h0IGVkZ2UgdG8gc3VnZ2VzdCB0aGUgd2FsayBjb250aW51ZXMgLS0+CiAgPHJlY3QgeD0iOTYwIiB5PSIyNTIiIHdpZHRoPSIzMTAiIGhlaWdodD0iMjA3IiBmaWxsPSJ1cmwoI2hnLXNhbmQpIi8+CiAgPHJlY3QgeD0iOTYwIiB5PSIyNTIiIHdpZHRoPSIzMTAiIGhlaWdodD0iODMiIGZpbGw9InVybCgjaGctc2hlZW4pIi8+CiAgPHBhdGggZD0iTTk2MCA1MDIgSDEyMDAiIHN0cm9rZT0iI0U4RTZFMSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iOTYwIiB5PSI1MjQiIGZvbnQtZmFtaWx5PSInSW50ZXInLCdIZWx2ZXRpY2EgTmV1ZScsQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgbGV0dGVyLXNwYWNpbmc9IjMiIGZpbGw9IiNBODVBM0EiPk5PLiAwNDwvdGV4dD4KICA8dGV4dCB4PSI5NjAiIHk9IjU0NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsJ1RpbWVzIE5ldyBSb21hbicsc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiMxQTFBMUEiPlF1aWV0IEhvdXJzPC90ZXh0PgogIDx0ZXh0IHg9Ijk2MCIgeT0iNTYzIiBmb250LWZhbWlseT0iJ0ludGVyJywnSGVsdmV0aWNhIE5ldWUnLEFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgbGV0dGVyLXNwYWNpbmc9IjIiIGZpbGw9IiM4QThBODUiPkFSQ0hJVkFMIFBJR01FTlQsIDIwMjY8L3RleHQ+CgogIDwhLS0gU2Nyb2xsIHByb2dyZXNzIHJhaWwgLS0+CiAgPHRleHQgeD0iODAiIHk9IjYwMSIgZm9udC1mYW1pbHk9IidJbnRlcicsJ0hlbHZldGljYSBOZXVlJyxBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBsZXR0ZXItc3BhY2luZz0iMyIgZmlsbD0iIzhBOEE4NSI+MDEgLyAwODwvdGV4dD4KICA8cGF0aCBkPSJNMTcwIDU5NyBIMTAyMCIgc3Ryb2tlPSIjRThFNkUxIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8cGF0aCBkPSJNMTcwIDU5NyBIMzg1IiBzdHJva2U9IiMxQTFBMUEiIHN0cm9rZS13aWR0aD0iMSIvPgogIDxyZWN0IHg9IjM4MyIgeT0iNTk1IiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSIjQTg1QTNBIi8+CgogIDwhLS0gV2FsayBjb250cm9scyAtLT4KICA8cmVjdCB4PSIxMDQ4IiB5PSI1ODAiIHdpZHRoPSIzNCIgaGVpZ2h0PSIzNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRThFNkUxIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8cGF0aCBkPSJNMTA3MSA1OTcgSDEwNTkgTTEwNjMgNTkyIEwxMDU4IDU5NyBMMTA2MyA2MDIiIHN0cm9rZT0iIzhBOEE4NSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIi8+CiAgPHJlY3QgeD0iMTA5MCIgeT0iNTgwIiB3aWR0aD0iMzQiIGhlaWdodD0iMzQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzFBMUExQSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHBhdGggZD0iTTEwOTkgNTk3IEgxMTExIE0xMTA3IDU5MiBMMTExMiA1OTcgTDExMDcgNjAyIiBzdHJva2U9IiMxQTFBMUEiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="hg-stone" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#C9C4BA"/>
+      <stop offset="1" stop-color="#8F8A7E"/>
+    </linearGradient>
+    <linearGradient id="hg-slate" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#8E969E"/>
+      <stop offset="1" stop-color="#5A6068"/>
+    </linearGradient>
+    <linearGradient id="hg-terra" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#B86E4E"/>
+      <stop offset="1" stop-color="#7E4630"/>
+    </linearGradient>
+    <linearGradient id="hg-sand" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#D9CFBE"/>
+      <stop offset="1" stop-color="#B0A48E"/>
+    </linearGradient>
+    <linearGradient id="hg-sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FCFCFA" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FCFCFA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Gallery wall -->
+  <rect width="1200" height="630" fill="#FCFCFA"/>
+
+  <!-- Nav -->
+  <text x="80" y="52" font-family="Georgia,'Times New Roman',serif" font-size="22" font-weight="400" letter-spacing="1" fill="#1A1A1A">White Room</text>
+  <text x="1120" y="50" text-anchor="end" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="11" letter-spacing="3" fill="#8A8A85">WORKS&#160;&#160;&#160;&#160;EXHIBITIONS&#160;&#160;&#160;&#160;VISIT</text>
+  <rect x="1146" y="41" width="4" height="4" fill="#A85A3A"/>
+  <path d="M0 80 H1200" stroke="#E8E6E1" stroke-width="1"/>
+
+  <!-- Title block -->
+  <text x="80" y="132" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="11" letter-spacing="4" fill="#A85A3A">NO. 01 &#8212; LAYOUT STYLE</text>
+  <text x="80" y="188" font-family="Georgia,'Times New Roman',serif" font-size="54" font-weight="400" letter-spacing="1" fill="#1A1A1A">Horizontal Gallery</text>
+  <text x="80" y="218" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="13" letter-spacing="2" fill="#8A8A85">&#27178;&#28378;&#30011;&#24266; &#8212; WHITE CUBE, CURATED SCROLL</text>
+  <text x="1120" y="188" text-anchor="end" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="11" letter-spacing="3" fill="#8A8A85">SNAP-X &#183; MANDATORY</text>
+
+  <!-- Exhibition strip: borderless works, no radius, no shadow -->
+  <!-- Work 01, aspect 4:5 -->
+  <rect x="80" y="252" width="180" height="225" fill="url(#hg-stone)"/>
+  <rect x="80" y="252" width="180" height="90" fill="url(#hg-sheen)"/>
+  <path d="M80 502 H260" stroke="#E8E6E1" stroke-width="1"/>
+  <text x="80" y="524" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="3" fill="#A85A3A">NO. 01</text>
+  <text x="80" y="545" font-family="Georgia,'Times New Roman',serif" font-size="15" fill="#1A1A1A">Still Field</text>
+  <text x="80" y="563" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="9" letter-spacing="2" fill="#8A8A85">OIL ON LINEN, 2025</text>
+
+  <!-- Work 02, aspect 3:2 -->
+  <rect x="330" y="252" width="310" height="207" fill="url(#hg-slate)"/>
+  <rect x="330" y="252" width="310" height="83" fill="url(#hg-sheen)"/>
+  <path d="M330 502 H640" stroke="#E8E6E1" stroke-width="1"/>
+  <text x="330" y="524" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="3" fill="#A85A3A">NO. 02</text>
+  <text x="330" y="545" font-family="Georgia,'Times New Roman',serif" font-size="15" fill="#1A1A1A">Northern Wall</text>
+  <text x="330" y="563" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="9" letter-spacing="2" fill="#8A8A85">GELATIN SILVER PRINT, 2026</text>
+
+  <!-- Work 03, aspect 4:5 -->
+  <rect x="710" y="252" width="180" height="225" fill="url(#hg-terra)"/>
+  <rect x="710" y="252" width="180" height="90" fill="url(#hg-sheen)"/>
+  <path d="M710 502 H890" stroke="#E8E6E1" stroke-width="1"/>
+  <text x="710" y="524" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="3" fill="#A85A3A">NO. 03</text>
+  <text x="710" y="545" font-family="Georgia,'Times New Roman',serif" font-size="15" fill="#1A1A1A">Terra Firma II</text>
+  <text x="710" y="563" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="9" letter-spacing="2" fill="#8A8A85">PIGMENT ON PANEL, 2024</text>
+
+  <!-- Work 04, aspect 3:2, clipped at right edge to suggest the walk continues -->
+  <rect x="960" y="252" width="310" height="207" fill="url(#hg-sand)"/>
+  <rect x="960" y="252" width="310" height="83" fill="url(#hg-sheen)"/>
+  <path d="M960 502 H1200" stroke="#E8E6E1" stroke-width="1"/>
+  <text x="960" y="524" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="3" fill="#A85A3A">NO. 04</text>
+  <text x="960" y="545" font-family="Georgia,'Times New Roman',serif" font-size="15" fill="#1A1A1A">Quiet Hours</text>
+  <text x="960" y="563" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="9" letter-spacing="2" fill="#8A8A85">ARCHIVAL PIGMENT, 2026</text>
+
+  <!-- Scroll progress rail -->
+  <text x="80" y="601" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="11" letter-spacing="3" fill="#8A8A85">01 / 08</text>
+  <path d="M170 597 H1020" stroke="#E8E6E1" stroke-width="1"/>
+  <path d="M170 597 H385" stroke="#1A1A1A" stroke-width="1"/>
+  <rect x="383" y="595" width="4" height="4" fill="#A85A3A"/>
+
+  <!-- Walk controls -->
+  <rect x="1048" y="580" width="34" height="34" fill="none" stroke="#E8E6E1" stroke-width="1"/>
+  <path d="M1071 597 H1059 M1063 592 L1058 597 L1063 602" stroke="#8A8A85" stroke-width="1" fill="none"/>
+  <rect x="1090" y="580" width="34" height="34" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+  <path d="M1099 597 H1111 M1107 592 L1112 597 L1107 602" stroke="#1A1A1A" stroke-width="1" fill="none"/>
+</svg>

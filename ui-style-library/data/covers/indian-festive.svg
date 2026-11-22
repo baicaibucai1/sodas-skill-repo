@@ -1,1 +1,57 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDYzMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNjMwIiBmaWxsPSIjZmZmOGU3Ii8+CiAgPGcgdHJhbnNmb3JtPSJzY2FsZSgxLjUsIDEuNTc1KSI+CiAgPCEtLSBPcm5hdGUgdG9wIGJvcmRlciAtLT4KICA8cGF0aCBkPSJNMCwzMCBRNTAsMCAxMDAsMzAgUTE1MCwwIDIwMCwzMCBRMjUwLDAgMzAwLDMwIFEzNTAsMCA0MDAsMzAgUTQ1MCwwIDUwMCwzMCBRNTUwLDAgNjAwLDMwIFE2NTAsMCA3MDAsMzAgUTc1MCwwIDgwMCwzMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDRhZjM3IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNMCw0MCBRNTAsMTAgMTAwLDQwIFExNTAsMTAgMjAwLDQwIFEyNTAsMTAgMzAwLDQwIFEzNTAsMTAgNDAwLDQwIFE0NTAsMTAgNTAwLDQwIFE1NTAsMTAgNjAwLDQwIFE2NTAsMTAgNzAwLDQwIFE3NTAsMTAgODAwLDQwIiBmaWxsPSJub25lIiBzdHJva2U9IiNlNjM5NDYiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPCEtLSBPcm5hdGUgYm90dG9tIGJvcmRlciAtLT4KICA8cGF0aCBkPSJNMCwzNjAgUTUwLDM5MCAxMDAsMzYwIFExNTAsMzkwIDIwMCwzNjAgUTI1MCwzOTAgMzAwLDM2MCBRMzUwLDM5MCA0MDAsMzYwIFE0NTAsMzkwIDUwMCwzNjAgUTU1MCwzOTAgNjAwLDM2MCBRNjUwLDM5MCA3MDAsMzYwIFE3NTAsMzkwIDgwMCwzNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q0YWYzNyIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPHBhdGggZD0iTTAsMzUwIFE1MCwzODAgMTAwLDM1MCBRMTUwLDM4MCAyMDAsMzUwIFEyNTAsMzgwIDMwMCwzNTAgUTM1MCwzODAgNDAwLDM1MCBRNDUwLDM4MCA1MDAsMzUwIFE1NTAsMzgwIDYwMCwzNTAgUTY1MCwzODAgNzAwLDM1MCBRNzUwLDM4MCA4MDAsMzUwIiBmaWxsPSJub25lIiBzdHJva2U9IiNlNjM5NDYiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPCEtLSBNYW5kYWxhIGNlbnRlciAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0MDAsMjAwKSI+CiAgICA8IS0tIE91dGVyIHBldGFscyAtLT4KICAgIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2U2Mzk0NiIgc3Ryb2tlLXdpZHRoPSIxLjUiPgogICAgICA8ZWxsaXBzZSByeD0iMTIwIiByeT0iMzAiIHRyYW5zZm9ybT0icm90YXRlKDApIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSIxMjAiIHJ5PSIzMCIgdHJhbnNmb3JtPSJyb3RhdGUoMzApIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSIxMjAiIHJ5PSIzMCIgdHJhbnNmb3JtPSJyb3RhdGUoNjApIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSIxMjAiIHJ5PSIzMCIgdHJhbnNmb3JtPSJyb3RhdGUoOTApIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSIxMjAiIHJ5PSIzMCIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgogICAgICA8ZWxsaXBzZSByeD0iMTIwIiByeT0iMzAiIHRyYW5zZm9ybT0icm90YXRlKDE1MCkiLz4KICAgIDwvZz4KICAgIDwhLS0gTWlkZGxlIHBldGFscyAtLT4KICAgIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmOWYxYyIgc3Ryb2tlLXdpZHRoPSIxLjUiPgogICAgICA8ZWxsaXBzZSByeD0iODAiIHJ5PSIyMCIgdHJhbnNmb3JtPSJyb3RhdGUoMTUpIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSI4MCIgcnk9IjIwIiB0cmFuc2Zvcm09InJvdGF0ZSg0NSkiLz4KICAgICAgPGVsbGlwc2Ugcng9IjgwIiByeT0iMjAiIHRyYW5zZm9ybT0icm90YXRlKDc1KSIvPgogICAgICA8ZWxsaXBzZSByeD0iODAiIHJ5PSIyMCIgdHJhbnNmb3JtPSJyb3RhdGUoMTA1KSIvPgogICAgICA8ZWxsaXBzZSByeD0iODAiIHJ5PSIyMCIgdHJhbnNmb3JtPSJyb3RhdGUoMTM1KSIvPgogICAgICA8ZWxsaXBzZSByeD0iODAiIHJ5PSIyMCIgdHJhbnNmb3JtPSJyb3RhdGUoMTY1KSIvPgogICAgPC9nPgogICAgPCEtLSBJbm5lciBwZXRhbHMgLS0+CiAgICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiNkNGFmMzciIHN0cm9rZS13aWR0aD0iMS41Ij4KICAgICAgPGVsbGlwc2Ugcng9IjQ1IiByeT0iMTIiIHRyYW5zZm9ybT0icm90YXRlKDApIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSI0NSIgcnk9IjEyIiB0cmFuc2Zvcm09InJvdGF0ZSgzMCkiLz4KICAgICAgPGVsbGlwc2Ugcng9IjQ1IiByeT0iMTIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgICA8ZWxsaXBzZSByeD0iNDUiIHJ5PSIxMiIgdHJhbnNmb3JtPSJyb3RhdGUoOTApIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSI0NSIgcnk9IjEyIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgICAgIDxlbGxpcHNlIHJ4PSI0NSIgcnk9IjEyIiB0cmFuc2Zvcm09InJvdGF0ZSgxNTApIi8+CiAgICA8L2c+CiAgICA8IS0tIENlbnRlciBjaXJjbGVzIC0tPgogICAgPGNpcmNsZSByPSIyMCIgZmlsbD0iI2U2Mzk0NiIgb3BhY2l0eT0iMC4zIi8+CiAgICA8Y2lyY2xlIHI9IjEyIiBmaWxsPSIjZmY5ZjFjIiBvcGFjaXR5PSIwLjQiLz4KICAgIDxjaXJjbGUgcj0iNSIgZmlsbD0iI2Q0YWYzNyIvPgogIDwvZz4KICA8IS0tIENvcm5lciBwYWlzbGV5IG1vdGlmcyAtLT4KICA8cGF0aCBkPSJNNTAsODAgUTMwLDEyMCA1MCwxNjAgUTgwLDEyMCA1MCw4MCBaIiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGFmMzciIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHBhdGggZD0iTTc1MCw4MCBRNzcwLDEyMCA3NTAsMTYwIFE3MjAsMTIwIDc1MCw4MCBaIiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGFmMzciIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHBhdGggZD0iTTUwLDI0MCBRMzAsMjgwIDUwLDMyMCBRODAsMjgwIDUwLDI0MCBaIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjlmMWMiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgPHBhdGggZD0iTTc1MCwyNDAgUTc3MCwyODAgNzUwLDMyMCBRNzIwLDI4MCA3NTAsMjQwIFoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmOWYxYyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8IS0tIERvdHMgYWNjZW50cyAtLT4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSI3MCIgcj0iMyIgZmlsbD0iI2U2Mzk0NiIvPgogIDxjaXJjbGUgY3g9IjcwMCIgY3k9IjcwIiByPSIzIiBmaWxsPSIjZTYzOTQ2Ii8+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMzMwIiByPSIzIiBmaWxsPSIjZTYzOTQ2Ii8+CiAgPGNpcmNsZSBjeD0iNzAwIiBjeT0iMzMwIiByPSIzIiBmaWxsPSIjZTYzOTQ2Ii8+CiAgPCEtLSBUaXRsZSAtLT4KICA8dGV4dCB4PSI0MDAiIHk9IjM4NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjE4IiBmaWxsPSIjZTYzOTQ2IiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjIiPkluZGlhbiBGZXN0aXZlPC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fff8e7"/>
+  <g transform="scale(1.5, 1.575)">
+  <!-- Ornate top border -->
+  <path d="M0,30 Q50,0 100,30 Q150,0 200,30 Q250,0 300,30 Q350,0 400,30 Q450,0 500,30 Q550,0 600,30 Q650,0 700,30 Q750,0 800,30" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <path d="M0,40 Q50,10 100,40 Q150,10 200,40 Q250,10 300,40 Q350,10 400,40 Q450,10 500,40 Q550,10 600,40 Q650,10 700,40 Q750,10 800,40" fill="none" stroke="#e63946" stroke-width="1.5"/>
+  <!-- Ornate bottom border -->
+  <path d="M0,360 Q50,390 100,360 Q150,390 200,360 Q250,390 300,360 Q350,390 400,360 Q450,390 500,360 Q550,390 600,360 Q650,390 700,360 Q750,390 800,360" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <path d="M0,350 Q50,380 100,350 Q150,380 200,350 Q250,380 300,350 Q350,380 400,350 Q450,380 500,350 Q550,380 600,350 Q650,380 700,350 Q750,380 800,350" fill="none" stroke="#e63946" stroke-width="1.5"/>
+  <!-- Mandala center -->
+  <g transform="translate(400,200)">
+    <!-- Outer petals -->
+    <g fill="none" stroke="#e63946" stroke-width="1.5">
+      <ellipse rx="120" ry="30" transform="rotate(0)"/>
+      <ellipse rx="120" ry="30" transform="rotate(30)"/>
+      <ellipse rx="120" ry="30" transform="rotate(60)"/>
+      <ellipse rx="120" ry="30" transform="rotate(90)"/>
+      <ellipse rx="120" ry="30" transform="rotate(120)"/>
+      <ellipse rx="120" ry="30" transform="rotate(150)"/>
+    </g>
+    <!-- Middle petals -->
+    <g fill="none" stroke="#ff9f1c" stroke-width="1.5">
+      <ellipse rx="80" ry="20" transform="rotate(15)"/>
+      <ellipse rx="80" ry="20" transform="rotate(45)"/>
+      <ellipse rx="80" ry="20" transform="rotate(75)"/>
+      <ellipse rx="80" ry="20" transform="rotate(105)"/>
+      <ellipse rx="80" ry="20" transform="rotate(135)"/>
+      <ellipse rx="80" ry="20" transform="rotate(165)"/>
+    </g>
+    <!-- Inner petals -->
+    <g fill="none" stroke="#d4af37" stroke-width="1.5">
+      <ellipse rx="45" ry="12" transform="rotate(0)"/>
+      <ellipse rx="45" ry="12" transform="rotate(30)"/>
+      <ellipse rx="45" ry="12" transform="rotate(60)"/>
+      <ellipse rx="45" ry="12" transform="rotate(90)"/>
+      <ellipse rx="45" ry="12" transform="rotate(120)"/>
+      <ellipse rx="45" ry="12" transform="rotate(150)"/>
+    </g>
+    <!-- Center circles -->
+    <circle r="20" fill="#e63946" opacity="0.3"/>
+    <circle r="12" fill="#ff9f1c" opacity="0.4"/>
+    <circle r="5" fill="#d4af37"/>
+  </g>
+  <!-- Corner paisley motifs -->
+  <path d="M50,80 Q30,120 50,160 Q80,120 50,80 Z" fill="none" stroke="#d4af37" stroke-width="1.5"/>
+  <path d="M750,80 Q770,120 750,160 Q720,120 750,80 Z" fill="none" stroke="#d4af37" stroke-width="1.5"/>
+  <path d="M50,240 Q30,280 50,320 Q80,280 50,240 Z" fill="none" stroke="#ff9f1c" stroke-width="1.5"/>
+  <path d="M750,240 Q770,280 750,320 Q720,280 750,240 Z" fill="none" stroke="#ff9f1c" stroke-width="1.5"/>
+  <!-- Dots accents -->
+  <circle cx="100" cy="70" r="3" fill="#e63946"/>
+  <circle cx="700" cy="70" r="3" fill="#e63946"/>
+  <circle cx="100" cy="330" r="3" fill="#e63946"/>
+  <circle cx="700" cy="330" r="3" fill="#e63946"/>
+  <!-- Title -->
+  <text x="400" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#e63946" font-weight="bold" letter-spacing="2">Indian Festive</text>
+  </g>
+</svg>
