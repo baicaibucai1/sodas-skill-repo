@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>风格参考画廊 · 界面原型</title>
+<style>
+:root{color-scheme:light;--paper:#fbfbf9;--ink:#14161a;--muted:#6b7075;--faint:#9aa0a5;--line:#e4e5e2;--card:#fff;--soft:#f3f4f1;--brand:#1f4bd8;--brand-soft:#eef2ff;--radius:12px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:14px/1.6 system-ui,-apple-system,'Segoe UI','Microsoft YaHei',sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3,p,figure{margin:0}img{display:block;max-width:100%}button,input,select{font:inherit;color:inherit}button{cursor:pointer}a{color:inherit}
+:focus-visible{outline:2px solid var(--brand);outline-offset:3px;border-radius:4px}
+.wrap{width:min(100% - 48px,1280px);margin-inline:auto}
+.top{position:sticky;top:0;z-index:20;background:rgba(251,251,249,.9);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;gap:24px;height:62px}
+.brand{display:flex;align-items:center;gap:9px;font-weight:700;letter-spacing:-.02em;text-decoration:none}
+.brand i{width:22px;height:22px;border-radius:6px;background:var(--ink);display:grid;place-items:center;color:#fff;font-style:normal;font-size:11px;font-weight:700}
+.nav nav{display:flex;gap:4px;margin-left:8px}
+.nav nav a{padding:6px 9px;border-radius:7px;text-decoration:none;color:var(--muted);font-size:13px}
+.nav nav a:hover{background:var(--soft);color:var(--ink)}
+.nav nav a[aria-current=page]{color:var(--ink);font-weight:600;background:var(--soft)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:8px}
+.count-pill{font:11px/1 ui-monospace,monospace;border:1px solid var(--line);border-radius:999px;padding:6px 9px;color:var(--muted);background:var(--card)}
+.hero{padding:52px 0 8px;display:flex;justify-content:space-between;align-items:flex-end;gap:32px}
+.eyebrow{font:11px/1 ui-monospace,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);margin-bottom:14px}
+.hero h1{font-size:clamp(30px,4.6vw,50px);line-height:1.04;letter-spacing:-.035em;font-weight:700;max-width:15em}
+.hero p{color:var(--muted);max-width:34em;margin-top:14px;font-size:14.5px}
+.hero-meta{flex:none;text-align:right;font:11px/1.7 ui-monospace,monospace;color:var(--faint)}
+.hero-meta b{display:block;font:600 22px/1.2 ui-monospace,monospace;color:var(--ink)}
+.toolbar{position:sticky;top:62px;z-index:15;background:rgba(251,251,249,.94);backdrop-filter:blur(12px);padding:16px 0 10px;border-bottom:1px solid var(--line);margin-top:24px}
+.search-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.search{position:relative;flex:1 1 320px;min-width:220px}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:var(--faint);fill:none;stroke-width:1.8}
+.search input{width:100%;height:42px;padding:0 38px 0 36px;border:1px solid var(--line);border-radius:10px;background:var(--card);font-size:14px}
+.search kbd{position:absolute;right:10px;top:50%;transform:translateY(-50%);font:11px/1 ui-monospace,monospace;color:var(--faint);border:1px solid var(--line);border-radius:5px;padding:3px 5px;background:var(--soft)}
+.type-tabs{display:flex;gap:4px;background:var(--soft);border-radius:10px;padding:3px;flex-wrap:wrap}
+.type-tabs button{border:0;background:transparent;border-radius:8px;padding:8px 12px;font-size:13px;color:var(--muted);white-space:nowrap}
+.type-tabs button[aria-pressed=true]{background:var(--card);color:var(--ink);font-weight:600;box-shadow:0 1px 2px rgb(20 22 26 / .08)}
+.type-tabs span{font:11px/1 ui-monospace,monospace;color:var(--faint);margin-left:5px}
+.filters{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:12px}
+.filters>.label{font-size:12px;color:var(--faint);margin-right:2px}
+.chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:6px 11px;font-size:12.5px;color:var(--muted);display:inline-flex;gap:6px;align-items:center}
+.chip:hover{border-color:#c9ccc7;color:var(--ink)}
+.chip[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:#fff}
+.chip i{font-style:normal;font:10px/1 ui-monospace,monospace;opacity:.75}
+.tag-panel{margin-top:12px;padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--card);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.tag-panel[hidden]{display:none}
+.tag-panel .label{font-size:12px;color:var(--faint);width:100%;margin-bottom:2px}
+.chip.tag[aria-pressed=true]{background:var(--brand-soft);border-color:#c3d0fb;color:#173fae}
+.results-bar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:22px 0 14px;flex-wrap:wrap}
+.results-bar strong{font-size:14px}
+.results-bar strong span{font:11px/1 ui-monospace,monospace;color:var(--faint);margin-left:8px}
+.results-bar .right{display:flex;gap:8px;align-items:center;font-size:12.5px;color:var(--muted)}
+.results-bar select{height:32px;border:1px solid var(--line);border-radius:8px;background:var(--card);padding:0 8px;font-size:12.5px}
+.clear-all{border:0;background:transparent;color:var(--brand);font-size:12.5px;padding:4px 6px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px;padding-bottom:20px}
+.card{border:1px solid var(--line);border-radius:var(--radius);background:var(--card);overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .16s,transform .16s,border-color .16s}
+.card:hover{box-shadow:0 10px 28px rgb(20 22 26 / .09);transform:translateY(-2px);border-color:#d6d8d3}
+.thumb{position:relative;display:block;width:100%;aspect-ratio:1200/630;background:var(--soft);border:0;padding:0;overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
+.card:hover .thumb img{transform:scale(1.02)}
+.thumb .type{position:absolute;left:10px;top:10px;font:10px/1 ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase;background:rgba(255,255,255,.92);border:1px solid var(--line);border-radius:5px;padding:4px 6px;color:var(--muted)}
+.fav{position:absolute;right:8px;top:8px;width:30px;height:30px;border-radius:50%;border:1px solid var(--line);background:rgba(255,255,255,.94);display:grid;place-items:center;color:var(--faint)}
+.fav svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.7}
+.fav[aria-pressed=true]{color:#c2860b;background:#fff8e8;border-color:#f0d7a4}
+.fav[aria-pressed=true] svg{fill:currentColor}
+.card-body{padding:14px 15px 15px;display:flex;flex-direction:column;gap:6px;flex:1}
+.card-title{display:flex;align-items:baseline;gap:8px;justify-content:space-between}
+.card-title h3{font-size:15.5px;font-weight:650;letter-spacing:-.01em}
+.card-title em{font:10.5px/1.4 ui-monospace,monospace;color:var(--faint);font-style:normal;text-align:right}
+.card-body p{font-size:12.8px;color:var(--muted);line-height:1.62;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:auto;padding-top:8px}
+.card-tags span{font:10.5px/1 ui-monospace,monospace;color:var(--muted);background:var(--soft);border-radius:5px;padding:4px 6px}
+.card-actions{display:flex;gap:6px;margin-top:10px}
+.detail{border:1px solid var(--line);background:var(--card);border-radius:8px;padding:7px 11px;font-size:12.5px;flex:1;text-decoration:none;text-align:center}
+.detail:hover{background:var(--soft)}
+.copy{width:34px;border:1px solid var(--line);background:var(--card);border-radius:8px;display:grid;place-items:center;color:var(--muted)}
+.copy:hover{background:var(--soft);color:var(--ink)}
+.copy svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:1.7}
+.empty{grid-column:1/-1;text-align:center;padding:70px 20px;border:1px dashed var(--line);border-radius:var(--radius);color:var(--muted)}
+.empty strong{display:block;color:var(--ink);font-size:15px;margin-bottom:6px}
+.more{display:flex;justify-content:center;padding:8px 0 60px}
+.more button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:11px 22px;font-size:13px}
+.more button:hover{background:var(--soft)}
+footer.site{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--faint);font-size:12px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer.site a{text-decoration:underline;text-underline-offset:3px}
+dialog.sheet{position:fixed;inset:0 0 0 auto;margin:0;width:min(460px,100%);max-width:none;height:100%;max-height:none;border:0;border-left:1px solid var(--line);padding:0;background:var(--card);color:var(--ink)}
+dialog.sheet::backdrop{background:rgb(20 22 26 / .42)}
+.sheet-inner{height:100%;overflow:auto;display:flex;flex-direction:column}
+.sheet-head{position:sticky;top:0;background:var(--card);display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 18px;border-bottom:1px solid var(--line);z-index:2}
+.sheet-head h2{font-size:15px}
+.icon-btn{width:30px;height:30px;border:1px solid var(--line);background:var(--card);border-radius:8px;display:grid;place-items:center}
+.sheet-body{padding:18px;display:flex;flex-direction:column;gap:16px}
+.sheet-cover{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--soft)}
+.sheet-title h3{font-size:22px;letter-spacing:-.02em}
+.sheet-title .en{font:11px/1.6 ui-monospace,monospace;color:var(--faint);text-transform:uppercase;letter-spacing:.08em}
+.sheet-body p.desc{font-size:13.5px;color:var(--muted)}
+.meta-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;border-block:1px solid var(--line);padding:14px 0}
+.meta-grid dt{font:10.5px/1.4 ui-monospace,monospace;color:var(--faint);text-transform:uppercase;letter-spacing:.08em}
+.meta-grid dd{margin:3px 0 0;font-size:13px}
+.swatches{display:flex;gap:8px;flex-wrap:wrap}
+.swatch{margin:0;width:74px}
+.swatch i{display:block;height:34px;border-radius:8px;border:1px solid rgb(20 22 26 / .12)}
+.swatch figcaption{margin-top:4px;font:10.5px/1.4 ui-monospace,monospace;color:var(--muted)}
+.sheet-body h4{font:10.5px/1.4 ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
+.sheet-actions{display:flex;gap:8px}
+.sheet-actions button{flex:1;border:1px solid var(--line);background:var(--card);border-radius:9px;padding:10px;font-size:13px}
+.sheet-actions button.primary{background:var(--ink);border-color:var(--ink);color:#fff}
+.sheet-actions button:hover{opacity:.9}
+.note{background:var(--soft);border-radius:9px;padding:11px 12px;font-size:12px;color:var(--muted);line-height:1.6}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:var(--ink);color:#fff;border-radius:9px;padding:10px 16px;font-size:13px;z-index:50;box-shadow:0 10px 24px rgb(20 22 26 / .25)}
+.toast[hidden]{display:none}
+@media(max-width:820px){.hero{flex-direction:column;align-items:flex-start;padding-top:34px}.hero-meta{display:none}.nav nav{display:none}.wrap{width:calc(100% - 32px)}.toolbar{top:62px}}
+@media(max-width:560px){.grid{grid-template-columns:1fr}.meta-grid{grid-template-columns:1fr}.search kbd{display:none}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap nav"><a class="brand" href="#top"><i>S</i>风格参考画廊</a><nav aria-label="主导航"><a href="#all" aria-current="page">设计风格</a><a href="#all">动效</a><a href="#all">字体配对</a><a href="#about">关于</a></nav><div class="nav-right"><span class="count-pill" id="fav-count">收藏 0</span></div></div></header>
+<main class="wrap" id="top">
+  <div class="hero"><div><p class="eyebrow">Style reference / prototype</p><h1>网页与 UI 设计风格</h1><p>按场景和类型浏览视觉方向。选定后把风格名称交给 Agent，它会读取对应规范，而不是凭空猜一个「AI 默认长相」。</p></div><div class="hero-meta"><b id="hero-total">151</b>种风格索引<br>离线原型 · 封面已本地化</div></div>
+  <div class="toolbar">
+    <div class="search-row">
+      <div class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="搜索风格名称、说明或标签" aria-label="搜索风格" autocomplete="off"><kbd>/</kbd></div>
+      <div class="type-tabs" id="types" role="group" aria-label="风格类型"><button data-type="all" aria-pressed="true">全部 <span data-count="all">151</span></button><button data-type="visual" aria-pressed="false">视觉风格 <span data-count="visual">133</span></button><button data-type="layout" aria-pressed="false">布局模式 <span data-count="layout">18</span></button></div>
+    </div>
+    <div class="filters" role="group" aria-label="场景筛选"><span class="label">场景</span><span id="cats"></span></div>
+    <div class="filters"><span class="label">标签</span><div id="tags" style="display:flex;gap:8px;flex-wrap:wrap"></div><button class="chip" id="fav-filter" aria-pressed="false">收藏 <i data-fav-inline>0</i></button></div>
+  </div>
+  <div class="results-bar"><strong><span id="result-count">151 个结果</span></strong><div class="right"><button class="clear-all" id="clear" hidden>清除筛选</button><label>排序 <select id="sort"><option value="recommend">推荐</option><option value="name">名称 A–Z</option></select></label></div></div>
+  <div class="grid" id="grid" aria-live="polite">
+<!--__STATIC_CARDS__-->
+  </div>
+  <div class="more"><button id="load-more" hidden>加载更多</button></div>
+<noscript><div style="max-width:1280px;margin:0 auto 16px;padding:12px 14px;border:1px solid #e4e5e2;border-radius:10px;background:#f3f4f1;color:#4a4f54;font-size:13px">当前环境未运行页面脚本，只能显示前 24 种风格与静态封面；搜索、筛选、收藏和详情需要脚本。若打开后仍是空白，请改用随包的 <strong>gallery-standalone.html</strong>（单文件、封面已内嵌）。</div></noscript>
+</main>
+<footer class="site wrap"><span>界面原型，仅用于风格参考。风格条目与封面来自 <a href="https://www.stylekit.top/zh/styles" target="_blank" rel="noreferrer">StyleKit</a>（MIT）。</span><span id="about">未连接上游 API；数据快照见 data/catalog.json。</span></footer>
+<dialog class="sheet" id="sheet" aria-labelledby="sheet-title"><div class="sheet-inner"><div class="sheet-head"><h2 id="sheet-title">风格详情</h2><button class="icon-btn" id="sheet-close" aria-label="关闭详情">✕</button></div><div class="sheet-body" id="sheet-body"></div></div></dialog>
+<div class="toast" id="toast" role="status" hidden></div>
+<script>
+const DATA = /*__CATALOG__*/;
+const CATEGORIES = {expressive:'创意表达',minimal:'极简',modern:'现代',retro:'复古'};
+const TAGS = {'anime-aesthetic':'动漫', 'brand-inspired':'品牌衍生', colorful:'多彩', 'dark-theme':'深色', 'game-ui':'游戏界面', geometric:'几何', glassmorphic:'玻璃拟态', gradient:'渐变', 'hand-drawn':'手绘', 'high-contrast':'高对比', responsive:'响应式', retro:'复古', 'texture-heavy':'强质感'};
+const $ = s => document.querySelector(s);
+const state = {q:'', type:'all', category:'all', tags:new Set(), favOnly:false, sort:'recommend', limit:24};
+let favs = new Set();
+try { favs = new Set(JSON.parse(localStorage.getItem('gallery-favs') || '[]')); } catch {}
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const styleUrl = slug => `https://www.stylekit.top/zh/styles/${slug}`;
+function persistFavs(){ try { localStorage.setItem('gallery-favs', JSON.stringify([...favs])); } catch {} paintFavCount(); }
+function paintFavCount(){ $('#fav-count').textContent = `收藏 ${favs.size}`; document.querySelectorAll('[data-fav-inline]').forEach(el => el.textContent = favs.size); }
+function matches(s){
+  if (state.type !== 'all' && s.styleType !== state.type) return false;
+  if (state.category !== 'all' && s.category !== state.category) return false;
+  if (state.favOnly && !favs.has(s.slug)) return false;
+  for (const t of state.tags) if (!(s.tags||[]).includes(t)) return false;
+  if (!state.q) return true;
+  const hay = [s.name, s.nameEn, s.description, s.category, ...(s.tags||[])].join(' ').toLowerCase();
+  return state.q.toLowerCase().split(/\s+/).filter(Boolean).every(w => hay.includes(w));
+}
+function filtered(){
+  const list = DATA.styles.filter(matches);
+  if (state.sort === 'name') list.sort((a,b) => a.name.localeCompare(b.name,'zh-Hans-CN'));
+  return list;
+}
+function card(s){
+  const fav = favs.has(s.slug);
+  const tags = [...(s.tags||[])].slice(0,3).map(t => `<span>${esc(TAGS[t]||t)}</span>`).join('');
+  return `<article class="card" data-slug="${esc(s.slug)}">
+    <button class="thumb" type="button" data-open="${esc(s.slug)}" aria-label="查看 ${esc(s.name)} 详情">
+      <img src="data/covers/${esc(s.slug)}.svg" alt="${esc(s.name)} 风格封面" loading="lazy" width="1200" height="630">
+      <span class="type">${s.styleType === 'layout' ? 'layout' : 'visual'}</span>
+    </button>
+    <button class="fav" type="button" data-fav="${esc(s.slug)}" aria-pressed="${fav}" aria-label="${fav?'取消收藏':'收藏'} ${esc(s.name)}"><svg viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg></button>
+    <div class="card-body"><div class="card-title"><h3>${esc(s.name)}</h3><em>${esc(s.nameEn)}</em></div>
+      <p>${esc(s.description)}</p><div class="card-tags">${tags}</div>
+      <div class="card-actions"><button class="detail" type="button" data-open="${esc(s.slug)}">查看详情</button><button class="copy" type="button" data-copy="${esc(s.slug)}" aria-label="复制风格指令" title="复制交给 Agent 的风格指令"><svg viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"/></svg></button></div>
+    </div></article>`;
+}
+function render(){
+  const list = filtered();
+  $('#result-count').textContent = `${list.length} 个结果`;
+  $('#hero-total').textContent = DATA.styles.length;
+  document.querySelector('[data-count=all]').textContent = DATA.styles.length;
+  document.querySelector('[data-count=visual]').textContent = DATA.styles.filter(s => s.styleType === 'visual').length;
+  document.querySelector('[data-count=layout]').textContent = DATA.styles.filter(s => s.styleType === 'layout').length;
+  const shown = list.slice(0, state.limit);
+  $('#grid').innerHTML = shown.length ? shown.map(card).join('') : `<div class="empty"><strong>没有找到匹配的风格</strong>换个关键词，或清除筛选后再试。</div>`;
+  const more = $('#load-more');
+  more.hidden = list.length <= state.limit;
+  more.textContent = `加载更多（剩余 ${list.length - state.limit}）`;
+  $('#clear').hidden = !(state.q || state.type !== 'all' || state.category !== 'all' || state.tags.size || state.favOnly);
+  paintFavCount();
+}
+function toast(msg){ const t = $('#toast'); t.textContent = msg; t.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => t.hidden = true, 2200); }
+function instruction(s){ return `使用 UI 风格「${s.name}」（StyleKit slug: ${s.slug}）为这个项目实现界面。保留该风格的色彩、字体、间距和组件特征，先读取对应规范再写代码。`; }
+async function copyText(text){ try { await navigator.clipboard.writeText(text); return true; } catch { return false; } }
+function openSheet(slug){
+  const s = DATA.styles.find(x => x.slug === slug); if (!s) return;
+  const accents = (s.colors?.accent || []).slice(0,4);
+  const sw = [['主色', s.colors?.primary], ['底色', s.colors?.secondary], ...accents.map((c,i) => ['强调 ' + (i+1), c])].filter(([,c]) => c);
+  $('#sheet-title').textContent = s.name;
+  $('#sheet-body').innerHTML = `
+    <div class="sheet-cover"><img src="data/covers/${esc(s.slug)}.svg" alt="${esc(s.name)} 封面"></div>
+    <div class="sheet-title"><h3>${esc(s.name)}</h3><p class="en">${esc(s.nameEn)}</p></div>
+    <p class="desc">${esc(s.description)}</p>
+    <dl class="meta-grid"><div><dt>类型</dt><dd>${s.styleType === 'layout' ? '布局模式' : '视觉风格'}</dd></div><div><dt>场景</dt><dd>${esc(CATEGORIES[s.category] || s.category)}</dd></div></dl>
+    <div><h4>配色</h4><div class="swatches" style="margin-top:8px">${sw.map(([n,c]) => `<figure class="swatch"><i style="background:${esc(c)}"></i><figcaption>${esc(n)}<br>${esc(c)}</figcaption></figure>`).join('')}</div></div>
+    <div><h4>标签</h4><div class="card-tags" style="margin-top:8px">${(s.tags||[]).map(t => `<span>${esc(TAGS[t]||t)}</span>`).join('') || '<span>—</span>'}</div></div>
+    <div class="sheet-actions"><button class="primary" type="button" data-copy="${esc(s.slug)}">复制风格指令</button><a class="detail" href="${styleUrl(s.slug)}" target="_blank" rel="noreferrer" style="flex:1">查看原站</a></div>
+    <p class="note">本页是界面原型，不是完整规范。正式实现时应读取该风格的实际规范；这里只保存名称、说明与配色摘要。</p>`;
+  $('#sheet').showModal();
+}
+$('#sheet').addEventListener('click', e => { if (e.target === $('#sheet')) $('#sheet').close(); });
+$('#sheet-close').addEventListener('click', () => $('#sheet').close());
+document.addEventListener('click', async e => {
+  const open = e.target.closest('[data-open]');
+  if (open) { openSheet(open.dataset.open); return; }
+  const fav = e.target.closest('[data-fav]');
+  if (fav) { const slug = fav.dataset.fav; favs.has(slug) ? favs.delete(slug) : favs.add(slug); persistFavs(); render(); return; }
+  const copy = e.target.closest('[data-copy]');
+  if (copy) { const s = DATA.styles.find(x => x.slug === copy.dataset.copy); const ok = await copyText(instruction(s)); toast(ok ? `已复制「${s.name}」风格指令` : '复制失败，请手动选择'); }
+});
+document.querySelectorAll('[data-type]').forEach(btn => btn.addEventListener('click', () => {
+  state.type = btn.dataset.type; state.limit = 24;
+  document.querySelectorAll('[data-type]').forEach(b => b.setAttribute('aria-pressed', b === btn)); render();
+}));
+$('#q').addEventListener('input', e => { state.q = e.target.value.trim(); state.limit = 24; render(); });
+document.addEventListener('keydown', e => {
+  if (e.key === '/' && document.activeElement !== $('#q')) { e.preventDefault(); $('#q').focus(); }
+  if (e.key === 'Escape' && document.activeElement === $('#q')) { $('#q').value = ''; state.q = ''; render(); }
+});
+$('#sort').addEventListener('change', e => { state.sort = e.target.value; render(); });
+$('#fav-filter').addEventListener('click', e => { state.favOnly = !state.favOnly; e.currentTarget.setAttribute('aria-pressed', state.favOnly); state.limit = 24; render(); });
+$('#clear').addEventListener('click', () => {
+  state.q = ''; state.type = 'all'; state.category = 'all'; state.tags.clear(); state.favOnly = false; state.limit = 24;
+  $('#q').value = ''; $('#sort').value = 'recommend'; state.sort = 'recommend';
+  document.querySelectorAll('[data-type]').forEach(b => b.setAttribute('aria-pressed', b.dataset.type === 'all'));
+  document.querySelectorAll('[data-cat]').forEach(b => b.setAttribute('aria-pressed', b.dataset.cat === 'all'));
+  document.querySelectorAll('[data-tag]').forEach(b => b.setAttribute('aria-pressed', false));
+  $('#fav-filter').setAttribute('aria-pressed', false); render();
+});
+$('#load-more').addEventListener('click', () => { state.limit += 24; render(); });
+$('#cats').innerHTML = [['all','全部'], ...Object.entries(CATEGORIES)].map(([k,v]) => `<button class="chip" data-cat="${k}" aria-pressed="${k==='all'}">${v}</button>`).join('');
+$('#tags').innerHTML = Object.entries(TAGS).map(([k,v]) => `<button class="chip tag" data-tag="${k}" aria-pressed="false">${v}</button>`).join('');
+document.querySelectorAll('[data-cat]').forEach(btn => btn.addEventListener('click', () => {
+  state.category = btn.dataset.cat; state.limit = 24;
+  document.querySelectorAll('[data-cat]').forEach(b => b.setAttribute('aria-pressed', b === btn)); render();
+}));
+document.querySelectorAll('[data-tag]').forEach(btn => btn.addEventListener('click', () => {
+  const tag = btn.dataset.tag;
+  state.tags.has(tag) ? state.tags.delete(tag) : state.tags.add(tag);
+  btn.setAttribute('aria-pressed', state.tags.has(tag)); state.limit = 24; render();
+}));
+render();
+</script>
+</body>
+</html>
