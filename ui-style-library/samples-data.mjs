@@ -800,5 +800,135 @@ h4{font:700 clamp(22px,3.4vw,32px)/.96 Helvetica,Arial,sans-serif;letter-spacing
     verified: true,
     css: "background:#2d1b69;display:grid;place-items:center;position:relative;\n.win3{width:74%;border:3px solid #f4f4f4;background:#1a1040;padding:9px;text-align:center}\n.win3 b{display:block;font:700 11px/1.3 ui-monospace,monospace;color:#f4f4f4}\n.hp2{display:flex;justify-content:center;gap:2px;margin:7px 0}\n.hp2 i{width:7px;height:7px;background:#4a90d9}.hp2 i:nth-child(4){background:#1a1040}\n.acts2{display:flex;gap:5px;justify-content:center}\n.acts2 span{border:2px solid #f4f4f4;padding:2px 7px;font:8px/1 ui-monospace,monospace;color:#f4f4f4}\n.lv{position:absolute;top:10%;left:10%;font:8px/1 ui-monospace,monospace;color:#ffd400}",
     html: "<div class=\"lv\">LV 12</div><div class=\"win3\"><b>A wild pixel appeared!</b><div class=\"hp2\"><i></i><i></i><i></i><i></i></div><div class=\"acts2\"><span>FIGHT</span><span>RUN</span></div></div>"
+  },
+  {
+    slug: "japanese-fresh",
+    name: "日系清新风",
+    nameEn: "Japanese Fresh",
+    desc: "淡雅配色、大留白与纤细线条，轻盈治愈。",
+    meta: ["淡雅配色","大留白","细线"],
+    verified: true,
+    css: "background:#fafaf8;padding:16px 20px;display:flex;flex-direction:column;justify-content:center;gap:7px;\nsmall.k{font:7.5px/1 ui-monospace,monospace;letter-spacing:.3em;color:#9db4c8}\nh4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;letter-spacing:.03em}\n.row3{display:flex;gap:6px;margin-top:2px}\n.row3 div{flex:1;height:30px;border:1px solid #e2e6e8;border-radius:2px;display:grid;place-items:center;font:7px/1 ui-monospace,monospace;color:#9aa8b2}",
+    html: "<small class=\"k\">KURASHI · くらし</small><h4>軽やかな<br>暮らしの道具</h4><div class=\"row3\"><div>glass</div><div>linen</div><div>teapot</div></div>"
+  },
+  {
+    slug: "neon-samurai",
+    name: "霓虹武士风",
+    nameEn: "Neon Samurai",
+    desc: "刀锋锐线、书法汉字与霓虹交织，浮世绘遇见霓虹灯。",
+    meta: ["刀锋线","书法字","霓虹红"],
+    verified: true,
+    css: "background:#0a0a0a;position:relative;overflow:hidden;display:grid;place-items:center;\n.slash{position:absolute;width:140%;height:2px;background:linear-gradient(90deg,transparent,#dc2626,transparent);top:46%;transform:rotate(-18deg);box-shadow:0 0 14px #dc2626}\n.kanji{position:relative;font:400 clamp(26px,5vw,44px)/1 'Songti SC',serif;color:#dc2626;text-shadow:0 0 18px #dc262699}\n.sub{position:absolute;bottom:14%;left:0;right:0;text-align:center;font:7.5px/1 ui-monospace,monospace;letter-spacing:.32em;color:#8a8a8a}",
+    html: "<div class=\"slash\"></div><div class=\"kanji\">刃</div><div class=\"sub\">RONIN · NEO-EDO 2099</div>"
+  },
+  {
+    slug: "magic-circle",
+    name: "魔法阵风",
+    nameEn: "Magic Circle",
+    desc: "同心圆纹样、符文与金色辉光，深蓝底上的魔法感。",
+    meta: ["同心圆","符文","金色辉光"],
+    verified: true,
+    css: "background:radial-gradient(circle at 50% 50%,#1e1b4b,#0f0e2e 70%);position:relative;overflow:hidden;display:grid;place-items:center;\n.c1c{position:absolute;width:58%;aspect-ratio:1;border:1px solid #b8912f88;border-radius:50%}\n.c2c{position:absolute;width:44%;aspect-ratio:1;border:1px dashed #b8912f66;border-radius:50%}\n.c3c{position:absolute;width:30%;aspect-ratio:1;border:1px solid #b8912f99;border-radius:50%;transform:rotate(30deg)}\n.rune{position:absolute;font:11px/1 serif;color:#d9b755;letter-spacing:.5em;bottom:18%}\n.core{position:relative;text-align:center;color:#e8d29a}\n.core b{font:400 clamp(11px,1.9vw,15px)/1.2 Georgia,serif;letter-spacing:.14em}\n.core small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#a8945e}",
+    html: "<div class=\"c1c\"></div><div class=\"c2c\"></div><div class=\"c3c\"></div><div class=\"rune\">ᚦ ᛉ ᛟ ᛞ</div><div class=\"core\"><b>Circle of Binding</b><small>RANK IV</small></div>"
+  },
+  {
+    slug: "cyber-wafuu",
+    name: "赛博和风",
+    nameEn: "Cyber Wafuu",
+    desc: "和风纹样与电路金箔的数字化重构，日式赛博美学。",
+    meta: ["和风纹样","金箔","电路"],
+    verified: true,
+    css: "background:linear-gradient(160deg,#0a0a14,#1e3a5f 65%,#0a0a14);position:relative;overflow:hidden;padding:12px 16px;display:flex;flex-direction:column;justify-content:space-between;\n.seigaiha{position:absolute;inset:0;background-image:radial-gradient(circle at 50% 100%,transparent 6px,#b8912f22 7px,transparent 8px);background-size:18px 9px;opacity:.5}\n.hdr{display:flex;justify-content:space-between;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#c9a94e}\n.list3{display:flex;flex-direction:column;gap:5px}\n.list3 div{display:flex;justify-content:space-between;font:8.5px/1.4 ui-monospace,monospace;color:#9fb4cc}\n.list3 div i{font-style:normal;color:#5ce68a}.list3 div:nth-child(2) i{color:#c9a94e}.list3 div:nth-child(3) i{color:#e05a5a}",
+    html: "<div class=\"seigaiha\"></div><div class=\"hdr\"><span>和風 · 制御盤</span><span>v2.4</span></div><div class=\"list3\"><div><span>東京 拠点</span><i>稼働</i></div><div><span>京都 拠点</span><i>待機</i></div><div><span>大阪 拠点</span><i>遮断</i></div></div>"
+  },
+  {
+    slug: "steampunk",
+    name: "蒸汽朋克",
+    nameEn: "Steampunk",
+    desc: "黄铜齿轮、皮革质感与精密仪表，维多利亚机械美学。",
+    meta: ["黄铜齿轮","皮革","仪表盘"],
+    verified: true,
+    css: "background:linear-gradient(#2d1810,#4a2c1a 60%,#2d1810);position:relative;overflow:hidden;display:grid;place-items:center;\n.gear{position:absolute;border-radius:50%;border:6px dashed #a87b3a;opacity:.65}\n.g1{width:56px;height:56px;top:16%;left:14%}.g2{width:38px;height:38px;top:30%;left:30%;border-width:4px;border-color:#c9a35e}\n.plate{position:relative;background:linear-gradient(#d4c4a8,#a8895e);border:1px solid #6b4a2a;border-radius:4px;padding:9px 14px;box-shadow:inset 0 1px 0 #f0e6d2,0 6px 14px rgb(0 0 0 / .4);text-align:center}\n.plate b{font:600 10px/1.3 Georgia,serif;color:#3f2a16;letter-spacing:.1em}\n.plate small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;color:#6b4a2a;letter-spacing:.16em}",
+    html: "<div class=\"gear g1\"></div><div class=\"gear g2\"></div><div class=\"plate\"><b>MECHANICA</b><small>STEAM · 1887</small></div>"
+  },
+  {
+    slug: "pop-art",
+    name: "波普艺术",
+    nameEn: "Pop Art",
+    desc: "安迪沃霍尔式撞色与半调网点，60 年代流行文化。",
+    meta: ["撞色","半调网点","漫画感"],
+    verified: true,
+    css: "background:#ffff00;position:relative;overflow:hidden;display:grid;place-items:center;\n.dots3{position:absolute;inset:0;background-image:radial-gradient(#ff006655 2.4px,transparent 2.6px);background-size:12px 12px}\n.burst2{position:relative;background:#ff0066;border:3px solid #111;border-radius:50%;width:96px;height:96px;display:grid;place-items:center;box-shadow:5px 5px 0 #111}\n.burst2 b{font:900 17px/1 'Arial Black',system-ui;color:#fff;transform:rotate(-8deg)}\n.tag2{position:absolute;bottom:12%;right:12%;font:8px/1 ui-monospace,monospace;letter-spacing:.2em;color:#111}",
+    html: "<div class=\"dots3\"></div><div class=\"burst2\"><b>BOOM!</b></div><div class=\"tag2\">ISSUE #42</div>"
+  },
+  {
+    slug: "solarpunk",
+    name: "太阳朋克",
+    nameEn: "Solarpunk",
+    desc: "生态未来主义的明亮绿调、太阳能美学与有机形态。",
+    meta: ["明亮绿","有机形","自然科技"],
+    verified: true,
+    css: "background:linear-gradient(160deg,#f0fdf4,#d9f2e3 55%,#c9e8d4);position:relative;overflow:hidden;display:grid;place-items:center;\n.sun4{position:absolute;top:12%;right:16%;width:36px;height:36px;border-radius:50%;background:#f5c518;box-shadow:0 0 22px #f5c51899}\n.hill2{position:absolute;bottom:-8%;left:-8%;width:70%;height:44%;border-radius:50% 50% 0 0;background:#2d6a4f44}\n.hill3{position:absolute;bottom:-8%;right:-8%;width:62%;height:36%;border-radius:50% 50% 0 0;background:#40916c55}\n.txt15{position:relative;text-align:center;color:#1b4332}\n.txt15 b{font:600 clamp(12px,2vw,16px)/1.2 system-ui;letter-spacing:-.01em}\n.txt15 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#40916c}",
+    html: "<div class=\"sun4\"></div><div class=\"hill2\"></div><div class=\"hill3\"></div><div class=\"txt15\"><b>Clean tech, nature</b><small>SOLARPUNK</small></div>"
+  },
+  {
+    slug: "jrpg",
+    name: "日式RPG",
+    nameEn: "JRPG",
+    desc: "华丽边框、魔法特效与状态面板，经典日式游戏 UI。",
+    meta: ["华丽边框","状态面板","幻想风"],
+    verified: true,
+    css: "background:#1a1a2e;position:relative;overflow:hidden;display:grid;place-items:center;\n.frame2{position:relative;width:78%;border:2px solid #c9a94e;border-radius:4px;background:linear-gradient(rgba(20 30 80 / .9),rgba(10 14 40 / .95));padding:10px 12px;box-shadow:0 0 0 3px #1a1a2e,0 0 14px #c9a94e44}\n.frame2:before,.frame2:after{content:'';position:absolute;width:8px;height:8px;border:2px solid #e8d29a;top:-4px}\n.frame2:before{left:-4px;border-right:0;border-bottom:0}.frame2:after{right:-4px;border-left:0;border-bottom:0}\n.frame2 b{display:block;font:600 11px/1.3 system-ui;color:#eef2ff;letter-spacing:.06em}\n.stats2{display:flex;gap:10px;margin-top:7px}\n.stats2 div{font:7px/1 ui-monospace,monospace;color:#9fb0dd}.stats2 div b{display:block;font-size:9px;color:#e8d29a;margin-top:2px}\n.quest{display:inline-block;margin-top:8px;padding:3px 10px;border:1px solid #c9a94e;border-radius:2px;color:#e8d29a;font:7.5px/1 ui-monospace,monospace;letter-spacing:.14em}",
+    html: "<div class=\"frame2\"><b>Start Quest</b><div class=\"stats2\"><div>HP<b>240</b></div><div>MP<b>86</b></div><div>LV<b>12</b></div></div><span class=\"quest\">▶ ADVENTURE</span></div>"
+  },
+  {
+    slug: "asymmetric-grid",
+    name: "非对称网格",
+    nameEn: "Asymmetric Grid",
+    desc: "刻意失衡的栏宽比例，用不对称制造张力。",
+    meta: ["失衡比例","大小对撞","编辑感"],
+    verified: true,
+    css: "background:#fff;display:grid;grid-template-columns:1.8fr 1fr;grid-template-rows:1.4fr 1fr;gap:5px;padding:5px;height:100%;\n.a1{grid-row:span 2;background:#0f0f0f;color:#fff;padding:11px;display:flex;flex-direction:column;justify-content:flex-end}\n.a1 b{font:600 13px/1.1 system-ui;letter-spacing:-.02em}\n.a2{background:#f0f0f0;display:grid;place-items:center;font:8px/1 ui-monospace,monospace;color:#666}\n.a3{background:#e63946}",
+    html: "<div class=\"a1\"><b>Asymmetric</b></div><div class=\"a2\">02</div><div class=\"a3\"></div>"
+  },
+  {
+    slug: "parallax-sections",
+    name: "视差滚动",
+    nameEn: "Parallax Sections",
+    desc: "多层景深错位滚动，营造空间纵深感。",
+    meta: ["多层景深","错位","纵深感"],
+    verified: true,
+    css: "background:linear-gradient(#cfe3f2,#eef5fb 60%,#dfeaf5);position:relative;overflow:hidden;\n.l1{position:absolute;bottom:0;left:-6%;width:70%;height:38%;background:#a8c4dc;border-radius:50% 50% 0 0;opacity:.75}\n.l2{position:absolute;bottom:0;right:-8%;width:60%;height:28%;background:#7f9fbd;border-radius:50% 50% 0 0;opacity:.85}\n.l3{position:absolute;bottom:0;left:16%;width:46%;height:18%;background:#1e3a5f;border-radius:50% 50% 0 0}\n.txt16{position:absolute;top:16%;left:10%;color:#1e3a5f}\n.txt16 b{font:600 clamp(12px,2vw,17px)/1.2 system-ui;letter-spacing:-.01em}\n.txt16 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#6b85a0}",
+    html: "<div class=\"l1\"></div><div class=\"l2\"></div><div class=\"l3\"></div><div class=\"txt16\"><b>Depth by layers</b><small>PARALLAX 03</small></div>"
+  },
+  {
+    slug: "warm-dashboard",
+    name: "暖色仪表盘",
+    nameEn: "Warm Dashboard",
+    desc: "珊瑚赤陶背景配奶油白卡片，温暖又专业的数据界面。",
+    meta: ["赤陶背景","奶油卡片","柔和阴影"],
+    verified: true,
+    css: "background:#d4a088;padding:11px;display:flex;flex-direction:column;gap:6px;\n.cardk{background:#faf8f5;border-radius:7px;padding:8px 10px;box-shadow:0 4px 10px rgb(120 80 50 / .18)}\n.cardk small{font:7px/1 ui-monospace,monospace;color:#a89880;letter-spacing:.14em}\n.cardk b{display:block;margin-top:3px;font:650 15px/1 system-ui;color:#3f3428}\n.cardk i{font-style:normal;font-size:7.5px;color:#4a9b6a;margin-left:4px}\n.row4{display:flex;gap:6px}\n.row4 .cardk{flex:1}\n.bars3{display:flex;align-items:flex-end;gap:3px;height:24px;margin-top:5px}\n.bars3 i{flex:1;background:#d4a088;border-radius:1px 1px 0 0}",
+    html: "<div class=\"cardk\"><small>TOTAL VIEWS</small><b>27.6m <i>+12%</i></b><div class=\"bars3\"><i style=\"height:40%\"></i><i style=\"height:66%\"></i><i style=\"height:52%\"></i><i style=\"height:84%\"></i><i style=\"height:70%\"></i><i style=\"height:92%\"></i></div></div><div class=\"row4\"><div class=\"cardk\"><small>ORDERS</small><b>1,284</b></div><div class=\"cardk\"><small>UPTIME</small><b>99.9%</b></div></div>"
+  },
+  {
+    slug: "neon-gradient",
+    name: "霓虹渐变",
+    nameEn: "Neon Gradient",
+    desc: "深色底上的鲜艳渐变卡片与粗彩边，年轻科技感。",
+    meta: ["深色底","渐变卡片","粗彩边"],
+    verified: true,
+    css: "background:#0f0a1e;padding:14px;display:grid;place-items:center;\n.gc{width:74%;border-radius:12px;padding:2px;background:linear-gradient(135deg,#a855f7,#ec4899,#f59e0b)}\n.gc2{border-radius:10px;background:#150d28;padding:13px;text-align:center}\n.gc2 b{display:block;font:700 14px/1.2 system-ui;background:linear-gradient(90deg,#a855f7,#ec4899);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:-.02em}\n.gc2 small{display:block;margin-top:5px;font:7.5px/1.5 ui-monospace,monospace;letter-spacing:.18em;color:#8b7aa8}\n.gc2 span{display:inline-block;margin-top:9px;padding:4px 12px;border-radius:999px;background:linear-gradient(90deg,#a855f7,#ec4899);color:#fff;font-size:8px;font-weight:600}",
+    html: "<div class=\"gc\"><div class=\"gc2\"><b>Neon Gradient</b><small>GLOW · DEPTH · COLOR</small><br><span>Start</span></div></div>"
+  },
+  {
+    slug: "liquid-glass",
+    name: "液态玻璃",
+    nameEn: "Liquid Glass",
+    desc: "中心清晰、边缘折光的玻璃质感，浮在内容之上。",
+    meta: ["折光","白色高光","浮层"],
+    verified: true,
+    css: "background:linear-gradient(160deg,#202929,#3a4a4a 50%,#202929);position:relative;overflow:hidden;display:grid;place-items:center;\n.orb{position:absolute;width:56%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle at 34% 30%,#c9e8e0aa,#4a6b66 60%,transparent 72%);filter:blur(2px)}\n.pane{position:relative;width:66%;border-radius:18px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.5);box-shadow:inset 0 1px 0 rgba(255,255,255,.8),0 8px 22px rgb(0 0 0 / .35);backdrop-filter:blur(10px);padding:12px 14px;text-align:center}\n.pane b{font:400 clamp(11px,1.9vw,15px)/1.3 'Songti SC',Georgia,serif;color:#f3f2ed;letter-spacing:.06em}\n.pane small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:rgba(255,255,255,.7)}",
+    html: "<div class=\"orb\"></div><div class=\"pane\"><b>液态 玻璃</b><small>0164°02′ N · 03°</small></div>"
   }
 ];

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>风格样板册 · 73 个真实风格</title>
+<title>风格样板册 · 86 个真实风格</title>
 <style>
 *{box-sizing:border-box}body{margin:0;background:#f6f6f4;color:#16181c;font:14px/1.6 system-ui,-apple-system,'Segoe UI','Microsoft YaHei',sans-serif;-webkit-font-smoothing:antialiased}
 h1,h2,h3,p{margin:0}a{color:inherit}button{font:inherit;color:inherit;cursor:pointer}
@@ -560,17 +560,111 @@ h4 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter
 .acts2{display:flex;gap:5px;justify-content:center}
 .acts2 span{border:2px solid #f4f4f4;padding:2px 7px;font:8px/1 ui-monospace,monospace;color:#f4f4f4}
 .lv{position:absolute;top:10%;left:10%;font:8px/1 ui-monospace,monospace;color:#ffd400}}
+/* japanese-fresh — Japanese Fresh */
+.s-japanese-fresh{background:#fafaf8;padding:16px 20px;display:flex;flex-direction:column;justify-content:center;gap:7px;
+small.k{font:7.5px/1 ui-monospace,monospace;letter-spacing:.3em;color:#9db4c8}
+h4{font:400 clamp(13px,2.2vw,18px)/1.25 Georgia,'Songti SC',serif;color:#40525f;letter-spacing:.03em}
+.row3{display:flex;gap:6px;margin-top:2px}
+.row3 div{flex:1;height:30px;border:1px solid #e2e6e8;border-radius:2px;display:grid;place-items:center;font:7px/1 ui-monospace,monospace;color:#9aa8b2}}
+/* neon-samurai — Neon Samurai */
+.s-neon-samurai{background:#0a0a0a;position:relative;overflow:hidden;display:grid;place-items:center;
+.slash{position:absolute;width:140%;height:2px;background:linear-gradient(90deg,transparent,#dc2626,transparent);top:46%;transform:rotate(-18deg);box-shadow:0 0 14px #dc2626}
+.kanji{position:relative;font:400 clamp(26px,5vw,44px)/1 'Songti SC',serif;color:#dc2626;text-shadow:0 0 18px #dc262699}
+.sub{position:absolute;bottom:14%;left:0;right:0;text-align:center;font:7.5px/1 ui-monospace,monospace;letter-spacing:.32em;color:#8a8a8a}}
+/* magic-circle — Magic Circle */
+.s-magic-circle{background:radial-gradient(circle at 50% 50%,#1e1b4b,#0f0e2e 70%);position:relative;overflow:hidden;display:grid;place-items:center;
+.c1c{position:absolute;width:58%;aspect-ratio:1;border:1px solid #b8912f88;border-radius:50%}
+.c2c{position:absolute;width:44%;aspect-ratio:1;border:1px dashed #b8912f66;border-radius:50%}
+.c3c{position:absolute;width:30%;aspect-ratio:1;border:1px solid #b8912f99;border-radius:50%;transform:rotate(30deg)}
+.rune{position:absolute;font:11px/1 serif;color:#d9b755;letter-spacing:.5em;bottom:18%}
+.core{position:relative;text-align:center;color:#e8d29a}
+.core b{font:400 clamp(11px,1.9vw,15px)/1.2 Georgia,serif;letter-spacing:.14em}
+.core small{display:block;margin-top:4px;font:7px/1 ui-monospace,monospace;letter-spacing:.24em;color:#a8945e}}
+/* cyber-wafuu — Cyber Wafuu */
+.s-cyber-wafuu{background:linear-gradient(160deg,#0a0a14,#1e3a5f 65%,#0a0a14);position:relative;overflow:hidden;padding:12px 16px;display:flex;flex-direction:column;justify-content:space-between;
+.seigaiha{position:absolute;inset:0;background-image:radial-gradient(circle at 50% 100%,transparent 6px,#b8912f22 7px,transparent 8px);background-size:18px 9px;opacity:.5}
+.hdr{display:flex;justify-content:space-between;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#c9a94e}
+.list3{display:flex;flex-direction:column;gap:5px}
+.list3 div{display:flex;justify-content:space-between;font:8.5px/1.4 ui-monospace,monospace;color:#9fb4cc}
+.list3 div i{font-style:normal;color:#5ce68a}.list3 div:nth-child(2) i{color:#c9a94e}.list3 div:nth-child(3) i{color:#e05a5a}}
+/* steampunk — Steampunk */
+.s-steampunk{background:linear-gradient(#2d1810,#4a2c1a 60%,#2d1810);position:relative;overflow:hidden;display:grid;place-items:center;
+.gear{position:absolute;border-radius:50%;border:6px dashed #a87b3a;opacity:.65}
+.g1{width:56px;height:56px;top:16%;left:14%}.g2{width:38px;height:38px;top:30%;left:30%;border-width:4px;border-color:#c9a35e}
+.plate{position:relative;background:linear-gradient(#d4c4a8,#a8895e);border:1px solid #6b4a2a;border-radius:4px;padding:9px 14px;box-shadow:inset 0 1px 0 #f0e6d2,0 6px 14px rgb(0 0 0 / .4);text-align:center}
+.plate b{font:600 10px/1.3 Georgia,serif;color:#3f2a16;letter-spacing:.1em}
+.plate small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;color:#6b4a2a;letter-spacing:.16em}}
+/* pop-art — Pop Art */
+.s-pop-art{background:#ffff00;position:relative;overflow:hidden;display:grid;place-items:center;
+.dots3{position:absolute;inset:0;background-image:radial-gradient(#ff006655 2.4px,transparent 2.6px);background-size:12px 12px}
+.burst2{position:relative;background:#ff0066;border:3px solid #111;border-radius:50%;width:96px;height:96px;display:grid;place-items:center;box-shadow:5px 5px 0 #111}
+.burst2 b{font:900 17px/1 'Arial Black',system-ui;color:#fff;transform:rotate(-8deg)}
+.tag2{position:absolute;bottom:12%;right:12%;font:8px/1 ui-monospace,monospace;letter-spacing:.2em;color:#111}}
+/* solarpunk — Solarpunk */
+.s-solarpunk{background:linear-gradient(160deg,#f0fdf4,#d9f2e3 55%,#c9e8d4);position:relative;overflow:hidden;display:grid;place-items:center;
+.sun4{position:absolute;top:12%;right:16%;width:36px;height:36px;border-radius:50%;background:#f5c518;box-shadow:0 0 22px #f5c51899}
+.hill2{position:absolute;bottom:-8%;left:-8%;width:70%;height:44%;border-radius:50% 50% 0 0;background:#2d6a4f44}
+.hill3{position:absolute;bottom:-8%;right:-8%;width:62%;height:36%;border-radius:50% 50% 0 0;background:#40916c55}
+.txt15{position:relative;text-align:center;color:#1b4332}
+.txt15 b{font:600 clamp(12px,2vw,16px)/1.2 system-ui;letter-spacing:-.01em}
+.txt15 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#40916c}}
+/* jrpg — JRPG */
+.s-jrpg{background:#1a1a2e;position:relative;overflow:hidden;display:grid;place-items:center;
+.frame2{position:relative;width:78%;border:2px solid #c9a94e;border-radius:4px;background:linear-gradient(rgba(20 30 80 / .9),rgba(10 14 40 / .95));padding:10px 12px;box-shadow:0 0 0 3px #1a1a2e,0 0 14px #c9a94e44}
+.frame2:before,.frame2:after{content:'';position:absolute;width:8px;height:8px;border:2px solid #e8d29a;top:-4px}
+.frame2:before{left:-4px;border-right:0;border-bottom:0}.frame2:after{right:-4px;border-left:0;border-bottom:0}
+.frame2 b{display:block;font:600 11px/1.3 system-ui;color:#eef2ff;letter-spacing:.06em}
+.stats2{display:flex;gap:10px;margin-top:7px}
+.stats2 div{font:7px/1 ui-monospace,monospace;color:#9fb0dd}.stats2 div b{display:block;font-size:9px;color:#e8d29a;margin-top:2px}
+.quest{display:inline-block;margin-top:8px;padding:3px 10px;border:1px solid #c9a94e;border-radius:2px;color:#e8d29a;font:7.5px/1 ui-monospace,monospace;letter-spacing:.14em}}
+/* asymmetric-grid — Asymmetric Grid */
+.s-asymmetric-grid{background:#fff;display:grid;grid-template-columns:1.8fr 1fr;grid-template-rows:1.4fr 1fr;gap:5px;padding:5px;height:100%;
+.a1{grid-row:span 2;background:#0f0f0f;color:#fff;padding:11px;display:flex;flex-direction:column;justify-content:flex-end}
+.a1 b{font:600 13px/1.1 system-ui;letter-spacing:-.02em}
+.a2{background:#f0f0f0;display:grid;place-items:center;font:8px/1 ui-monospace,monospace;color:#666}
+.a3{background:#e63946}}
+/* parallax-sections — Parallax Sections */
+.s-parallax-sections{background:linear-gradient(#cfe3f2,#eef5fb 60%,#dfeaf5);position:relative;overflow:hidden;
+.l1{position:absolute;bottom:0;left:-6%;width:70%;height:38%;background:#a8c4dc;border-radius:50% 50% 0 0;opacity:.75}
+.l2{position:absolute;bottom:0;right:-8%;width:60%;height:28%;background:#7f9fbd;border-radius:50% 50% 0 0;opacity:.85}
+.l3{position:absolute;bottom:0;left:16%;width:46%;height:18%;background:#1e3a5f;border-radius:50% 50% 0 0}
+.txt16{position:absolute;top:16%;left:10%;color:#1e3a5f}
+.txt16 b{font:600 clamp(12px,2vw,17px)/1.2 system-ui;letter-spacing:-.01em}
+.txt16 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter-spacing:.2em;color:#6b85a0}}
+/* warm-dashboard — Warm Dashboard */
+.s-warm-dashboard{background:#d4a088;padding:11px;display:flex;flex-direction:column;gap:6px;
+.cardk{background:#faf8f5;border-radius:7px;padding:8px 10px;box-shadow:0 4px 10px rgb(120 80 50 / .18)}
+.cardk small{font:7px/1 ui-monospace,monospace;color:#a89880;letter-spacing:.14em}
+.cardk b{display:block;margin-top:3px;font:650 15px/1 system-ui;color:#3f3428}
+.cardk i{font-style:normal;font-size:7.5px;color:#4a9b6a;margin-left:4px}
+.row4{display:flex;gap:6px}
+.row4 .cardk{flex:1}
+.bars3{display:flex;align-items:flex-end;gap:3px;height:24px;margin-top:5px}
+.bars3 i{flex:1;background:#d4a088;border-radius:1px 1px 0 0}}
+/* neon-gradient — Neon Gradient */
+.s-neon-gradient{background:#0f0a1e;padding:14px;display:grid;place-items:center;
+.gc{width:74%;border-radius:12px;padding:2px;background:linear-gradient(135deg,#a855f7,#ec4899,#f59e0b)}
+.gc2{border-radius:10px;background:#150d28;padding:13px;text-align:center}
+.gc2 b{display:block;font:700 14px/1.2 system-ui;background:linear-gradient(90deg,#a855f7,#ec4899);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:-.02em}
+.gc2 small{display:block;margin-top:5px;font:7.5px/1.5 ui-monospace,monospace;letter-spacing:.18em;color:#8b7aa8}
+.gc2 span{display:inline-block;margin-top:9px;padding:4px 12px;border-radius:999px;background:linear-gradient(90deg,#a855f7,#ec4899);color:#fff;font-size:8px;font-weight:600}}
+/* liquid-glass — Liquid Glass */
+.s-liquid-glass{background:linear-gradient(160deg,#202929,#3a4a4a 50%,#202929);position:relative;overflow:hidden;display:grid;place-items:center;
+.orb{position:absolute;width:56%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle at 34% 30%,#c9e8e0aa,#4a6b66 60%,transparent 72%);filter:blur(2px)}
+.pane{position:relative;width:66%;border-radius:18px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.5);box-shadow:inset 0 1px 0 rgba(255,255,255,.8),0 8px 22px rgb(0 0 0 / .35);backdrop-filter:blur(10px);padding:12px 14px;text-align:center}
+.pane b{font:400 clamp(11px,1.9vw,15px)/1.3 'Songti SC',Georgia,serif;color:#f3f2ed;letter-spacing:.06em}
+.pane small{display:block;margin-top:3px;font:7px/1 ui-monospace,monospace;letter-spacing:.22em;color:rgba(255,255,255,.7)}}
 @media(max-width:700px){.wrap{width:calc(100% - 32px)}.hint{display:none}.hero{padding-top:30px}.grid{grid-template-columns:1fr;gap:16px}}
 </style>
 </head>
 <body>
-<header class="top"><div class="wrap top-in"><span class="logo"><i>S</i>风格样板册</span><span class="spacer"></span><span class="hint">73 个真实样板 · 纯 CSS 绘制 · 不依赖任何图片</span></div></header>
+<header class="top"><div class="wrap top-in"><span class="logo"><i>S</i>风格样板册</span><span class="spacer"></span><span class="hint">86 个真实样板 · 纯 CSS 绘制 · 不依赖任何图片</span></div></header>
 <main class="wrap">
   <div class="hero"><p class="eyebrow">Style samples / no images</p><h1>把风格画出来，而不只是描述</h1><p>每个预览都是现场渲染的真实界面片段：布局、配色、字体关系与质感。全部由 CSS 绘制，断网、禁脚本或屏蔽图片时依然完整可见。每张卡片本身就是可复制的实现参照。</p>
-  <nav class="toc" aria-label="分类"><a href="#g-expressive">创意表达<b>25</b></a><a href="#g-minimal">极简<b>6</b></a><a href="#g-modern">现代<b>13</b></a><a href="#g-retro">复古<b>16</b></a><a href="#g-layout">布局模式<b>13</b></a></nav>
+  <nav class="toc" aria-label="分类"><a href="#g-expressive">创意表达<b>31</b></a><a href="#g-minimal">极简<b>7</b></a><a href="#g-modern">现代<b>16</b></a><a href="#g-retro">复古<b>17</b></a><a href="#g-layout">布局模式<b>15</b></a></nav>
   </div>
   <section class="group" id="g-expressive">
-    <div class="group-head"><h2>创意表达</h2><span class="mono">25</span></div>
+    <div class="group-head"><h2>创意表达</h2><span class="mono">31</span></div>
     <div class="grid">
 <article class="card" id="s-neo-brutalist" data-slug="neo-brutalist">
       <div class="stage s-neo-brutalist"><div class="frame"><b>BRUTAL</b><small>RAW · BOLD · UNAPOLOGETIC</small></div><div class="chips"><i style="background:#ff006e"></i><i style="background:#ccff00"></i><i style="background:#00d9ff"></i><i style="background:#000"></i></div></div>
@@ -722,10 +816,46 @@ h4 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter
       <p class="desc">深色霓虹、全息投影与锐利几何，未来动漫界面。</p>
       <div class="meta"><span>霓虹光效</span><span>全息感</span><span>锐利几何</span></div>
     </article>
+<article class="card" id="s-neon-samurai" data-slug="neon-samurai">
+      <div class="stage s-neon-samurai"><div class="slash"></div><div class="kanji">刃</div><div class="sub">RONIN · NEO-EDO 2099</div></div>
+      <div class="label"><h3>霓虹武士风</h3><em>Neon Samurai</em></div>
+      <p class="desc">刀锋锐线、书法汉字与霓虹交织，浮世绘遇见霓虹灯。</p>
+      <div class="meta"><span>刀锋线</span><span>书法字</span><span>霓虹红</span></div>
+    </article>
+<article class="card" id="s-magic-circle" data-slug="magic-circle">
+      <div class="stage s-magic-circle"><div class="c1c"></div><div class="c2c"></div><div class="c3c"></div><div class="rune">ᚦ ᛉ ᛟ ᛞ</div><div class="core"><b>Circle of Binding</b><small>RANK IV</small></div></div>
+      <div class="label"><h3>魔法阵风</h3><em>Magic Circle</em></div>
+      <p class="desc">同心圆纹样、符文与金色辉光，深蓝底上的魔法感。</p>
+      <div class="meta"><span>同心圆</span><span>符文</span><span>金色辉光</span></div>
+    </article>
+<article class="card" id="s-cyber-wafuu" data-slug="cyber-wafuu">
+      <div class="stage s-cyber-wafuu"><div class="seigaiha"></div><div class="hdr"><span>和風 · 制御盤</span><span>v2.4</span></div><div class="list3"><div><span>東京 拠点</span><i>稼働</i></div><div><span>京都 拠点</span><i>待機</i></div><div><span>大阪 拠点</span><i>遮断</i></div></div></div>
+      <div class="label"><h3>赛博和风</h3><em>Cyber Wafuu</em></div>
+      <p class="desc">和风纹样与电路金箔的数字化重构，日式赛博美学。</p>
+      <div class="meta"><span>和风纹样</span><span>金箔</span><span>电路</span></div>
+    </article>
+<article class="card" id="s-pop-art" data-slug="pop-art">
+      <div class="stage s-pop-art"><div class="dots3"></div><div class="burst2"><b>BOOM!</b></div><div class="tag2">ISSUE #42</div></div>
+      <div class="label"><h3>波普艺术</h3><em>Pop Art</em></div>
+      <p class="desc">安迪沃霍尔式撞色与半调网点，60 年代流行文化。</p>
+      <div class="meta"><span>撞色</span><span>半调网点</span><span>漫画感</span></div>
+    </article>
+<article class="card" id="s-jrpg" data-slug="jrpg">
+      <div class="stage s-jrpg"><div class="frame2"><b>Start Quest</b><div class="stats2"><div>HP<b>240</b></div><div>MP<b>86</b></div><div>LV<b>12</b></div></div><span class="quest">▶ ADVENTURE</span></div></div>
+      <div class="label"><h3>日式RPG</h3><em>JRPG</em></div>
+      <p class="desc">华丽边框、魔法特效与状态面板，经典日式游戏 UI。</p>
+      <div class="meta"><span>华丽边框</span><span>状态面板</span><span>幻想风</span></div>
+    </article>
+<article class="card" id="s-neon-gradient" data-slug="neon-gradient">
+      <div class="stage s-neon-gradient"><div class="gc"><div class="gc2"><b>Neon Gradient</b><small>GLOW · DEPTH · COLOR</small><br><span>Start</span></div></div></div>
+      <div class="label"><h3>霓虹渐变</h3><em>Neon Gradient</em></div>
+      <p class="desc">深色底上的鲜艳渐变卡片与粗彩边，年轻科技感。</p>
+      <div class="meta"><span>深色底</span><span>渐变卡片</span><span>粗彩边</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-minimal">
-    <div class="group-head"><h2>极简</h2><span class="mono">6</span></div>
+    <div class="group-head"><h2>极简</h2><span class="mono">7</span></div>
     <div class="grid">
 <article class="card" id="s-editorial" data-slug="editorial">
       <div class="stage s-editorial"><div class="kicker"><span>The Quarterly</span><span>No. 14</span></div><h4>On the quiet<br>architecture of type</h4><div class="rule"></div><div class="cols">衬线标题与无衬线正文构成节奏，留白承担分层。栏宽控制在可读区间，让页面像一本摊开的杂志。</div></div>
@@ -763,10 +893,16 @@ h4 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter
       <p class="desc">极简留白、精致圆角与克制配色，突出产品本身。</p>
       <div class="meta"><span>大留白</span><span>细腻圆角</span><span>SF 质感</span></div>
     </article>
+<article class="card" id="s-japanese-fresh" data-slug="japanese-fresh">
+      <div class="stage s-japanese-fresh"><small class="k">KURASHI · くらし</small><h4>軽やかな<br>暮らしの道具</h4><div class="row3"><div>glass</div><div>linen</div><div>teapot</div></div></div>
+      <div class="label"><h3>日系清新风</h3><em>Japanese Fresh</em></div>
+      <p class="desc">淡雅配色、大留白与纤细线条，轻盈治愈。</p>
+      <div class="meta"><span>淡雅配色</span><span>大留白</span><span>细线</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-modern">
-    <div class="group-head"><h2>现代</h2><span class="mono">13</span></div>
+    <div class="group-head"><h2>现代</h2><span class="mono">16</span></div>
     <div class="grid">
 <article class="card" id="s-neumorphism" data-slug="neumorphism">
       <div class="stage s-neumorphism"><div class="pad"><b>Neumorphism</b><div class="knob">KNOB</div></div></div>
@@ -846,10 +982,28 @@ h4 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter
       <p class="desc">半透明对话框、角色立绘与选项按钮，沉浸式叙事。</p>
       <div class="meta"><span>对话框</span><span>选项按钮</span><span>渐变底</span></div>
     </article>
+<article class="card" id="s-solarpunk" data-slug="solarpunk">
+      <div class="stage s-solarpunk"><div class="sun4"></div><div class="hill2"></div><div class="hill3"></div><div class="txt15"><b>Clean tech, nature</b><small>SOLARPUNK</small></div></div>
+      <div class="label"><h3>太阳朋克</h3><em>Solarpunk</em></div>
+      <p class="desc">生态未来主义的明亮绿调、太阳能美学与有机形态。</p>
+      <div class="meta"><span>明亮绿</span><span>有机形</span><span>自然科技</span></div>
+    </article>
+<article class="card" id="s-warm-dashboard" data-slug="warm-dashboard">
+      <div class="stage s-warm-dashboard"><div class="cardk"><small>TOTAL VIEWS</small><b>27.6m <i>+12%</i></b><div class="bars3"><i style="height:40%"></i><i style="height:66%"></i><i style="height:52%"></i><i style="height:84%"></i><i style="height:70%"></i><i style="height:92%"></i></div></div><div class="row4"><div class="cardk"><small>ORDERS</small><b>1,284</b></div><div class="cardk"><small>UPTIME</small><b>99.9%</b></div></div></div>
+      <div class="label"><h3>暖色仪表盘</h3><em>Warm Dashboard</em></div>
+      <p class="desc">珊瑚赤陶背景配奶油白卡片，温暖又专业的数据界面。</p>
+      <div class="meta"><span>赤陶背景</span><span>奶油卡片</span><span>柔和阴影</span></div>
+    </article>
+<article class="card" id="s-liquid-glass" data-slug="liquid-glass">
+      <div class="stage s-liquid-glass"><div class="orb"></div><div class="pane"><b>液态 玻璃</b><small>0164°02′ N · 03°</small></div></div>
+      <div class="label"><h3>液态玻璃</h3><em>Liquid Glass</em></div>
+      <p class="desc">中心清晰、边缘折光的玻璃质感，浮在内容之上。</p>
+      <div class="meta"><span>折光</span><span>白色高光</span><span>浮层</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-retro">
-    <div class="group-head"><h2>复古</h2><span class="mono">16</span></div>
+    <div class="group-head"><h2>复古</h2><span class="mono">17</span></div>
     <div class="grid">
 <article class="card" id="s-retro-vintage" data-slug="retro-vintage">
       <div class="stage s-retro-vintage"><div class="frame"><b>Vintage</b><small>EST · 1954</small></div><div class="stars">✦ ✦ ✦</div></div>
@@ -947,10 +1101,16 @@ h4 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter
       <p class="desc">8-bit 像素角色与游戏 UI，怀旧又可爱。</p>
       <div class="meta"><span>8-bit</span><span>游戏 UI</span><span>Q 版</span></div>
     </article>
+<article class="card" id="s-steampunk" data-slug="steampunk">
+      <div class="stage s-steampunk"><div class="gear g1"></div><div class="gear g2"></div><div class="plate"><b>MECHANICA</b><small>STEAM · 1887</small></div></div>
+      <div class="label"><h3>蒸汽朋克</h3><em>Steampunk</em></div>
+      <p class="desc">黄铜齿轮、皮革质感与精密仪表，维多利亚机械美学。</p>
+      <div class="meta"><span>黄铜齿轮</span><span>皮革</span><span>仪表盘</span></div>
+    </article>
     </div>
   </section>
   <section class="group" id="g-layout">
-    <div class="group-head"><h2>布局模式</h2><span class="mono">13</span></div>
+    <div class="group-head"><h2>布局模式</h2><span class="mono">15</span></div>
     <div class="grid">
 <article class="card" id="s-bento-grid" data-slug="bento-grid">
       <div class="stage s-bento-grid"><div class="b1">Bento</div><div class="b2">1</div><div class="b3">2</div><div class="b4">3</div></div>
@@ -1030,9 +1190,21 @@ h4 small{display:block;margin-top:4px;font:7.5px/1 ui-monospace,monospace;letter
       <p class="desc">侧边导航加指标卡与图表区，后台系统的标准骨架。</p>
       <div class="meta"><span>指标卡</span><span>图表区</span><span>侧栏</span></div>
     </article>
+<article class="card" id="s-asymmetric-grid" data-slug="asymmetric-grid">
+      <div class="stage s-asymmetric-grid"><div class="a1"><b>Asymmetric</b></div><div class="a2">02</div><div class="a3"></div></div>
+      <div class="label"><h3>非对称网格</h3><em>Asymmetric Grid</em></div>
+      <p class="desc">刻意失衡的栏宽比例，用不对称制造张力。</p>
+      <div class="meta"><span>失衡比例</span><span>大小对撞</span><span>编辑感</span></div>
+    </article>
+<article class="card" id="s-parallax-sections" data-slug="parallax-sections">
+      <div class="stage s-parallax-sections"><div class="l1"></div><div class="l2"></div><div class="l3"></div><div class="txt16"><b>Depth by layers</b><small>PARALLAX 03</small></div></div>
+      <div class="label"><h3>视差滚动</h3><em>Parallax Sections</em></div>
+      <p class="desc">多层景深错位滚动，营造空间纵深感。</p>
+      <div class="meta"><span>多层景深</span><span>错位</span><span>纵深感</span></div>
+    </article>
     </div>
   </section>
 </main>
-<footer class="foot wrap"><span>风格样板册 · 73 / 151 个风格已手写 · 纯 CSS，可离线打开</span><span>剩余 78 个风格待补齐</span></footer>
+<footer class="foot wrap"><span>风格样板册 · 86 / 151 个风格已手写 · 纯 CSS，可离线打开</span><span>剩余 65 个风格待补齐</span></footer>
 </body>
 </html>
